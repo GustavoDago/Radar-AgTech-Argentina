@@ -19,6 +19,11 @@ segment: mega-tambos, frigorificos-exportadores
 - **Necesidad Tecnológica:** El cumplimiento de la normativa UE de libre deforestación exige una auditoría granular del origen del animal, imposible de escalar manualmente.
 - **Acción:** Reunión con gerentes de calidad de frigoríficos exportadores para demostrar auditoría automatizada de caravanas RFID sincronizadas con el [[DT-e]].
 
+### 3. Cuenca Villa María (Córdoba)
+- **Perfil:** Hub de servicios agrotecnológicos y sede de **TodoLáctea**. Concentra tambos de escala que están migrando hacia el modelo *Beef on Dairy*.
+- **Necesidad Tecnológica:** Demanda de dashboards que integren datos genéticos con trazabilidad individual para optimizar el valor de la carne producida en el tambo.
+- **Acción:** Presencia en TodoLáctea 2026 para captar leads de productores de punta en la zona de influencia (James Craik, Oncativo).
+
 ## Frigoríficos del Consorcio ABC (Targets)
 - **Swift (Rosario):** Planta con alta capacidad de faena y foco exportador.
 - **La Anónima (Salto/Trenque Lauquen):** Líder en trazabilidad y calidad para exportación.
