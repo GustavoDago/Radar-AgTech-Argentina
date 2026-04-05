@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "8c8b7717a9a5863f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e517403503205510",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cdb6e4a9613c2e5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8691caec15bcdb84",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d2d9b187b31d594",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dfd1512ecc8b090",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "62001b23a0ab1c49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "7a19e0dfe174d37a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0201a5c109454881",
+    "type": "split",
+    "children": [
+      {
+        "id": "d19520272a21dce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7622193100fc50f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/01 Targets/Zonas Núcleo Adaptación Tecnológica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Zonas Núcleo Adaptación Tecnológica"
+            }
+          },
+          {
+            "id": "e2d48f93bf8714b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/01 Targets/Zonas Núcleo Adaptación Tecnológica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Zonas Núcleo Adaptación Tecnológica"
+            }
+          },
+          {
+            "id": "ef936f8747c42806",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "7ec1d758e3567811",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "2243d772dbc41c46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/01 Targets/Zonas Núcleo Adaptación Tecnológica.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Zonas Núcleo Adaptación Tecnológica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "5cdb6e4a9613c2e5",
+  "lastOpenFiles": [
+    "wiki/03 Pain Points/Pain Points Trazabilidad Electrónica.md",
+    "wiki/01 Targets/Zonas Núcleo Adaptación Tecnológica.md",
+    "wiki/03 Pain Points/Pain Points de Trazabilidad.md",
+    "wiki/04 Daily/2026-04-04.md"
+  ]
+}
