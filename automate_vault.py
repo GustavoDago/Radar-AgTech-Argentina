@@ -4,10 +4,10 @@ from datetime import datetime
 from scraper import scrape_feeds, scrape_boletin_oficial, save_raw
 
 # Directorios de la Wiki
-DAILY_DIR = "wiki/04 Daily"
-TARGETS_DIR = "wiki/01 Targets"
-COMPLIANCE_DIR = "wiki/02 Compliance"
-PAIN_POINTS_DIR = "wiki/03 Pain Points"
+DAILY_DIR = "wiki/daily"
+ENTITIES_DIR = "wiki/entities"
+CONCEPTS_DIR = "wiki/concepts"
+OPPORTUNITIES_DIR = "wiki/opportunities"
 
 def create_daily_note(data):
     os.makedirs(DAILY_DIR, exist_ok=True)
@@ -31,9 +31,9 @@ def create_daily_note(data):
             # Extraer posibles backlinks basados en palabras clave
             backlinks = []
             if "841/2025" in entry["title"] or "841/2025" in entry["content"]:
-                backlinks.append("[[Resolución SENASA 841-2025]]")
+                backlinks.append("[[Resolucion SENASA 841-2025]]")
             if any(kw in (entry["title"] + entry["content"]).lower() for kw in ["tambo", "leche", "estabulado"]):
-                backlinks.append("[[Zonas Núcleo Adaptación Tecnológica]]")
+                backlinks.append("[[Zonas Nucleo Adaptacion Tecnologica]]")
             if any(kw in (entry["title"] + entry["content"]).lower() for kw in ["sigsa", "rfid", "fallas", "problemas"]):
                 backlinks.append("[[Pain Points de Trazabilidad]]")
 
