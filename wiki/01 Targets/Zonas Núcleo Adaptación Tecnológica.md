@@ -1,6 +1,6 @@
 ---
 type: strategic_target
-zones: [Rafaela, Trenque Lauquen, Rosario]
+zones: [Rafaela, Trenque Lauquen, Rosario, Villa María]
 priority: high
 segment: mega-tambos, frigorificos-exportadores
 ---
@@ -21,8 +21,9 @@ segment: mega-tambos, frigorificos-exportadores
 
 ### 3. Cuenca Villa María (Córdoba)
 - **Perfil:** Hub de servicios agrotecnológicos y sede de **TodoLáctea**. Concentra tambos de escala que están migrando hacia el modelo *Beef on Dairy*.
+- **Estatus (Abril 2026):** Alta prioridad tras el reporte de **Todo Agro** sobre la maximización del valor del descarte mediante genética.
 - **Necesidad Tecnológica:** Demanda de dashboards que integren datos genéticos con trazabilidad individual para optimizar el valor de la carne producida en el tambo.
-- **Acción:** Presencia en TodoLáctea 2026 para captar leads de productores de punta en la zona de influencia (James Craik, Oncativo).
+- **Acción:** Presencia en TodoLáctea 2026 para captar leads de productores de punta en la zona de influencia (James Craik, Oncativo, Villa María).
 
 ### 4. Tambos Orgánicos en Crisis (Post-Nestlé)
 - **Perfil:** 15 tambos de punta que proveían a Nestlé y ahora deben pivotar su modelo de negocio.

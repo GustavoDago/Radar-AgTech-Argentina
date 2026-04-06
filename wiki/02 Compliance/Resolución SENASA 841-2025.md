@@ -12,6 +12,8 @@ tags: [trazabilidad, rfid, normativa, exportacion]
 ## Resumen Ejecutivo
 La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Confirmada su vigencia vía Boletín Oficial (Abril 2026)**, ratificando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" antes del destete o primer movimiento. La reaparición de esta norma en los boletines de Abril 2026 refuerza la inminencia de los plazos técnicos para la implementación de dispositivos RFID.
 
+**Actualización Abril 2026:** Se confirma la ratificación de los plazos técnicos para la interoperabilidad de sistemas RFID con el SIGSA, lo cual es un trigger crítico para la adopción de software de gestión en tiempo real.
+
 ## Componentes del Binomio
 1. **Tarjeta Visual:** Oreja izquierda (CUIG).
 2. **Dispositivo Electrónico (RFID):** Oreja derecha, bolo ruminal o transpondedor inyectable.
