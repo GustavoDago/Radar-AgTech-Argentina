@@ -24,6 +24,11 @@ segment: mega-tambos, frigorificos-exportadores
 - **Necesidad Tecnológica:** Demanda de dashboards que integren datos genéticos con trazabilidad individual para optimizar el valor de la carne producida en el tambo.
 - **Acción:** Presencia en TodoLáctea 2026 para captar leads de productores de punta en la zona de influencia (James Craik, Oncativo).
 
+### 4. Tambos Orgánicos en Crisis (Post-Nestlé)
+- **Perfil:** 15 tambos de punta que proveían a Nestlé y ahora deben pivotar su modelo de negocio.
+- **Necesidad Tecnológica:** Necesitan herramientas de gestión para reconvertirse rápidamente (posiblemente a Beef on Dairy o certificación para otros mercados) y demostrar eficiencia operativa inmediata.
+- **Acción:** Contactar a los 15 remitentes afectados para ofrecer SaaS de gestión que facilite la transición y auditoría de nuevos procesos.
+
 ## Frigoríficos del Consorcio ABC (Targets)
 - **Swift (Rosario):** Planta con alta capacidad de faena y foco exportador.
 - **La Anónima (Salto/Trenque Lauquen):** Líder en trazabilidad y calidad para exportación.

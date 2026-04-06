@@ -17,6 +17,7 @@ tags: [sigsa, rfid, bottlenecks, senasa]
 ## Desafíos de Cumplimiento
 - **Resolución 841/2025:** Obligatoriedad de lectura electrónica para todos los movimientos a partir de 2026. La falta de infraestructura (lectores, conectividad) es un cuello de botella crítico.
 - **Auditorías Externas:** Necesidad de reportes instantáneos para auditorías de la Unión Europea sobre el origen electrónico del animal.
+- **Deadline Europa (1º de Mayo):** Se acerca la fecha límite para las ventas de carne vacuna a Europa bajo nuevas normativas. Los frigoríficos exportadores enfrentan una presión inmediata para garantizar la trazabilidad total.
 
 ## Oportunidades de Venta Directa
 - Software que funcione offline y sincronice con SIGSA cuando haya conexión.
