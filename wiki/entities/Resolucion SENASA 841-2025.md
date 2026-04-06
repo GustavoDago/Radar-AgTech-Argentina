@@ -1,10 +1,9 @@
 ---
-type: compliance
-source: SENASA
-status: mandatory
-date_enacted: 2025-07-18
-effective_date: 2026-01-01
-tags: [trazabilidad, rfid, normativa, exportacion]
+type: entidad
+tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
+sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696]
+confidence: high
+last_update: 2026-04-05
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
@@ -23,4 +22,4 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 ## Backlinks
 - Ver impactos en [[Pain Points de Trazabilidad]]
-- Ver objetivos en [[Frigoríficos Exportadores ABC]]
+- Ver objetivos en [[Frigorificos Exportadores ABC]]

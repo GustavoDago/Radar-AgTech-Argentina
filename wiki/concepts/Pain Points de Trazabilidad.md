@@ -1,9 +1,9 @@
 ---
-type: pain_point
-category: operational_friction
-severity: high
-source: industry_reports
-tags: [sigsa, rfid, bottlenecks, senasa]
+type: concepto
+tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
+sources: [industry_reports, market_feedback]
+confidence: high
+last_update: 2026-04-05
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
@@ -24,5 +24,5 @@ tags: [sigsa, rfid, bottlenecks, senasa]
 - Dashboard de métricas de eficiencia en la lectura RFID por lote.
 
 ## Backlinks
-- Ver normativa en [[Resolución SENASA 841-2025]]
-- Ver clientes potenciales en [[Zonas Núcleo Adaptación Tecnológica]]
+- Ver normativa en [[Resolucion SENASA 841-2025]]
+- Ver clientes potenciales en [[Zonas Nucleo Adaptacion Tecnologica]]

@@ -1,8 +1,9 @@
 ---
-type: strategic_target
-zones: [Rafaela, Trenque Lauquen, Rosario]
-priority: high
-segment: mega-tambos, frigorificos-exportadores
+type: entidad
+tags: [agtech/targets, comercial/zonas_nucleo, argentina/provincias]
+sources: [field_intelligence, industry_reports]
+confidence: high
+last_update: 2026-04-05
 ---
 
 # Zonas Núcleo y Adaptación Tecnológica: Visitas Comerciales
@@ -11,7 +12,7 @@ segment: mega-tambos, frigorificos-exportadores
 
 ### 1. Cuenca Lechera Rafaela (Santa Fe)
 - **Perfil:** Mayor concentración de mega-tambos del país, muchos con sistemas estabulados y robóticos.
-- **Necesidad Tecnológica:** Integración de la identificación electrónica ([[Resolución SENASA 841-2025]]) con el software de ordeñe y gestión reproductiva. El paso de identificación propietaria a identificación oficial es un reto.
+- **Necesidad Tecnológica:** Integración de la identificación electrónica ([[Resolucion SENASA 841-2025]]) con el software de ordeñe y gestión reproductiva. El paso de identificación propietaria a identificación oficial es un reto.
 - **Acción:** Visitar establecimientos con más de 1,000 vacas en ordeñe para ofrecer solución SaaS de trazabilidad integrada.
 
 ### 2. Eje Rosario - Trenque Lauquen (Santa Fe - Buenos Aires)
@@ -35,4 +36,4 @@ segment: mega-tambos, frigorificos-exportadores
 
 ## Backlinks
 - Ver dolores operativos en [[Pain Points de Trazabilidad]]
-- Ver marco regulatorio en [[Resolución SENASA 841-2025]]
+- Ver marco regulatorio en [[Resolucion SENASA 841-2025]]

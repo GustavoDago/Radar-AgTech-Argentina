@@ -1,7 +1,9 @@
 ---
-updated: 2026-04-04
-type: pain_point
-tags: [trazabilidad, ganado, RFID, SENASA, 841/2025]
+type: concepto
+tags: [agtech/rfid, operativo/pain_points, infraestructura/conectividad, argentina/senasa]
+sources: [field_intelligence, market_feedback]
+confidence: high
+last_update: 2026-04-05
 ---
 
 # Pain Points: Trazabilidad Electrónica Individual (Res. 841/2025)
@@ -34,6 +36,6 @@ La transición a la identificación electrónica obligatoria en Argentina presen
 
 ---
 **Temas Relacionados:**
-- [[Resolución SENASA 841-2025]]
-- [[Zonas Núcleo Adaptación Tecnológica]]
-- [[Situación Actual del Stock Bovino]]
+- [[Resolucion SENASA 841-2025]]
+- [[Zonas Nucleo Adaptacion Tecnologica]]
+- [[Situacion Actual del Stock Bovino]]
