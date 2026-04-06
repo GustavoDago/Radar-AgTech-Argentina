@@ -11,10 +11,14 @@
             "id": "5cdb6e4a9613c2e5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "SCHEDULED_PROMPT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SCHEDULED_PROMPT"
             }
           }
         ]
@@ -181,6 +185,8 @@
   },
   "active": "5cdb6e4a9613c2e5",
   "lastOpenFiles": [
+    "Manual de gobernanza.md",
+    "SCHEDULED_PROMPT.md",
     "wiki/03 Pain Points/Pain Points Trazabilidad Electrónica.md",
     "wiki/01 Targets/Zonas Núcleo Adaptación Tecnológica.md",
     "wiki/03 Pain Points/Pain Points de Trazabilidad.md",
