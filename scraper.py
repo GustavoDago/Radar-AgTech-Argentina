@@ -18,7 +18,8 @@ KEYWORDS = [
 ]
 
 EXCLUSIONS = [
-    "clima", "retenciones", "tambo chico", "consumo interno", "política", "feria"
+    "clima", "climat", "retenciones", "tambo chico", "consumo interno", "política", "feria",
+    "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo"
 ]
 
 def clean_text(text):
@@ -37,7 +38,8 @@ def scrape_feeds():
         feed = feedparser.parse(url)
         for entry in feed.entries:
             content = entry.get("summary", "") + " " + entry.get("description", "")
-            if is_relevant(entry.title) or is_relevant(content):
+            full_text = entry.title + " " + content
+            if is_relevant(full_text):
                 results.append({
                     "source": name,
                     "title": entry.title,
