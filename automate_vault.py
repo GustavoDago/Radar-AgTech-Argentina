@@ -1,5 +1,4 @@
 import os
-import json
 from datetime import datetime
 from scraper import scrape_feeds, scrape_boletin_oficial, save_raw
 
