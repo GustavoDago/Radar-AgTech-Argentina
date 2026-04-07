@@ -17,8 +17,8 @@ last_update: 2026-04-05
 ## Desafíos de Cumplimiento
 - **Resolución 841/2025:** Obligatoriedad de lectura electrónica para todos los movimientos a partir de 2026. La falta de infraestructura (lectores, conectividad) es un cuello de botella crítico.
 - **Auditorías Externas:** Necesidad de reportes instantáneos para auditorías de la Unión Europea sobre el origen electrónico del animal.
-- **Deadline Europa (1º de Mayo - Urgencia Crítica):** Se ha ratificado que el 1 de mayo es la "hora cero" para los embarques de carne vacuna hacia la UE bajo las nuevas normativas. Los frigoríficos exportadores enfrentan una presión inmediata por auditorías granulares que el sistema actual de SENASA/SIGSA no puede satisfacer de forma automatizada.
-- **Caída de Stock de Terneros (-5% desde 2022):** La escasez de terneros obliga a los criadores y tamberos a maximizar el valor de cada unidad, acelerando la adopción de Beef on Dairy y trazabilidad individual para segregación de calidad.
+- **Deadline Europa (1º de Mayo - Urgencia Crítica):** Ratificado el 1 de mayo como la "hora cero" (D-Day) para embarques a la UE. Los frigoríficos del [[Consorcio de Frigorificos ABC]] están bajo presión máxima para auditar el origen electrónico y geográfico (no deforestación) de cada animal. El sistema SIGSA/SENASA actual presenta baches de información que requieren validación SaaS externa.
+- **Caída de Stock de Terneros (-5% desde 2022):** La escasez estructural de terneros acelera la adopción de "Beef on Dairy". El dolor técnico aquí es la **segregación de datos**: evitar que un ternero cruza carne termine erróneamente en el circuito de reposición lechera, lo que requiere trazabilidad individual desde el nacimiento (ver [[Beef_on_Dairy_Analytics_Engine]]).
 
 ## Oportunidades de Venta Directa
 - Software que funcione offline y sincronice con SIGSA cuando haya conexión.
