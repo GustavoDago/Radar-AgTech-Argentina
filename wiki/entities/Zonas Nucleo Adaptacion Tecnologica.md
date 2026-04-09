@@ -21,9 +21,9 @@ last_update: 2026-04-05
 - **Acción:** Reunión con gerentes de calidad de frigoríficos exportadores para demostrar auditoría automatizada de caravanas RFID sincronizadas con el [[DT-e]].
 
 ### 3. Cuenca Villa María (Córdoba)
-- **Perfil:** Hub de servicios agrotecnológicos y sede de **TodoLáctea**. Concentra tambos de escala que están migrando hacia el modelo *Beef on Dairy*.
-- **Necesidad Tecnológica:** Demanda de dashboards que integren datos genéticos con trazabilidad individual para optimizar el valor de la carne producida en el tambo.
-- **Acción:** Presencia en TodoLáctea 2026 para captar leads de productores de punta en la zona de influencia (James Craik, Oncativo).
+- **Perfil:** Hub de servicios agrotecnológicos y sede de **TodoLáctea**. Concentra tambos de escala que están migrando masivamente al modelo *Beef on Dairy* para maximizar rentabilidad operativa (vía genética carnicera en el 30-40% del rodeo).
+- **Necesidad Tecnológica:** Dashboards que conviertan el descarte intuitivo en negocio estratégico mediante [[Beef_on_Dairy_Analytics_Engine]].
+- **Acción:** Visita prioritaria a James Craik y Oncativo. Contactar a los remitentes de mega-tambos de la zona para ofrecer auditoría de trazabilidad individual desde el nacimiento.
 
 ### 4. Tambos Orgánicos en Crisis (Post-Nestlé)
 - **Perfil:** 15 tambos de punta que proveían a Nestlé y ahora deben pivotar su modelo de negocio.
