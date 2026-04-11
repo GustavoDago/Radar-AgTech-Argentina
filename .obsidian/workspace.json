@@ -11,10 +11,10 @@
             "id": "5cdb6e4a9613c2e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/01 Targets/Zonas Núcleo Adaptación Tecnológica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Zonas Núcleo Adaptación Tecnológica"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -179,39 +178,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "8dfd1512ecc8b090",
+  "active": "5cdb6e4a9613c2e5",
   "lastOpenFiles": [
+    "wiki/opportunities/Whey_Valorization_Analytics.md",
+    "wiki/entities/Frigorifico Logros.md",
+    "wiki/daily/2026-04-08.md",
+    "wiki/daily/2026-04-10.md",
+    "wiki/concepts/Valorizacion del Suero de Leche.md",
+    "wiki/entities/Consorcio de Frigorificos ABC.md",
+    "wiki/entities/Asociacion Braford Argentina.md",
+    "wiki/daily/2026-04-09.md",
+    "wiki/daily/2026-04-07.md",
+    "Zonas Núcleo Adaptación Tecnológica.md",
+    "wiki/entities/Zonas Nucleo Adaptacion Tecnologica.md",
+    "SCHEDULED_PROMPT.md",
+    "wiki/concepts/Pain Points de Trazabilidad.md",
+    "wiki/opportunities/EUDR_Compliance_Gateway.md",
     "wiki/daily/2026-04-06.md",
+    "wiki/concepts/Pain Points Trazabilidad Electronica.md",
+    "Manual de gobernanza.md",
+    "raw/scrape_20260406_203445.json",
+    "__pycache__/scraper.cpython-312.pyc",
+    "__pycache__",
+    "GEMINI.md",
+    "wiki/daily/2026-04-04.md",
     "wiki/04 Daily/2026-04-06.md",
     "wiki/04 Daily",
-    "wiki/opportunities/EUDR_Compliance_Gateway.md",
     "wiki/opportunities/Beef_on_Dairy_Analytics_Engine.md",
     "wiki/opportunities",
-    "wiki/entities/Zonas Nucleo Adaptacion Tecnologica.md",
     "wiki/entities/Resolucion SENASA 841-2025.md",
     "wiki/entities",
     "wiki/daily/2026-04-05.md",
-    "wiki/daily/2026-04-04.md",
     "wiki/daily",
-    "wiki/concepts/Pain Points Trazabilidad Electronica.md",
-    "wiki/concepts/Pain Points de Trazabilidad.md",
     "wiki/concepts/DT-e.md",
     "wiki/concepts",
     "Prompt escéptico.md",
-    "GEMINI.md",
     "wiki/04 Daily/2026-04-05.md",
-    "wiki/04 Daily/2026-04-04.md",
-    "wiki/03 Pain Points/Pain Points de Trazabilidad.md",
-    "wiki/03 Pain Points/Pain Points Trazabilidad Electrónica.md",
-    "wiki/02 Compliance/Resolución SENASA 841-2025.md",
-    "wiki/01 Targets/Zonas Núcleo Adaptación Tecnológica.md",
-    "SCHEDULED_PROMPT.md",
-    "wiki/concepts/Pain Points Trazabilidad Electrónica.md",
-    "wiki/entities/Resolución SENASA 841-2025.md",
-    "wiki/entities/Zonas Núcleo Adaptación Tecnológica.md",
     "raw",
-    "wiki/comparisons",
-    "wiki/sources",
-    "Manual de gobernanza.md"
+    "wiki/comparisons"
   ]
 }
