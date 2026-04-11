@@ -3,7 +3,7 @@ type: entidad
 tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
 sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696]
 confidence: high
-last_update: 2026-04-05
+last_update: 2026-04-09
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
@@ -16,7 +16,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 2. **Dispositivo Electrónico (RFID):** Oreja derecha, bolo ruminal o transpondedor inyectable.
 
 ## Implicancias para el Negocio (Actualización Abril 2026)
-- **Fricción Operativa:** Se ratifica el riesgo de cuellos de botella en la emisión del [[DT-e]]. La integración de datos genéticos ("Beef on Dairy") se vuelve crítica para no perder valor en la recría de cruzas cárnicas (ver [[Pain Points de Trazabilidad]]).
+- **Fricción Operativa:** Se ratifica el riesgo de cuellos de botella en la emisión del [[DT-e]]. La integración de datos genéticos y de calidad (ver nuevo [[Asociacion Braford Argentina]]) se vuelve crítica para no perder valor en la recría.
 - **Oportunidad SaaS:** Urgencia total por el **Deadline Europa (1º de Mayo)**. Los frigoríficos exportadores necesitan que la identificación electrónica de la Res. 841/2025 se traduzca en certificados de auditoría automatizados para cumplir con la normativa EUDR (ver [[Consorcio de Frigorificos ABC]]).
 - **Relación con UE:** La obligatoriedad de la identificación electrónica es la piedra angular para mantener el acceso al mercado europeo post "D-Day" (1 de mayo).
 
