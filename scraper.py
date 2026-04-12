@@ -19,7 +19,8 @@ KEYWORDS = [
 
 EXCLUSIONS = [
     "clima", "climat", "retenciones", "tambo chico", "consumo interno", "política", "feria",
-    "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo"
+    "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo",
+    "vino", "césped", "camino rural", "caminos rurales", "maquin", "soja", "biodiésel", "vitivinícola"
 ]
 
 def clean_text(text):

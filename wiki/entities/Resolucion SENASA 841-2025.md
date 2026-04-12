@@ -3,7 +3,7 @@ type: entidad
 tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
 sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08]
 confidence: high
-last_update: 2026-04-11
+last_update: 2026-04-12
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina

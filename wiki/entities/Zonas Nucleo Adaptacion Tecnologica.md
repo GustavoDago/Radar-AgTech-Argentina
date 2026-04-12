@@ -3,7 +3,7 @@ type: entidad
 tags: [agtech/targets, comercial/zonas_nucleo, argentina/provincias]
 sources: [field_intelligence, industry_reports]
 confidence: high
-last_update: 2026-04-11
+last_update: 2026-04-12
 ---
 
 # Zonas Núcleo y Adaptación Tecnológica: Visitas Comerciales
@@ -11,10 +11,10 @@ last_update: 2026-04-11
 ## Zonas Críticas para Visitas Presenciales (Abril 2026)
 
 ### 0. San Francisco (Córdoba) - TRIGGERS DE EXPANSIÓN
-- **Evento:** Ampliación de infraestructura de **Cadaf**.
+- **Evento:** Ampliación de infraestructura de **Cadaf** (Confirmado Abril 2026).
 - **Perfil:** Exportación de alfalfa y servicios logísticos.
-- **Trigger:** Inversión para duplicar exportaciones. Indica capacidad de inversión y necesidad de trazabilidad logística y de origen para mercados globales.
-- **Acción:** Contactar a directivos de Cadaf y empresas del clúster de alfalfa de San Francisco.
+- **Trigger:** Inversión estratégica para duplicar exportaciones de alfalfa. Indica alta capacidad de inversión y una necesidad crítica de trazabilidad de origen y logística para consolidar el posicionamiento en mercados globales desafiantes.
+- **Acción:** Contactar a directivos de Cadaf y empresas del clúster de alfalfa de San Francisco para ofrecer auditoría de trazabilidad de procesos.
 
 ### 1. Nogoyá (Entre Ríos) - PRIORIDAD INMEDIATA
 - **Evento:** ExpoLeche (17 al 19 de Abril).
