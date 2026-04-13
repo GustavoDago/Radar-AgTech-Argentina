@@ -9,18 +9,42 @@ SOURCES = {
     "Bichos de Campo": "https://bichosdecampo.com/feed/",
     "Valor Carne": "https://www.valorcarne.com.ar/feed/",
     "Todo Agro": "https://www.todoagro.com.ar/feed/",
+    "Agrofy News": "https://news.agrofy.com.ar/feed/",
+    "Infocampo": "https://www.infocampo.com.ar/feed/",
+    "Agroverdad": "https://agroverdad.com.ar/feed/",
+    "Agrositio Hacienda": "https://www.agrositio.com.ar/rss/noticias-hacienda.xml",
+    "Agrositio Granos": "https://www.agrositio.com.ar/rss/noticias-granos.xml",
+    "INTA Informa": "https://intainforma.inta.gob.ar/feed/",
 }
 
 KEYWORDS = [
+    # Trazabilidad y Regulatorio
     "trazabilidad", "RFID", "caravana", "electrónica", "SENASA", "SIGSA", "DT-e",
+    "841/2025", "normativa", "resolución", "EUDR", "deforestación", "geolocalización",
+    "sustentabilidad", "RTRS", "huella de carbono", "bonos de carbono",
+    
+    # Entidades y Actores Clave
     "frigorífico", "exportador", "ABC", "tambo", "estabulado", "robótico",
-    "UE", "deforestación", "841/2025"
+    "Cadaf", "alfalfa", "compactadora", "clúster", "San Francisco",
+    "Asociación Braford", "INTA", "Aapresid", "CREA", "CIARA", "BCR",
+    
+    # Tecnología y Negocios
+    "AgTech", "SaaS", "blockchain", "tokenización", "fintech agro",
+    "conectividad", "IoT rural", "Starlink", "precisión", "VRT",
+    "inversión", "startup", "venture", "adopción",
+    
+    # Mercados Competitivos (Benchmarking)
+    "Brasil", "Uruguay", "Australia", "China", "Rusia", "UE"
 ]
 
 EXCLUSIONS = [
-    "clima", "climat", "retenciones", "tambo chico", "consumo interno", "política", "feria",
+    "crimen", "policial", "robo de cables", "detenido", "detuvieron",
+    "fútbol", "deportes", "espectáculos", "farándula", "cine",
+    "pronóstico lluvia", "pronóstico del tiempo", "clima mañana",
+    "receta", "cocina", "chef", "ingredientes",
+    "cotización dólar", "dólar blue", "feria americana",
     "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo",
-    "vino", "césped", "camino rural", "caminos rurales", "maquin", "soja", "biodiésel", "vitivinícola"
+    "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel", "vitivinícola"
 ]
 
 def clean_text(text):
