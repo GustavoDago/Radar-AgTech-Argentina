@@ -17,6 +17,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 ## Implicancias Estratégicas y de Negocio (Actualización Abril 2026)
 - **Fricción Operativa:** Se ratifica el riesgo de cuellos de botella en la emisión del [[DT-e]] por fallas en la lectura RFID o falta de sincronía con SIGSA. La integración de datos genéticos y de calidad (ver [[Asociacion Braford Argentina]]) se vuelve crítica para no perder valor en la recría.
+- **Innovación en Calidad (13/04/2026):** El lanzamiento del [[Indice de Calidad de Carne]] (IQ-Carne) transforma la Res. 841/2025 de una obligación burocrática a una herramienta de valor comercial, permitiendo el pago por calidad basado en el ID individual.
 - **Oportunidad SaaS:** Urgencia total por el **Deadline Europa (1º de Mayo)**. Los frigoríficos exportadores (ej: [[Consorcio de Frigorificos ABC]], [[Frigorifico Logros]]) necesitan sistemas que traduzcan la identificación de la Res. 841/2025 en certificados de auditoría automatizados para cumplir con EUDR.
 - **Relación con UE:** La obligatoriedad de la identificación electrónica es la piedra angular para mantener el acceso al mercado europeo post "D-Day" (1 de mayo).
 
