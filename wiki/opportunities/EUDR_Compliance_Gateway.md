@@ -42,3 +42,5 @@ last_critique: 2026-04-10
     * **Acción Específica**: No construyas un visualizador de mapas. Construye un **Agregador de Evidencia de Origen**.
     * **Paso 1**: Integrar la capa de Catastro Provincial con la satelital. El satélite miente (nubes, resolución); el título de propiedad no.
     * **Paso 2**: Unir la entrada de datos RFID con la firma digital del veterinario en el punto de despacho.
+    * **Paso 3 (Nuevo Factor de Riesgo 2026)**: Integrar el **Semáforo Sanitario (Aftosa/Prurigo)**. Ante la incertidumbre regulatoria actual, los compradores no solo piden geografía, sino garantía de vacunación auditable ante auditorías externas de China o Rusia. Ver [[Incertidumbre Regulatoria Sanitaria]].
+
