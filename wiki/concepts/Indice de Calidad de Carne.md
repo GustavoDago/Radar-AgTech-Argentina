@@ -2,13 +2,13 @@
 type: concepto
 tags: [ganaderia, calidad_carne, rfid, saas, innovacion]
 sources: [Valor Carne, INTA]
-last_update: 2026-04-13
+last_update: 2026-04-14
 ---
 
 # Índice de Calidad de Carne (IQ-Carne)
 
 ## Definición
-El Índice de Calidad de Carne (IQ-Carne) es un nuevo estándar tecnológico desarrollado en Argentina (Abril 2026) para calificar de manera objetiva los atributos de calidad de la res y el corte final, integrando datos de origen, genéticos y de faena.
+El Índice de Calidad de Carne (IQ-Carne) es un nuevo estándar tecnológico desarrollado en Argentina (Abril 2026) para calificar de manera objetiva los atributos de calidad de la res y el corte final, integrando datos de origen, genéticos y de faena. **Reportado como innovación clave el 14/04/2026.**
 
 ## Componentes del Índice
 1. **Genómica y Antecedentes**: Datos de la Asociación de Criadores (ej: [[Asociacion Braford Argentina]]) vinculados al ID individual del animal.
