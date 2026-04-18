@@ -13,6 +13,8 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 **Actualización 15/04/2026**: Los brotes de fiebre aftosa en China (más de 200 casos) aceleran la necesidad de trazabilidad electrónica individual para blindar las exportaciones argentinas ante posibles auditorías sanitarias de emergencia.
 
+**Actualización 18/04/2026**: El estado de "abandono" y falta de recursos en SENASA reportado por sus trabajadores (Bichos de Campo) eleva el riesgo de colapso en el soporte técnico para la implementación de la Res. 841/2025. Los sistemas privados de trazabilidad que actúen como "buffer" ante fallas de SIGSA son ahora una necesidad crítica de supervivencia operativa.
+
 ## Componentes del Binomio
 1. **Tarjeta Visual:** Oreja izquierda (CUIG).
 2. **Dispositivo Electrónico (RFID):** Oreja derecha, bolo ruminal o transpondedor inyectable.
