@@ -24,3 +24,5 @@ Lanzado oficialmente el 14 de abril de 2026 en la provincia de Córdoba, MEVA es
 ## Backlinks
 - [[Zonas Nucleo Adaptacion Tecnologica]] (Córdoba)
 - [[Sustentabilidad y Huella de Carbono]]
+- [[MEVA_Verification_SaaS]] (Oportunidad SaaS)
+- [[Premium_Beef_Quality_SaaS]] (Integración con Calidad)

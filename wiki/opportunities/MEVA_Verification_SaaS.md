@@ -7,7 +7,7 @@ last_critique: 2026-04-13
 ---
 # SaaS de Verificación (MRV) para el Mercado de Valores Ambientales (MEVA)
 
-- **Fricción Monetizable**: El recién lanzado **MEVA** en Córdoba ha realizado su primera operación, pero el proceso de validación de "créditos" (Carbono, Agua, Biodiversidad) sigue siendo manual, costoso y propenso al *greenwashing*. Sin una verificación auditable y en tiempo real, el valor de estos créditos se desploma. Los productores necesitan certificar su captura de carbono para vender en este nuevo mercado, pero no tienen las herramientas técnicas.
+- **Fricción Monetizable**: El **MEVA** (Mercado de Valores Ambientales) fue lanzado oficialmente el **14 de abril de 2026** en Córdoba, realizando su primera operación histórica. Sin embargo, el proceso de validación sigue siendo el gran cuello de botella. Los productores necesitan certificar su captura de carbono para vender en este nuevo mercado, pero no tienen herramientas técnicas para el **MRV (Monitoreo, Reporte y Verificación)** automatizado. Además, la presión de la [[EUDR_Compliance_Gateway]] obliga a que estos créditos de carbono se vinculen a la trazabilidad física.
 
 - **Moat Técnico**: 
     - **Integración de Algoritmos INTA**: Implementar un motor de procesamiento en **Java/Spring Boot** que integre los modelos de INTA Reconquista para el ajuste de fertilización nitrogenada vía imágenes multiespectrales de drones.

@@ -8,8 +8,10 @@ last_critique: 2026-04-11
 
 # Alfalfa Export Traceability & Quality Compliance (AETQC)
 
-- **Fricción Monetizable**: Los mercados premium (Arabia Saudita, Emiratos Árabes) exigen protocolos estrictos de calidad (proteína, humedad) y origen. Actualmente, la consolidación de estos datos es manual o fragmentada. **Actualización Abril 2026**: CADAF ha inaugurado nuevos galpones en San Francisco para duplicar su volumen exportable. Esta saturación de infraestructura genera un cuello de botella en la gestión manual de contratos y calidad. Además, la inestabilidad en el Mar Rojo/Ormuz eleva la necesidad de visibilidad logística en tiempo real para compradores saudíes.
-- **Moat Técnico**: Integración de datos de sensores de campo (humedad/calidad al momento del enfardado) con la trazabilidad logística de contenedores. Un equipo de juniors no puede orquestar fácilmente la integración con APIs gubernamentales de exportación y la certificación inmutable de calidad de origen requerida por compradores saudíes.
+- **Fricción Monetizable**: Los mercados premium (Arabia Saudita, Emiratos Árabes) exigen protocolos estrictos de calidad (proteína, humedad) y origen. **Actualización Abril 2026**: La inauguración de la ampliación de **CADAF** en San Francisco busca duplicar el volumen exportable, lo que genera un estrés logístico y administrativo inédito. Paralelamente, el Ministro Busso ha lanzado la estrategia del **"Clúster Alfalfa Córdoba"**, buscando estandarizar la calidad en toda la provincia. La fricción real es la falta de un sistema de "grado y estándar" digital que permita a los pequeños productores del clúster integrarse a la cadena exportadora de CADAF con garantías de calidad atomatizadas.
+- **Moat Técnico**: 
+    - **Algoritmo de Clasificación de Calidad**: Desarrollar un motor en **Java** que procese telemetría de prensas compactadoras para certificar lotes según estándares internacionales de forma automática. 
+    - **Interoperabilidad con el Clúster**: Crear una API de integración para que diferentes plantas de compactado puedan reportar stock y calidad a un nodo central (CADAF/Cámara de Alfalfa), permitiendo ventas consolidadas de mayor volumen con trazabilidad garantizada.
 
 ## Análisis Escéptico
 

@@ -27,3 +27,5 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 - Ver impactos en [[Pain Points de Trazabilidad]]
 - Ver objetivos en [[Frigorificos Exportadores ABC]]
 - Casos de aplicación: [[Frigorifico Logros]]
+- Oportunidad SaaS: [[EUDR_Compliance_Gateway]]
+- Oportunidad SaaS: [[Premium_Beef_Quality_SaaS]]
