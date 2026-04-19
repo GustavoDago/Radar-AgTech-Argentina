@@ -11,7 +11,7 @@ last_update: 2026-04-15
 ## Resumen Ejecutivo
 La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Confirmada su vigencia y plena aplicación técnica vía Boletín Oficial (Abril 2026)**, ratificando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" antes del destete o primer movimiento. La reaparición de esta norma en el Boletín Oficial el **11 de abril de 2026**, específicamente vinculada a los anexos de dispositivos homologados, refuerza la inminencia de los plazos técnicos para la implementación de dispositivos RFID.
 
-**Actualización 15/04/2026**: Los brotes de fiebre aftosa en China (más de 200 casos) aceleran la necesidad de trazabilidad electrónica individual para blindar las exportaciones argentinas ante posibles auditorías sanitarias de emergencia.
+**Actualización 19/04/2026**: Ratificación técnica en el Boletín Oficial vinculada a la implementación de la Res. 841/2025. La presión internacional aumenta por la cepa inédita de Aftosa en China, lo que refuerza la obligatoriedad de sistemas de trazabilidad auditables antes del deadline de 2026.
 
 ## Componentes del Binomio
 1. **Tarjeta Visual:** Oreja izquierda (CUIG).
