@@ -1,9 +1,9 @@
 ---
 type: entidad
 tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
-sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08]
+sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18]
 confidence: high
-last_update: 2026-04-17
+last_update: 2026-04-18
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
@@ -11,11 +11,11 @@ last_update: 2026-04-17
 ## Resumen Ejecutivo
 La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Confirmada su vigencia y plena aplicación técnica vía Boletín Oficial (Abril 2026)**, ratificando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" antes del destete o primer movimiento. La reaparición de esta norma en el Boletín Oficial el **11 de abril de 2026**, específicamente vinculada a los anexos de dispositivos homologados, refuerza la inminencia de los plazos técnicos para la implementación de dispositivos RFID.
 
-**Actualización 17/04/2026**: El reporte de desfinanciamiento y deterioro operativo del SENASA pone en jaque la capacidad del organismo para dar soporte a la implementación masiva de la Res. 841/2025. Esto genera una ventana de oportunidad crítica para soluciones SaaS que ofrezcan redundancia y validación privada de movimientos.
+**Actualización 18/04/2026**: El estado de "abandono" y desfinanciamiento operativo en SENASA reportado por sus trabajadores eleva el riesgo de colapso en el soporte técnico para la implementación masiva de la Res. 841/2025. Los sistemas privados de trazabilidad que actúen como "buffer" ante fallas de SIGSA son ahora una necesidad crítica de supervivencia operativa.
+
+**Actualización 16/04/2026**: La alerta de la OMSA sobre la cepa **SAT 1** de aftosa (amenaza grave y en evolución) eleva la Res. 841/2025 a un nivel de seguridad nacional para el sector exportador. La trazabilidad electrónica ya no es solo cumplimiento comercial, sino la única defensa técnica ante cierres de mercado por sospecha sanitaria.
 
 **Actualización 15/04/2026**: Los brotes de fiebre aftosa en China (más de 200 casos) aceleran la necesidad de trazabilidad electrónica individual para blindar las exportaciones argentinas ante posibles auditorías sanitarias de emergencia.
-
-**Contexto de Urgencia (16/04/2026)**: La alerta de la OMSA sobre la cepa **SAT 1** de aftosa (amenaza grave y en evolución) eleva la Res. 841/2025 a un nivel de seguridad nacional para el sector exportador. La trazabilidad electrónica ya no es solo cumplimiento comercial, sino la única defensa técnica ante cierres de mercado por sospecha sanitaria.
 
 ## Componentes del Binomio
 1. **Tarjeta Visual:** Oreja izquierda (CUIG).
