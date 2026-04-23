@@ -3,13 +3,16 @@ title: Crisis de Pyme Láctea Santafesina
 type: entidad
 tags: [lecheria, santa_fe, crisis, legal, proveedores]
 sources: [Bichos de Campo, 2026-04-14]
-last_update: 2026-04-14
+last_update: 2026-04-23
 ---
 
 # Crisis de Pyme Láctea Santafesina (Abril 2026)
 
 ## Resumen
 Se reporta un crecimiento en la cantidad de productores afectados por los incumplimientos financieros de una pyme láctea en la provincia de Santa Fe. Los damnificados preparan denuncias judiciales por la falta de pago de la leche remitida.
+
+## Actualización (23/04/2026)
+Ante la crisis y las inundaciones recientes, la provincia de Santa Fe lanzó una línea de créditos por casi $18.000 millones para asistir a los productores afectados. Esta inyección de capital es una ventana de oportunidad para financiar la transición tecnológica.
 
 ## Impacto en el Sector
 - **Fricción Financiera**: Descapitalización de tambos remitentes que no han cobrado liquidaciones de meses previos.
