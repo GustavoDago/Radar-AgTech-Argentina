@@ -4,7 +4,7 @@ tags: [frigorifico, exportacion, perez_millan, china, suspension, biogas, susten
 location: Pérez Millán, Buenos Aires
 main_markets: [China (Suspendido), UE, EEUU, Israel]
 employees_affected: 400
-last_update: 2026-04-15
+last_update: 2026-04-25
 ---
 
 # ArreBeef S.A.
@@ -14,6 +14,7 @@ ArreBeef es uno de los frigoríficos más importantes de Argentina, con una capa
 
 ## Crisis Actual (Abril 2026)
 - **Suspensión China**: El mercado chino (GACC) suspendió preventivamente a la planta debido a la detección de **cloranfenicol** (antibiótico prohibido) en un contenedor arribado a puerto chino.
+- **Contexto de Mercado (25/04/2026)**: Mientras el sector exportador general reporta un salto en marzo y suba de precios, ArreBeef queda marginado de esta bonanza por su sanción sanitaria.
 - **Impacto Laboral**: Suspensión de 400 operarios debido a la caída drástica del ritmo de faena al perder el destino del 60% de su producción.
 - **Dolor Crítico**: La falta de visibilidad sobre los tratamientos veterinarios que los proveedores (feedlots y criadores) realizan semanas antes de la faena. El frigorífico asume el riesgo final de un error operativo en el campo.
 
