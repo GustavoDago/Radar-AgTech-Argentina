@@ -2,7 +2,7 @@
 type: entidad
 category: lactea
 priority: high
-tags: [lecheria, quiebra, reestructuracion, santa_fe, atilra]
+tags: [lecheria, quiebra, reestructuracion, santa_fe, atilra, consolidacion]
 last_update: 2026-04-26
 ---
 

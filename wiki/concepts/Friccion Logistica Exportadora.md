@@ -1,9 +1,9 @@
 ---
 type: concepto
 tags: [logistica, exportacion, conflicto, riesgo]
-sources: [daily_summary_2026-04-19]
+sources: [daily_summary_2026-04-19, daily_summary_2026-04-25]
 confidence: high
-last_update: 2026-04-19
+last_update: 2026-04-25
 ---
 
 # Fricción Logística Exportadora
@@ -17,3 +17,4 @@ Interrupciones en el flujo de mercancías agroindustriales (carne, granos, alfal
 
 ## Casos Recientes
 - **19/04/2026:** Entidades empresarias advierten sobre el impacto de bloqueos de rutas en las exportaciones argentinas, pidiendo intervención judicial. Este evento afecta directamente el cumplimiento de contratos internacionales.
+- **25/04/2026:** Levantamiento del bloqueo en el **Puerto de Quequén**. Normalización de ingresos de camiones tras días de parálisis, aliviando la presión logística pero dejando una huella de sobrecostos por demoras.
