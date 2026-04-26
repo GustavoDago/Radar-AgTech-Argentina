@@ -34,6 +34,7 @@ last_critique: 2026-04-10
 3. **Riesgos críticos:**
     * **Riesgo de Atonía (Sloth Risk)**: Con 20 meses por delante (hasta dic 2026), muchos frigoríficos dejarán de invertir en sus sistemas de datos hoy, creyendo que el problema "se solucionó". El SaaS debe venderse no como cumplimiento remoto, sino como **preparación para la reclasificación**. Si Argentina no demuestra datos impecables en 2026, la UE bajará la calificación del país a "Riesgo Medio/Alto", destruyendo márgenes.
     * **Fraude Físico (El Eslabón Perdido)**: El productor puede colocar la caravana RFID (Res. 841/2025) de un animal nacido en zona permitida en un animal gordo criado en monte deforestado. Tu sistema validará la geografía del "ID", no de la "carne".
+    * **Contaminación Cruzada Transgénica (Factor HB4 - 26/04/2026)**: Europa ya comenzó a ofrecer servicios de análisis para detectar soja HB4. El gatekeeping de la UE no será únicamente geográfico (deforestación); la trazabilidad de la dieta y raciones (feedlot/tambo) será exigida. El SaaS quedará obsoleto si no traza los insumos alimenticios.
 
 4. **Efectos de segundo orden:** 
     * **Canibalización de Pequeños**: Los invernadores medianos que no logren digitalizar su historial geográfico retroactivamente al 2020 quedarán fuera del circuito exportador. Esto creará un stock de ganado "sucio" (barato para consumo interno) y ganado "certificado" (caro para exportación), distorsionando el precio del asado local.
