@@ -41,6 +41,7 @@ EXCLUSIONS = [
     "crimen", "policial", "robo de cables", "detenido", "detuvieron",
     "fútbol", "deportes", "espectáculos", "farándula", "cine",
     "pronóstico lluvia", "pronóstico del tiempo", "clima mañana", "lluvia", "precipitaciones",
+    "temporal", "clima", "smn", "glaciares",
     "receta", "cocina", "chef", "ingredientes",
     "cotización dólar", "dólar blue", "feria americana",
     "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo",
