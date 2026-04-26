@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/entities/ArreBeef.md",
+                "file": "SCHEDULED_PROMPT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ArreBeef"
+              "title": "SCHEDULED_PROMPT"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 322.5
   },
   "right": {
     "id": "0201a5c109454881",
@@ -182,43 +182,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "8dfd1512ecc8b090",
+  "active": "03f1605d57fbc793",
   "lastOpenFiles": [
+    "infographic_diagram.md",
+    "wiki/entities/BCR Labs.md",
+    "wiki/daily/2026-04-24.md",
+    "Prompt escéptico.md",
+    "Manual de gobernanza.md",
+    "GEMINI.md",
+    "SCHEDULED_PROMPT.md",
+    "wiki/opportunities/Gorina_Sanitary_Shield_SaaS.md",
+    "wiki/entities/Frigorifico Gorina.md",
+    "wiki/entities/ArreBeef.md",
+    "raw/scrape_20260419_191359.json",
+    "__pycache__/scraper.cpython-314.pyc",
+    "wiki/opportunities/Full_Stack_Traceability_Hub.md",
+    "wiki/entities/Neuquen Polo Alfalfa.md",
+    "wiki/daily/2026-04-19.md",
+    "wiki/concepts/Friccion Logistica Exportadora.md",
+    "wiki/entities/Polo Alfalfa Premium Neuquen.md",
+    "wiki/daily/2026-04-18.md",
+    "wiki/concepts/Colapso Operativo SENASA.md",
+    "wiki/entities/Lacteos Veronica.md",
+    "wiki/daily/2026-04-17.md",
+    "wiki/entities/Sancor.md",
+    "wiki/daily/2026-04-16.md",
     "wiki/opportunities/Premium_Beef_Quality_SaaS.md",
     "wiki/opportunities/Chemical_Compliance_SaaS.md",
-    "wiki/entities/ArreBeef.md",
     "wiki/opportunities/MEVA_Verification_SaaS.md",
     "wiki/opportunities/EUDR_Compliance_Gateway.md",
     "wiki/entities/Pyme Lactea Santafesina Crisis.md",
-    "wiki/entities/MEVA.md",
-    "wiki/daily/2026-04-15.md",
-    "wiki/daily/2026-04-14.md",
-    "wiki/daily/2026-04-13.md",
-    "wiki/concepts/Indice de Calidad de Carne.md",
-    "wiki/entities/Zonas Nucleo Adaptacion Tecnologica.md",
-    "Manual de gobernanza.md",
-    "wiki/opportunities/Agro_Liquidity_Tokenization.md",
     "raw/scrape_20260412_215835.json",
-    "GEMINI.md",
-    "Prompt escéptico.md",
-    "infographic_diagram.md",
-    "SCHEDULED_PROMPT.md",
-    "raw/CADAF_Research.md",
-    "wiki/entities/CADAF_SA.md",
-    "wiki/sources/CADAF_Public_Data_2026.md",
-    "wiki/opportunities/Alfalfa_Traceability_Compliance.md",
-    "wiki/daily/2026-04-12.md",
-    "wiki/opportunities/Whey_Valorization_Analytics.md",
-    "wiki/entities/Asociacion Braford Argentina.md",
-    "wiki/concepts/Pain Points de Trazabilidad.md",
     "raw/scrape_20260406_203445.json",
     "__pycache__/scraper.cpython-312.pyc",
     "__pycache__",
     "wiki/04 Daily",
     "wiki/opportunities",
     "wiki/entities",
-    "wiki/daily",
-    "wiki/concepts",
-    "raw"
+    "wiki/daily"
   ]
 }
