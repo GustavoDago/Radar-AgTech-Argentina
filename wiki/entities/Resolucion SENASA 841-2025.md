@@ -3,13 +3,15 @@ type: entidad
 tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
 sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19]
 confidence: high
-last_update: 2026-04-19
+last_update: 2026-04-27
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
 
 ## Resumen Ejecutivo
 La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Confirmada su vigencia y plena aplicación técnica vía Boletín Oficial (Abril 2026)**, ratificando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" antes del destete o primer movimiento. La reaparición de esta norma en el Boletín Oficial el **11 de abril de 2026**, específicamente vinculada a los anexos de dispositivos homologados, refuerza la inminencia de los plazos técnicos para la implementación de dispositivos RFID.
+
+**Actualización 27/04/2026**: El interés por la carne de sistemas pastoriles y la necesidad de comunicar "identidad productiva" (INTA/TodoAgro) escala la Res. 841/2025 de una traba burocrática a un activo de marketing. La trazabilidad granular es ahora el vehículo para capturar primas de precio por diferenciación de origen.
 
 **Actualización 19/04/2026**: Ratificación técnica en el Boletín Oficial vinculada a la implementación de la Res. 841/2025. La presión internacional aumenta por la cepa inédita de Aftosa en China, lo que refuerza la obligatoriedad de sistemas de trazabilidad auditables antes del deadline de 2026.
 
@@ -26,7 +28,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 ## Implicancias Estratégicas y de Negocio (Actualización Abril 2026)
 - **Fricción Operativa:** Se ratifica el riesgo de cuellos de botella en la emisión del [[DT-e]] por fallas en la lectura RFID o falta de sincronía con SIGSA. La integración de datos genéticos y de calidad (ver [[Asociacion Braford Argentina]]) se vuelve crítica para no perder valor en la recría.
 - **Innovación en Calidad (13/04/2026):** El lanzamiento del [[Indice de Calidad de Carne]] (IQ-Carne) transforma la Res. 841/2025 de una obligación burocrática a una herramienta de valor comercial, permitiendo el pago por calidad basado en el ID individual.
-- **Oportunidad SaaS:** Urgencia total por el **Deadline Europa (1º de Mayo)**. Los frigoríficos exportadores (ej: [[Consorcio de Frigorificos ABC]], [[Frigorifico Logros]]) necesitan sistemas que traduzcan la identificación de la Res. 841/2025 en certificados de auditoría automatizados para cumplir con EUDR.
+- **Oportunidad SaaS:** Urgencia total por el **Deadline Europa (1º de Mayo)**. Los frigoríficos exportadores (ej: [[Consorcio de Frigorificos ABC]], [[Frigorifico Logros]]) necesitan sistemas que traduzcan la identificación de la Res. 841/2025 en certificados de auditoría automatizados para cumplir con EUDR. Además, surge el trigger de **Identidad Pastoril**: SaaS para certificar atributos de producción a nivel animal.
 - **Relación con UE:** La obligatoriedad de la identificación electrónica es la piedra angular para mantener el acceso al mercado europeo post "D-Day" (1 de mayo).
 
 ## Backlinks
