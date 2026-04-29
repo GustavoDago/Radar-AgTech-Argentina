@@ -1,20 +1,21 @@
 ---
 type: entidad
 category: lactea
-priority: medium
+priority: high
 tags: [lecheria, quiebra, reestructuracion, santa_fe]
-last_update: 2026-04-16
+last_update: 2026-04-27
 ---
 
 # Sancor (Cooperativas Unidas Limitada)
 
 ## Perfil
 - **Ubicación**: Sunchales, Santa Fe (Casa central) con plantas en Córdoba y Santa Fe.
-- **Estatus**: Histórica cooperativa láctea argentina en proceso de crisis terminal.
+- **Estatus**: Histórica cooperativa láctea argentina en proceso de quiebra definitiva.
 
 ## Señales de Compra (Triggers)
-- **Fricción Financiera / Quiebra (16/04/2026)**: Sancor ha solicitado su propia quiebra dentro del concurso de acreedores. Esto marca el fin de una era y el inicio de una redistribución de la cuenca lechera.
-- **Oportunidad por Desplazamiento**: Los mega-tambos que proveían a Sancor buscarán nuevos destinos (ej. Saputo, Williner, Adecoagro) o se verán forzados a integrarse verticalmente. Existe una necesidad crítica de sistemas de gestión para los tambos que quedan en "huérfanos" de logística o pago seguro.
+- **Quiebra Definitiva y Custodia de Plantas (27/04/2026)**: La justicia ha designado a 178 trabajadores para la custodia y mantenimiento de las plantas industriales. Esto confirma la parálisis operativa total bajo gestión cooperativa y acelera la liquidación o venta de activos.
+- **Fricción Financiera / Quiebra (16/04/2026)**: Sancor solicitó su propia quiebra. Marca el fin de una era y la redistribución masiva de la cuenca lechera central.
+- **Oportunidad por Desplazamiento**: Los mega-tambos que proveían a Sancor buscan nuevos destinos (ej. Saputo, Williner, Adecoagro) o integración vertical. Urgencia de SaaS para gestión logística y seguridad en cobros para productores "huérfanos".
 - **Interés de Adquisición**: Existen empresas interesadas en adquirir activos de Sancor, lo que podría implicar nuevas inversiones en tecnología para modernizar plantas obsoletas.
 
 ## Estrategia Comercial
