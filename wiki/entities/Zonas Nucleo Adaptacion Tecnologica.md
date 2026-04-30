@@ -1,9 +1,9 @@
 ---
 type: entidad
 tags: [agtech/targets, comercial/zonas_nucleo, argentina/provincias]
-sources: [field_intelligence, industry_reports]
+sources: [field_intelligence, industry_reports, daily_summary_2026-04-30]
 confidence: high
-last_update: 2026-04-12
+last_update: 2026-04-30
 ---
 
 # Zonas Núcleo y Adaptación Tecnológica: Visitas Comerciales
@@ -33,8 +33,9 @@ last_update: 2026-04-12
 
 ### 4. Cuenca Villa María (Córdoba)
 - **Perfil:** Hub de servicios agrotecnológicos y sede de **TodoLáctea**. Concentra tambos de escala que están migrando masivamente al modelo *Beef on Dairy* para maximizar rentabilidad operativa (vía genética carnicera en el 30-40% del rodeo).
-- **Necesidad Tecnológica:** Dashboards que conviertan el descarte intuitivo en negocio estratégico mediante [[Beef_on_Dairy_Analytics_Engine]].
-- **Acción:** Visita prioritaria a James Craik y Oncativo. Contactar a los remitentes de mega-tambos de la zona para ofrecer auditoría de trazabilidad individual desde el nacimiento.
+- **Trigger Actual (30/04/2026):** Talleres de podología bovina en TodoLáctea ("sin buenas patas no hay leche"). Los problemas de movilidad en mega-tambos estabulados son un punto crítico de pérdida de productividad.
+- **Necesidad Tecnológica:** Dashboards que conviertan el descarte intuitivo en negocio estratégico mediante [[Beef_on_Dairy_Analytics_Engine]] e integración de datos de salud (podología) en la ficha individual del animal.
+- **Acción:** Visita prioritaria a Villa María (TodoLáctea). Contactar a los dueños de mega-tambos asistentes a los talleres de sanidad para ofrecer trazabilidad integrada con alertas de salud.
 
 ### 5. Tambos Orgánicos en Crisis (Post-Nestlé)
 - **Perfil:** 15 tambos de punta que proveían a Nestlé y ahora deben pivotar su modelo de negocio.
