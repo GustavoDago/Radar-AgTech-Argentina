@@ -3,12 +3,12 @@ type: entidad
 tags: [agtech/targets, comercial/zonas_nucleo, argentina/provincias]
 sources: [field_intelligence, industry_reports]
 confidence: high
-last_update: 2026-04-12
+last_update: 2026-05-03
 ---
 
 # Zonas Núcleo y Adaptación Tecnológica: Visitas Comerciales
 
-## Zonas Críticas para Visitas Presenciales (Abril 2026)
+## Zonas Críticas para Visitas Presenciales (Mayo 2026)
 
 ### 0. San Francisco (Córdoba) - TRIGGERS DE EXPANSIÓN
 - **Evento:** Ampliación de infraestructura de **Cadaf** (Confirmado Abril 2026).
@@ -31,10 +31,11 @@ last_update: 2026-04-12
 - **Necesidad Tecnológica:** El cumplimiento de la normativa UE de libre deforestación exige una auditoría granular del origen del animal, imposible de escalar manualmente.
 - **Acción:** Reunión con gerentes de calidad de frigoríficos exportadores para demostrar auditoría automatizada de caravanas RFID sincronizadas con el [[DT-e]].
 
-### 4. Cuenca Villa María (Córdoba)
-- **Perfil:** Hub de servicios agrotecnológicos y sede de **TodoLáctea**. Concentra tambos de escala que están migrando masivamente al modelo *Beef on Dairy* para maximizar rentabilidad operativa (vía genética carnicera en el 30-40% del rodeo).
-- **Necesidad Tecnológica:** Dashboards que conviertan el descarte intuitivo en negocio estratégico mediante [[Beef_on_Dairy_Analytics_Engine]].
-- **Acción:** Visita prioritaria a James Craik y Oncativo. Contactar a los remitentes de mega-tambos de la zona para ofrecer auditoría de trazabilidad individual desde el nacimiento.
+### 4. Cuenca Villa María (Córdoba) - TRIGGERS ACTUALES
+- **Evento (30/04/2026):** Taller de podología bovina en **TodoLáctea**.
+- **Perfil:** Hub de servicios agrotecnológicos. Concentra tambos de escala que están migrando masivamente al modelo *Beef on Dairy*.
+- **Trigger:** El taller de podología sirve como "puerta de entrada" para discutir la salud del rodeo y la necesidad de registros individuales automáticos para predecir descartes.
+- **Acción:** Contactar a los asistentes de mega-tambos del taller de podología. Visita prioritaria a James Craik y Oncativo.
 
 ### 5. Tambos Orgánicos en Crisis (Post-Nestlé)
 - **Perfil:** 15 tambos de punta que proveían a Nestlé y ahora deben pivotar su modelo de negocio.

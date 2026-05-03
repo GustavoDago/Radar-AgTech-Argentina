@@ -38,14 +38,26 @@ KEYWORDS = [
 ]
 
 EXCLUSIONS = [
+    # General & Politics
     "crimen", "policial", "robo de cables", "detenido", "detuvieron",
-    "fútbol", "deportes", "espectáculos", "farándula", "cine",
-    "pronóstico lluvia", "pronóstico del tiempo", "clima mañana", "lluvia", "precipitaciones",
-    "receta", "cocina", "chef", "ingredientes",
-    "cotización dólar", "dólar blue", "feria americana",
+    "fútbol", "deportes", "espectáculos", "farándula", "cine", "bolivariana",
+    "política partidaria", "elecciones", "voto", "venezuela", "gobierno",
+
+    # Climate & Weather
+    "pronóstico lluvia", "pronóstico del tiempo", "clima mañana", "lluvia",
+    "precipitaciones", "clima", "temporal", "smn", "glaciares",
+
+    # Financial/Non-AgTech
+    "cotización", "dólar", "blue", "euro", "feria americana", "moneda",
+
+    # Irrelevant Crops/Agro-industries
     "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo",
-    "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel", "vitivinícola",
-    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto"
+    "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel",
+    "vitivinícola", "banana", "frutales", "jardín", "colmenas", "miel", "yerba",
+    "trigo", "soja", "maíz", "girasol", "cebada", "sorgo", "olivo", "limón",
+
+    # Others
+    "receta", "cocina", "chef", "ingredientes", "retenciones", "derechos de exportación"
 ]
 
 def clean_text(text):
