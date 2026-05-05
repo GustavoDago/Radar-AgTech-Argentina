@@ -3,9 +3,9 @@ type: entidad
 category: frigorifico
 priority: high
 tags: [frigorifico, exportador, la_plata, capacidad_expansion, liderazgo, gorina, agtech/targets]
-sources: [Valor Carne - 2026-04-18, daily_summary_2026-04-19, Valor Carne - 2026-04-28]
+sources: [Valor Carne - 2026-04-18, daily_summary_2026-04-19, Valor Carne - 2026-04-28, Agroverdad - 2026-05-05]
 confidence: high
-last_update: 2026-04-28
+last_update: 2026-05-05
 ---
 
 # Frigorífico Gorina
@@ -19,6 +19,7 @@ last_update: 2026-04-28
 - **Expansión de Capacidad (Actualizado 19/04/2026)**: Confirmado como uno de los faenadores que más crece en el ranking nacional. Esta expansión demanda mayor automatización en el registro de faena y trazabilidad RFID para no saturar la administración.
 - **Eficiencia en Escala**: Operar a niveles líderes requiere una precisión absoluta en la captura de datos de faena y cumplimiento de la [[Resolucion SENASA 841-2025]]. El aumento en el volumen presiona los sistemas actuales, creando una ventana para software de optimización.
 - **Cumplimiento Internacional (EUDR)**: Como exportador líder a Europa, el plazo del 1º de mayo de 2026 para normativas de deforestación es crítico. Es un target prioritario para soluciones de cumplimiento y auditoría, especialmente para la certificación automatizada de Cuota Hilton.
+- **Misión Comercial USA (Actualizado 05/05/2026)**: Integrante de la delegación argentina en la "Argentine Beef Week" (EE.UU.). Su liderazgo exportador se extiende ahora a la captura de la cuota americana, incrementando la demanda de sistemas de trazabilidad y calidad certificados.
 - **Optimización de Procesos**: En un contexto de baja de stock nacional, maximizar el rendimiento por res mediante integración de datos de campo y planta es una prioridad estratégica para reducir mermas.
 
 ## Estrategia Comercial / Oportunidad SaaS

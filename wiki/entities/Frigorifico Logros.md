@@ -1,9 +1,9 @@
 ---
 type: entidad
 tags: [frigorifico, exportador, cordoba, eficiencia, agtech/oportunidad]
-sources: [Bichos de Campo - 2026-04-08]
+sources: [Bichos de Campo - 2026-04-08, Agroverdad - 2026-05-05]
 confidence: high
-last_update: 2026-04-08
+last_update: 2026-05-05
 ---
 
 # Frigorífico Logros (Córdoba)
@@ -18,6 +18,7 @@ Frigorífico exportador de gran relevancia ubicado en **Río Segundo, Provincia 
 - **Crisis de Viabilidad:** Grimaldi advierte que el cierre de frigoríficos será habitual debido a la inviabilidad del negocio actual. Esto genera una necesidad urgente de **eficiencia operativa extrema**.
 - **Necesidad de Tecnología:** En un entorno de márgenes negativos, la automatización de la trazabilidad y la reducción de fallas en la lectura de dispositivos [[Resolucion SENASA 841-2025]] son críticas para reducir costos y evitar multas o rechazos de exportación.
 - **Presión Exportadora:** Como planta exportadora, enfrenta el deadline del 1 de mayo para el cumplimiento de normativas europeas [[Pain Points de Trazabilidad]].
+- **Misión Comercial USA (Actualizado 05/05/2026):** Confirmado como uno de los 15 frigoríficos participantes en la "Argentine Beef Week" en EE.UU. Esta expansión hacia el mercado norteamericano (80k tons quota) refuerza la necesidad de auditoría digital para certificar calidad y origen.
 
 ## Acciones Recomendadas
 - Contactar para ofrecer auditoría de eficiencia en procesos de lectura RFID y automatización de reportes de cumplimiento internacional.
