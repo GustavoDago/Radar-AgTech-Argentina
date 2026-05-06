@@ -7,13 +7,13 @@ last_critique: 2026-04-26
 ---
 # Orphan Tambo Liquidity Network (Enrutamiento Lácteo Post-Quiebra)
 
-- **Fricción Monetizable**: La quiebra formal de Sancor (acumulando USD 187M de deuda pese a liquidar activos) y el colapso cooperativo impulsado por conflictos con Atilra dejan a cientos de tambos de la cuenca lechera santafesina a la deriva. Estos tambos necesitan redirigir sus litros diarios a nuevas usinas (Saputo, Williner) casi en tiempo real para evitar descartar producto perecedero. Requieren certificar su estatus sanitario y establecer pagos express (factoraje) con nuevos compradores que no los tienen en su padrón.
+- **Fricción Monetizable**: La quiebra formal de Sancor (acumulando USD 187M de deuda pese a liquidar activos por USD 300M) y el colapso cooperativo impulsado por conflictos con Atilra dejan a 917 trabajadores suspendidos y a cientos de tambos de la cuenca lechera santafesina a la deriva. Estos tambos necesitan redirigir sus litros diarios a nuevas usinas (Saputo, Williner, Adecoagro) casi en tiempo real para evitar descartar producto perecedero. Requieren certificar su estatus sanitario y establecer pagos express (factoraje) con nuevos compradores que no los tienen en su padrón.
 
-- **Moat Técnico**: Integración por API con laboratorios de calidad y sistemas ERP de las usinas absorbentes para "onboarding" automatizado. Un equipo inexperto no puede resolver el clearing financiero y la trazabilidad de células somáticas a la velocidad crítica que demanda la leche cruda.
+- **Moat Técnico**: Integración por API con laboratorios de calidad y sistemas ERP de las usinas absorbentes para "onboarding" automatizado. Un equipo inexperto no puede resolver el clearing financiero y la trazabilidad de células somáticas a la velocidad crítica que demanda la leche cruda en un contexto de **desnacionalización y concentración acelerada**.
 
 ## Análisis Escéptico (Skeptic Shredding Mode)
 
-1. **Idea central:** No vendes software de gestión lechera; vendes **sobrevivencia logística y clearing financiero**. El tambo o usa el sistema para enrutarse, o tira la leche en el campo. La usina paga por captar volumen llave en mano sin costo de fricción comercial.
+1. **Idea central:** No vendes software de gestión lechera; vendes **sobrevivencia logística y clearing financiero**. El tambo o usa el sistema para enrutarse, o tira la leche en el campo. La usina paga por captar volumen llave en mano sin costo de fricción comercial ante el colapso del competidor histórico.
 
 2. **Trade-offs:** 
     * **Ganas**: Volumen transaccional cautivo de productores desesperados por recolocación.
