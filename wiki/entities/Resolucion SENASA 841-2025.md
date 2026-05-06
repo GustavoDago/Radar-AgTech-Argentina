@@ -13,7 +13,9 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 **Actualización 05/05/2026**: La participación de 15 frigoríficos argentinos en la "Argentine Beef Week" (EE.UU.) eleva la prioridad de la Res. 841/2025. La trazabilidad electrónica es la llave para auditar los procesos de calidad y sanidad requeridos por los importadores estadounidenses.
 
-**Actualización 28/04/2026**: SENASA actualizó los criterios de etiquetado de fitosanitarios incorporando el Sistema Globalmente Armonizado (SGA). Esta convergencia regulatoria refuerza la necesidad de integrar datos de insumos en la ficha individual del animal (trazabilidad de residuos). Asimismo, la iniciativa de "Carne de Sistemas Pastoriles" busca usar la trazabilidad de la Res. 841/2025 para comunicar identidad y valor nutricional.
+**Actualización 29/04/2026**: La iniciativa "Carne de Sistemas Pastoriles" (INTA) y la búsqueda de comunicar "identidad productiva" escalan la Res. 841/2025 de una traba burocrática a un activo de marketing estratégico. La trazabilidad granular es ahora el vehículo indispensable para capturar primas de precio por diferenciación de origen y calidad nutricional.
+
+**Actualización 28/04/2026**: SENASA actualizó los criterios de etiquetado de fitosanitarios incorporando el Sistema Globalmente Armonizado (SGA). Esta convergencia regulatoria refuerza la necesidad de integrar datos de insumos en la ficha individual del animal (trazabilidad de residuos).
 
 **Actualización 27/04/2026**: El interés por la carne de sistemas pastoriles y la necesidad de comunicar "identidad productiva" (INTA/TodoAgro) escala la Res. 841/2025 de una traba burocrática a un activo de marketing. La trazabilidad granular es ahora el vehículo para capturar primas de precio por diferenciación de origen.
 
