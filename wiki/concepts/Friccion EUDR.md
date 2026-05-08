@@ -11,6 +11,10 @@ last_update: 2026-04-28
 ## Descripción
 La implementación del Reglamento de Deforestación de la Unión Europea (EUDR) no solo enfrenta desafíos en los países exportadores, sino que ha comenzado a generar una fuerte fricción interna dentro de la propia Unión Europea.
 
+## Triggers y Hallazgos (08/05/2026)
+- **Presión por Registro VISEC**: Se exhorta masivamente a los productores a inscribirse en [[VISEC Carnes]] para asegurar el cumplimiento de la normativa de la UE. La baja tasa de registro actual representa un cuello de botella crítico para la cadena exportadora.
+- **Vínculo con Trazabilidad Electrónica**: La obligatoriedad de la identificación individual ([[Resolucion SENASA 841-2025]]) se vuelve indispensable para proveer los datos de geolocalización y segregación que VISEC requiere para validar embarques libres de deforestación.
+
 ## Triggers y Hallazgos (28/04/2026)
 - **Resistencia Interna**: 11 organizaciones que representan diversas cadenas productivas en la UE han firmado una declaración conjunta pidiendo cambios en la normativa.
 - **Pérdida de Autonomía**: El principal argumento es que la normativa actual podría "socavar la autonomía de los productores", lo que indica que la burocracia de trazabilidad es percibida como excesiva incluso para los actores locales europeos.
