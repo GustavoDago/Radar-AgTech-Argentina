@@ -11,8 +11,9 @@ last_update: 2026-04-28
 ## Descripción
 La implementación del Reglamento de Deforestación de la Unión Europea (EUDR) no solo enfrenta desafíos en los países exportadores, sino que ha comenzado a generar una fuerte fricción interna dentro de la propia Unión Europea.
 
-## Triggers y Hallazgos (28/04/2026)
-- **Resistencia Interna**: 11 organizaciones que representan diversas cadenas productivas en la UE han firmado una declaración conjunta pidiendo cambios en la normativa.
+## Triggers y Hallazgos (09/05/2026)
+- **Exhortación Masiva a Productores**: Se ha lanzado un llamado urgente a los ganaderos para inscribirse en **VISEC Carnes**. La meta es regularizar la situación antes de junio de 2026 para evitar sobrecostos operativos derivados de la falta de certificación de libre deforestación requerida por la UE.
+- **Resistencia Interna (28/04/2026)**: 11 organizaciones que representan diversas cadenas productivas en la UE han firmado una declaración conjunta pidiendo cambios en la normativa.
 - **Pérdida de Autonomía**: El principal argumento es que la normativa actual podría "socavar la autonomía de los productores", lo que indica que la burocracia de trazabilidad es percibida como excesiva incluso para los actores locales europeos.
 - **Incertidumbre en Plazos**: Aunque existe una postergación parcial, la presión política por modificar el reglamento antes de su plena aplicación genera un escenario de "incertidumbre regulatoria" que los exportadores argentinos deben monitorear.
 
