@@ -9,7 +9,7 @@ last_critique: 2026-04-15
 
 # Meat Sanitary Shield: SaaS de Trazabilidad Química de Insumos
 
-- **Fricción Monetizable**: El caso **ArreBeef (Abril 2026)** demuestra que un error de un proveedor (aplicar cloranfenicol o no respetar tiempos de carencia) puede destruir la rentabilidad de un frigorífico exportador. El frigorífico no tiene forma de saber qué hay "dentro" del animal hasta que un puerto en China o la UE hace un testeo químico. Cada día de cierre de mercado cuesta millones. La oportunidad es un SaaS que desplace el control al origen y lo automatice para el frigorífico.
+- **Fricción Monetizable**: El colapso operativo de **ArreBeef (Marzo-Mayo 2026)** por la detección de **cloranfenicol** en China es el "Lehman Brothers" de la trazabilidad sanitaria. Expone que la "confianza" en las declaraciones juradas de los proveedores es un riesgo sistémico. Un solo error de un feedlot (uso de antibióticos prohibidos desde 1995) le costó a ArreBeef el 60% de su mercado y la suspensión de 400 empleos. El dolor no es sanitario, es financiero: pérdida de flujo de caja y estatus de exportador confiable.
 
 - **Moat Técnico**:
     1. **Receta Digital Interconectada**: Un motor en **Java/Quarkus** que sincronice las recetas de veterinarios privados con el sistema de stock de insumos del feedlot/campo.
