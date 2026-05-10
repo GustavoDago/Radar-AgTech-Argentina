@@ -41,6 +41,11 @@ last_update: 2026-04-12
 - **Necesidad Tecnológica:** Necesitan herramientas de gestión para reconvertirse rápidamente (posiblemente a Beef on Dairy o certificación para otros mercados) y demostrar eficiencia operativa inmediata.
 - **Acción:** Contactar a los 15 remitentes afectados para ofrecer SaaS de gestión que facilite la transición y auditoría de nuevos procesos.
 
+### 6. Clúster de Búfalos (Córdoba) - NUEVO TARGET
+- **Evento:** Lanzamiento del primer mapa integral de productores, stock y distribución territorial de búfalos en Córdoba (Mayo 2026).
+- **Perfil:** Sector en diversificación con necesidad de formalización y trazabilidad.
+- **Acción:** Utilizar el mapa oficial para identificar establecimientos de punta y ofrecer SaaS de gestión ganadera adaptado a la especie.
+
 ## Frigoríficos del Consorcio ABC (Targets)
 - **Swift (Rosario):** Planta con alta capacidad de faena y foco exportador.
 - **La Anónima (Salto/Trenque Lauquen):** Líder en trazabilidad y calidad para exportación.
