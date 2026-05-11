@@ -23,6 +23,7 @@ last_update: 2026-04-12
 
 ### 2. Cuenca Lechera Rafaela (Santa Fe)
 - **Perfil:** Mayor concentración de mega-tambos del país, muchos con sistemas estabulados y robóticos.
+- **Trigger Mayo 2026:** Alta demanda de infraestructura de confinamiento (vía Menara Construcciones) para mejorar rendimientos por animal.
 - **Necesidad Tecnológica:** Integración de la identificación electrónica ([[Resolucion SENASA 841-2025]]) con el software de ordeñe y gestión reproductiva. El paso de identificación propietaria a identificación oficial es un reto.
 - **Acción:** Visitar establecimientos con más de 1,000 vacas en ordeñe para ofrecer solución SaaS de trazabilidad integrada.
 
