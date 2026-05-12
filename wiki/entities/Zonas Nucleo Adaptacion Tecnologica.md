@@ -41,6 +41,16 @@ last_update: 2026-04-12
 - **Necesidad Tecnológica:** Necesitan herramientas de gestión para reconvertirse rápidamente (posiblemente a Beef on Dairy o certificación para otros mercados) y demostrar eficiencia operativa inmediata.
 - **Acción:** Contactar a los 15 remitentes afectados para ofrecer SaaS de gestión que facilite la transición y auditoría de nuevos procesos.
 
+### 6. TodoLáctea 2026 (Villa María, Córdoba) - HOTSPOT MAYO 2026
+- **Evento:** Realización de TodoLáctea (Mayo 2026).
+- **Trigger:** Punto de encuentro masivo de la cadena láctea. Foco en robótica (ver [[Tambo Ugartemendia]]) y eficiencia en costos ante precios estancados.
+- **Acción:** Presencia institucional para captar leads de mega-tambos buscando optimización vía SaaS.
+
+### 7. Hubs de Feedlots (Zonas Extensivas) - TRIGGER CAPACIDAD
+- **Trigger:** Récord histórico de encierre en feedlots (Mayo 2026). El sector busca compensar márgenes con más kilos.
+- **Necesidad:** Gestión de precisión en la alimentación y trazabilidad individual para optimizar la conversión de carne.
+- **Acción:** Campaña dirigida a titulares de feedlots con más de 10,000 cabezas.
+
 ## Frigoríficos del Consorcio ABC (Targets)
 - **Swift (Rosario):** Planta con alta capacidad de faena y foco exportador.
 - **La Anónima (Salto/Trenque Lauquen):** Líder en trazabilidad y calidad para exportación.

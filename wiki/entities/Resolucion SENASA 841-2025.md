@@ -25,6 +25,8 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 **Actualización 15/04/2026**: Los brotes de fiebre aftosa en China (más de 200 casos) aceleran la necesidad de trazabilidad electrónica individual para blindar las exportaciones argentinas ante posibles auditorías sanitarias de emergencia.
 
+**Actualización 06/05/2026**: Publicación oficial en el Boletín Oficial de la **Norma Técnica de Trazabilidad Electrónica** (Res. 841/2025). Se ratifican los requerimientos técnicos y plazos operativos para la implementación de RFID. Es el "punto de no retorno" regulatorio.
+
 ## Componentes del Binomio
 1. **Tarjeta Visual:** Oreja izquierda (CUIG).
 2. **Dispositivo Electrónico (RFID):** Oreja derecha, bolo ruminal o transpondedor inyectable.
@@ -38,7 +40,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 ## Backlinks
 - Ver impactos en [[Pain Points de Trazabilidad]]
-- Ver objetivos en [[Frigorificos Exportadores ABC]]
+- Ver objetivos en [[Consorcio de Frigorificos ABC]]
 - Casos de aplicación: [[Frigorifico Logros]]
 - Oportunidad SaaS: [[EUDR_Compliance_Gateway]]
 - Oportunidad SaaS: [[Premium_Beef_Quality_SaaS]]
