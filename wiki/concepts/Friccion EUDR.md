@@ -11,10 +11,14 @@ last_update: 2026-04-28
 ## Descripción
 La implementación del Reglamento de Deforestación de la Unión Europea (EUDR) no solo enfrenta desafíos en los países exportadores, sino que ha comenzado a generar una fuerte fricción interna dentro de la propia Unión Europea.
 
+## Triggers y Hallazgos (13/05/2026)
+- **Rebelión de las Rurales (Díscolos)**: Más de 25 sociedades rurales de Santa Fe, Chaco, Córdoba y Buenos Aires (lideradas por [[CARSFE]]) publicaron el comunicado "Ni tutelajes, ni rehenes" contra [[VISEC]] Carne.
+- **Crisis de Representatividad**: Los productores acusan al IPCVA de arrogarse potestades no conferidas al impulsar una plataforma privada y obligatoria para exportar a la UE.
+- **Trigger de Costo**: La cuenta regresiva para el fin de la gratuidad en junio 2026 en [[VISEC]] acelera el conflicto.
+- **Pánico Frigorífico**: Solo 1.000 ganaderos registrados. El [[Consorcio de Frigorificos ABC]] teme un colapso en la oferta certificada para embarques de junio/julio.
+
 ## Triggers y Hallazgos (28/04/2026)
-- **Resistencia Interna**: 11 organizaciones que representan diversas cadenas productivas en la UE han firmado una declaración conjunta pidiendo cambios en la normativa.
-- **Pérdida de Autonomía**: El principal argumento es que la normativa actual podría "socavar la autonomía de los productores", lo que indica que la burocracia de trazabilidad es percibida como excesiva incluso para los actores locales europeos.
-- **Incertidumbre en Plazos**: Aunque existe una postergación parcial, la presión política por modificar el reglamento antes de su plena aplicación genera un escenario de "incertidumbre regulatoria" que los exportadores argentinos deben monitorear.
+- **Resistencia Interna (UE)**: 11 organizaciones europeas piden cambios. La fricción no es solo externa (Argentina) sino interna (UE).
 
 ## Implicancias para AgTech
 - **Certificación Flexible**: Las soluciones SaaS deben ser lo suficientemente flexibles para adaptarse a cambios en los criterios de auditoría que surjan de estas negociaciones políticas.

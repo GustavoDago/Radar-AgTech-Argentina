@@ -10,7 +10,7 @@ last_update: 2026-04-17
 
 ## Fricciones Identificadas
 1. **Caídas del SIGSA:** La dependencia del sistema central de SENASA para emitir el [[DT-e]] genera retrasos en la carga de camiones en establecimientos con baja conectividad.
-2. **Deterioro Operativo de SENASA (17/04/2026):** Se reporta que el organismo no puede utilizar gran parte de sus propios recursos, profundizando su deterioro operativo. Esto aumenta exponencialmente el riesgo de fallas sistémicas en SIGSA y demoras críticas en la emisión de documentos de movimiento de hacienda.
+2. **Deterioro Operativo y Desregulación (13/05/2026):** Los programas de retiros voluntarios y la "mira desreguladora" del gobierno sobre SENASA, INTA e INASE aumentan el riesgo de parálisis técnica. La falta de validadores estatales empuja a la industria hacia plataformas privadas resistidas (ver [[VISEC]]).
 3. **Fallas en la Lectura RFID:** Los lectores de baja frecuencia (RFID LF) pueden presentar interferencias en corrales de metal o balanzas electrónicas, ralentizando el movimiento de hacienda.
 4. **Inconsistencias en la Recuperación en Faena:** Los frigoríficos enfrentan el desafío de recuperar dispositivos (microchips o bolos) durante la línea de faena para evitar contaminación física del producto.
 5. **Gestión de "Beef on Dairy":** La adopción de cruzas cárnicas en tambos (estrategia para valorizar el descarte) requiere una trazabilidad individual absoluta para diferenciar terneros de reposición vs. terneros para carne desde el día 1, evitando errores en la recría.
