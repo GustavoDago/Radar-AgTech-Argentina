@@ -1,9 +1,9 @@
 ---
 type: entidad
-tags: [agtech/targets, frigorificos, exportacion, eudr, consorcio_abc]
-sources: [valorcarne.com.ar, bichosdecampo.com]
+tags: [agtech/targets, frigorificos, exportacion, eudr, consorcio_abc, usa/tariffs]
+sources: [valorcarne.com.ar, bichosdecampo.com, daily_summary_2026-05-16]
 confidence: high
-last_update: 2026-04-09
+last_update: 2026-05-16
 ---
 
 # Consorcio de Frigoríficos ABC
@@ -15,17 +15,20 @@ El Consorcio de Exportadores de Carnes Argentinas (ABC) agrupa a las empresas qu
 - **La Anónima:** Plantas en Salto y Trenque Lauquen. Alta calidad y trazabilidad.
 - **ArreBeef:** Planta en Pérez Millán. Fuerte enfoque en procesos.
 - **Gorina:** Líder en volumen exportado.
+- **Frigorífico Logros:** Fuerte presencia en Córdoba, enfocado en el mercado de EE.UU.
 
-## Triggers de Compra Críticos (Abril 2026)
-1. **D-Day Unión Europea (1º de Mayo):** Plazo perentorio para el cumplimiento de normativas de libre deforestación (EUDR). Necesitan demostrar trazabilidad granular del animal desde su origen geográfico.
-2. **Auditorías de Tercera Parte:** Presión para reemplazar procesos manuales de validación de caravanas RFID por sistemas automatizados sincronizados con el SIGSA.
-3. **Escasez de Novillos:** La baja del stock nacional (pérdida de 700k cabezas en 2025) obliga a los frigoríficos a "competir" por los mejores lotes, ofreciendo servicios de valor agregado a los productores que tengan su trazabilidad digitalizada.
-4. **Precios Récord Cuota Hilton:** El precio de la tonelada alcanzó los USD 25.000 (Abril 2026). Esto genera una ventana de liquidez para inversiones en modernización tecnológica de plantas exportadoras.
+## Triggers de Compra Críticos (Mayo 2026)
+1. **Amenaza Arancelaria EE.UU. (16/05/2026):** El amago de EE.UU. de quitar ventajas arancelarias genera una urgencia por reducir costos operativos internos. La eficiencia en la faena y la automatización de la trazabilidad son las únicas palancas bajo control directo de los frigoríficos para compensar posibles aumentos de aranceles.
+2. **D-Day Unión Europea (EUDR):** Plazo perentorio para el cumplimiento de normativas de libre deforestación. Necesitan demostrar trazabilidad granular del animal desde su origen geográfico.
+3. **Auditorías de Tercera Parte:** Presión para reemplazar procesos manuales de validación de caravanas RFID por sistemas automatizados sincronizados con el SIGSA.
+4. **Escasez de Novillos:** La baja del stock nacional obliga a los frigoríficos a "competir" por los mejores lotes, ofreciendo servicios de valor agregado a los productores que tengan su trazabilidad digitalizada.
+5. **Feedlots Profesionales al Límite:** El récord de ocupación en feedlots (Mayo 2026) presiona la logística de faena. Se requieren sistemas de gestión de turnos y sincronización de trazabilidad para evitar cuellos de botella en planta.
 
 ## Estrategia de Abordaje
-Ofrecer el [[EUDR_Compliance_Gateway]] como una capa de auditoría de bajo impacto en la infraestructura actual del frigorífico pero de alto valor para el cumplimiento normativo inmediato.
+Ofrecer el [[EUDR_Compliance_Gateway]] y dashboards de eficiencia operativa como herramientas de "mitigación de aranceles" para el mercado de EE.UU. y cumplimiento normativo para Europa.
 
 ## Backlinks
 - Ver dolores operativos en [[Pain Points de Trazabilidad]]
-- Ver solución recomendada en [[EUDR_Compliance_Gateway]]
+- Ver riesgo específico en [[Amenaza Arancelaria USA]]
+- Ver marco normativo en [[Resolucion SENASA 841-2025]]
 - Ver zona de influencia en [[Zonas Nucleo Adaptacion Tecnologica]]

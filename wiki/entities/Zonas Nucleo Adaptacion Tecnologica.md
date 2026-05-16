@@ -1,50 +1,42 @@
 ---
 type: entidad
 tags: [agtech/targets, comercial/zonas_nucleo, argentina/provincias]
-sources: [field_intelligence, industry_reports]
+sources: [field_intelligence, industry_reports, todoagro.com.ar, daily_summary_2026-05-16]
 confidence: high
-last_update: 2026-04-12
+last_update: 2026-05-16
 ---
 
 # Zonas Núcleo y Adaptación Tecnológica: Visitas Comerciales
 
-## Zonas Críticas para Visitas Presenciales (Abril 2026)
+## Zonas Críticas para Visitas Presenciales (Mayo 2026)
 
-### 0. San Francisco (Córdoba) - TRIGGERS DE EXPANSIÓN
-- **Evento:** Ampliación de infraestructura de **Cadaf** (Confirmado Abril 2026).
-- **Perfil:** Exportación de alfalfa y servicios logísticos.
-- **Trigger:** Inversión estratégica para duplicar exportaciones de alfalfa. Indica alta capacidad de inversión y una necesidad crítica de trazabilidad de origen y logística para consolidar el posicionamiento en mercados globales desafiantes.
-- **Acción:** Contactar a directivos de Cadaf y empresas del clúster de alfalfa de San Francisco para ofrecer auditoría de trazabilidad de procesos.
-
-### 1. Nogoyá (Entre Ríos) - PRIORIDAD INMEDIATA
-- **Evento:** ExpoLeche (17 al 19 de Abril).
-- **Perfil:** Foco en genética Jersey y lechería especializada.
-- **Acción:** Presencia comercial para captar early adopters de trazabilidad individual electrónica aplicada a la selección genética de precisión.
+### 1. Cuenca Villa María (Córdoba) - HUB DE INNOVACIÓN POST-TODOLÁCTEA
+- **Evento:** Finalización de **TodoLáctea 2026** (23.000+ asistentes).
+- **Perfil:** Epicentro de mega-tambos en transición hacia modelos confinados.
+- **Pain Points Detectados (16/05/2026):** Salud individual, manejo de calostro y estrés calórico. Los productores buscan soluciones que automaticen el monitoreo de estos 3 pilares sin aumentar la carga laboral.
+- **Trigger:** "La genética pesa más que el manejo". Oportunidad para dashboards que integren datos genéticos con performance de salud en tiempo real.
+- **Acción:** Visita prioritaria a James Craik, Tío Pujio y Villa María. Contactar a los remitentes que participaron en las Jornadas Lecheras Nacionales.
 
 ### 2. Cuenca Lechera Rafaela (Santa Fe)
 - **Perfil:** Mayor concentración de mega-tambos del país, muchos con sistemas estabulados y robóticos.
-- **Necesidad Tecnológica:** Integración de la identificación electrónica ([[Resolucion SENASA 841-2025]]) con el software de ordeñe y gestión reproductiva. El paso de identificación propietaria a identificación oficial es un reto.
-- **Acción:** Visitar establecimientos con más de 1,000 vacas en ordeñe para ofrecer solución SaaS de trazabilidad integrada.
+- **Necesidad Tecnológica (Actualización Mayo 2026):** El récord de ocupación de feedlots y la presión en tambos confinados exige una gestión de precisión del confort animal.
+- **Acción:** Visitar establecimientos con más de 1,000 vacas en ordeñe para ofrecer solución SaaS de trazabilidad integrada y monitoreo de salud.
 
 ### 3. Eje Rosario - Trenque Lauquen (Santa Fe - Buenos Aires)
 - **Perfil:** Corredor de los principales frigoríficos del **Consorcio ABC** y mega-feeldots.
-- **Necesidad Tecnológica:** El cumplimiento de la normativa UE de libre deforestación exige una auditoría granular del origen del animal, imposible de escalar manualmente.
-- **Acción:** Reunión con gerentes de calidad de frigoríficos exportadores para demostrar auditoría automatizada de caravanas RFID sincronizadas con el [[DT-e]].
+- **Trigger USA (16/05/2026):** La amenaza arancelaria de EE.UU. impacta directamente en este eje (Swift, La Anónima, ArreBeef). La demanda por eficiencia en procesos de faena y trazabilidad es máxima.
+- **Acción:** Reunión con gerentes de planta para demostrar cómo la automatización de la trazabilidad ([[Resolucion SENASA 841-2025]]) reduce costos operativos y asegura el cumplimiento para exportación.
 
-### 4. Cuenca Villa María (Córdoba)
-- **Perfil:** Hub de servicios agrotecnológicos y sede de **TodoLáctea**. Concentra tambos de escala que están migrando masivamente al modelo *Beef on Dairy* para maximizar rentabilidad operativa (vía genética carnicera en el 30-40% del rodeo).
-- **Necesidad Tecnológica:** Dashboards que conviertan el descarte intuitivo en negocio estratégico mediante [[Beef_on_Dairy_Analytics_Engine]].
-- **Acción:** Visita prioritaria a James Craik y Oncativo. Contactar a los remitentes de mega-tambos de la zona para ofrecer auditoría de trazabilidad individual desde el nacimiento.
+### 4. San Francisco (Córdoba) - TRIGGERS DE EXPANSIÓN
+- **Perfil:** Exportación de alfalfa y servicios logísticos.
+- **Trigger:** Ampliación de **Cadaf**. Necesidad de trazabilidad de origen para alfalfa premium.
+- **Acción:** Contactar al clúster de alfalfa para ofrecer auditoría de trazabilidad de procesos.
 
-### 5. Tambos Orgánicos en Crisis (Post-Nestlé)
-- **Perfil:** 15 tambos de punta que proveían a Nestlé y ahora deben pivotar su modelo de negocio.
-- **Necesidad Tecnológica:** Necesitan herramientas de gestión para reconvertirse rápidamente (posiblemente a Beef on Dairy o certificación para otros mercados) y demostrar eficiencia operativa inmediata.
-- **Acción:** Contactar a los 15 remitentes afectados para ofrecer SaaS de gestión que facilite la transición y auditoría de nuevos procesos.
-
-## Frigoríficos del Consorcio ABC (Targets)
-- **Swift (Rosario):** Planta con alta capacidad de faena y foco exportador.
-- **La Anónima (Salto/Trenque Lauquen):** Líder en trazabilidad y calidad para exportación.
+## Frigoríficos del Consorcio ABC (Targets Prioritarios Mayo 2026)
+- **Swift (Rosario):** Foco en volumen y mitigación de costos operativos ante amenazas arancelarias.
+- **Frigorífico Logros (Río Segundo):** Target principal para el mercado de EE.UU. y cumplimiento EUDR.
 
 ## Backlinks
 - Ver dolores operativos en [[Pain Points de Trazabilidad]]
 - Ver marco regulatorio en [[Resolucion SENASA 841-2025]]
+- Ver riesgo de mercado en [[Amenaza Arancelaria USA]]
