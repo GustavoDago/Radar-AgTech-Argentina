@@ -3,7 +3,7 @@ type: concepto
 tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
 sources: [industry_reports, market_feedback, daily_summary_2026-04-08]
 confidence: high
-last_update: 2026-04-17
+last_update: 2026-05-19
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
@@ -14,6 +14,7 @@ last_update: 2026-04-17
 3. **Fallas en la Lectura RFID:** Los lectores de baja frecuencia (RFID LF) pueden presentar interferencias en corrales de metal o balanzas electrónicas, ralentizando el movimiento de hacienda.
 4. **Inconsistencias en la Recuperación en Faena:** Los frigoríficos enfrentan el desafío de recuperar dispositivos (microchips o bolos) durante la línea de faena para evitar contaminación física del producto.
 5. **Gestión de "Beef on Dairy":** La adopción de cruzas cárnicas en tambos (estrategia para valorizar el descarte) requiere una trazabilidad individual absoluta para diferenciar terneros de reposición vs. terneros para carne desde el día 1, evitando errores en la recría.
+6. **Fricciones Técnicas en Mega-Tambos (Mayo 2026):** Los reportes de **TodoLáctea 2026** identifican la salud individual, el manejo del calostro y el estrés calórico como los tres puntos de dolor operativos más críticos para la expansión de tambos confinados.
 
 ## Desafíos de Cumplimiento (Actualizado Abril 2026)
 - **Resolución 841/2025:** Obligatoriedad de lectura electrónica para todos los movimientos a partir de 2026. La falta de infraestructura (lectores, conectividad) es un cuello de botella crítico.
@@ -25,7 +26,7 @@ last_update: 2026-04-17
 - Software que funcione offline y sincronice con SIGSA cuando haya conexión.
 - Dashboard de métricas de eficiencia en la lectura RFID por lote.
 - **Integración Genética:** Módulos que vinculen el [[Resolucion SENASA 841-2025]] con índices de calidad de carne (ver [[Asociacion Braford Argentina]]) para capturar el sobreprecio en mercados de exportación.
-- **Auditoría SaaS:** Sistemas de auditoría "EU-Ready" para cumplimiento de plazos inmediatos y validación de origen.
+- **Auditoría SaaS:** Sistemas de auditoría "EU-Ready" y "China-Ready" para cumplimiento de plazos inmediatos y validación de origen ante misiones comerciales (ej: SIAL China).
 
 ## Backlinks
 - Ver normativa en [[Resolucion SENASA 841-2025]]
