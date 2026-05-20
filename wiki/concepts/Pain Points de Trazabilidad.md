@@ -3,7 +3,7 @@ type: concepto
 tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
 sources: [industry_reports, market_feedback, daily_summary_2026-04-08]
 confidence: high
-last_update: 2026-04-17
+last_update: 2026-05-20
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
@@ -19,6 +19,7 @@ last_update: 2026-04-17
 - **Resolución 841/2025:** Obligatoriedad de lectura electrónica para todos los movimientos a partir de 2026. La falta de infraestructura (lectores, conectividad) es un cuello de botella crítico.
 - **Auditorías Externas:** Necesidad de reportes instantáneos para auditorías de la Unión Europea sobre el origen electrónico del animal.
 - **Deadline Europa (1º de Mayo - Urgencia Crítica):** Ratificado el 1 de mayo como la "hora cero" (D-Day) para embarques a la UE bajo las nuevas normativas de libre deforestación (EUDR) y trazabilidad granular. Los frigoríficos del [[Consorcio de Frigorificos ABC]] (ej: [[Frigorifico Logros]]) están bajo presión máxima para auditar el origen electrónico y geográfico de cada animal. El sistema SIGSA/SENASA actual presenta baches de información que requieren validación SaaS externa inmediata.
+- **SIAL China 2026 (20/05/2026):** La misión comercial a China revela que la trazabilidad ya no es solo cumplimiento burocrático, sino una herramienta de competitividad frente a Brasil. El dolor actual es la falta de dashboards "audit-ready" que permitan mostrar a compradores chinos la historia sanitaria e individual del animal en segundos.
 - **Pérdida de Stock Vacuno:** Datos oficiales de 2025 confirman una **pérdida de 700.000 cabezas** (con una pérdida estructural de 3.2M desde 2022). Esta escasez de oferta eleva el valor estratégico de cada animal y acelera la adopción de "Beef on Dairy". El dolor técnico es la **segregación de datos** y la captura de primas de calidad mediante el monitoreo individual indispensable.
 
 ## Oportunidades de Venta Directa
