@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/Incentivos a la Inversion RIMI.md",
+                "file": "Pre_Mortem_SFaaS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incentivos a la Inversion RIMI"
+              "title": "Pre_Mortem_SFaaS"
             }
           }
         ]
@@ -182,8 +182,27 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "8dfd1512ecc8b090",
+  "active": "03f1605d57fbc793",
   "lastOpenFiles": [
+    "wiki/opportunities/PreMortem_Hyper_Local_Yield.md",
+    "wiki/opportunities/PreMortem_Private_Extension.md",
+    "wiki/opportunities/PreMortem_Shared_Factory.md",
+    "wiki/opportunities/PreMortem_Full_Stack_Traceability.md",
+    "wiki/opportunities/PrePremortem_Full_Stack_Traceability.md",
+    "wiki/opportunities/PreMortem_Whey_Valorization.md",
+    "wiki/opportunities/PreMortem_Beef_on_Dairy.md",
+    "wiki/opportunities/PreMortem_Agro_Liquidity.md",
+    "wiki/opportunities/PreMortem_Enterprise_Barter.md",
+    "wiki/opportunities/PreMortem_Orphan_Tambo.md",
+    "wiki/opportunities/PreMortem_Gorina_Sanitary.md",
+    "wiki/opportunities/PreMortem_Decentralized_Genetic.md",
+    "wiki/opportunities/PreMortem_Chemical_Compliance.md",
+    "wiki/opportunities/PreMortem_MEVA_Verification.md",
+    "wiki/opportunities/PreMortem_Alfalfa_Traceability.md",
+    "wiki/opportunities/PreMortem_Premium_Beef.md",
+    "wiki/sources/CADAF_Public_Data_2026.md",
+    "wiki/daily/2026-05-25.md",
+    "wiki/concepts/Incentivos a la Inversion RIMI.md",
     "wiki/concepts/Colapso Institucional SENASA INTA.md",
     "wiki/daily/2026-05-24.md",
     "wiki/concepts/Agotamiento de Nutrientes en Suelos.md",
@@ -191,25 +210,6 @@
     "wiki/daily/2026-05-23.md",
     "wiki/concepts/Ventana Competitiva Riesgo EUDR Brasil.md",
     "wiki/entities/Ruta 10 Sur de Cordoba.md",
-    "wiki/entities/Las Nacionales 2026.md",
-    "wiki/daily/2026-05-22.md",
-    "wiki/concepts/Oportunidad Competitiva EUDR.md",
-    "wiki/daily/2026-05-21.md",
-    "wiki/daily/2026-05-20.md",
-    "wiki/concepts/Reduccion Impositiva Invernada.md",
-    "wiki/entities/SIAL_China_2026.md",
-    "wiki/daily/2026-05-19.md",
-    "wiki/daily/2026-05-18.md",
-    "wiki/concepts/Geo Reportes Agricolas Cordoba.md",
-    "wiki/concepts/Friccion Operativa en Mega-tambos.md",
-    "wiki/daily/2026-05-17.md",
-    "wiki/concepts/Gestion de Genetica en Mega-Tambos.md",
-    "wiki/daily/2026-05-16.md",
-    "wiki/concepts/Amenaza Arancelaria USA.md",
-    "wiki/entities/Zona Ganadera Olavarria.md",
-    "wiki/daily/2026-05-15.md",
-    "wiki/concepts/Colapso Operativo Estatal.md",
-    "wiki/daily/2026-05-14.md",
     "raw/scrape_20260525_153025.json",
     "raw/scrape_20260419_191359.json",
     "__pycache__/scraper.cpython-314.pyc",

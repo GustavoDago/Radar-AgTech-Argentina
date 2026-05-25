@@ -32,11 +32,26 @@
 - [Explorar Carpeta de Oportunidades](file:///wiki/opportunities/)
 
 ### 🔍 Análisis de Riesgo & Pre-Mortems
+- [[PreMortem_Agro_Liquidity]]
+- [[PreMortem_Alfalfa_Traceability]]
+- [[PreMortem_Beef_on_Dairy]]
 - [[PreMortem_Biocombustibles_Ledger]]
+- [[PreMortem_Chemical_Compliance]]
+- [[PreMortem_Decentralized_Genetic]]
 - [[PreMortem_EUDR_Compliance]]
 - [[PreMortem_Effluent_Compliance]]
+- [[PreMortem_Enterprise_Barter]]
+- [[PreMortem_Full_Stack_Traceability]]
+- [[PreMortem_Gorina_Sanitary]]
+- [[PreMortem_Hyper_Local_Yield]]
+- [[PreMortem_MEVA_Verification]]
+- [[PreMortem_Orphan_Tambo]]
+- [[PreMortem_Premium_Beef]]
+- [[PreMortem_Private_Extension]]
 - [[PreMortem_SISA_Shield]]
+- [[PreMortem_Shared_Factory]]
 - [[PreMortem_Terminal_Queue]]
+- [[PreMortem_Whey_Valorization]]
 
 ## 🏢 Entidades Clave
 - [[ArreBeef]]

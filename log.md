@@ -1,3 +1,73 @@
+## [2026-05-25] analyze | Análisis Pre-Mortem para la Oportunidad Hyper-Local Yield Oracle
+
+- **Análisis de Portafolio (Pre-Mortem Forense)**:
+  - Creado informe pre-mortem de vulnerabilidad SFaaS: [[PreMortem_Hyper_Local_Yield]] (`wiki/opportunities/PreMortem_Hyper_Local_Yield.md`), analizando la viabilidad del oráculo climático, fallas del hardware IoT rural, fraude físico y la asimetría legal/regulatoria frente a la SSN.
+- **Archivos Actualizados**:
+  - `index.md` (Indexación de autopsias)
+
+## [2026-05-25] analyze | Análisis Pre-Mortem para la Oportunidad Private Extension Copilot SaaS
+
+- **Análisis de Portafolio (Pre-Mortem Forense)**:
+  - Creado informe pre-mortem de vulnerabilidad SFaaS: [[PreMortem_Private_Extension]] (`wiki/opportunities/PreMortem_Private_Extension.md`), analizando los 6 vectores de fricción y el desacople físico-digital ante el vaciamiento del INTA y la red descentralizada de asesores.
+- **Archivos Actualizados**:
+  - `index.md` (Indexación de autopsias)
+
+## [2026-05-25] analyze | Análisis Pre-Mortem para la Oportunidad Shared-Factory Protocol
+
+- **Análisis de Portafolio (Pre-Mortem Forense)**:
+  - Creado informe pre-mortem de vulnerabilidad SFaaS: [[PreMortem_Shared_Factory]] (`wiki/opportunities/PreMortem_Shared_Factory.md`), analizando los 6 vectores de fricción SFaaS y el desacople físico-digital en la orquestación láctea MaaS frente al Factor ATILRA.
+- **Archivos Actualizados**:
+  - `index.md` (Indexación de autopsias)
+
+## [2026-05-25] analyze | Análisis Pre-Mortem para la Oportunidad Agro Liquidity Tokenization
+
+- **Análisis de Portafolio (Pre-Mortem Forense)**:
+  - Creado informe pre-mortem de vulnerabilidad SFaaS: [[PreMortem_Agro_Liquidity]] (`wiki/opportunities/PreMortem_Agro_Liquidity.md`), analizando los 6 vectores de fricción SFaaS y el desacople físico-digital del colateral físico agropecuario.
+- **Archivos Actualizados**:
+  - `index.md` (Indexación de autopsias)
+
+## [2026-05-25] analyze | Análisis Pre-Mortem para la Oportunidad Whey Valorization Analytics
+
+- **Análisis de Portafolio (Pre-Mortem Forense)**:
+  - Creado informe pre-mortem de vulnerabilidad SFaaS: [[PreMortem_Whey_Valorization]] (`wiki/opportunities/PreMortem_Whey_Valorization.md`), analizando los 6 vectores de fricción, la degradación física del suero, la calibración de sensores ópticos y el oligopsonio lácteo nacional.
+- **Archivos Actualizados**:
+  - `index.md` (Indexación de autopsias)
+
+## [2026-05-25] analyze | Análisis Pre-Mortem para la Oportunidad Gorina Sanitary Shield SaaS
+
+- **Análisis de Portafolio (Pre-Mortem Forense)**:
+  - Creado informe pre-mortem de vulnerabilidad SFaaS: [[PreMortem_Gorina_Sanitary]] (`wiki/opportunities/PreMortem_Gorina_Sanitary.md`), analizando los 6 vectores de fricción y el desacople físico-digital en la noria de faena para exportación a China.
+- **Archivos Actualizados**:
+  - `index.md` (Indexación de autopsias)
+
+## [2026-05-25] analyze | Análisis Pre-Mortem para la Oportunidad Chemical Compliance SaaS
+
+- **Análisis de Portafolio (Pre-Mortem Forense)**:
+  - Creado informe pre-mortem de vulnerabilidad SFaaS: [[PreMortem_Chemical_Compliance]] (`wiki/opportunities/PreMortem_Chemical_Compliance.md`), analizando el Meat Sanitary Shield (MSS), riesgos biológicos, de hardware y de incentivación del productor.
+- **Archivos Actualizados**:
+  - `index.md` (Añadido al catálogo maestro e indexación de autopsias)
+
+## [2026-05-25] analyze | Análisis Pre-Mortem para la Oportunidad Decentralized Genetic Registry
+
+- **Análisis de Portafolio (Pre-Mortem Forense)**:
+  - Creado informe pre-mortem de vulnerabilidad SFaaS: [[PreMortem_Decentralized_Genetic]] (`wiki/opportunities/PreMortem_Decentralized_Genetic.md`), evaluando los riesgos del monopolio registral de la SRA, integraciones de laboratorio y desacople físico-digital.
+- **Archivos Actualizados**:
+  - `index.md` (Añadido al catálogo maestro e indexación de autopsias)
+
+## [2026-05-25] analyze | Análisis Pre-Mortem para la Oportunidad MEVA Verification SaaS
+
+- **Análisis de Portafolio (Pre-Mortem Forense)**:
+  - Creado informe pre-mortem de vulnerabilidad SFaaS: [[PreMortem_MEVA_Verification]] (`wiki/opportunities/PreMortem_MEVA_Verification.md`), evaluando el modelo de MRV de carbono e integraciones con MEVA y el impacto regulatorio-geopolítico.
+- **Archivos Actualizados**:
+  - `index.md` (Añadido al catálogo maestro e indexación de autopsias)
+
+## [2026-05-25] analyze | Análisis Pre-Mortem para la Oportunidad Premium Beef Quality SaaS
+
+- **Análisis de Portafolio (Pre-Mortem Forense)**:
+  - Creado informe pre-mortem de vulnerabilidad SFaaS: [[PreMortem_Premium_Beef]] (`wiki/opportunities/PreMortem_Premium_Beef.md`), analizando los 6 vectores de fricción y el desacople físico-digital.
+- **Archivos Actualizados**:
+  - `index.md` (Añadido al catálogo maestro e indexación de autopsias)
+
 ## [2026-05-25] sync | Ingesta de Inteligencia Diaria, 2 nuevos conceptos y 2 tesis actualizadas
 
 - **Automatización & Inteligencia Diaria**:
