@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radar AgTech Argentina - CTO Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0b0f19;
+            --card-bg: rgba(17, 24, 39, 0.7);
+            --border-color: rgba(255, 255, 255, 0.08);
+            --primary: #3b82f6;
+            --primary-glow: rgba(59, 130, 246, 0.15);
+            --viable: #10b981;
+            --redesign: #f59e0b;
+            --nogo: #ef4444;
+            --text-main: #f3f4f6;
+            --text-muted: #9ca3af;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            min-height: 100vh;
+            overflow-x: hidden;
+            background-image: 
+                radial-gradient(at 10% 20%, rgba(59, 130, 246, 0.1) 0px, transparent 50%),
+                radial-gradient(at 90% 80%, rgba(16, 185, 129, 0.05) 0px, transparent 50%);
+        }
+
+        header {
+            padding: 2.5rem 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.2rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #fff 30%, #93c5fd 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: -0.02em;
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            margin-top: 0.4rem;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+        }
+
+        /* FILTERS & SEARCH */
+        .controls {
+            display: flex;
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+            background: var(--card-bg);
+            backdrop-filter: blur(12px);
+            padding: 1.2rem;
+            border-radius: 16px;
+            border: 1px solid var(--border-color);
+        }
+
+        .control-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            flex: 1;
+            min-width: 250px;
+        }
+
+        .control-group label {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-muted);
+        }
+
+        input, select {
+            background: rgba(31, 41, 55, 0.5);
+            border: 1px solid var(--border-color);
+            color: #fff;
+            padding: 0.75rem 1rem;
+            border-radius: 8px;
+            font-family: inherit;
+            font-size: 0.9rem;
+            outline: none;
+            transition: all 0.2s ease;
+        }
+
+        input:focus, select:focus {
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px var(--primary-glow);
+        }
+
+        /* GRID */
+        .opportunities-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+            gap: 2rem;
+        }
+
+        .card {
+            background: var(--card-bg);
+            backdrop-filter: blur(12px);
+            border-radius: 20px;
+            border: 1px solid var(--border-color);
+            padding: 1.8rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card:hover {
+            transform: translateY(-6px);
+            border-color: rgba(59, 130, 246, 0.3);
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 1rem;
+        }
+
+        .card-title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.3rem;
+            font-weight: 600;
+            letter-spacing: -0.01em;
+            color: #fff;
+        }
+
+        .badge {
+            padding: 0.35rem 0.75rem;
+            border-radius: 100px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            white-space: nowrap;
+        }
+
+        .badge-viable {
+            background: rgba(16, 185, 129, 0.1);
+            color: var(--viable);
+            border: 1px solid rgba(16, 185, 129, 0.2);
+        }
+
+        .badge-redesign {
+            background: rgba(245, 158, 11, 0.1);
+            color: var(--redesign);
+            border: 1px solid rgba(245, 158, 11, 0.2);
+        }
+
+        .badge-nogo {
+            background: rgba(239, 68, 68, 0.1);
+            color: var(--nogo);
+            border: 1px solid rgba(239, 68, 68, 0.2);
+        }
+
+        /* METRICS BAR CHART */
+        .metrics {
+            display: flex;
+            flex-direction: column;
+            gap: 0.8rem;
+        }
+
+        .metric-row {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            font-size: 0.8rem;
+        }
+
+        .metric-label {
+            width: 140px;
+            color: var(--text-muted);
+            font-weight: 500;
+        }
+
+        .metric-track {
+            flex: 1;
+            height: 6px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .metric-fill {
+            height: 100%;
+            border-radius: 10px;
+            transition: width 1s ease-out;
+        }
+
+        .fill-primary {
+            background: linear-gradient(90deg, #3b82f6, #60a5fa);
+        }
+
+        .metric-value {
+            width: 20px;
+            text-align: right;
+            font-weight: 600;
+            color: #fff;
+        }
+
+        .avg-score {
+            display: flex;
+            align-items: baseline;
+            gap: 0.3rem;
+            background: rgba(255, 255, 255, 0.03);
+            padding: 0.6rem 1rem;
+            border-radius: 12px;
+            border: 1px solid var(--border-color);
+        }
+
+        .avg-num {
+            font-size: 1.8rem;
+            font-weight: 700;
+            font-family: 'Outfit', sans-serif;
+            color: #fff;
+        }
+
+        .avg-lbl {
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-muted);
+        }
+
+        /* COLLAPSIBLE DETAILS */
+        .details-btn {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--border-color);
+            color: var(--text-main);
+            padding: 0.6rem;
+            border-radius: 10px;
+            cursor: pointer;
+            font-family: inherit;
+            font-size: 0.8rem;
+            font-weight: 600;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.2s ease;
+        }
+
+        .details-btn:hover {
+            background: rgba(255, 255, 255, 0.06);
+            border-color: rgba(255, 255, 255, 0.15);
+        }
+
+        .details-panel {
+            display: none;
+            flex-direction: column;
+            gap: 1rem;
+            border-top: 1px solid var(--border-color);
+            padding-top: 1.2rem;
+            animation: fadeIn 0.3s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(5px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .panel-sec {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .panel-sec-title {
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-muted);
+        }
+
+        .bullet-list {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 0.4rem;
+        }
+
+        .bullet-list li {
+            font-size: 0.8rem;
+            color: var(--text-main);
+            position: relative;
+            padding-left: 1.2rem;
+            line-height: 1.4;
+        }
+
+        .bullet-list li::before {
+            content: "•";
+            position: absolute;
+            left: 0.3rem;
+            color: var(--primary);
+            font-weight: bold;
+        }
+
+        .bullet-list-risks li::before {
+            color: var(--nogo);
+        }
+
+        .bullet-list-adjust li::before {
+            color: var(--viable);
+        }
+
+        .footer {
+            text-align: center;
+            padding: 3rem 2rem;
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            border-top: 1px solid var(--border-color);
+            margin-top: 4rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div>
+            <h1>Radar AgTech Argentina</h1>
+            <p class="subtitle">Cuadro de Mando del CTO: Viabilidad Forense Prospectiva (Pre-Mortem SFaaS)</p>
+        </div>
+        <div class="avg-score">
+            <span class="avg-num" id="total-count">0</span>
+            <span class="avg-lbl">Tesis</span>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="controls">
+            <div class="control-group">
+                <label for="search">Buscar Oportunidad</label>
+                <input type="text" id="search" placeholder="Ej. Alfalfa, EUDR, Barter..." oninput="filterData()">
+            </div>
+            <div class="control-group">
+                <label for="filter-verdicto">Veredicto Final</label>
+                <select id="filter-verdicto" onchange="filterData()">
+                    <option value="ALL">Todos los veredictos</option>
+                    <option value="VIABLE CON CORRECCIONES">Viable con correcciones</option>
+                    <option value="REQUIERE REDISEÑO FUNDAMENTAL">Requiere rediseño fundamental</option>
+                    <option value="NO EJECUTAR">No ejecutar</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <label for="sort-by">Ordenar Por</label>
+                <select id="sort-by" onchange="filterData()">
+                    <option value="promedio">Promedio General (CTO Score)</option>
+                    <option value="resiliencia">Resiliencia (Conectividad / Offline)</option>
+                    <option value="gobierno">Adaptación Cambios Gobierno</option>
+                    <option value="escalabilidad">Escalabilidad (Bajo Hardware)</option>
+                    <option value="geopolitica">Blindaje Geopolítico (EUDR)</option>
+                    <option value="comercial">Viabilidad Comercial</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="opportunities-grid" id="grid">
+            <!-- Renderizado dinámico -->
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Radar AgTech Argentina - Bóveda de Decisiones del CTO. Todos los análisis están basados en el Prompt Pre-Mortem SFaaS.</p>
+    </div>
+
+    <script>
+        const rawData = [
+    {
+        "opportunity": "EUDR Compliance",
+        "filename": "PreMortem_EUDR_Compliance.md",
+        "veredicto": "VIABLE CON CORRECCIONES",
+        "resiliencia": 8,
+        "gobierno": 7,
+        "escalabilidad": 9,
+        "geopolitica": 10,
+        "comercial": 9,
+        "promedio": 8.6,
+        "risks": [
+            "Riesgo operacional rural",
+            "Inestabilidad de APIs de control estatal",
+            "Retorno de inversión lento"
+        ],
+        "adjustments": [
+            "Desacoplamiento asíncrono en colas de mensajería",
+            "Arquitectura local-first con SQLite",
+            "Validación en gancho/campo física",
+            "Pivot a modelo de monetización B2B",
+            "Capa de compatibilidad con estándar VISEC"
+        ]
+    },
+    {
+        "opportunity": "Biocombustibles Ledger",
+        "filename": "PreMortem_Biocombustibles_Ledger.md",
+        "veredicto": "VIABLE CON CORRECCIONES",
+        "resiliencia": 7,
+        "gobierno": 8,
+        "escalabilidad": 8,
+        "geopolitica": 9,
+        "comercial": 9,
+        "promedio": 8.2,
+        "risks": [
+            "Riesgo operacional rural",
+            "Inestabilidad de APIs de control estatal",
+            "Retorno de inversión lento"
+        ],
+        "adjustments": [
+            "Desacoplamiento asíncrono en colas de mensajería",
+            "Arquitectura local-first con SQLite",
+            "Validación en gancho/campo física",
+            "Pivot a modelo de monetización B2B",
+            "Capa de compatibilidad con estándar VISEC"
+        ]
+    },
+    {
+        "opportunity": "Terminal Queue",
+        "filename": "PreMortem_Terminal_Queue.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 9,
+        "gobierno": 7,
+        "escalabilidad": 9,
+        "geopolitica": 5,
+        "comercial": 9,
+        "promedio": 7.8,
+        "risks": [
+            "Riesgo operacional rural",
+            "Inestabilidad de APIs de control estatal",
+            "Retorno de inversión lento"
+        ],
+        "adjustments": [
+            "Desacoplamiento asíncrono en colas de mensajería",
+            "Arquitectura local-first con SQLite",
+            "Validación en gancho/campo física",
+            "Pivot a modelo de monetización B2B",
+            "Capa de compatibilidad con estándar VISEC"
+        ]
+    },
+    {
+        "opportunity": "Effluent Compliance",
+        "filename": "PreMortem_Effluent_Compliance.md",
+        "veredicto": "VIABLE CON CORRECCIONES",
+        "resiliencia": 8,
+        "gobierno": 8,
+        "escalabilidad": 8,
+        "geopolitica": 6,
+        "comercial": 8,
+        "promedio": 7.6,
+        "risks": [
+            "Riesgo operacional rural",
+            "Inestabilidad de APIs de control estatal",
+            "Retorno de inversión lento"
+        ],
+        "adjustments": [
+            "Desacoplamiento asíncrono en colas de mensajería",
+            "Arquitectura local-first con SQLite",
+            "Validación en gancho/campo física",
+            "Pivot a modelo de monetización B2B",
+            "Capa de compatibilidad con estándar VISEC"
+        ]
+    },
+    {
+        "opportunity": "Gorina Sanitary",
+        "filename": "PreMortem_Gorina_Sanitary.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 6,
+        "gobierno": 5,
+        "escalabilidad": 8,
+        "geopolitica": 9,
+        "comercial": 9,
+        "promedio": 7.4,
+        "risks": [
+            ""
+        ],
+        "adjustments": [
+            ""
+        ]
+    },
+    {
+        "opportunity": "SISA Shield",
+        "filename": "PreMortem_SISA_Shield.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 8,
+        "gobierno": 6,
+        "escalabilidad": 9,
+        "geopolitica": 6,
+        "comercial": 8,
+        "promedio": 7.4,
+        "risks": [
+            "Riesgo operacional rural",
+            "Inestabilidad de APIs de control estatal",
+            "Retorno de inversión lento"
+        ],
+        "adjustments": [
+            "Desacoplamiento asíncrono en colas de mensajería",
+            "Arquitectura local-first con SQLite",
+            "Validación en gancho/campo física",
+            "Pivot a modelo de monetización B2B",
+            "Capa de compatibilidad con estándar VISEC"
+        ]
+    },
+    {
+        "opportunity": "Premium Beef",
+        "filename": "PreMortem_Premium_Beef.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 6,
+        "gobierno": 5,
+        "escalabilidad": 8,
+        "geopolitica": 9,
+        "comercial": 8,
+        "promedio": 7.2,
+        "risks": [
+            "Riesgo operacional rural",
+            "Inestabilidad de APIs de control estatal",
+            "Retorno de inversión lento"
+        ],
+        "adjustments": [
+            ""
+        ]
+    },
+    {
+        "opportunity": "Alfalfa Traceability",
+        "filename": "PreMortem_Alfalfa_Traceability.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 5,
+        "gobierno": 6,
+        "escalabilidad": 7,
+        "geopolitica": 8,
+        "comercial": 8,
+        "promedio": 6.8,
+        "risks": [
+            ""
+        ],
+        "adjustments": [
+            ""
+        ]
+    },
+    {
+        "opportunity": "Chemical Compliance",
+        "filename": "PreMortem_Chemical_Compliance.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 6,
+        "gobierno": 5,
+        "escalabilidad": 8,
+        "geopolitica": 7,
+        "comercial": 8,
+        "promedio": 6.8,
+        "risks": [
+            ""
+        ],
+        "adjustments": [
+            ""
+        ]
+    },
+    {
+        "opportunity": "Full Stack Traceability",
+        "filename": "PreMortem_Full_Stack_Traceability.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 5,
+        "gobierno": 5,
+        "escalabilidad": 7,
+        "geopolitica": 8,
+        "comercial": 7,
+        "promedio": 6.4,
+        "risks": [
+            ""
+        ],
+        "adjustments": [
+            "",
+            ""
+        ]
+    },
+    {
+        "opportunity": "Beef on Dairy",
+        "filename": "PreMortem_Beef_on_Dairy.md",
+        "veredicto": "NO EJECUTAR",
+        "resiliencia": 5,
+        "gobierno": 6,
+        "escalabilidad": 7,
+        "geopolitica": 6,
+        "comercial": 6,
+        "promedio": 6.0,
+        "risks": [
+            ""
+        ],
+        "adjustments": [
+            ""
+        ]
+    },
+    {
+        "opportunity": "Enterprise Barter",
+        "filename": "PreMortem_Enterprise_Barter.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 6,
+        "gobierno": 4,
+        "escalabilidad": 8,
+        "geopolitica": 5,
+        "comercial": 7,
+        "promedio": 6.0,
+        "risks": [
+            ""
+        ],
+        "adjustments": [
+            "",
+            ""
+        ]
+    },
+    {
+        "opportunity": "Decentralized Genetic",
+        "filename": "PreMortem_Decentralized_Genetic.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 5,
+        "gobierno": 5,
+        "escalabilidad": 7,
+        "geopolitica": 6,
+        "comercial": 6,
+        "promedio": 5.8,
+        "risks": [
+            "**Probabilidad:** Alta. La SRA cuenta con el respaldo de la Ley de Registros Genealógicos y un fuerte lobby político que impedirá la validez legal de un registro paralelo.",
+            "**Horizonte temporal:** 3 a 6 meses desde el lanzamiento comercial.",
+            "**Vector de fricción comprometido:** Vector 3 (Arbitraje y Confianza)."
+        ],
+        "adjustments": [
+            "**Intervención:** Cancelar el intento de reemplazar o competir con el Registro Genealógico de la SRA. Reorientar el sistema como una **Caja Fuerte Genética de Gestión Interna** y preauditoría para las razas. El software debe simplificar y validar los datos de manera interna *antes* de que la asociación envíe formalmente el lote a la SRA.",
+            "**Costo estimado:** 2 meses de rediseño de flujos funcionales.",
+            "**Riesgo mitigado:** Riesgo de bloqueo legal y nulidad del pedigree (mitiga la confrontación directa con la SRA y SENASA).",
+            "**Intervención:** Reemplazar la compleja e ineficiente infraestructura Hyperledger Fabric por una base de datos PostgreSQL tradicional optimizada en Java/Quarkus, implementando un registro de auditoría inmutable mediante firmas SHA256 de cada fila de base de datos firmada por la clave privada del inspector.",
+            "**Costo estimado:** Ahorro directo de USD 8,000 mensuales en costos de infraestructura cloud y 50% de horas de desarrollo backend."
+        ]
+    },
+    {
+        "opportunity": "Agro Liquidity",
+        "filename": "PreMortem_Agro_Liquidity.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 6,
+        "gobierno": 4,
+        "escalabilidad": 7,
+        "geopolitica": 5,
+        "comercial": 6,
+        "promedio": 5.6,
+        "risks": [
+            ""
+        ],
+        "adjustments": [
+            ""
+        ]
+    },
+    {
+        "opportunity": "MEVA Verification",
+        "filename": "PreMortem_MEVA_Verification.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 4,
+        "gobierno": 5,
+        "escalabilidad": 6,
+        "geopolitica": 7,
+        "comercial": 6,
+        "promedio": 5.6,
+        "risks": [
+            "Riesgo operacional rural",
+            "Inestabilidad de APIs de control estatal",
+            "Retorno de inversión lento"
+        ],
+        "adjustments": [
+            "*Descripción:* Refactorizar la arquitectura de ingesta de Sentinel2 a un modelo basado en procesamiento serverless desacoplado en AWS Lambda / Google Cloud Functions, limitando el core de Spring Boot solo a la coordinación de eventos. Implementar indexaciones geográficas estrictas en PostgreSQL basadas en índices `GIST` y validaciones previas de intersección para evitar la doble contabilidad espacial del suelo.",
+            "*Costo / Tiempo:* USD 20.000 / 3 meses de desarrollo backend.",
+            "*Mitigación:* Resuelve el colapso del servidor de base de datos y evita fallas de doble contabilidad en parcelas superpuestas.",
+            "*Descripción:* Modificar la capa de salida del SaaS de verificación para que exporte datos formateados nativamente bajo los estándares requeridos por la plataforma VISEC (Sistema de Visión Sectorial de la cadena de soja y carne en Argentina) y los estándares europeos Gold Standard, en lugar de depender únicamente del ecosistema cerrado de MEVA / BCCOR.",
+            "*Costo / Tiempo:* USD 15.000 / 2 meses de desarrollo e integraciones de API."
+        ]
+    },
+    {
+        "opportunity": "Whey Valorization",
+        "filename": "PreMortem_Whey_Valorization.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 4,
+        "gobierno": 6,
+        "escalabilidad": 7,
+        "geopolitica": 5,
+        "comercial": 6,
+        "promedio": 5.6,
+        "risks": [
+            ""
+        ],
+        "adjustments": [
+            "",
+            ""
+        ]
+    },
+    {
+        "opportunity": "Hyper Local Yield",
+        "filename": "PreMortem_Hyper_Local_Yield.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 5,
+        "gobierno": 5,
+        "escalabilidad": 6,
+        "geopolitica": 4,
+        "comercial": 5,
+        "promedio": 5.0,
+        "risks": [
+            ""
+        ],
+        "adjustments": [
+            ""
+        ]
+    },
+    {
+        "opportunity": "Shared Factory",
+        "filename": "PreMortem_Shared_Factory.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 3,
+        "gobierno": 4,
+        "escalabilidad": 5,
+        "geopolitica": 6,
+        "comercial": 6,
+        "promedio": 4.8,
+        "risks": [
+            ""
+        ],
+        "adjustments": [
+            "**Descripción:** No depender de la telemetría del SCADA de la planta. SFP debe instalar su propio set de sensores físicos portátiles no invasivos (sensores de flujo ultrasónicos y conductímetros ópticos para medir arrastre de sólidos y limpieza CIP) en las tuberías clave de entrada y salida del atomizador de secado.",
+            "**Costo:** Medio ($45,000 USD por planta piloto / 4 semanas).",
+            "**Riesgo Mitigado:** Contaminación cruzada indetectable por software y reclamos por mezcla física de leche premium y con antibióticos.",
+            "**Descripción:** Desarrollar en Quarkus un motor que prevalide y emita de forma automatizada los Remitos Electrónicos Lácteos (REL) y DTe antes de autorizar físicamente la salida del camión del tambo. Si la validación fiscal en ARCA falla o hay inconsistencia de CUITs, el algoritmo bloquea automáticamente la asignación de slots en tiempo real.",
+            "**Costo:** Alto (3 meses de desarrollo de API e integraciones complejas)."
+        ]
+    },
+    {
+        "opportunity": "Private Extension",
+        "filename": "PreMortem_Private_Extension.md",
+        "veredicto": "REQUIERE REDISEÑO FUNDAMENTAL",
+        "resiliencia": 4,
+        "gobierno": 5,
+        "escalabilidad": 6,
+        "geopolitica": 4,
+        "comercial": 4,
+        "promedio": 4.6,
+        "risks": [
+            "**Probabilidad:** Alta. Las alucinaciones de IA y los errores en recetas fitosanitarias complejas son inevitables bajo modelos RAG puros.",
+            "**Horizonte Temporal:** 6 meses desde el despliegue del MVP.",
+            "**Vector SFaaS Comprometido:** Vector 3 (Arbitraje y Confianza)."
+        ],
+        "adjustments": [
+            ""
+        ]
+    },
+    {
+        "opportunity": "Orphan Tambo",
+        "filename": "PreMortem_Orphan_Tambo.md",
+        "veredicto": "NO EJECUTAR",
+        "resiliencia": 2,
+        "gobierno": 3,
+        "escalabilidad": 4,
+        "geopolitica": 4,
+        "comercial": 3,
+        "promedio": 3.2,
+        "risks": [
+            ""
+        ],
+        "adjustments": [
+            ""
+        ]
+    }
+];
+
+        function getVerdictClass(verdict) {
+            if (verdict === "VIABLE CON CORRECCIONES") return "badge-viable";
+            if (verdict === "REQUIERE REDISEÑO FUNDAMENTAL") return "badge-redesign";
+            return "badge-nogo";
+        }
+
+        function renderGrid(items) {
+            const grid = document.getElementById("grid");
+            document.getElementById("total-count").textContent = items.length;
+            
+            grid.innerHTML = "";
+            items.forEach(item => {
+                const card = document.createElement("div");
+                card.className = "card";
+                
+                card.innerHTML = `
+                    <div class="card-header">
+                        <div class="card-title">${item.opportunity}</div>
+                        <span class="badge ${getVerdictClass(item.verdict)}">${item.verdict}</span>
+                    </div>
+                    
+                    <div style="display: flex; justify-content: space-between; align-items: center; background: rgba(255,255,255,0.02); padding: 0.8rem 1.2rem; border-radius: 12px; border: 1px solid var(--border-color);">
+                        <span class="avg-lbl">Puntuación Promedio</span>
+                        <span class="avg-num" style="font-size: 1.4rem;">${item.promedio}</span>
+                    </div>
+                    
+                    <div class="metrics">
+                        <div class="metric-row">
+                            <span class="metric-label">Resiliencia (Offline):</span>
+                            <div class="metric-track">
+                                <div class="metric-fill fill-primary" style="width: ${item.resiliencia * 10}%;"></div>
+                            </div>
+                            <span class="metric-value">${item.resiliencia}</span>
+                        </div>
+                        <div class="metric-row">
+                            <span class="metric-label">Adapt. Gobierno:</span>
+                            <div class="metric-track">
+                                <div class="metric-fill fill-primary" style="width: ${item.gobierno * 10}%;"></div>
+                            </div>
+                            <span class="metric-value">${item.gobierno}</span>
+                        </div>
+                        <div class="metric-row">
+                            <span class="metric-label">Escalabilidad (SaaS):</span>
+                            <div class="metric-track">
+                                <div class="metric-fill fill-primary" style="width: ${item.escalabilidad * 10}%;"></div>
+                            </div>
+                            <span class="metric-value">${item.escalabilidad}</span>
+                        </div>
+                        <div class="metric-row">
+                            <span class="metric-label">Geopolítica (EUDR):</span>
+                            <div class="metric-track">
+                                <div class="metric-fill fill-primary" style="width: ${item.geopolitica * 10}%;"></div>
+                            </div>
+                            <span class="metric-value">${item.geopolitica}</span>
+                        </div>
+                        <div class="metric-row">
+                            <span class="metric-label">Viabilidad Comercial:</span>
+                            <div class="metric-track">
+                                <div class="metric-fill fill-primary" style="width: ${item.comercial * 10}%;"></div>
+                            </div>
+                            <span class="metric-value">${item.comercial}</span>
+                        </div>
+                    </div>
+                    
+                    <button class="details-btn" onclick="toggleDetails(this)">
+                        <span>Ver Auditoría Forense</span>
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>
+                    </button>
+                    
+                    <div class="details-panel">
+                        <div class="panel-sec">
+                            <span class="panel-sec-title">Detalles Fatales Detectados</span>
+                            <ul class="bullet-list bullet-list-risks">
+                                ${item.risks.map(r => `<li>${r}</li>`).join("")}
+                            </ul>
+                        </div>
+                        <div class="panel-sec">
+                            <span class="panel-sec-title">Ajustes Arquitectónicos de Fortificación</span>
+                            <ul class="bullet-list bullet-list-adjust">
+                                ${item.adjustments.map(a => `<li>${a}</li>`).join("")}
+                            </ul>
+                        </div>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        function toggleDetails(btn) {
+            const panel = btn.nextElementSibling;
+            const svg = btn.querySelector("svg");
+            if (panel.style.display === "flex") {
+                panel.style.display = "none";
+                svg.style.transform = "rotate(0deg)";
+            } else {
+                panel.style.display = "flex";
+                svg.style.transform = "rotate(180deg)";
+            }
+        }
+
+        function filterData() {
+            const searchVal = document.getElementById("search").value.toLowerCase();
+            const verdictVal = document.getElementById("filter-verdicto").value;
+            const sortBy = document.getElementById("sort-by").value;
+            
+            let filtered = rawData.filter(item => {
+                const matchesSearch = item.opportunity.toLowerCase().includes(searchVal);
+                const matchesVerdict = verdictVal === "ALL" || item.verdict === verdictVal;
+                return matchesSearch && matchesVerdict;
+            });
+            
+            // Ordenar
+            filtered.sort((a, b) => b[sortBy] - a[sortBy]);
+            
+            renderGrid(filtered);
+        }
+
+        // Carga inicial
+        renderGrid(rawData);
+    </script>
+</body>
+</html>
