@@ -810,7 +810,7 @@
                 card.innerHTML = `
                     <div class="card-header">
                         <div class="card-title">${item.opportunity}</div>
-                        <span class="badge ${getVerdictClass(item.verdict)}">${item.verdict}</span>
+                        <span class="badge ${getVerdictClass(item.veredicto)}">${item.veredicto}</span>
                     </div>
                     
                     <div style="display: flex; justify-content: space-between; align-items: center; background: rgba(255,255,255,0.02); padding: 0.8rem 1.2rem; border-radius: 12px; border: 1px solid var(--border-color);">
@@ -899,7 +899,7 @@
             
             let filtered = rawData.filter(item => {
                 const matchesSearch = item.opportunity.toLowerCase().includes(searchVal);
-                const matchesVerdict = verdictVal === "ALL" || item.verdict === verdictVal;
+                const matchesVerdict = verdictVal === "ALL" || item.veredicto === verdictVal;
                 return matchesSearch && matchesVerdict;
             });
             
