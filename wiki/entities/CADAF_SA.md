@@ -4,13 +4,13 @@ acronym: CADAF S.A.
 location: San Francisco, Córdoba, Argentina
 sector: Exportación de Alfalfa / AgTech (Logística y Calidad)
 ceo: Alfredo Abboud
-last_updated: 2026-04-14
+last_updated: 2026-05-25
 ---
 
 # CADAF S.A. (Compañía Argentina de Alfalfas y Forrajes S.A.)
 
 ## Resumen Ejecutivo
-Empresa fundada con el objetivo de profesionalizar la exportación de alfalfa en Argentina, con su epicentro productivo en San Francisco, Córdoba. Se especializa en la compresión de forraje mediante tecnología propia para la exportación de **megafardos de alta densidad** a mercados premium de Medio Oriente. **Confirmada expansión masiva el 14/04/2026 para duplicar capacidad exportadora mediante nueva infraestructura de compactado.**
+Empresa fundada con el objetivo de profesionalizar la exportación de alfalfa en Argentina, con su epicentro productivo en San Francisco, Córdoba. Se especializa en la compresión de forraje mediante tecnología propia para la exportación de **megafardos de alta densidad** a mercados premium de Medio Oriente. **Confirmada expansión masiva el 14/04/2026 para duplicar capacidad exportadora mediante nueva infraestructura de compactado, validada bajo un crecimiento histórico de exportaciones sectoriales en el primer trimestre de 2026.**
 
 ## Contacto & Identidad
 - **Dirección**: Av. 9 de Septiembre 1100, San Francisco (2400), Córdoba.
@@ -19,8 +19,9 @@ Empresa fundada con el objetivo de profesionalizar la exportación de alfalfa en
 - **CEO/Liderazgo**: Alfredo Abboud (Director Estratégico).
 - **Web**: [cadafsa.com](http://cadafsa.com) (Sitio con secciones de contacto activas pero información operativa estática).
 
-## Situación Actual (Abril 2026)
-- **Fase de Escalamiento**: Confirmación (14/04/2026) y refuerzo (15/04/2026) de la finalización de infraestructura crítica en San Francisco. La ampliación masiva de la planta de compactado de **CADAF** permitirá duplicar el volumen de exportación, consolidando a San Francisco como el polo alfalfero más tecnificado de la región.
+## Situación Actual (Mayo 2026)
+- **Fase de Escalamiento & Boom de Ventas**: Tras la inauguración de la infraestructura ampliada en San Francisco (Abril 2026), el sector registró un **crecimiento interanual del 92% en exportaciones durante el primer trimestre de 2026 (superando las 90.000 toneladas nacionales)**. Esto acelera el escalamiento operativo de CADAF y su red de proveedores para canalizar esta demanda de Medio Oriente y Brasil.
+- **Hito Sectorial**: El fuerte respaldo institucional al **"Día Mundial de la Alfalfa" (23 de mayo)** consolida la tracción política y comercial del cultivo a nivel nacional.
 - **Logística Ferroviaria**: Es uno de los pocos actores agroindustriales de la zona con conexión directa a la línea **Belgrano Cargas**, lo que le permite mover grandes volúmenes de megafardos directamente al puerto de Rosario/Zárate.
 - **Tensión Geopolítica**: Se enfrenta a demoras logísticas significativas en los envíos al Golfo Pérsico debido a la inestabilidad en el Mar Rojo, lo que está forzando una mayor eficiencia en el puerto y seguimiento de contenedores.
 - **Relación con Productores**: Gestiona una red de cientos de productores de alfalfa bajo **contratos anuales de precio proyectado**, lo que genera una alta carga de gestión documental y de calidad de origen.

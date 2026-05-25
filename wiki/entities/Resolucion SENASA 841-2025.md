@@ -1,25 +1,21 @@
 ---
 type: entidad
 tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
-sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, Boletín Oficial - 2026-05-05]
+sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19]
 confidence: high
-last_update: 2026-05-05
+last_update: 2026-05-25
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
 
 ## Resumen Ejecutivo
-La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Reconfirmada su vigencia y plena aplicación técnica vía Boletín Oficial (05/05/2026)**, lo que consolida el marco legal para la obligatoriedad de dispositivos RFID a partir del **1 de enero de 2026**. Esta reaparición en el Boletín Oficial actúa como un recordatorio crítico para las plantas exportadoras que deben integrar estos datos para cumplir con las exigencias de mercados como EE.UU. (Cuota 80k tons) y la Unión Europea (EUDR).
+La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Confirmada su vigencia y plena aplicación técnica vía Boletín Oficial (Abril 2026)**, ratificando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" antes del destete o primer movimiento. La reaparición de esta norma en el Boletín Oficial el **11 de abril de 2026**, específicamente vinculada a los anexos de dispositivos homologados, refuerza la inminencia de los plazos técnicos para la implementación de dispositivos RFID.
 
-**Actualización 05/05/2026**: La participación de 15 frigoríficos argentinos en la "Argentine Beef Week" (EE.UU.) eleva la prioridad de la Res. 841/2025. La trazabilidad electrónica es la llave para auditar los procesos de calidad y sanidad requeridos por los importadores estadounidenses.
+**Actualización 25/05/2026**: Los resultados de SIAL China 2026 confirman que los precios pagados y el acceso a contratos premium dependen de la capacidad de demostrar trazabilidad "audit-ready". Paralelamente, el desmantelamiento de INTA (ver [[Colapso Institucional SENASA INTA]]) eleva el riesgo de falla en el soporte técnico oficial para la implementación, convirtiendo a las soluciones SaaS privadas en el único garante de cumplimiento para exportadores.
 
-**Actualización 29/04/2026**: La iniciativa "Carne de Sistemas Pastoriles" (INTA) y la búsqueda de comunicar "identidad productiva" escalan la Res. 841/2025 de una traba burocrática a un activo de marketing estratégico. La trazabilidad granular es ahora el vehículo indispensable para capturar primas de precio por diferenciación de origen y calidad nutricional.
-
-**Actualización 28/04/2026**: SENASA actualizó los criterios de etiquetado de fitosanitarios incorporando el Sistema Globalmente Armonizado (SGA). Esta convergencia regulatoria refuerza la necesidad de integrar datos de insumos en la ficha individual del animal (trazabilidad de residuos).
+**Actualización 28/04/2026**: SENASA actualizó los criterios de etiquetado de fitosanitarios incorporando el Sistema Globalmente Armonizado (SGA). Esta convergencia regulatoria refuerza la necesidad de integrar datos de insumos en la ficha individual del animal (trazabilidad de residuos). Asimismo, la iniciativa de "Carne de Sistemas Pastoriles" busca usar la trazabilidad de la Res. 841/2025 para comunicar identidad y valor nutricional.
 
 **Actualización 27/04/2026**: El interés por la carne de sistemas pastoriles y la necesidad de comunicar "identidad productiva" (INTA/TodoAgro) escala la Res. 841/2025 de una traba burocrática a un activo de marketing. La trazabilidad granular es ahora el vehículo para capturar primas de precio por diferenciación de origen.
-
-**Actualización 24/04/2026**: Persistencia regulatoria confirmada. La normativa 841/2025 sigue siendo el eje central de las auditorías de exportación, vinculándose ahora con la necesidad de certificar Límites Máximos de Residuos (LMR) en laboratorios como [[BCR Labs]] para mantener el acceso a mercados de alto valor (Cuota Hilton).
 
 **Actualización 19/04/2026**: Ratificación técnica en el Boletín Oficial vinculada a la implementación de la Res. 841/2025. La presión internacional aumenta por la cepa inédita de Aftosa en China, lo que refuerza la obligatoriedad de sistemas de trazabilidad auditables antes del deadline de 2026.
 
@@ -37,7 +33,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 - **Fricción Regulatoria EUDR (28/04/2026)**: La [[Friccion EUDR]] en Europa abre una oportunidad para que el sistema de trazabilidad argentino sea más resiliente y proactivo que el europeo.
 - **Fricción Operativa:** Se ratifica el riesgo de cuellos de botella en la emisión del [[DT-e]] por fallas en la lectura RFID o falta de sincronía con SIGSA. La integración de datos genéticos y de calidad (ver [[Asociacion Braford Argentina]]) se vuelve crítica para no perder valor en la recría.
 - **Innovación en Calidad (13/04/2026):** El lanzamiento del [[Indice de Calidad de Carne]] (IQ-Carne) transforma la Res. 841/2025 de una obligación burocrática a una herramienta de valor comercial, permitiendo el pago por calidad basado en el ID individual.
-- **Oportunidad SaaS:** Urgencia total por el **Deadline Europa (1º de Mayo)**. Los frigoríficos exportadores (ej: [[Consorcio de Frigorificos ABC]], [[Frigorifico Logros]]) necesitan sistemas que traduzcan la identificación de la Res. 841/2025 en certificados de auditoría automatizados para cumplir con EUDR. Además, surge el trigger de **Identidad Pastoril**: SaaS para certificar atributos de production a nivel animal.
+- **Oportunidad SaaS:** Urgencia total por el **Deadline Europa (1º de Mayo)**. Los frigoríficos exportadores (ej: [[Consorcio de Frigorificos ABC]], [[Frigorifico Logros]]) necesitan sistemas que traduzcan la identificación de la Res. 841/2025 en certificados de auditoría automatizados para cumplir con EUDR. Además, surge el trigger de **Identidad Pastoril**: SaaS para certificar atributos de producción a nivel animal.
 - **Relación con UE:** La obligatoriedad de la identificación electrónica es la piedra angular para mantener el acceso al mercado europeo post "D-Day" (1 de mayo).
 
 ## Backlinks

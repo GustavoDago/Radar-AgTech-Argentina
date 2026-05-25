@@ -3,12 +3,12 @@ type: oportunidad
 high_leverage: yes
 tech_stack: [Java/Quarkus/Spring]
 target: [CADAF | Exportadores de Alfalfa San Francisco]
-last_critique: 2026-04-11
+last_critique: 2026-05-25
 ---
 
 # Alfalfa Export Traceability & Quality Compliance (AETQC)
 
-- **Fricción Monetizable**: Los mercados premium (Arabia Saudita, Emiratos Árabes) exigen protocolos estrictos de calidad (proteína, humedad) y origen. **Actualización Abril 2026**: La inauguración de la ampliación de **CADAF** en San Francisco busca duplicar el volumen exportable, lo que genera un estrés logístico y administrativo inédito. Paralelamente, el Ministro Busso ha lanzado la estrategia del **"Clúster Alfalfa Córdoba"**, buscando estandarizar la calidad en toda la provincia. La fricción real es la falta de un sistema de "grado y estándar" digital que permita a los pequeños productores del clúster integrarse a la cadena exportadora de CADAF con garantías de calidad atomatizadas.
+- **Fricción Monetizable**: Los mercados premium (Arabia Saudita, Emiratos Árabes) exigen protocolos estrictos de calidad (proteína, humedad) y origen. **Actualización Abril 2026**: La inauguración de la ampliación de **CADAF** en San Francisco busca duplicar el volumen exportable, lo que genera un estrés logístico y administrativo inédito. Paralelamente, el Ministro Busso ha lanzado la estrategia del **"Clúster Alfalfa Córdoba"**, buscando estandarizar la calidad en toda la provincia. La fricción real es la falta de un sistema de "grado y estándar" digital que permita a los pequeños productores del clúster integrarse a la cadena exportadora de CADAF con garantías de calidad automatizadas. **Actualización Mayo 2026 (Boom Exportador)**: Datos oficiales confirman que las exportaciones de alfalfa del primer trimestre de 2026 crecieron un **92% interanual**, superando las **90.000 toneladas**. Esta escala sin precedentes colapsa la gestión manual offline de los contratos anuales de CADAF. Además, el fuerte impulso institucional del **"Día Mundial de la Alfalfa" (23 de mayo)** visibiliza la urgencia de estructurar comercialmente este clúster.
 - **Moat Técnico**: 
     - **Algoritmo de Clasificación de Calidad**: Desarrollar un motor en **Java** que procese telemetría de prensas compactadoras para certificar lotes según estándares internacionales de forma automática. 
     - **Interoperabilidad con el Clúster**: Crear una API de integración para que diferentes plantas de compactado puedan reportar stock y calidad a un nodo central (CADAF/Cámara de Alfalfa), permitiendo ventas consolidadas de mayor volumen con trazabilidad garantizada.

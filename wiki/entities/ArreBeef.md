@@ -4,7 +4,7 @@ tags: [frigorifico, exportacion, perez_millan, china, suspension, biogas, susten
 location: Pérez Millán, Buenos Aires
 main_markets: [China (Suspendido), UE, EEUU, Israel]
 employees_affected: 400
-last_update: 2026-04-25
+last_update: 2026-04-15
 ---
 
 # ArreBeef S.A.
@@ -12,11 +12,15 @@ last_update: 2026-04-25
 ## Perfil Operativo
 ArreBeef es uno de los frigoríficos más importantes de Argentina, con una capacidad de faena de aproximadamente 30,000 cabezas mensuales. Ubicado estratégicamente en el Corredor Norte, es un jugador dominante en la exportación de carne vacuna.
 
-## Crisis Actual (Abril 2026)
-- **Suspensión China**: El mercado chino (GACC) suspendió preventivamente a la planta debido a la detección de **cloranfenicol** (antibiótico prohibido) en un contenedor arribado a puerto chino.
-- **Contexto de Mercado (25/04/2026)**: Mientras el sector exportador general reporta un salto en marzo y suba de precios, ArreBeef queda marginado de esta bonanza por su sanción sanitaria.
-- **Impacto Laboral**: Suspensión de 400 operarios debido a la caída drástica del ritmo de faena al perder el destino del 60% de su producción.
-- **Dolor Crítico**: La falta de visibilidad sobre los tratamientos veterinarios que los proveedores (feedlots y criadores) realizan semanas antes de la faena. El frigorífico asume el riesgo final de un error operativo en el campo.
+## Crisis Sanitaria y Diplomática (Marzo - Mayo 2026)
+- **Suspensión GACC (China)**: El 19 de marzo de 2026, la Administración General de Aduanas de China oficializó la suspensión de la planta de Pérez Millán (Establecimiento 2082) tras detectar residuos de **cloranfenicol** en un embarque de 22 toneladas.
+- **Naturaleza del Contaminante**: El cloranfenicol es un antibiótico de amplio espectro prohibido en Argentina para uso en animales de consumo humano desde 1995 (Res. SENASA). Su detección dispara protocolos de "tolerancia cero".
+- **Impacto Operativo y Laboral**:
+    - Caída del 40% en el ritmo de faena: de 1,500 cabezas/día a ~850.
+    - Cese de convocatoria de 400 trabajadores tercerizados (Grupo Ceta) y suspensiones rotativas en el personal de planta.
+    - Operatividad residual: La empresa mantiene exportaciones mínimas a través de su unidad en Quilmes, pero el grueso de su rentabilidad (China) está bloqueado.
+- **Ofensiva Técnica/Diplomática**: SENASA y Cancillería iniciaron gestiones ante Beijing para demostrar que se trata de un "caso aislado" o un "falso positivo" (interferencia química). Se está reconstruyendo la trazabilidad completa del lote desde el campo de origen.
+- **Pivot Estratégico**: Hugo Borrell (h) participó en reuniones en Casa Rosada (Abril 2026) con Karina Milei para acelerar la "Semana de la Carne Argentina" en EE.UU., buscando diversificar la dependencia del mercado chino.
 
 ## Activos y Fortalezas
 - **ArreBeef Energía**: Planta de Biogás que procesa efluentes y residuos para inyectar energía renovable a la red. Es un "early adopter" de economía circular.

@@ -31,10 +31,14 @@ last_update: 2026-04-12
 - **Necesidad Tecnológica:** El cumplimiento de la normativa UE de libre deforestación exige una auditoría granular del origen del animal, imposible de escalar manualmente.
 - **Acción:** Reunión con gerentes de calidad de frigoríficos exportadores para demostrar auditoría automatizada de caravanas RFID sincronizadas con el [[DT-e]].
 
-### 4. Cuenca Villa María (Córdoba)
-- **Perfil:** Hub de servicios agrotecnológicos y sede de **TodoLáctea**. Concentra tambos de escala que están migrando masivamente al modelo *Beef on Dairy* para maximizar rentabilidad operativa (vía genética carnicera en el 30-40% del rodeo).
+### 4. Cuenca Villa María (Córdoba) - HUB DE INNOVACIÓN
+- **Evento:** TodoLáctea 2026 (Mayo 2026). Éxito masivo con más de 23,000 asistentes.
+- **Perfil:** Hub de servicios agrotecnológicos. Concentra tambos de escala que están migrando masivamente al modelo *Beef on Dairy* para maximizar rentabilidad operativa (vía genética carnicera en el 30-40% del rodeo).
+- **Triggers Detectados (17/05/2026):**
+    - **Estrés Calórico y Calostro:** Temas salientes que indican una demanda de SaaS para monitoreo ambiental y gestión de salud neonatal individualizada.
+    - **Primacía de la Genética:** Se reconoce que la genética hoy pesa más que el manejo general, creando una oportunidad para herramientas de [[Gestion de Genetica en Mega-Tambos]].
 - **Necesidad Tecnológica:** Dashboards que conviertan el descarte intuitivo en negocio estratégico mediante [[Beef_on_Dairy_Analytics_Engine]].
-- **Acción:** Visita prioritaria a James Craik y Oncativo. Contactar a los remitentes de mega-tambos de la zona para ofrecer auditoría de trazabilidad individual desde el nacimiento.
+- **Acción:** Visita prioritaria a James Craik y Oncativo. Contactar a los remitentes de mega-tambos de la zona para ofrecer auditoría de trazabilidad individual y gestión genética.
 
 ### 5. Tambos Orgánicos en Crisis (Post-Nestlé)
 - **Perfil:** 15 tambos de punta que proveían a Nestlé y ahora deben pivotar su modelo de negocio.

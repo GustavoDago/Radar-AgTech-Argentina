@@ -1,38 +1,106 @@
 # Radar AgTech Argentina - Vault Index
 
 ## 📡 Inteligencia Diaria (Jules Intel)
-- [[2026-05-05]] - *Última actualización*
-- [[2026-04-27]]
+- [[2026-05-25]]
+- [[2026-05-24]]
+- [[2026-05-23]]
+- [[2026-05-22]]
+- [[2026-05-21]]
+- ... [Ver carpeta completa](file:///wiki/daily/)
 
 ## 💡 Oportunidades SaaS
-- [[Terminal_Queue_Optimization_SaaS]] (Nueva)
-- [[Private_Extension_Copilot_SaaS]] (Nueva)
+- [[Agro_Liquidity_Tokenization]]
+- [[Alfalfa_Traceability_Compliance]]
+- [[Beef_on_Dairy_Analytics_Engine]]
+- [[Biocombustibles_Carbon_Ledger]]
+- [[Chemical_Compliance_SaaS]]
 - [[Decentralized_Genetic_Registry]]
-- [[SISA_Shield_SaaS]] (Nueva)
-- [[Effluent_Compliance_Gateway]] (Nueva)
-- [[Enterprise_Barter_Engine]] (Nueva)
-- [[Biocombustibles_Carbon_Ledger]] (Nueva)
+- [[EUDR_Compliance_Gateway]]
+- [[Effluent_Compliance_Gateway]]
+- [[Enterprise_Barter_Engine]]
+- [[Full_Stack_Traceability_Hub]]
+- [[Gorina_Sanitary_Shield_SaaS]]
+- [[Hyper_Local_Yield_Oracle]]
+- [[MEVA_Verification_SaaS]]
+- [[Orphan_Tambo_Liquidity_Network]]
+- [[Premium_Beef_Quality_SaaS]]
+- [[Private_Extension_Copilot_SaaS]]
+- [[SISA_Shield_SaaS]]
+- [[Shared_Factory_Protocol]]
+- [[Terminal_Queue_Optimization_SaaS]]
+- [[Whey_Valorization_Analytics]]
 - [Explorar Carpeta de Oportunidades](file:///wiki/opportunities/)
 
 ### 🔍 Análisis de Riesgo & Pre-Mortems
-- [[PreMortem_SISA_Shield]] (Autopsia SISA Shield SaaS)
-- [[PreMortem_Terminal_Queue]] (Autopsia Terminal Queue SaaS)
-- [[PreMortem_Effluent_Compliance]] (Autopsia Effluent Compliance Gateway)
-- [[PreMortem_Biocombustibles_Ledger]] (Autopsia Biocombustibles Carbon Ledger)
-- [[PreMortem_EUDR_Compliance]] (Autopsia EUDR Compliance Gateway)
+- [[PreMortem_Biocombustibles_Ledger]]
+- [[PreMortem_EUDR_Compliance]]
+- [[PreMortem_Effluent_Compliance]]
+- [[PreMortem_SISA_Shield]]
+- [[PreMortem_Terminal_Queue]]
 
 ## 🏢 Entidades Clave
-- [[Sancor]]
+- [[ArreBeef]]
+- [[Asociacion Braford Argentina]]
+- [[Asociacion Brangus Argentina]]
+- [[BCR Labs]]
+- [[Biofarma]]
+- [[Bustos Beltran]]
+- [[CADAF_SA]]
+- [[CAINCA]]
+- [[CARSFE]]
+- [[Consorcio de Frigorificos ABC]]
+- [[Frigorifico Bustos Beltran]]
 - [[Frigorifico Gorina]]
-- [[SENASA]]
+- [[Frigorifico Logros]]
+- [[Lacteos Veronica]]
+- [[Las Nacionales 2026]]
+- [[MEVA]]
+- [[Mapa Bufalino Cordoba]]
+- [[Menara Construcciones]]
+- [[Neuquen Polo Alfalfa]]
+- [[Polo Alfalfa Premium Neuquen]]
+- [[Pyme Lactea Santafesina Crisis]]
+- [[Resolucion SENASA 841-2025]]
+- [[Ruta 10 Sur de Cordoba]]
+- [[SIAL_China_2026]]
+- [[Sancor]]
+- [[Santa Fe]]
+- [[Sociedad Rural Argentina]]
+- [[Tambo Ugartemendia]]
+- [[VISEC]]
+- [[VISEC Carnes]]
+- [[Zona Ganadera Olavarria]]
+- [[Zonas Nucleo Adaptacion Tecnologica]]
 
 ## 🧠 Conceptos y Normativas
+- [[Agotamiento de Nutrientes en Suelos]]
+- [[Amenaza Arancelaria USA]]
+- [[Aumento de Densidad en Feedlots]]
+- [[Barreras Biotecnológicas HB4]]
+- [[Barreras_Sanitarias_Antimicrobianos]]
+- [[Captura_Carbono_Pasturas]]
+- [[Certificacion_Huella_Carbono_Biocombustibles]]
+- [[Colapso Institucional SENASA INTA]]
+- [[Colapso Operativo Estatal]]
+- [[Conciliacion_Canje_Granos]]
+- [[DT-e]]
+- [[Desafios Confinamiento Mega-tambos]]
+- [[Friccion EUDR]]
+- [[Friccion Logistica Exportadora]]
+- [[Friccion Operativa en Mega-tambos]]
+- [[Geo Reportes Agricolas Cordoba]]
+- [[Gestion de Genetica en Mega-Tambos]]
 - [[Incentivos a la Inversion RIMI]]
-- [[Resolucion SENASA 841-2025]]
-- [[Resolucion_ARCA_CPE]] (Nueva)
-- [[Uso_Agronomico_Efluentes_Pecuarios]] (Nueva)
-- [[Conciliacion_Canje_Granos]] (Nueva)
-- [[Certificacion_Huella_Carbono_Biocombustibles]] (Nueva)
+- [[Incertidumbre Regulatoria Sanitaria]]
+- [[Indice de Calidad de Carne]]
+- [[Oportunidad Competitiva EUDR]]
+- [[Pain Points Trazabilidad Electronica]]
+- [[Pain Points de Trazabilidad]]
+- [[Reduccion Impositiva Invernada]]
+- [[Resolucion_ARCA_CPE]]
+- [[Uso_Agronomico_Efluentes_Pecuarios]]
+- [[Valorizacion del Suero de Leche]]
+- [[Ventana Competitiva Riesgo EUDR Brasil]]
 
 ---
-*Última sincronización: 2026-05-20*
+*Última sincronización: 2026-05-25*

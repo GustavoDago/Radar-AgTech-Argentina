@@ -11,6 +11,10 @@ last_update: 2026-04-28
 ## Descripción
 La implementación del Reglamento de Deforestación de la Unión Europea (EUDR) no solo enfrenta desafíos en los países exportadores, sino que ha comenzado a generar una fuerte fricción interna dentro de la propia Unión Europea.
 
+## Triggers y Hallazgos (21/05/2026)
+- **Amenaza a Brasil**: La Unión Europea amenazó formalmente con suspender las importaciones de carne de Brasil debido a deficiencias en sus sistemas de trazabilidad y cumplimiento ambiental. Esto crea una oportunidad de desplazamiento de mercado inmediata para los frigoríficos argentinos que demuestren cumplimiento robusto.
+- **Urge Audit-Readiness**: La proximidad de la plena aplicación del EUDR y la crisis brasileña elevan la demanda de "dashboards de auditoría" que consoliden datos de geolocalización y trazabilidad individual de la [[Resolucion SENASA 841-2025]].
+
 ## Triggers y Hallazgos (28/04/2026)
 - **Resistencia Interna**: 11 organizaciones que representan diversas cadenas productivas en la UE han firmado una declaración conjunta pidiendo cambios en la normativa.
 - **Pérdida de Autonomía**: El principal argumento es que la normativa actual podría "socavar la autonomía de los productores", lo que indica que la burocracia de trazabilidad es percibida como excesiva incluso para los actores locales europeos.

@@ -3,13 +3,13 @@ type: concepto
 tags: [agtech/investment, riego, mega-tambo, rimi, fiscal]
 sources: [TodoAgro, INTA Informa, Agroverdad, 2026-04-27]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-05-19
 ---
 
 # Incentivos a la Inversión RIMI (Riego)
 
 ## Contexto
-La aprobación del **RIMI (Régimen de Incentivo para Grandes Inversiones)** y la reducción del **IVA al 10,5%** en tarifas de riego agroindustrial (reclamo histórico de CAME concretado en abril 2026) han transformado la estructura de costos para la intensificación forrajera.
+La aprobación del **RIMI (Régimen de Incentivo para Grandes Inversiones)** y la reducción del **IVA al 10,5%** en tarifas de riego agroindustrial (reclamo histórico de CAME concretado en abril 2026) han transformado la estructura de costos para la intensificación forrajera. **A partir del 19 de mayo de 2026, ARCA (ex-AFIP) oficializó los requisitos y beneficios específicos**, lo que permite a las empresas AgTech y mega-tambos iniciar las presentaciones formales para proyectos de inversión de gran escala (incluyendo estabulación y riego).
 
 ## El Trigger AgTech
 - **Reducción de Costos Directos**: La baja del IVA en energía para riego y los beneficios del RIMI reducen el período de repago de equipos de pivote central y riego por goteo subterráneo.

@@ -1,3 +1,18 @@
+## [2026-05-25] sync | Ingesta de Inteligencia Diaria, 2 nuevos conceptos y 2 tesis actualizadas
+
+- **Automatización & Inteligencia Diaria**:
+  - Ejecutada la automatización de Jules Intel, generando [[2026-05-25]] (`wiki/daily/2026-05-25.md`) y el archivo de respaldo crudo `raw/scrape_20260525_153025.json`.
+- **Conceptos Nuevos**:
+  - [[Barreras_Sanitarias_Antimicrobianos]] (`wiki/concepts/Barreras_Sanitarias_Antimicrobianos.md`) que analiza la amenaza de la UE a Brasil y la ventana exportadora argentina.
+  - [[Captura_Carbono_Pasturas]] (`wiki/concepts/Captura_Carbono_Pasturas.md`) que fundamenta la ventaja competitiva de la carne carbono-neutra de pastizales naturales basada en el estudio del INTA.
+- **Oportunidades Actualizadas**:
+  - [[Alfalfa_Traceability_Compliance]] (Reforzada con los datos oficiales de crecimiento del 92% en exportaciones en el Q1 2026 y la institucionalización del Día de la Alfalfa).
+  - [[EUDR_Compliance_Gateway]] (Expandida para incluir la trazabilidad de antimicrobianos en respuesta a la crisis Brasil-UE y el módulo de balance neto de carbono de pasturas).
+- **Entidades Actualizadas**:
+  - [[CADAF_SA]] (Actualizada para incorporar el boom del primer trimestre de más de 90.000 toneladas de exportación y la conmemoración del Día de la Alfalfa).
+- **Archivos Actualizados**:
+  - `index.md` (Catálogo maestro sincronizado y actualizado con nuevos nodos).
+
 ## [2026-05-20] analyze | Ingesta de 4 sectores estratégicos y 4 nuevas tesis de oportunidades SaaS
 
 - **Herramientas Operativas**:
