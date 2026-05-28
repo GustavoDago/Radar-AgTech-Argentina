@@ -15,26 +15,26 @@ El portafolio está ordenado de mayor a menor viabilidad en base al promedio de 
 
 | Puesto | Oportunidad | Veredicto Final | CTO Score | R | G | E | GP | C |
 |:---:|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | [[EUDR_Compliance]] <br> *Ver: [[PreMortem_EUDR_Compliance]]* | 🟢 Viable con Correcciones | **8.6** | 8 | 7 | 9 | 10 | 9 |
-| 2 | [[Biocombustibles_Ledger]] <br> *Ver: [[PreMortem_Biocombustibles_Ledger]]* | 🟢 Viable con Correcciones | **8.2** | 7 | 8 | 8 | 9 | 9 |
-| 3 | [[Terminal_Queue]] <br> *Ver: [[PreMortem_Terminal_Queue]]* | 🟡 Requiere Rediseño | **7.8** | 9 | 7 | 9 | 5 | 9 |
-| 4 | [[Effluent_Compliance]] <br> *Ver: [[PreMortem_Effluent_Compliance]]* | 🟢 Viable con Correcciones | **7.6** | 8 | 8 | 8 | 6 | 8 |
-| 5 | [[Gorina_Sanitary]] <br> *Ver: [[PreMortem_Gorina_Sanitary]]* | 🟡 Requiere Rediseño | **7.4** | 6 | 5 | 8 | 9 | 9 |
-| 6 | [[SISA_Shield]] <br> *Ver: [[PreMortem_SISA_Shield]]* | 🟡 Requiere Rediseño | **7.4** | 8 | 6 | 9 | 6 | 8 |
-| 7 | [[Premium_Beef]] <br> *Ver: [[PreMortem_Premium_Beef]]* | 🟡 Requiere Rediseño | **7.2** | 6 | 5 | 8 | 9 | 8 |
-| 8 | [[Alfalfa_Traceability]] <br> *Ver: [[PreMortem_Alfalfa_Traceability]]* | 🟡 Requiere Rediseño | **6.8** | 5 | 6 | 7 | 8 | 8 |
-| 9 | [[Chemical_Compliance]] <br> *Ver: [[PreMortem_Chemical_Compliance]]* | 🟡 Requiere Rediseño | **6.8** | 6 | 5 | 8 | 7 | 8 |
-| 10 | [[Full_Stack_Traceability]] <br> *Ver: [[PreMortem_Full_Stack_Traceability]]* | 🟡 Requiere Rediseño | **6.4** | 5 | 5 | 7 | 8 | 7 |
-| 11 | [[Beef_on_Dairy]] <br> *Ver: [[PreMortem_Beef_on_Dairy]]* | 🔴 NO EJECUTAR | **6.0** | 5 | 6 | 7 | 6 | 6 |
-| 12 | [[Enterprise_Barter]] <br> *Ver: [[PreMortem_Enterprise_Barter]]* | 🟡 Requiere Rediseño | **6.0** | 6 | 4 | 8 | 5 | 7 |
-| 13 | [[Decentralized_Genetic]] <br> *Ver: [[PreMortem_Decentralized_Genetic]]* | 🟡 Requiere Rediseño | **5.8** | 5 | 5 | 7 | 6 | 6 |
-| 14 | [[Agro_Liquidity]] <br> *Ver: [[PreMortem_Agro_Liquidity]]* | 🟡 Requiere Rediseño | **5.6** | 6 | 4 | 7 | 5 | 6 |
-| 15 | [[MEVA_Verification]] <br> *Ver: [[PreMortem_MEVA_Verification]]* | 🟡 Requiere Rediseño | **5.6** | 4 | 5 | 6 | 7 | 6 |
-| 16 | [[Whey_Valorization]] <br> *Ver: [[PreMortem_Whey_Valorization]]* | 🟡 Requiere Rediseño | **5.6** | 4 | 6 | 7 | 5 | 6 |
-| 17 | [[Hyper_Local_Yield]] <br> *Ver: [[PreMortem_Hyper_Local_Yield]]* | 🟡 Requiere Rediseño | **5.0** | 5 | 5 | 6 | 4 | 5 |
-| 18 | [[Shared_Factory]] <br> *Ver: [[PreMortem_Shared_Factory]]* | 🟡 Requiere Rediseño | **4.8** | 3 | 4 | 5 | 6 | 6 |
-| 19 | [[Private_Extension]] <br> *Ver: [[PreMortem_Private_Extension]]* | 🟡 Requiere Rediseño | **4.6** | 4 | 5 | 6 | 4 | 4 |
-| 20 | [[Orphan_Tambo]] <br> *Ver: [[PreMortem_Orphan_Tambo]]* | 🔴 NO EJECUTAR | **3.2** | 2 | 3 | 4 | 4 | 3 |
+| 1 | [[EUDR_Compliance_Gateway|EUDR Compliance]] <br> *Ver: [[PreMortem_EUDR_Compliance]]* | 🟢 Viable con Correcciones | **8.6** | 8 | 7 | 9 | 10 | 9 |
+| 2 | [[Biocombustibles_Carbon_Ledger|Biocombustibles Ledger]] <br> *Ver: [[PreMortem_Biocombustibles_Ledger]]* | 🟢 Viable con Correcciones | **8.2** | 7 | 8 | 8 | 9 | 9 |
+| 3 | [[Terminal_Queue_Optimization_SaaS|Terminal Queue]] <br> *Ver: [[PreMortem_Terminal_Queue]]* | 🟡 Requiere Rediseño | **7.8** | 9 | 7 | 9 | 5 | 9 |
+| 4 | [[Effluent_Compliance_Gateway|Effluent Compliance]] <br> *Ver: [[PreMortem_Effluent_Compliance]]* | 🟢 Viable con Correcciones | **7.6** | 8 | 8 | 8 | 6 | 8 |
+| 5 | [[Gorina_Sanitary_Shield_SaaS|Gorina Sanitary]] <br> *Ver: [[PreMortem_Gorina_Sanitary]]* | 🟡 Requiere Rediseño | **7.4** | 6 | 5 | 8 | 9 | 9 |
+| 6 | [[SISA_Shield_SaaS|SISA Shield]] <br> *Ver: [[PreMortem_SISA_Shield]]* | 🟡 Requiere Rediseño | **7.4** | 8 | 6 | 9 | 6 | 8 |
+| 7 | [[Premium_Beef_Quality_SaaS|Premium Beef]] <br> *Ver: [[PreMortem_Premium_Beef]]* | 🟡 Requiere Rediseño | **7.2** | 6 | 5 | 8 | 9 | 8 |
+| 8 | [[Alfalfa_Traceability_Compliance|Alfalfa Traceability]] <br> *Ver: [[PreMortem_Alfalfa_Traceability]]* | 🟡 Requiere Rediseño | **6.8** | 5 | 6 | 7 | 8 | 8 |
+| 9 | [[Chemical_Compliance_SaaS|Chemical Compliance]] <br> *Ver: [[PreMortem_Chemical_Compliance]]* | 🟡 Requiere Rediseño | **6.8** | 6 | 5 | 8 | 7 | 8 |
+| 10 | [[Full_Stack_Traceability_Hub|Full Stack Traceability]] <br> *Ver: [[PreMortem_Full_Stack_Traceability]]* | 🟡 Requiere Rediseño | **6.4** | 5 | 5 | 7 | 8 | 7 |
+| 11 | [[Beef_on_Dairy_Analytics_Engine|Beef on Dairy]] <br> *Ver: [[PreMortem_Beef_on_Dairy]]* | 🔴 NO EJECUTAR | **6.0** | 5 | 6 | 7 | 6 | 6 |
+| 12 | [[Enterprise_Barter_Engine|Enterprise Barter]] <br> *Ver: [[PreMortem_Enterprise_Barter]]* | 🟡 Requiere Rediseño | **6.0** | 6 | 4 | 8 | 5 | 7 |
+| 13 | [[Decentralized_Genetic_Registry|Decentralized Genetic]] <br> *Ver: [[PreMortem_Decentralized_Genetic]]* | 🟡 Requiere Rediseño | **5.8** | 5 | 5 | 7 | 6 | 6 |
+| 14 | [[Agro_Liquidity_Tokenization|Agro Liquidity]] <br> *Ver: [[PreMortem_Agro_Liquidity]]* | 🟡 Requiere Rediseño | **5.6** | 6 | 4 | 7 | 5 | 6 |
+| 15 | [[MEVA_Verification_SaaS|MEVA Verification]] <br> *Ver: [[PreMortem_MEVA_Verification]]* | 🟡 Requiere Rediseño | **5.6** | 4 | 5 | 6 | 7 | 6 |
+| 16 | [[Whey_Valorization_Analytics|Whey Valorization]] <br> *Ver: [[PreMortem_Whey_Valorization]]* | 🟡 Requiere Rediseño | **5.6** | 4 | 6 | 7 | 5 | 6 |
+| 17 | [[Hyper_Local_Yield_Oracle|Hyper Local Yield]] <br> *Ver: [[PreMortem_Hyper_Local_Yield]]* | 🟡 Requiere Rediseño | **5.0** | 5 | 5 | 6 | 4 | 5 |
+| 18 | [[Shared_Factory_Protocol|Shared Factory]] <br> *Ver: [[PreMortem_Shared_Factory]]* | 🟡 Requiere Rediseño | **4.8** | 3 | 4 | 5 | 6 | 6 |
+| 19 | [[Private_Extension_Copilot_SaaS|Private Extension]] <br> *Ver: [[PreMortem_Private_Extension]]* | 🟡 Requiere Rediseño | **4.6** | 4 | 5 | 6 | 4 | 4 |
+| 20 | [[Orphan_Tambo_Liquidity_Network|Orphan Tambo]] <br> *Ver: [[PreMortem_Orphan_Tambo]]* | 🔴 NO EJECUTAR | **3.2** | 2 | 3 | 4 | 4 | 3 |
 
 **Leyenda de Parámetros:**
 - **R (Resiliencia)**: Funcionamiento offline-first en mangas/zonas rurales.
