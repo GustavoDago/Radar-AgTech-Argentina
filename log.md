@@ -1,3 +1,24 @@
+## [2026-05-28] sync | Ingesta e Integración de Inteligencia Jules Sync (26 y 27 de Mayo)
+
+- **Actualización y Fusión de Ramas Remotas**:
+  - Secuencialmente fusionadas e integradas las ramas de Jules correspondientes a los días 26 de Mayo (`origin/feat/intelligence-update-2026-05-26-13642520640754351987`) y 27 de Mayo (`origin/agtech-intel-update-2026-05-27-6101107478148218368`).
+  - Resueltos conflictos semánticos en Obsidian Markdown, unificando los últimos triggers locales de mayo con los nuevos datos recopilados por Jules.
+- **Entidades Nuevas**:
+  - [[Asociacion Argentina de Brangus]] (`wiki/entities/Asociacion Argentina de Brangus.md`) - Trazabilidad y remates récord de la raza.
+  - [[Cabaña Pilaga]] (`wiki/entities/Cabaña Pilaga.md`) - Cabaña líder con alta digitalización en Corrientes.
+- **Conceptos Nuevos**:
+  - [[Certificacion de Secuestro de Carbono Individual]] (`wiki/concepts/Certificacion de Secuestro de Carbono Individual.md`) - Certificación de captura de carbono en pastos para reses carbono neutro.
+- **Notas Diarias Incorporadas**:
+  - [[2026-05-27]] (`wiki/daily/2026-05-27.md`)
+  - [[2026-05-26]] (`wiki/daily/2026-05-26.md`)
+- **Entidades y Conceptos Actualizados (Unificados)**:
+  - [[Resolucion SENASA 841-2025]] (Unificación de actualizaciones del 26 y 27 de Mayo: Huella de Carbono, Cuota Hilton 2026/27 y Warrants ganaderos como garantía financiera).
+  - [[Consorcio de Frigorificos ABC]] (Integración de fallas RFID y apertura de inscripciones de la Cuota Hilton 2026/27).
+  - [[Asociacion Braford Argentina]] (Integración del éxito y altísima liquidez del hub genético del norte registrado en las Nacionales de Corrientes).
+  - [[Reduccion Impositiva Invernada]] (Unificación del trigger de liquidez por valuación impositiva con inventario automatizado).
+- **Archivos Actualizados**:
+  - `index.md` (Catálogo maestro indexado con nuevos nodos y backlinks).
+
 ## [2026-05-25] analyze | Análisis Pre-Mortem para la Oportunidad Hyper-Local Yield Oracle
 
 - **Análisis de Portafolio (Pre-Mortem Forense)**:

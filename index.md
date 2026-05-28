@@ -1,6 +1,9 @@
 # Radar AgTech Argentina - Vault Index
 
 ## 📡 Inteligencia Diaria (Jules Intel)
+- [[2026-05-28]]
+- [[2026-05-27]]
+- [[2026-05-26]]
 - [[2026-05-25]]
 - [[2026-05-24]]
 - [[2026-05-23]]
@@ -56,12 +59,13 @@
 ## 🏢 Entidades Clave
 - [[ArreBeef]]
 - [[Asociacion Braford Argentina]]
-- [[Asociacion Brangus Argentina]]
+- [[Asociacion Argentina de Brangus]]
 - [[BCR Labs]]
 - [[Biofarma]]
 - [[Bustos Beltran]]
 - [[CADAF_SA]]
 - [[CAINCA]]
+- [[Cabaña Pilaga]]
 - [[CARSFE]]
 - [[Consorcio de Frigorificos ABC]]
 - [[Frigorifico Bustos Beltran]]
@@ -94,6 +98,7 @@
 - [[Barreras Biotecnológicas HB4]]
 - [[Barreras_Sanitarias_Antimicrobianos]]
 - [[Captura_Carbono_Pasturas]]
+- [[Certificacion de Secuestro de Carbono Individual]]
 - [[Certificacion_Huella_Carbono_Biocombustibles]]
 - [[Colapso Institucional SENASA INTA]]
 - [[Colapso Operativo Estatal]]
@@ -118,4 +123,4 @@
 - [[Ventana Competitiva Riesgo EUDR Brasil]]
 
 ---
-*Última sincronización: 2026-05-25*
+*Última sincronización: 2026-05-28*
