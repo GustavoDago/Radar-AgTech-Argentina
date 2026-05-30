@@ -3,7 +3,7 @@ type: concepto
 tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
 sources: [industry_reports, market_feedback, daily_summary_2026-04-08]
 confidence: high
-last_update: 2026-04-17
+last_update: 2026-05-30
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
@@ -26,6 +26,7 @@ last_update: 2026-04-17
 - Dashboard de métricas de eficiencia en la lectura RFID por lote.
 - **Integración Genética:** Módulos que vinculen el [[Resolucion SENASA 841-2025]] con índices de calidad de carne (ver [[Asociacion Braford Argentina]]) para capturar el sobreprecio en mercados de exportación.
 - **Auditoría SaaS:** Sistemas de auditoría "EU-Ready" para cumplimiento de plazos inmediatos y validación de origen.
+- **Dashboards de Carbono:** Integración de datos de [[Certificacion de Secuestro de Carbono]] en el perfil individual del animal para capturar primas de precio por "Carne Carbono Neutro".
 
 ## Backlinks
 - Ver normativa en [[Resolucion SENASA 841-2025]]
