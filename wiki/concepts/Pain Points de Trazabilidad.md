@@ -1,9 +1,9 @@
 ---
 type: concepto
 tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
-sources: [industry_reports, market_feedback, daily_summary_2026-04-08, daily_summary_2026-05-27, daily_summary_2026-05-28, daily_summary_2026-05-30]
+sources: [industry_reports, market_feedback, daily_summary_2026-04-08, daily_summary_2026-05-27, daily_summary_2026-05-28, daily_summary_2026-05-30, daily_summary_2026-05-31]
 confidence: high
-last_update: 2026-05-30
+last_update: 2026-05-31
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
@@ -17,7 +17,7 @@ last_update: 2026-05-30
 6. **Gestión de "Beef on Dairy":** La adopción de cruzas cárnicas en tambos (estrategia para valorizar el descarte) requiere una trazabilidad individual absoluta para diferenciar terneros de reposición vs. terneros para carne desde el día 1, evitando errores en la recría.
 
 ## Desafíos de Cumplimiento (Actualizado Mayo 2026)
-- **Resolución 841/2025:** Obligatoriedad de lectura electrónica para todos los movimientos a partir de 2026. La falta de infraestructura (lectores, conectividad) es un cuello de botella crítico.
+- **Resolución 841/2025 (Ratificación 31/05/2026):** La ratificación definitiva de las normas técnicas en el Boletín Oficial (publicada a fines de mayo de 2026) cierra la puerta a prórrogas. Los productores deben tener el hardware homologado operativo antes del 1 de enero de 2026. La falta de infraestructura (lectores, conectividad) sigue siendo el cuello de botella crítico.
 - **Auditorías Externas:** Necesidad de reportes instantáneos para auditorías de la Unión Europea sobre el origen electrónico del animal.
 - **Deadline Europa (1º de Mayo - Urgencia Crítica):** Ratificado el 1 de mayo como la "hora cero" (D-Day) para embarques a la UE bajo las nuevas normativas de libre deforestación (EUDR) y trazabilidad granular. Los frigoríficos del [[Consorcio de Frigorificos ABC]] (ej: [[Frigorifico Logros]]) están bajo presión máxima para auditar el origen electrónico y geográfico de cada animal. El sistema SIGSA/SENASA actual presenta baches de información que requieren validación SaaS externa inmediata.
 - **SIAL China 2026 (Actualización 24/05/2026):** Aunque los precios en China muestran balance positivo, surge una demanda crítica de los compradores internacionales por "dashboards de trazabilidad auditables". La diferenciación contra competidores regionales ya no es solo por precio, sino por la capacidad técnica de demostrar el origen individual mediante sistemas compatibles con la Res. 841/2025.
