@@ -1,21 +1,27 @@
 ---
 type: entidad
-tags: [cabana, brangus, genetica, cordoba]
-sources: [Agroverdad - 2026-06-01]
+tags: [cabaña, brangus, cordoba, genetica, agtech/target]
+sources: [Agroverdad - 2026-06-01, Agroverdad - 2026-06-02, daily_summary_2026-06-02]
 confidence: high
-last_update: 2026-06-01
+last_update: 2026-06-02
 ---
 
-# Cabaña El Porvenir
+# Cabaña El Porvenir (Córdoba)
 
-## Resumen
-Cabaña El Porvenir, dirigida por Pablo Orodá y ubicada en Córdoba, es un referente en la cría de genética Brangus de superior calidad. En junio de 2026, la cabaña anunció su 5to Remate Anual, destacándose por la oferta de hembras con genética de élite.
+## Perfil de la Entidad
+Cabaña líder en genética **Brangus** ubicada en la provincia de Córdoba, dirigida por **Pablo Orodá**. Es reconocida por la alta calidad de sus reproductores y su participación activa en remates de élite, siendo un referente nacional en la cría y difusión de la raza.
 
-## Triggers de Negocio
-- **Alta Liquidez en Genética:** Los remates de cabañas de élite son indicadores de alta inversión en el sector. Los compradores de estos animales son "Early Adopters" naturales para RFID y software de gestión genética.
-- **Trazabilidad de Valor:** La necesidad de certificar el pedigrí y los datos de performance individual vinculados a la [[Resolucion SENASA 841-2025]] posiciona a los clientes de El Porvenir como targets prioritarios para SaaS de gestión ganadera.
-- **Diferenciación de Producto:** La genética superior busca capturar primas de precio en la exportación, lo que requiere auditorías de datos audibles.
+## Trigger de Compra / Oportunidad AgTech
+- **Remate Élite (Junio 2026):** El anuncio de su remate anual (con oferta de hembras y reproductores de genética superior) genera alta liquidez en la región y una demanda crítica de certificación de pedigrí y datos de performance individual en tiempo real.
+- **Trazabilidad de Élite:** Cabañas de este nivel son "early adopters" naturales de la [[Resolucion SENASA 841-2025]] debido a que el alto valor individual de cada reproductor justifica plenamente la inversión en dispositivos RFID de alta gama y software de gestión genética.
+- **Incentivos Fiscales:** El nuevo marco de [[Incentivos a la Inversion RIMI]] para genética ganadera favorece la inversión en reproductores de cabañas de élite.
+
+## Acciones Recomendadas
+- Contactar a Pablo Orodá para ofrecer soluciones de gestión de datos genéticos vinculados a caravanas RFID, permitiendo a los compradores descargar el "currículum digital" o ficha de performance del animal al momento de la compra en el remate.
+- Foco comercial: Productores y compradores en Córdoba en torno al remate.
 
 ## Backlinks
-- Ver contexto en [[wiki/daily/2026-06-01]]
+- Ver impacto de [[Resolucion SENASA 841-2025]]
+- Ver marco fiscal en [[Incentivos a la Inversion RIMI]]
 - Relacionado con [[Asociacion Brangus Argentina]]
+- Ver contexto en [[2026-06-01]]

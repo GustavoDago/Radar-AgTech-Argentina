@@ -1,9 +1,9 @@
 ---
 type: concepto
 tags: [agtech/investment, riego, mega-tambo, rimi, fiscal]
-sources: [TodoAgro, INTA Informa, Agroverdad, Valor Carne, 2026-05-31]
+sources: [TodoAgro, INTA Informa, Agroverdad, Valor Carne, 2026-05-31, daily_summary_2026-06-02]
 confidence: high
-last_update: 2026-05-31
+last_update: 2026-06-02
 ---
 
 # Incentivos a la Inversión RIMI (Riego)
@@ -11,7 +11,8 @@ last_update: 2026-05-31
 ## Contexto
 La aprobación del **RIMI (Régimen de Incentivo para Grandes Inversiones)** y la reducción del **IVA al 10,5%** en tarifas de riego agroindustrial (reclamo histórico de CAME concretado en abril 2026) han transformado la estructura de costos para la intensificación forrajera. **A partir del 19 de mayo de 2026, ARCA (ex-AFIP) oficializó los requisitos y beneficios específicos**, lo que permite a las empresas AgTech, ganadería de precisión y mega-tambos iniciar las presentaciones formales para proyectos de gran escala (incluyendo estabulación y riego) y desplaza el enfoque hacia cómo aprovechar estas reglas fiscales en la producción.
 
-## El Trigger AgTech (Actualizado 31/05/2026)
+## El Trigger AgTech (Actualizado Junio 2026)
+- **Ganadería y RIMI (02/06/2026)**: El régimen de incentivo (RIMI) junto con nuevas reglas fiscales en Ganancias (Valor Carne) abren una ventana para la amortización acelerada en genética e infraestructura ganadera. Esto acelera la adopción de tecnología en cabañas y establecimientos de recría.
 - **Reducción de Costos Directos**: La baja del IVA en energía para riego y los beneficios del RIMI reducen el período de repago de equipos de pivote central y riego por goteo subterráneo.
 - **Foco en Mega-Tambos**: Los establecimientos estabulados y de alta producción son los principales beneficiarios, ya que requieren estabilidad forrajera absoluta (maíz/alfalfa) para mantener dietas de alta performance.
 - **Necesidad de Gestión**: La inversión en hardware (riego) genera una demanda inmediata de software de **VRT (Variable Rate Irrigation)** y monitoreo de eficiencia hídrica para justificar la inversión ante el RIMI.
