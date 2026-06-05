@@ -21,10 +21,11 @@ last_update: 2026-04-12
 - **Perfil:** Foco en genética Jersey y lechería especializada.
 - **Acción:** Presencia comercial para captar early adopters de trazabilidad individual electrónica aplicada a la selección genética de precisión.
 
-### 2. Cuenca Lechera Rafaela (Santa Fe)
+### 2. Cuenca Lechera Rafaela (Santa Fe) - TRIGGER AGROACTIVA 2026
+- **Evento:** Lanzamiento de créditos por $116.000 millones (tasas desde el 8%) en Agroactiva.
 - **Perfil:** Mayor concentración de mega-tambos del país, muchos con sistemas estabulados y robóticos.
-- **Necesidad Tecnológica:** Integración de la identificación electrónica ([[Resolucion SENASA 841-2025]]) con el software de ordeñe y gestión reproductiva. El paso de identificación propietaria a identificación oficial es un reto.
-- **Acción:** Visitar establecimientos con más de 1,000 vacas en ordeñe para ofrecer solución SaaS de trazabilidad integrada.
+- **Trigger:** "Guerra de tasas" incentiva la compra de maquinaria; el SaaS debe posicionarse como la inteligencia que gestiona ese nuevo hardware.
+- **Acción:** Visitar establecimientos con más de 1,000 vacas en ordeñe para ofrecer solución SaaS de trazabilidad integrada que complemente las nuevas inversiones en maquinaria.
 
 ### 3. Eje Rosario - Trenque Lauquen (Santa Fe - Buenos Aires)
 - **Perfil:** Corredor de los principales frigoríficos del **Consorcio ABC** y mega-feeldots.

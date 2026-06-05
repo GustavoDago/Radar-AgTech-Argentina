@@ -1,15 +1,17 @@
 ---
 type: entidad
 tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
-sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-05-26, daily_summary_2026-05-28, daily_summary_2026-05-29, daily_summary_2026-05-30, daily_summary_2026-05-31, daily_summary_2026-06-01, daily_summary_2026-06-02, daily_summary_2026-06-03]
+sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-05-26, daily_summary_2026-05-28, daily_summary_2026-05-29, daily_summary_2026-05-30, daily_summary_2026-05-31, daily_summary_2026-06-01, daily_summary_2026-06-02, daily_summary_2026-06-03, daily_summary_2026-06-04]
 confidence: high
-last_update: 2026-06-03
+last_update: 2026-06-04
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
 
 ## Resumen Ejecutivo
 La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada y en plena vigencia técnica (Mayo 2026)**, confirmando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" (caravana visual + dispositivo RFID) antes del destete o primer movimiento. La ratificación definitiva de las normas técnicas en el Boletín Oficial a fines de mayo de 2026 (publicada entre el 28 y 30 de mayo) elimina la incertidumbre legal para el ciclo de implementación.
+
+**Actualización 04/06/2026**: La apertura de la categoría "Software y Apps" en el Premio Ternium Expoagro y el lanzamiento de créditos masivos ($116 mil millones) en Santa Fe para bienes de capital actúan como catalizadores para la digitalización del cumplimiento de la Res. 841/2025. La trazabilidad electrónica se consolida como el "software layer" necesario para justificar inversiones en maquinaria de precisión.
 
 **Actualización 03/06/2026**: La ratificación de las normas técnicas en el Boletín Oficial (30/05) despeja cualquier duda sobre la obligatoriedad. Además, el mecanismo de **"Inmovilización voluntaria"** para warrants ganaderos (27/05) transforma la Res. 841/2025 de una carga regulatoria a un requisito de seguridad financiera, permitiendo el uso de hacienda como colateral auditable para bancos e inversores.
 
@@ -51,8 +53,8 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 - **Certificación de Huella de Carbono (26/05/2026)**: La trazabilidad individual permite asignar el secuestro de carbono del pasto a cada res, permitiendo la exportación de "Carne Carbono Neutro" o con balance neto de carbono positivo (Huella de la carne).
 - **Fricción Operativa Hilton**: Los frigoríficos deben garantizar que sus proveedores (feedlots y cabañas) cumplan con la identificación electrónica para no arriesgar la certificación Hilton.
 - **Diferenciación Genética**: Razas ganaderas de élite como la [[Asociacion Argentina de Brangus]] y la [[Asociacion Braford Argentina]] están usando el ID individual para certificar calidad carnicera y genética de élite en remates.
-- **Oportunidad SaaS**: Urgencia total por el cumplimiento de normativas de libre deforestación (EUDR) y acceso a mercados internacionales. Los frigoríficos exportadores (ej: [[Consorcio de Frigorificos ABC]], [[Frigorifico Logros]]) necesitan sistemas que traduzcan la identificación de la Res. 841/2025 en certificados de auditoría automatizados. Además, surge el trigger de **Identidad Pastoril**: SaaS para certificar atributos de producción a nivel animal y huella de carbono neta.
-- **Relación con UE**: La obligatoriedad de la identificación electrónica es la piedra angular para mantener el acceso al mercado europeo post "D-Day".
+- **Oportunidad SaaS**: Urgencia total por el cumplimiento de normativas de libre deforestación (EUDR) y acceso a mercados internacionales. Los frigoríficos exportadores (ej: [[Consorcio de Frigorificos ABC]], [[Frigorifico Logros]]) necesitan sistemas que traduzcan la identificación de la Res. 841/2025 en certificados de auditoría automatizados para cumplir con EUDR. Además, surge el trigger de **Identidad Pastoril**: SaaS para certificar atributos de producción a nivel animal y huella de carbono neta.
+- **Relación con UE**: La obligatoriedad de la identificación electrónica es la piedra angular para mantener el acceso al mercado europeo post "D-Day" (1 de mayo).
 
 ## Backlinks
 - Ver impactos en [[Pain Points de Trazabilidad]]
