@@ -1,15 +1,17 @@
 ---
 type: entidad
 tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
-sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-05-26, daily_summary_2026-05-28, daily_summary_2026-05-29, daily_summary_2026-05-30, daily_summary_2026-05-31]
+sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-05-26, daily_summary_2026-05-28, daily_summary_2026-05-29, daily_summary_2026-05-30, daily_summary_2026-05-31, daily_summary_2026-06-01]
 confidence: high
-last_update: 2026-05-31
+last_update: 2026-06-01
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
 
 ## Resumen Ejecutivo
 La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada y en plena vigencia técnica (Mayo 2026)**, confirmando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" (caravana visual + dispositivo RFID) antes del destete o primer movimiento. La ratificación definitiva de las normas técnicas en el Boletín Oficial a fines de mayo de 2026 (publicada entre el 28 y 30 de mayo) elimina la incertidumbre legal para el ciclo de implementación.
+
+**Actualización 01/06/2026**: La presidente de SENASA, Pilu Giraudo, rechazó formalmente las quejas de los criadores por el costo de las caravanas electrónicas obligatorias. SENASA ratifica que el beneficio para los frigoríficos exportadores (cumplimiento de mercados premium) justifica la inversión del productor. Este "rechazo político" consolida un clima de fricción donde el SaaS debe actuar como facilitador de valor para el criador, no solo como carga burocrática.
 
 **Actualización 31/05/2026**: Se ratifica en el Boletín Oficial (del 30/05) la exigencia del "binomio" de identificación electrónica para el ciclo 2026. Se eliminan definitivamente las dudas o planteos de prórroga técnica por parte de asociaciones de criadores, confirmando la obligatoriedad del uso de hardware homologado.
 

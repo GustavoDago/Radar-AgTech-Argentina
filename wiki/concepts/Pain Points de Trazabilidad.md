@@ -1,9 +1,9 @@
 ---
 type: concepto
 tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
-sources: [industry_reports, market_feedback, daily_summary_2026-04-08, daily_summary_2026-05-27, daily_summary_2026-05-28, daily_summary_2026-05-30, daily_summary_2026-05-31]
+sources: [industry_reports, market_feedback, daily_summary_2026-04-08, daily_summary_2026-05-27, daily_summary_2026-05-28, daily_summary_2026-05-30, daily_summary_2026-05-31, daily_summary_2026-06-01]
 confidence: high
-last_update: 2026-05-31
+last_update: 2026-06-01
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
@@ -15,8 +15,9 @@ last_update: 2026-05-31
 4. **Fallas en la Lectura RFID:** Los lectores de baja frecuencia (RFID LF) pueden presentar interferencias en corrales de metal o balanzas electrónicas, ralentizando el movimiento de hacienda.
 5. **Inconsistencias en la Recuperación en Faena:** Los frigoríficos enfrentan el desafío de recuperar dispositivos (microchips o bolos) durante la línea de faena para evitar contaminación física del producto.
 6. **Gestión de "Beef on Dairy":** La adopción de cruzas cárnicas en tambos (estrategia para valorizar el descarte) requiere una trazabilidad individual absoluta para diferenciar terneros de reposición vs. terneros para carne desde el día 1, evitando errores en la recría.
+7. **Desequilibrio Costo-Beneficio (01/06/2026):** Los criadores perciben que el costo de la caravana electrónica obligatoria (Res. 841/2025) recae enteramente sobre ellos, mientras que el beneficio comercial (acceso a mercados premium) lo capturan mayoritariamente los frigoríficos exportadores. Esta percepción genera resistencia a la inversión en hardware sin un SaaS que demuestre retorno directo en eficiencia productiva.
 
-## Desafíos de Cumplimiento (Actualizado Mayo 2026)
+## Desafíos de Cumplimiento (Actualizado Junio 2026)
 - **Resolución 841/2025 (Ratificación 31/05/2026):** La ratificación definitiva de las normas técnicas en el Boletín Oficial (publicada a fines de mayo de 2026) cierra la puerta a prórrogas. Los productores deben tener el hardware homologado operativo antes del 1 de enero de 2026. La falta de infraestructura (lectores, conectividad) sigue siendo el cuello de botella crítico.
 - **Auditorías Externas:** Necesidad de reportes instantáneos para auditorías de la Unión Europea sobre el origen electrónico del animal.
 - **Deadline Europa (1º de Mayo - Urgencia Crítica):** Ratificado el 1 de mayo como la "hora cero" (D-Day) para embarques a la UE bajo las nuevas normativas de libre deforestación (EUDR) y trazabilidad granular. Los frigoríficos del [[Consorcio de Frigorificos ABC]] (ej: [[Frigorifico Logros]]) están bajo presión máxima para auditar el origen electrónico y geográfico de cada animal. El sistema SIGSA/SENASA actual presenta baches de información que requieren validación SaaS externa inmediata.
