@@ -1,17 +1,17 @@
 ---
 type: entidad
 tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
-sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-05-26, daily_summary_2026-05-28]
+sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-05-26, daily_summary_2026-05-28, daily_summary_2026-05-29]
 confidence: high
-last_update: 2026-05-28
+last_update: 2026-05-29
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
 
 ## Resumen Ejecutivo
-La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada y en plena vigencia técnica (Mayo 2026)**, confirmando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" (caravana visual + dispositivo RFID) antes del destete o primer movimiento. La reaparición o ratificación definitiva de esta norma técnica en el Boletín Oficial el **28 de mayo de 2026** despeja cualquier incertidumbre legal para la zafra 2026.
+La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada y en plena vigencia técnica (Mayo 2026)**, confirmando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" (caravana visual + dispositivo RFID) antes del destete o primer movimiento. La ratificación definitiva de las normas técnicas en el Boletín Oficial el **28 de mayo de 2026** elimina la incertidumbre legal para el ciclo de implementación 2026 y especifica los protocolos de comunicación y homologación de los dispositivos RFID.
 
-**Actualización 28/05/2026**: Ratificación oficial de la norma técnica en el Boletín Oficial. Este paso administrativo final consolida la obligatoriedad para 2026, eliminando incertidumbres y disparando la necesidad de adopción inmediata de dispositivos RFID y software de gestión en el eslabón de cría.
+**Actualización 29/05/2026**: La ratificación definitiva de las normas técnicas en el Boletín Oficial (publicada el 28/05) elimina la incertidumbre legal para el ciclo de implementación 2026. La norma especifica los protocolos de comunicación y homologación de los dispositivos, consolidando el marco para el despliegue masivo de RFID y software de gestión en el eslabón de cría.
 
 **Actualización 27/05/2026**: La implementación de mecanismos de "Inmovilización voluntaria" para warrants sobre hacienda eleva la Res. 841/2025 a un requisito de seguridad financiera. La trazabilidad electrónica individual es ahora el garante de que los activos prendados existen y son auditables digitalmente, reduciendo el riesgo de fraude en el financiamiento ganadero.
 
