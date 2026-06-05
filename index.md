@@ -1,6 +1,13 @@
 # Radar AgTech Argentina - Vault Index
 
 ## 📡 Inteligencia Diaria (Jules Intel)
+- [[2026-06-04]]
+- [[2026-06-03]]
+- [[2026-06-02]]
+- [[2026-06-01]]
+- [[2026-05-31]]
+- [[2026-05-30]]
+- [[2026-05-29]]
 - [[2026-05-28]]
 - [[2026-05-27]]
 - [[2026-05-26]]
@@ -57,20 +64,27 @@
 - [[PreMortem_Whey_Valorization]]
 
 ## 🏢 Entidades Clave
+- [[AFA]]
+- [[AgroZAL]]
+- [[Arcor Danone Alianza Lactea]]
 - [[ArreBeef]]
 - [[Asociacion Braford Argentina]]
 - [[Asociacion Argentina de Brangus]]
+- [[Asociacion Brangus Argentina]]
 - [[BCR Labs]]
 - [[Biofarma]]
 - [[Bustos Beltran]]
 - [[CADAF_SA]]
 - [[CAINCA]]
+- [[Cabaña El Porvenir]]
 - [[Cabaña Pilaga]]
 - [[CARSFE]]
 - [[Consorcio de Frigorificos ABC]]
 - [[Frigorifico Bustos Beltran]]
+- [[Frigorifico Bustos y Beltran]]
 - [[Frigorifico Gorina]]
 - [[Frigorifico Logros]]
+- [[Lacteos MIYM]]
 - [[Lacteos Veronica]]
 - [[Las Nacionales 2026]]
 - [[MEVA]]
@@ -94,10 +108,12 @@
 ## 🧠 Conceptos y Normativas
 - [[Agotamiento de Nutrientes en Suelos]]
 - [[Amenaza Arancelaria USA]]
+- [[Amortizacion Acelerada Genetica Elite]]
 - [[Aumento de Densidad en Feedlots]]
 - [[Barreras Biotecnológicas HB4]]
 - [[Barreras_Sanitarias_Antimicrobianos]]
 - [[Captura_Carbono_Pasturas]]
+- [[Certificacion de Secuestro de Carbono]]
 - [[Certificacion de Secuestro de Carbono Individual]]
 - [[Certificacion_Huella_Carbono_Biocombustibles]]
 - [[Colapso Institucional SENASA INTA]]
@@ -105,11 +121,14 @@
 - [[Conciliacion_Canje_Granos]]
 - [[DT-e]]
 - [[Desafios Confinamiento Mega-tambos]]
+- [[Financiamiento Bienes de Capital 2026]]
 - [[Friccion EUDR]]
 - [[Friccion Logistica Exportadora]]
 - [[Friccion Operativa en Mega-tambos]]
 - [[Geo Reportes Agricolas Cordoba]]
 - [[Gestion de Genetica en Mega-Tambos]]
+- [[Huella de Carbono Ganadera]]
+- [[Huella de la carne]]
 - [[Incentivos a la Inversion RIMI]]
 - [[Incertidumbre Regulatoria Sanitaria]]
 - [[Indice de Calidad de Carne]]
@@ -123,4 +142,4 @@
 - [[Ventana Competitiva Riesgo EUDR Brasil]]
 
 ---
-*Última sincronización: 2026-05-28*
+*Última sincronización: 2026-06-04*

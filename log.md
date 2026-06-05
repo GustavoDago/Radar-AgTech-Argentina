@@ -1,3 +1,32 @@
+## [2026-06-04] sync | Ingesta e Integración de Inteligencia Jules Sync (28 de Mayo al 4 de Junio)
+
+- **Actualización y Fusión de Ramas Remotas**:
+  - Secuencialmente fusionadas e integradas 8 ramas remotas de Jules correspondientes a los días 28 de Mayo al 4 de Junio.
+  - Resueltos conflictos semánticos y de unificación de datos en archivos clave como `Resolucion SENASA 841-2025.md` y `Pain Points de Trazabilidad.md`.
+  - Corregidos errores de duplicación y nomenclatura ortográfica de archivos (unificado `Cabana El Porvenir.md` en `Cabaña El Porvenir.md`).
+- **Conceptos Nuevos**:
+  - [[Amortizacion Acelerada Genetica Elite]] (`wiki/concepts/Amortizacion Acelerada Genetica Elite.md`) - Amortización acelerada en genética e infraestructura ganadera.
+  - [[Certificacion de Secuestro de Carbono]] (`wiki/concepts/Certificacion de Secuestro de Carbono.md`) - Certificación de captura de carbono en pastos.
+  - [[Financiamiento Bienes de Capital 2026]] (`wiki/concepts/Financiamiento Bienes de Capital 2026.md`) - Créditos masivos ($116 mil millones) en Santa Fe para bienes de capital y digitalización.
+  - [[Huella de Carbono Ganadera]] (`wiki/concepts/Huella de Carbono Ganadera.md`) - Balance y contabilidad de carbono.
+  - [[Huella de la carne]] (`wiki/concepts/Huella de la carne.md`) - Emisiones netas restando secuestro de pasto.
+- **Entidades Nuevas**:
+  - [[AFA]] (`wiki/entities/AFA.md`) - Agricultores Federados Argentinos, cooperativa líder.
+  - [[AgroZAL]] (`wiki/entities/AgroZAL.md`) - Zona de Actividades Logísticas en San Luis (Villa Mercedes) y exportación de alfalfa.
+  - [[Arcor Danone Alianza Lactea]] (`wiki/entities/Arcor Danone Alianza Lactea.md`) - Consolidación láctea corporativa.
+  - [[Cabaña El Porvenir]] (`wiki/entities/Cabaña El Porvenir.md`) - Cabaña líder Brangus en Córdoba (Pablo Orodá).
+  - [[Frigorifico Bustos y Beltran]] (`wiki/entities/Frigorifico Bustos y Beltran.md`) - Hito de exportación aérea a Dubai.
+  - [[Lacteos MIYM]] (`wiki/entities/Lacteos MIYM.md`) - Pyme láctea dinámica.
+- **Notas Diarias Incorporadas**:
+  - [[2026-06-04]], [[2026-06-03]], [[2026-06-02]], [[2026-06-01]], [[2026-05-31]], [[2026-05-30]], [[2026-05-29]], [[2026-05-28]]
+- **Entidades y Conceptos Actualizados (Unificados)**:
+  - [[Resolucion SENASA 841-2025]] (Integración de actualizaciones: homologación de RFID, rechazo de reclamos por costos por parte de Pilu Giraudo, créditos de bienes de capital de Santa Fe, y warrants ganaderos).
+  - [[Pain Points de Trazabilidad]] (Dolores de costo-beneficio del productor, escala laboral del maíz, e integración con certificación de secuestro de carbono).
+  - [[Colapso Institucional SENASA INTA]] (Desmantelamiento de INTA con 650 retiros voluntarios tramitados y extensión al 10 de junio).
+  - [[Zonas Nucleo Adaptacion Tecnologica]] (Créditos de bienes de capital y digitalización).
+- **Archivos Actualizados**:
+  - `index.md` (Catálogo maestro de la wiki indexado con nuevos nodos y backlinks).
+
 ## [2026-05-28] sync | Ingesta e Integración de Inteligencia Jules Sync (26 y 27 de Mayo)
 
 - **Actualización y Fusión de Ramas Remotas**:
