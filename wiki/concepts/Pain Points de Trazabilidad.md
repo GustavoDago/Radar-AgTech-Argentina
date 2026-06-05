@@ -1,9 +1,9 @@
 ---
 type: concepto
 tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
-sources: [industry_reports, market_feedback, daily_summary_2026-04-08, daily_summary_2026-05-27]
+sources: [industry_reports, market_feedback, daily_summary_2026-04-08, daily_summary_2026-05-27, daily_summary_2026-05-28]
 confidence: high
-last_update: 2026-05-27
+last_update: 2026-05-28
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
@@ -22,6 +22,7 @@ last_update: 2026-05-27
 - **Deadline Europa (1º de Mayo - Urgencia Crítica):** Ratificado el 1 de mayo como la "hora cero" (D-Day) para embarques a la UE bajo las nuevas normativas de libre deforestación (EUDR) y trazabilidad granular. Los frigoríficos del [[Consorcio de Frigorificos ABC]] (ej: [[Frigorifico Logros]]) están bajo presión máxima para auditar el origen electrónico y geográfico de cada animal. El sistema SIGSA/SENASA actual presenta baches de información que requieren validación SaaS externa inmediata.
 - **SIAL China 2026 (Actualización 24/05/2026):** Aunque los precios en China muestran balance positivo, surge una demanda crítica de los compradores internacionales por "dashboards de trazabilidad auditables". La diferenciación contra competidores regionales ya no es solo por precio, sino por la capacidad técnica de demostrar el origen individual mediante sistemas compatibles con la Res. 841/2025.
 - **Pérdida de Stock Vacuno:** Datos oficiales de 2025 confirman una **pérdida de 700.000 cabezas** (con una pérdida estructural de 3.2M desde 2022). Esta escasez de oferta eleva el valor estratégico de cada animal y acelera la adopción de "Beef on Dairy". El dolor técnico es la **segregación de datos** y la captura de primas de calidad mediante el monitoreo individual indispensable.
+- **Escala de Empleo y Complejidad (28/05/2026):** Sectores como el maíz generan 300.000 empleos directos (3x que la automotriz). Esta escala masiva de interacción humana en la cadena productiva aumenta el riesgo de errores en la captura de datos manual, haciendo que la automatización vía RFID y trazabilidad digital sea la única forma de garantizar la integridad de la información en grandes volúmenes.
 
 ## Oportunidades de Venta Directa
 - Software que funcione offline y sincronice con SIGSA cuando haya conexión.

@@ -8,7 +8,7 @@ last_update: 2026-05-25
 
 # Colapso Institucional SENASA e INTA
 
-Se refiere al estado de degradación y desmantelamiento de la infraestructura técnica, administrativa y de investigación del Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA) y del Instituto Nacional de Tecnología Agropecuaria (INTA), reportado con especial gravedad en mayo de 2026.
+Se refiere al estado de degradación y desmantelamiento de la infraestructura técnica, administrative y de investigación del Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA) y del Instituto Nacional de Tecnología Agropecuaria (INTA), reportado con especial gravedad en mayo de 2026.
 
 ## Manifestaciones del Problema
 

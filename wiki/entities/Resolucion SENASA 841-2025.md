@@ -1,24 +1,27 @@
 ---
 type: entidad
 tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
-sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-05-26]
+sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-05-26, daily_summary_2026-05-28]
 confidence: high
-last_update: 2026-05-27
+last_update: 2026-05-28
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
 
 ## Resumen Ejecutivo
-La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada y en plena vigencia técnica (Mayo 2026)**, confirmando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" (caravana visual + dispositivo RFID) antes del destete o primer movimiento.
+La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada y en plena vigencia técnica (Mayo 2026)**, confirmando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" (caravana visual + dispositivo RFID) antes del destete o primer movimiento. La reaparición o ratificación definitiva de esta norma técnica en el Boletín Oficial el **28 de mayo de 2026** despeja cualquier incertidumbre legal para la zafra 2026.
 
-**Actualización 27/05/2026**: La implementación de mecanismos de "Inmovilización voluntaria" para warrants sobre hacienda eleva la Res. 841/2025 a un requisito de seguridad financiera. La trazabilidad electrónica individual es ahora el garante de que los activos prendados existen y son auditables digitalmente, reduciendo el riesgo de fraude en el financiamiento bancario.
+**Actualización 28/05/2026**: Ratificación oficial de la norma técnica en el Boletín Oficial. Este paso administrativo final consolida la obligatoriedad para 2026, eliminando incertidumbres y disparando la necesidad de adopción inmediata de dispositivos RFID y software de gestión en el eslabón de cría.
+
+**Actualización 27/05/2026**: La implementación de mecanismos de "Inmovilización voluntaria" para warrants sobre hacienda eleva la Res. 841/2025 a un requisito de seguridad financiera. La trazabilidad electrónica individual es ahora el garante de que los activos prendados existen y son auditables digitalmente, reduciendo el riesgo de fraude en el financiamiento ganadero.
 
 **Actualización 26/05/2026**: La ratificación de la norma en el Boletín Oficial (vínculo técnico) coincide con la apertura de inscripciones para la **Cuota Hilton 2026/27**. El cumplimiento de la Res. 841/2025 se perfila como un requisito de "capacidad técnica" implícito para los exportadores que buscan asegurar cupos premium. Asimismo, el debate sobre la **Huella de Carbono** (secuestro de pasto) eleva la necesidad de asociar datos ambientales al ID individual del animal para capturar primas de valor en mercados exigentes.
 
 **Actualización 25/05/2026**: Los resultados de SIAL China 2026 convalidan que los precios pagados y el acceso a contratos premium dependen de la capacidad de demostrar trazabilidad "audit-ready". Paralelamente, el desmantelamiento de INTA (ver [[Colapso Institucional SENASA INTA]]) eleva el riesgo de falla en el soporte técnico oficial para la implementación, convirtiendo a las soluciones SaaS privadas en el único garante de cumplimiento para exportadores.
+
 **Actualización 28/04/2026**: SENASA actualizó los criterios de etiquetado de fitosanitarios incorporando el Sistema Globalmente Armonizado (SGA). Esta convergencia regulatoria refuerza la necesidad de integrar datos de insumos en la ficha individual del animal (trazabilidad de residuos). Asimismo, la iniciativa de "Carne de Sistemas Pastoriles" busca usar la trazabilidad de la Res. 841/2025 para comunicar identidad y valor nutricional.
 
-**Actualización 27/04/2026**: El interés por la carne de sistemas pastoriles y la necesidad de comunicar "identidad productiva" (INTA/TodoAgro) escala la Res. 841/2025 de una traba burocrática a un activo de marketing. La trazabilidad granular es ahora el vehículo para capturar primas de precio por diferenciación de origen.
+**Actualización 27/04/2026**: El interés por la carne de sistemas pastoriles y la necesidad de comunicar "identidad productiva" escala la Res. 841/2025 de una traba burocrática a un activo de marketing. La trazabilidad granular es ahora el vehículo para capturar primas de precio por diferenciación de origen.
 
 **Actualización 19/04/2026**: Ratificación técnica en el Boletín Oficial vinculada a la implementación de la Res. 841/2025. La presión internacional aumenta por la cepa inédita de Aftosa en China, lo que refuerza la obligatoriedad de sistemas de trazabilidad auditables antes del deadline de 2026.
 
