@@ -1,16 +1,16 @@
 ---
 type: concepto
 tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
-sources: [industry_reports, market_feedback, daily_summary_2026-04-08, daily_summary_2026-05-27, daily_summary_2026-05-28]
+sources: [industry_reports, market_feedback, daily_summary_2026-04-08, daily_summary_2026-05-27, daily_summary_2026-05-28, daily_summary_2026-05-30]
 confidence: high
-last_update: 2026-05-28
+last_update: 2026-05-30
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
 
 ## Fricciones Identificadas
 1. **Caídas del SIGSA:** La dependencia del sistema central de SENASA para emitir el [[DT-e]] genera retrasos en la carga de camiones en establecimientos con baja conectividad.
-2. **Deterioro Operativo de SENASA (17/04/2026):** Se reporta que el organismo no puede utilizar gran parte de sus propios recursos, profundizando su deterioro operativo. Esto aumenta exponencialmente el riesgo de fallas sistémicas en SIGSA y demoras críticas en la emisión de documentos de movimiento de hacienda.
+2. **Deterioro Operativo de SENASA (17/04/2026):** Se reporta que el organismo no puede utilizar gran parte de sus propios recursos, profundizando su deterioration operativo. Esto aumenta exponencialmente el riesgo de fallas sistémicas en SIGSA y demoras críticas en la emisión de documentos de movimiento de hacienda.
 3. **Fricción en Warrants (27/05/2026):** La implementación de la "Inmovilización voluntaria" para warrants requiere una verificación digital de stock infalible. La falta de integración entre los sistemas de warrants y SIGSA/RFID genera un riesgo de "doble prenda" o falta de respaldo físico auditable.
 4. **Fallas en la Lectura RFID:** Los lectores de baja frecuencia (RFID LF) pueden presentar interferencias en corrales de metal o balanzas electrónicas, ralentizando el movimiento de hacienda.
 5. **Inconsistencias en la Recuperación en Faena:** Los frigoríficos enfrentan el desafío de recuperar dispositivos (microchips o bolos) durante la línea de faena para evitar contaminación física del producto.
@@ -29,6 +29,7 @@ last_update: 2026-05-28
 - Dashboard de métricas de eficiencia en la lectura RFID por lote.
 - **Integración Genética:** Módulos que vinculen el [[Resolucion SENASA 841-2025]] con índices de calidad de carne (ver [[Asociacion Braford Argentina]]) para capturar el sobreprecio en mercados de exportación.
 - **Auditoría SaaS:** Sistemas de auditoría "EU-Ready" para cumplimiento de plazos inmediatos y validación de origen.
+- **Dashboards de Carbono:** Integración de datos de [[Certificacion de Secuestro de Carbono]] en el perfil individual del animal para capturar primas de precio por "Carne Carbono Neutro".
 
 ## Backlinks
 - Ver normativa en [[Resolucion SENASA 841-2025]]

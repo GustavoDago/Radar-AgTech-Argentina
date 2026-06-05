@@ -1,15 +1,17 @@
 ---
 type: entidad
 tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
-sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-05-26, daily_summary_2026-05-28, daily_summary_2026-05-29]
+sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-05-26, daily_summary_2026-05-28, daily_summary_2026-05-29, daily_summary_2026-05-30]
 confidence: high
-last_update: 2026-05-29
+last_update: 2026-05-30
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
 
 ## Resumen Ejecutivo
-La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada y en plena vigencia técnica (Mayo 2026)**, confirmando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" (caravana visual + dispositivo RFID) antes del destete o primer movimiento. La ratificación definitiva de las normas técnicas en el Boletín Oficial el **28 de mayo de 2026** elimina la incertidumbre legal para el ciclo de implementación 2026 y especifica los protocolos de comunicación y homologación de los dispositivos RFID.
+La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada y en plena vigencia técnica (Mayo 2026)**, confirmando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" (caravana visual + dispositivo RFID) antes del destete o primer movimiento. La ratificación definitiva de las normas técnicas en el Boletín Oficial a fines de mayo de 2026 (publicada entre el 28 y 30 de mayo) elimina la incertidumbre legal para el ciclo de implementación.
+
+**Actualización 30/05/2026**: Ratificación definitiva de las normas técnicas para la trazabilidad electrónica bovina en el Boletín Oficial (30/05/2026). Se consolida la obligatoriedad del "binomio" de identificación para el ciclo de implementación 2026, eliminando toda incertidumbre legal sobre prórrogas.
 
 **Actualización 29/05/2026**: La ratificación definitiva de las normas técnicas en el Boletín Oficial (publicada el 28/05) elimina la incertidumbre legal para el ciclo de implementación 2026. La norma especifica los protocolos de comunicación y homologación de los dispositivos, consolidando el marco para el despliegue masivo de RFID y software de gestión en el eslabón de cría.
 
