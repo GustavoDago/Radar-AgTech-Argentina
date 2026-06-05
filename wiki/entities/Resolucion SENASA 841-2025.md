@@ -1,15 +1,17 @@
 ---
 type: entidad
 tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
-sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-05-26, daily_summary_2026-05-28, daily_summary_2026-05-29, daily_summary_2026-05-30, daily_summary_2026-05-31, daily_summary_2026-06-01, daily_summary_2026-06-02]
+sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-05-26, daily_summary_2026-05-28, daily_summary_2026-05-29, daily_summary_2026-05-30, daily_summary_2026-05-31, daily_summary_2026-06-01, daily_summary_2026-06-02, daily_summary_2026-06-03]
 confidence: high
-last_update: 2026-06-02
+last_update: 2026-06-03
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
 
 ## Resumen Ejecutivo
 La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada y en plena vigencia técnica (Mayo 2026)**, confirmando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" (caravana visual + dispositivo RFID) antes del destete o primer movimiento. La ratificación definitiva de las normas técnicas en el Boletín Oficial a fines de mayo de 2026 (publicada entre el 28 y 30 de mayo) elimina la incertidumbre legal para el ciclo de implementación.
+
+**Actualización 03/06/2026**: La ratificación de las normas técnicas en el Boletín Oficial (30/05) despeja cualquier duda sobre la obligatoriedad. Además, el mecanismo de **"Inmovilización voluntaria"** para warrants ganaderos (27/05) transforma la Res. 841/2025 de una carga regulatoria a un requisito de seguridad financiera, permitiendo el uso de hacienda como colateral auditable para bancos e inversores.
 
 **Actualización 02/06/2026**: La aparición de la "Huella de la carne" (emisiones netas restando secuestro de pasto) y el lanzamiento de un nuevo sello de "Carne Sustentable Argentina" (Bichos de Campo) elevan la Res. 841/2025 a una herramienta de competitividad global. La trazabilidad individual es ahora el soporte técnico para certificar balances de carbono positivos, permitiendo a los exportadores argentinos diferenciarse de competidores con sistemas menos pastoriles.
 
@@ -35,6 +37,8 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 **Actualización 18/04/2026**: El estado de "abandono" y desfinanciamiento operativo en SENASA reportado por sus trabajadores eleva el riesgo de colapso en el soporte técnico para la implementación masiva de la Res. 841/2025. Los sistemas privados de trazabilidad que actúen como "buffer" ante fallas de SIGSA son ahora una necesidad crítica de supervivencia operativa.
 
+**Actualización 16/04/2026**: La alerta de la OMSA sobre la cepa **SAT 1** de aftosa eleva la Res. 841/2025 a un nivel de seguridad nacional para el sector exportador, reforzando la obligatoriedad de sistemas de trazabilidad auditables.
+
 ## Componentes del Binomio
 1. **Tarjeta Visual:** Oreja izquierda (CUIG).
 2. **Dispositivo Electrónico (RFID):** Oreja derecha, bolo ruminal o transpondedor inyectable.
@@ -42,7 +46,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 ## Implicancias Estratégicas y de Negocio (Actualización Junio 2026)
 - **Fricción Regulatoria EUDR (28/04/2026)**: La [[Friccion EUDR]] en Europa abre una oportunidad para que el sistema de trazabilidad argentino sea más resiliente y proactivo que el europeo.
 - **Fricción Operativa**: Se ratifica el riesgo de cuellos de botella en la emisión del [[DT-e]] por fallas en la lectura RFID o falta de sincronía con SIGSA. La integración de datos genéticos y de calidad (ver [[Asociacion Braford Argentina]] y [[Asociacion Argentina de Brangus]]) se vuelve crítica para no perder valor en la recría.
-- **Seguridad Financiera (27/05/2026)**: El mecanismo de warrants requiere que la hacienda esté "inmovilizada" y sea identificable. Sin RFID confiable, el warrant ganadero pierde liquidez y seguridad jurídica.
+- **Financiamiento AgTech / Seguridad Financiera (27/05/2026)**: El mecanismo de warrants requiere que la hacienda esté "inmovilizada" y sea identificable. La "Inmovilización voluntaria" permite que el SaaS de trazabilidad se convierta en una plataforma de gestión de colaterales financieros, reduciendo el riesgo de fraude y dando seguridad jurídica ante bancos e inversores.
 - **Innovación en Calidad (13/04/2026)**: El lanzamiento del [[Indice de Calidad de Carne]] (IQ-Carne) transforma la Res. 841/2025 de una obligación burocrática a una herramienta de valor comercial, permitiendo el pago por calidad basado en el ID individual.
 - **Certificación de Huella de Carbono (26/05/2026)**: La trazabilidad individual permite asignar el secuestro de carbono del pasto a cada res, permitiendo la exportación de "Carne Carbono Neutro" o con balance neto de carbono positivo (Huella de la carne).
 - **Fricción Operativa Hilton**: Los frigoríficos deben garantizar que sus proveedores (feedlots y cabañas) cumplan con la identificación electrónica para no arriesgar la certificación Hilton.
