@@ -6,14 +6,15 @@ confidence: high
 last_update: 2026-04-18
 ---
 
-# Colapso Operativo SENASA
+# Colapso Institucional SENASA INTA
 
-Se refiere al estado de degradación de la infraestructura técnica y administrativa del Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA) reportado en abril de 2026.
+Se refiere al estado de degradación de la infraestructura técnica y administrativa del Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA) y del Instituto Nacional de Tecnología Agropecuaria (INTA) reportado en 2026.
 
 ## Manifestaciones del Problema
-- **Abandono de Sistemas:** Falta de mantenimiento en los servidores que sustentan el SIGSA y la emisión de [[DT-e]].
+- **Abandono de Sistemas (SENASA):** Falta de mantenimiento en los servidores que sustentan el SIGSA y la emisión de [[DT-e]].
 - **Falta de Insumos:** Trabajadores reportan falta de recursos básicos, lo que afecta las inspecciones en frigoríficos y controles de campo.
 - **Inestabilidad Digital:** Riesgo creciente de caídas del sistema en momentos de alta demanda (ej: movimientos de hacienda post-vacunación o previo a faena).
+- **Desmantelamiento y Provincialización (INTA):** Rumores de transferencia de activos a provincias (ej: Corrientes) y retiros voluntarios masivos, reduciendo la capacidad de asistencia técnica pública.
 
 ## Impacto en el SaaS AgTech
 - **Trigger de Venta:** Los productores y frigoríficos ya no pueden confiar exclusivamente en el sistema estatal para su gestión interna.
