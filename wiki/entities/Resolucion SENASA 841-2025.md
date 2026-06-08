@@ -1,21 +1,21 @@
 ---
 type: entidad
 tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
-sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19]
+sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-06-08]
 confidence: high
-last_update: 2026-04-27
+last_update: 2026-06-08
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
 
 ## Resumen Ejecutivo
-La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Confirmada su vigencia y plena aplicación técnica vía Boletín Oficial (Abril 2026)**, ratificando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" antes del destete o primer movimiento. La reaparición de esta norma en el Boletín Oficial el **11 de abril de 2026**, específicamente vinculada a los anexos de dispositivos homologados, refuerza la inminencia de los plazos técnicos para la implementación de dispositivos RFID.
+La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Confirmada su vigencia y plena aplicación técnica vía Boletín Oficial (Junio 2026)**, ratificando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" antes del destete o primer movimiento. La publicación de las normas técnicas y anexos definitivos el **6 de junio de 2026** (detectado 8 de junio) refuerza la inminencia de los plazos técnicos para la implementación de dispositivos RFID.
 
-<<<<<<< agtech-intelligence-update-20260428-3525105844405321169
+**Actualización 08/06/2026**: Ratificación definitiva y publicación de las **Normas Técnicas** en el Boletín Oficial. Se oficializan los anexos con las especificaciones de hardware (dispositivos homologados) y protocolos de comunicación, lo que permite a los proveedores de SaaS y hardware cerrar sus integraciones técnicas finales de cara al deadline de enero 2026.
+
 **Actualización 28/04/2026**: SENASA actualizó los criterios de etiquetado de fitosanitarios incorporando el Sistema Globalmente Armonizado (SGA). Esta convergencia regulatoria refuerza la necesidad de integrar datos de insumos en la ficha individual del animal (trazabilidad de residuos). Asimismo, la iniciativa de "Carne de Sistemas Pastoriles" busca usar la trazabilidad de la Res. 841/2025 para comunicar identidad y valor nutricional.
-=======
+
 **Actualización 27/04/2026**: El interés por la carne de sistemas pastoriles y la necesidad de comunicar "identidad productiva" (INTA/TodoAgro) escala la Res. 841/2025 de una traba burocrática a un activo de marketing. La trazabilidad granular es ahora el vehículo para capturar primas de precio por diferenciación de origen.
->>>>>>> agtech-obsidian-vault-automation-6663369223093287846
 
 **Actualización 19/04/2026**: Ratificación técnica en el Boletín Oficial vinculada a la implementación de la Res. 841/2025. La presión internacional aumenta por la cepa inédita de Aftosa en China, lo que refuerza la obligatoriedad de sistemas de trazabilidad auditables antes del deadline de 2026.
 
@@ -29,7 +29,8 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 1. **Tarjeta Visual:** Oreja izquierda (CUIG).
 2. **Dispositivo Electrónico (RFID):** Oreja derecha, bolo ruminal o transpondedor inyectable.
 
-## Implicancias Estratégicas y de Negocio (Actualización Abril 2026)
+## Implicancias Estratégicas y de Negocio (Actualización Junio 2026)
+- **Cierre Técnico de Soluciones (08/06/2026)**: La disponibilidad de los anexos técnicos en el Boletín Oficial elimina la incertidumbre sobre qué dispositivos serán aceptados, permitiendo una carrera agresiva por el equipamiento de mega-tambos y feedlots de exportación.
 - **Fricción Regulatoria EUDR (28/04/2026)**: La [[Friccion EUDR]] en Europa abre una oportunidad para que el sistema de trazabilidad argentino sea más resiliente y proactivo que el europeo.
 - **Fricción Operativa:** Se ratifica el riesgo de cuellos de botella en la emisión del [[DT-e]] por fallas en la lectura RFID o falta de sincronía con SIGSA. La integración de datos genéticos y de calidad (ver [[Asociacion Braford Argentina]]) se vuelve crítica para no perder valor en la recría.
 - **Innovación en Calidad (13/04/2026):** El lanzamiento del [[Indice de Calidad de Carne]] (IQ-Carne) transforma la Res. 841/2025 de una obligación burocrática a una herramienta de valor comercial, permitiendo el pago por calidad basado en el ID individual.
