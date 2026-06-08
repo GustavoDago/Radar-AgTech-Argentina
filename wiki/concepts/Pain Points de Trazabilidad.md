@@ -1,19 +1,20 @@
 ---
 type: concepto
-tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
-sources: [industry_reports, market_feedback, daily_summary_2026-04-08]
+tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa, semillas/control]
+sources: [industry_reports, market_feedback, daily_summary_2026-04-08, daily_summary_2026-06-08]
 confidence: high
-last_update: 2026-04-17
+last_update: 2026-06-08
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
 
 ## Fricciones Identificadas
-1. **Caídas del SIGSA:** La dependencia del sistema central de SENASA para emitir el [[DT-e]] genera retrasos en la carga de camiones en establecimientos con baja conectividad.
-2. **Deterioro Operativo de SENASA (17/04/2026):** Se reporta que el organismo no puede utilizar gran parte de sus propios recursos, profundizando su deterioro operativo. Esto aumenta exponencialmente el riesgo de fallas sistémicas en SIGSA y demoras críticas en la emisión de documentos de movimiento de hacienda.
-3. **Fallas en la Lectura RFID:** Los lectores de baja frecuencia (RFID LF) pueden presentar interferencias en corrales de metal o balanzas electrónicas, ralentizando el movimiento de hacienda.
-4. **Inconsistencias en la Recuperación en Faena:** Los frigoríficos enfrentan el desafío de recuperar dispositivos (microchips o bolos) durante la línea de faena para evitar contaminación física del producto.
-5. **Gestión de "Beef on Dairy":** La adopción de cruzas cárnicas en tambos (estrategia para valorizar el descarte) requiere una trazabilidad individual absoluta para diferenciar terneros de reposición vs. terneros para carne desde el día 1, evitando errores en la recría.
+1. **Control de Semillas en Puertos (08/06/2026):** El gobierno oficializó un nuevo sistema de control directo en puertos y acopios para reconocer variedades de semillas. Esto marca una tendencia hacia el control individualizado y digital de activos biológicos, aumentando la presión sobre el productor para mantener registros auditables.
+2. **Caídas del SIGSA:** La dependencia del sistema central de SENASA para emitir el [[DT-e]] genera retrasos en la carga de camiones en establecimientos con baja conectividad.
+3. **Deterioro Operativo de SENASA (17/04/2026):** Se reporta que el organismo no puede utilizar gran parte de sus propios recursos, profundizando su deterioro operativo. Esto aumenta exponencialmente el riesgo de fallas sistémicas en SIGSA y demoras críticas en la emisión de documentos de movimiento de hacienda.
+4. **Fallas en la Lectura RFID:** Los lectores de baja frecuencia (RFID LF) pueden presentar interferencias en corrales de metal o balanzas electrónicas, ralentizando el movimiento de hacienda.
+5. **Inconsistencias en la Recuperación en Faena:** Los frigoríficos enfrentan el desafío de recuperar dispositivos (microchips o bolos) durante la línea de faena para evitar contaminación física del producto.
+6. **Gestión de "Beef on Dairy":** La adopción de cruzas cárnicas en tambos (estrategia para valorizar el descarte) requiere una trazabilidad individual absoluta para diferenciar terneros de reposición vs. terneros para carne desde el día 1, evitando errores en la recría.
 
 ## Desafíos de Cumplimiento (Actualizado Abril 2026)
 - **Resolución 841/2025:** Obligatoriedad de lectura electrónica para todos los movimientos a partir de 2026. La falta de infraestructura (lectores, conectividad) es un cuello de botella crítico.
