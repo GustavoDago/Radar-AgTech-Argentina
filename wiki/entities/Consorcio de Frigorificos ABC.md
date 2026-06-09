@@ -16,6 +16,9 @@ El Consorcio de Exportadores de Carnes Argentinas (ABC) agrupa a las empresas qu
 - **ArreBeef:** Planta en Pérez Millán. Fuerte enfoque en procesos.
 - **Gorina:** Líder en volumen exportado.
 
+## Triggers de Compra Críticos (Junio 2026)
+0. **Oportunidad "Brasil-Out" (09/06/2026):** La salida de Brasil del mercado europeo en septiembre abre una ventana masiva para que los frigoríficos ABC ganen cuota de mercado. La trazabilidad robusta es el único pase de entrada.
+
 ## Triggers de Compra Críticos (Abril 2026)
 1. **D-Day Unión Europea (1º de Mayo):** Plazo perentorio para el cumplimiento de normativas de libre deforestación (EUDR). Necesitan demostrar trazabilidad granular del animal desde su origen geográfico.
 2. **Auditorías de Tercera Parte:** Presión para reemplazar procesos manuales de validación de caravanas RFID por sistemas automatizados sincronizados con el SIGSA.
