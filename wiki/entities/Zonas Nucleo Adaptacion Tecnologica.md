@@ -23,8 +23,9 @@ last_update: 2026-04-12
 
 ### 2. Cuenca Lechera Rafaela (Santa Fe)
 - **Perfil:** Mayor concentración de mega-tambos del país, muchos con sistemas estabulados y robóticos.
+- **Actualización 09/06/2026:** El transporte en el norte de Santa Fe representa hasta un tercio del valor del producto, lo que aumenta la presión por eficiencia operativa y transparencia logística. Asimismo, la Región Centro impulsa un esquema diferencial de vacunación de aftosa para tambos.
 - **Necesidad Tecnológica:** Integración de la identificación electrónica ([[Resolucion SENASA 841-2025]]) con el software de ordeñe y gestión reproductiva. El paso de identificación propietaria a identificación oficial es un reto.
-- **Acción:** Visitar establecimientos con más de 1,000 vacas en ordeñe para ofrecer solución SaaS de trazabilidad integrada.
+- **Acción:** Visitar establecimientos con más de 1,000 vacas en ordeñe para ofrecer solución SaaS de trazabilidad integrada y logística.
 
 ### 3. Eje Rosario - Trenque Lauquen (Santa Fe - Buenos Aires)
 - **Perfil:** Corredor de los principales frigoríficos del **Consorcio ABC** y mega-feeldots.
