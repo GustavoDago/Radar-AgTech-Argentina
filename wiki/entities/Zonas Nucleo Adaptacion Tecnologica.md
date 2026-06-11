@@ -23,6 +23,7 @@ last_update: 2026-04-12
 
 ### 2. Cuenca Lechera Rafaela (Santa Fe)
 - **Perfil:** Mayor concentración de mega-tambos del país, muchos con sistemas estabulados y robóticos.
+- **Trigger de Liquidez (Junio 2026):** El precio de la leche al productor superó los **$500 ARS/litro** (SIGLEA Mayo), lo que activa planes de inversión en infraestructura postergados por la brecha de costos.
 - **Necesidad Tecnológica:** Integración de la identificación electrónica ([[Resolucion SENASA 841-2025]]) con el software de ordeñe y gestión reproductiva. El paso de identificación propietaria a identificación oficial es un reto.
 - **Acción:** Visitar establecimientos con más de 1,000 vacas en ordeñe para ofrecer solución SaaS de trazabilidad integrada.
 
@@ -33,6 +34,8 @@ last_update: 2026-04-12
 
 ### 4. Cuenca Villa María (Córdoba)
 - **Perfil:** Hub de servicios agrotecnológicos y sede de **TodoLáctea**. Concentra tambos de escala que están migrando masivamente al modelo *Beef on Dairy* para maximizar rentabilidad operativa (vía genética carnicera en el 30-40% del rodeo).
+- **Trigger Alfalfa (Junio 2026):** El asesor Juan Monge impulsa la alfalfa como "cultivo de alta música" (6-9 chances de éxito anual). Esto tracciona la necesidad de trazabilidad de origen para el clúster exportador de San Francisco ([[Cadaf]]).
+- **Trigger de Liquidez (Junio 2026):** Al igual que en Rafaela, el precio de la leche >$500 ARS/litro genera capacidad de pago para SaaS de optimización.
 - **Necesidad Tecnológica:** Dashboards que conviertan el descarte intuitivo en negocio estratégico mediante [[Beef_on_Dairy_Analytics_Engine]].
 - **Acción:** Visita prioritaria a James Craik y Oncativo. Contactar a los remitentes de mega-tambos de la zona para ofrecer auditoría de trazabilidad individual desde el nacimiento.
 
