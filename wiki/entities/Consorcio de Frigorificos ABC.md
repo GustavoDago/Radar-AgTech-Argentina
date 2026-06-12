@@ -1,9 +1,9 @@
 ---
 type: entidad
 tags: [agtech/targets, frigorificos, exportacion, eudr, consorcio_abc]
-sources: [valorcarne.com.ar, bichosdecampo.com]
+sources: [valorcarne.com.ar, bichosdecampo.com, daily_summary_2026-06-12]
 confidence: high
-last_update: 2026-04-09
+last_update: 2026-06-12
 ---
 
 # Consorcio de Frigoríficos ABC
@@ -15,15 +15,16 @@ El Consorcio de Exportadores de Carnes Argentinas (ABC) agrupa a las empresas qu
 - **La Anónima:** Plantas en Salto y Trenque Lauquen. Alta calidad y trazabilidad.
 - **ArreBeef:** Planta en Pérez Millán. Fuerte enfoque en procesos.
 - **Gorina:** Líder en volumen exportado.
+- **Frigorífico Logros:** Referente en Córdoba con fuerte tracción exportadora.
 
-## Triggers de Compra Críticos (Abril 2026)
-1. **D-Day Unión Europea (1º de Mayo):** Plazo perentorio para el cumplimiento de normativas de libre deforestación (EUDR). Necesitan demostrar trazabilidad granular del animal desde su origen geográfico.
-2. **Auditorías de Tercera Parte:** Presión para reemplazar procesos manuales de validación de caravanas RFID por sistemas automatizados sincronizados con el SIGSA.
-3. **Escasez de Novillos:** La baja del stock nacional (pérdida de 700k cabezas en 2025) obliga a los frigoríficos a "competir" por los mejores lotes, ofreciendo servicios de valor agregado a los productores que tengan su trazabilidad digitalizada.
-4. **Precios Récord Cuota Hilton:** El precio de la tonelada alcanzó los USD 25.000 (Abril 2026). Esto genera una ventana de liquidez para inversiones en modernización tecnológica de plantas exportadoras.
+## Triggers de Compra Críticos (Actualización Junio 2026)
+1. **Escenario "Brasil-Out" (12/06/2026):** El veto de la Unión Europea a las carnes brasileñas desde septiembre de 2026 abre una ventana histórica para que el Consorcio ABC capture ese volumen. La condición necesaria es la trazabilidad impecable bajo EUDR.
+2. **Liquidez Bancor ($200B ARS):** El Banco de Córdoba (Bancor) recibió solicitudes récord en Agroactiva. Esto inyecta liquidez directa para que frigoríficos con base en Córdoba (ej: Logros) inviertan en modernización de software y hardware RFID.
+3. **D-Day Unión Europea (EUDR):** Necesitan demostrar trazabilidad granular del animal desde su origen geográfico. La presión aumenta con el veto a Brasil, ya que la UE será más estricta con los proveedores restantes.
+4. **Escasez de Novillos:** La baja del stock nacional obliga a los frigoríficos a "competir" por los mejores lotes, ofreciendo servicios de valor agregado a los productores que tengan su trazabilidad digitalizada.
 
 ## Estrategia de Abordaje
-Ofrecer el [[EUDR_Compliance_Gateway]] como una capa de auditoría de bajo impacto en la infraestructura actual del frigorífico pero de alto valor para el cumplimiento normativo inmediato.
+Posicionar el [[EUDR_Compliance_Gateway]] no solo como una herramienta de cumplimiento, sino como la "llave de acceso" al mercado europeo que Brasil ha dejado vacante. Enfatizar la integración con la [[Resolucion SENASA 841-2025]].
 
 ## Backlinks
 - Ver dolores operativos en [[Pain Points de Trazabilidad]]
