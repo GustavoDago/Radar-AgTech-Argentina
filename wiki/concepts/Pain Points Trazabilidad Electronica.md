@@ -16,6 +16,7 @@ La transición a la identificación electrónica obligatoria en Argentina presen
 
 ## 2. El Cuello de Botella en la Manga
 *   **Velocidad Operativa:** La lectura de caravanas electrónicas/RFID debe integrarse al ritmo de trabajo en la manga sin detener la producción. 
+*   **Escalabilidad en Feedlots (Junio 2026):** El aumento en la ocupación de los feedlots profesionales eleva la presión sobre el procesamiento de datos individuales. Sin automatización, el registro de ingresos y sanidad individual bajo la Res. 841/2025 se vuelve físicamente imposible de gestionar manualmente en operaciones de alta densidad.
 *   **Error Humano:** Si el registro no es exacto en el momento del pesaje o vacunación, se generan inconsistencias que son difíciles de corregir a posteriori sin volver a pasar el animal.
 
 ## 3. Costos de Implementación y Equipamiento
