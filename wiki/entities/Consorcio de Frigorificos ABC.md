@@ -16,8 +16,9 @@ El Consorcio de Exportadores de Carnes Argentinas (ABC) agrupa a las empresas qu
 - **ArreBeef:** Planta en Pérez Millán. Fuerte enfoque en procesos.
 - **Gorina:** Líder en volumen exportado.
 
-## Triggers de Compra Críticos (Abril 2026)
-1. **D-Day Unión Europea (1º de Mayo):** Plazo perentorio para el cumplimiento de normativas de libre deforestación (EUDR). Necesitan demostrar trazabilidad granular del animal desde su origen geográfico.
+## Triggers de Compra Críticos (Junio 2026)
+1. **Ventana de Oportunidad "Brasil-Out" (13/06/2026):** La Unión Europea oficializó el veto a las carnes brasileñas a partir de septiembre de 2026. Esto genera una oportunidad histórica para que los exportadores argentinos capturen cuota de mercado, pero exige una garantía absoluta de cumplimiento EUDR y trazabilidad individual para diferenciarse proactivamente.
+2. **D-Day Unión Europea (1º de Mayo):** Plazo perentorio para el cumplimiento de normativas de libre deforestación (EUDR). Necesitan demostrar trazabilidad granular del animal desde su origen geográfico.
 2. **Auditorías de Tercera Parte:** Presión para reemplazar procesos manuales de validación de caravanas RFID por sistemas automatizados sincronizados con el SIGSA.
 3. **Escasez de Novillos:** La baja del stock nacional (pérdida de 700k cabezas en 2025) obliga a los frigoríficos a "competir" por los mejores lotes, ofreciendo servicios de valor agregado a los productores que tengan su trazabilidad digitalizada.
 4. **Precios Récord Cuota Hilton:** El precio de la tonelada alcanzó los USD 25.000 (Abril 2026). Esto genera una ventana de liquidez para inversiones en modernización tecnológica de plantas exportadoras.

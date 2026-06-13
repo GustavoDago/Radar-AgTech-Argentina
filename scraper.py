@@ -45,7 +45,8 @@ EXCLUSIONS = [
     "cotización dólar", "dólar blue", "feria americana",
     "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo",
     "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel", "vitivinícola",
-    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto"
+    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto",
+    "horticultura", "hidropónica", "algodón", "rosales", "ajuste", "achicamiento", "feria agrícola", "agronea"
 ]
 
 def clean_text(text):
