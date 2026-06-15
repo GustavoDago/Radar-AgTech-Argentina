@@ -3,7 +3,7 @@ type: concepto
 tags: [compliance, eudr, exportacion, ue, friccion]
 sources: [Bichos de Campo - 2026-04-28]
 confidence: high
-last_update: 2026-04-28
+last_update: 2026-06-15
 ---
 
 # Fricción EUDR (Reglamento de Deforestación de la UE)
@@ -15,6 +15,7 @@ La implementación del Reglamento de Deforestación de la Unión Europea (EUDR) 
 - **Resistencia Interna**: 11 organizaciones que representan diversas cadenas productivas en la UE han firmado una declaración conjunta pidiendo cambios en la normativa.
 - **Pérdida de Autonomía**: El principal argumento es que la normativa actual podría "socavar la autonomía de los productores", lo que indica que la burocracia de trazabilidad es percibida como excesiva incluso para los actores locales europeos.
 - **Incertidumbre en Plazos**: Aunque existe una postergación parcial, la presión política por modificar el reglamento antes de su plena aplicación genera un escenario de "incertidumbre regulatoria" que los exportadores argentinos deben monitorear.
+- **Oportunidad por Veto a Brasil ("Brasil-Out" - 15/06/2026)**: El veto oficial de la UE a las carnes brasileñas por fallas en su trazabilidad sanitaria y ambiental acelera la urgencia de cumplimiento para Argentina. Los exportadores que logren certificar "Deforestación Cero" bajo EUDR tienen vía libre para capturar la cuota de mercado dejada por Brasil.
 
 ## Implicancias para AgTech
 - **Certificación Flexible**: Las soluciones SaaS deben ser lo suficientemente flexibles para adaptarse a cambios en los criterios de auditoría que surjan de estas negociaciones políticas.
