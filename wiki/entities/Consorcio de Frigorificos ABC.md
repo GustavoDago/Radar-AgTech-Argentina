@@ -16,11 +16,12 @@ El Consorcio de Exportadores de Carnes Argentinas (ABC) agrupa a las empresas qu
 - **ArreBeef:** Planta en Pérez Millán. Fuerte enfoque en procesos.
 - **Gorina:** Líder en volumen exportado.
 
-## Triggers de Compra Críticos (Abril 2026)
-1. **D-Day Unión Europea (1º de Mayo):** Plazo perentorio para el cumplimiento de normativas de libre deforestación (EUDR). Necesitan demostrar trazabilidad granular del animal desde su origen geográfico.
-2. **Auditorías de Tercera Parte:** Presión para reemplazar procesos manuales de validación de caravanas RFID por sistemas automatizados sincronizados con el SIGSA.
-3. **Escasez de Novillos:** La baja del stock nacional (pérdida de 700k cabezas en 2025) obliga a los frigoríficos a "competir" por los mejores lotes, ofreciendo servicios de valor agregado a los productores que tengan su trazabilidad digitalizada.
-4. **Precios Récord Cuota Hilton:** El precio de la tonelada alcanzó los USD 25.000 (Abril 2026). Esto genera una ventana de liquidez para inversiones en modernización tecnológica de plantas exportadoras.
+## Triggers de Compra Críticos (Junio 2026)
+1. **Veto de la UE a Brasil (15/06/2026):** La Unión Europea oficializó el veto a las carnes brasileñas desde septiembre. Oportunidad masiva para que los exportadores argentinos capturen cuota de mercado si garantizan cumplimiento EUDR inmediato.
+2. **D-Day Unión Europea (Vigente):** Plazo perentorio para el cumplimiento de normativas de libre deforestación (EUDR). Necesitan demostrar trazabilidad granular del animal desde su origen geográfico.
+3. **Auditorías de Tercera Parte:** Presión para reemplazar procesos manuales de validación de caravanas RFID por sistemas automatizados sincronizados con el SIGSA.
+4. **Escasez de Novillos / Peso de Faena Récord:** La baja del stock y los picos históricos en el peso de faena obligan a una gestión ultra-precisa de la eficiencia industrial y la trazabilidad.
+5. **Precios Récord Cuota Hilton:** El precio de la tonelada alcanzó los USD 25.000 (Abril 2026). Esto genera una ventana de liquidez para inversiones en modernización tecnológica de plantas exportadoras.
 
 ## Estrategia de Abordaje
 Ofrecer el [[EUDR_Compliance_Gateway]] como una capa de auditoría de bajo impacto en la infraestructura actual del frigorífico pero de alto valor para el cumplimiento normativo inmediato.
