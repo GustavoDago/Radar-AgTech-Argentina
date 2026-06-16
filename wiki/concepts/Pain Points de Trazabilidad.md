@@ -1,34 +1,51 @@
 ---
-type: concepto
-tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
-sources: [industry_reports, market_feedback, daily_summary_2026-04-08, daily_summary_2026-05-27, daily_summary_2026-05-28, daily_summary_2026-05-30, daily_summary_2026-05-31, daily_summary_2026-06-01]
 confidence: high
-last_update: 2026-06-01
+last_update: '2026-06-15'
+sources:
+- industry_reports
+- market_feedback
+- daily_summary_2026-04-08
+- daily_summary_2026-05-27
+- daily_summary_2026-05-28
+- daily_summary_2026-05-30
+- daily_summary_2026-05-31
+- daily_summary_2026-06-01
+- daily_summary_2026-06-08
+- daily_summary_2026-06-14
+tags:
+- agtech/trazabilidad
+- operativo/pain_points
+- ganaderia/rfid
+- tecnologia/sigsa
+type: concepto
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
 
 ## Fricciones Identificadas
-1. **Caídas del SIGSA:** La dependencia del sistema central de SENASA para emitir el [[DT-e]] genera retrasos en la carga de camiones en establecimientos con baja conectividad.
-2. **Deterioro Operativo de SENASA (17/04/2026):** Se reporta que el organismo no puede utilizar gran parte de sus propios recursos, profundizando su deterioration operativo. Esto aumenta exponencialmente el riesgo de fallas sistémicas en SIGSA y demoras críticas en la emisión de documentos de movimiento de hacienda.
-3. **Fricción en Warrants (27/05/2026):** La implementación de la "Inmovilización voluntaria" para warrants requiere una verificación digital de stock infalible. La falta de integración entre los sistemas de warrants y SIGSA/RFID genera un riesgo de "doble prenda" o falta de respaldo físico auditable.
-4. **Fallas en la Lectura RFID:** Los lectores de baja frecuencia (RFID LF) pueden presentar interferencias en corrales de metal o balanzas electrónicas, ralentizando el movimiento de hacienda.
-5. **Inconsistencias en la Recuperación en Faena:** Los frigoríficos enfrentan el desafío de recuperar dispositivos (microchips o bolos) durante la línea de faena para evitar contaminación física del producto.
-6. **Gestión de "Beef on Dairy":** La adopción de cruzas cárnicas en tambos (estrategia para valorizar el descarte) requiere una trazabilidad individual absoluta para diferenciar terneros de reposición vs. terneros para carne desde el día 1, evitando errores en la recría.
-7. **Desequilibrio Costo-Beneficio (01/06/2026):** Los criadores perciben que el costo de la caravana electrónica obligatoria (Res. 841/2025) recae enteramente sobre ellos, mientras que el beneficio comercial (acceso a mercados premium) lo capturan mayoritariamente los frigoríficos exportadores. Esta percepción genera resistencia a la inversión en hardware sin un SaaS que demuestre retorno directo en eficiencia productiva.
+
+1. **Caídas del SIGSA:** La dependencia del sistema central de SENASA para emitir el [[DT-e]] genera retrasos y parálisis en la carga de camiones en establecimientos con baja conectividad.
+2. **Deterioro Operativo de SENASA (17/04/2026):** El vaciamiento y falta de presupuesto operativo del organismo aumenta el riesgo de fallas sistémicas en los servidores de SIGSA y demoras críticas en los trámites del productor.
+3. **Fricción en Warrants (27/05/2026):** La "Inmovilización voluntaria" de hacienda para warrants exige una validación de stock infalible. La desconexión entre SIGSA/RFID y el sistema de warrants genera riesgo de fraude o doble prenda.
+4. **Fallas en la Lectura RFID:** Los lectores de baja frecuencia (RFID LF) presentan interferencias físicas en balanzas electrónicas y corrales de metal, ralentizando el pasaje individual.
+5. **Inconsistencias en la Recuperación en Faena:** Desafío técnico en los frigoríficos para capturar bolos o chips durante la faena y evitar contaminar la mercadería.
+6. **Gestión de "Beef on Dairy":** El cruce de carne en rodeos lecheros exige segregar terneros de carne vs. reposición desde el día 1, requiriendo trazabilidad de alta fidelidad desde el nacimiento.
+7. **Desequilibrio Costo-Beneficio (01/06/2026):** Resistencia del eslabón de cría a costear las caravanas de la Res. 841/2025 al percibir que el frigorífico exportador captura la mayor parte de la prima de precio.
+8. **Control de Semillas en Puertos (08/06/2026):** Controles digitalizados oficiales en acopios e instalaciones portuarias sientan precedente regulatorio y elevan la presión para auditar digitalmente los activos de origen.
+9. **Brecha de Costos vs. Eficiencia en Tambos (Junio 2026):** Pese al precio de la leche por sobre $500/litro, la escasez de margen exige eficiencia operativa absoluta, eliminando tolerancia a demoras en SIGSA que arriesguen multas.
+10. **Saturación en Feedlots (14/06/2026):** El aumento de ocupación en feedlots profesionales presiona los ingresos/salidas masivos. La sincronización masiva de caravanas RFID con SIGSA es indispensable para evitar demoras logísticas severas.
 
 ## Desafíos de Cumplimiento (Actualizado Junio 2026)
-- **Resolución 841/2025 (Ratificación 31/05/2026):** La ratificación definitiva de las normas técnicas en el Boletín Oficial (publicada a fines de mayo de 2026) cierra la puerta a prórrogas. Los productores deben tener el hardware homologado operativo antes del 1 de enero de 2026. La falta de infraestructura (lectores, conectividad) sigue siendo el cuello de botella crítico.
-- **Auditorías Externas:** Necesidad de reportes instantáneos para auditorías de la Unión Europea sobre el origen electrónico del animal.
-- **Deadline Europa (1º de Mayo - Urgencia Crítica):** Ratificado el 1 de mayo como la "hora cero" (D-Day) para embarques a la UE bajo las nuevas normativas de libre deforestación (EUDR) y trazabilidad granular. Los frigoríficos del [[Consorcio de Frigorificos ABC]] (ej: [[Frigorifico Logros]]) están bajo presión máxima para auditar el origen electrónico y geográfico de cada animal. El sistema SIGSA/SENASA actual presenta baches de información que requieren validación SaaS externa inmediata.
-- **SIAL China 2026 (Actualización 24/05/2026):** Aunque los precios en China muestran balance positivo, surge una demanda crítica de los compradores internacionales por "dashboards de trazabilidad auditables". La diferenciación contra competidores regionales ya no es solo por precio, sino por la capacidad técnica de demostrar el origen individual mediante sistemas compatibles con la Res. 841/2025.
-- **Pérdida de Stock Vacuno:** Datos oficiales de 2025 confirman una **pérdida de 700.000 cabezas** (con una pérdida estructural de 3.2M desde 2022). Esta escasez de oferta eleva el valor estratégico de cada animal y acelera la adopción de "Beef on Dairy". El dolor técnico es la **segregación de datos** y la captura de primas de calidad mediante el monitoreo individual indispensable.
-- **Escala de Empleo y Complejidad (28/05/2026):** Sectores como el maíz generan 300.000 empleos directos (3x que la automotriz). Esta escala masiva de interacción humana en la cadena productiva aumenta el riesgo de errores en la captura de datos manual, haciendo que la automatización vía RFID y trazabilidad digital sea la única forma de garantizar la integridad de la información en grandes volúmenes.
+- **Resolución 841/2025:** El fin de la incertidumbre sobre prórrogas técnicas tras los anexos del Boletín Oficial de fines de mayo obliga a los criadores a equiparse antes del 1 de enero de 2026. La escasez de hardware homologado es el cuello de botella.
+- **Deadline Europa (1º de Mayo - Urgencia Crítica):** La hora cero (D-Day) de la normativa libre de deforestación (EUDR) presiona a los miembros del [[Consorcio de Frigorificos ABC]] a auditar el origen geográfico e individual de cada animal.
+- **SIAL China 2026 (Actualización 24/05/2026):** La demanda internacional en Shanghái exige dashboards de trazabilidad auditables integrados con la Res. 841/2025 para diferenciar el producto argentino del regional.
+- **Pérdida Estructural de Stock:** La caída del rodeo nacional (700.000 cabezas menos en 2025, acumulando 3.2M de pérdida desde 2022) exige maximizar el valor de cada cabeza mediante segregación y trazabilidad.
+- **Complejidad por Escala del Agro:** La interacción humana masiva en las cadenas de producción agrícola-ganaderas eleva el riesgo de error humano en la captura manual, haciendo indispensable la automatización con RFID y SaaS.
 
 ## Oportunidades de Venta Directa
 - Software que funcione offline y sincronice con SIGSA cuando haya conexión.
 - Dashboard de métricas de eficiencia en la lectura RFID por lote.
-- **Integración Genética:** Módulos que vinculen el [[Resolucion SENASA 841-2025]] con índices de calidad de carne (ver [[Asociacion Braford Argentina]]) para capturar el sobreprecio en mercados de exportación.
+- **Integración Genética:** Módulos que vinculen la [[Resolucion SENASA 841-2025]] con índices de calidad de carne (ver [[Asociacion Braford Argentina]]) para capturar el sobreprecio en mercados de exportación.
 - **Auditoría SaaS:** Sistemas de auditoría "EU-Ready" para cumplimiento de plazos inmediatos y validación de origen.
 - **Dashboards de Carbono:** Integración de datos de [[Certificacion de Secuestro de Carbono]] en el perfil individual del animal para capturar primas de precio por "Carne Carbono Neutro".
 

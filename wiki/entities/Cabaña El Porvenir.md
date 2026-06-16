@@ -1,28 +1,54 @@
 ---
-type: entidad
-tags: [cabaña, brangus, cordoba, genetica, agtech/target, ganaderia/elite, agtech/rfid]
-sources: [Agroverdad - 2026-06-01, Agroverdad - 2026-06-02, daily_summary_2026-06-02, daily_summary_2026-06-03, Agroverdad - 2026-06-04]
 confidence: high
-last_update: 2026-06-04
+last_update: '2026-06-07'
+sources:
+- Agroverdad - 2026-06-01
+- Agroverdad - 2026-06-02
+- daily_summary_2026-06-02
+- daily_summary_2026-06-03
+- Agroverdad - 2026-06-04
+- agroverdad.com.ar
+- daily_summary_2026-06-07
+- memory_june_2026
+tags:
+- cabaña
+- brangus
+- cordoba
+- genetica
+- agtech/target
+- ganaderia/elite
+- agtech/rfid
+type: entidad
 ---
 
-# Cabaña El Porvenir (Córdoba)
+# Cabaña El Porvenir
 
-## Perfil de la Entidad y Liderazgo
-Cabaña líder en genética **Brangus** ubicada en la provincia de Córdoba, dirigida por **Pablo Orodá**. Es reconocida a nivel nacional por la alta calidad de sus reproductores, su constante inversión en mejoramiento genético y su participación activa en remates de élite.
+## Perfil
+- **Ubicación:** Córdoba, Argentina.
+- **Propietario:** Pablo Orodá.
+- **Estatus:** Cabaña de élite especializada en mejoramiento genético de la raza Brangus, posicionada como un actor central en el mercado de reproductores de alta gama y referente en subastas y remates de escala nacional y regional.
 
-## Indicadores de Liquidez y Señales de Compra (Junio 2026)
-- **Remate Anual Exitoso y Pre-ofertas (04/06/2026)**: Tras el éxito de su 6to Remate Anual del 1 de junio, se abrieron las pre-ofertas para hembras Brangus de genética superior, convalidando una alta liquidez en el sector de élite de la raza Brangus.
-- **Trazabilidad de Élite**: Cabañas de este nivel son "early adopters" naturales de la [[Resolucion SENASA 841-2025]] debido a que el alto valor individual de cada reproductor justifica plenamente la inversión en dispositivos RFID de alta gama y software de gestión genética.
-- **Incentivos Fiscales**: El nuevo marco de [[Incentivos a la Inversion RIMI]] para genética ganadera favorece la inversión en reproductores de cabañas de élite y la amortización acelerada.
+## Hitos Recientes & Triggers Ganaderos (Junio 2026)
 
-## Oportunidades SaaS y Acciones Recomendadas
-- **Certificación de Pedigree Digital**: Ofrecer soluciones que integren datos de RFID con registros genealógicos automatizados, permitiendo a los compradores descargar la ficha de performance individual o "currículum digital" del animal al momento de la compra.
-- **Dashboards de Performance**: Seguimiento individual de ganancia de peso y calidad de carcasa para valorizar reproductores en subastas.
-- **Contacto Comercial**: Entablar contacto con Pablo Orodá para implementar pilotos en Córdoba en torno al remate.
+### Remates Récord & Exportación a Brasil (06/06/2026)
+- **Venta Histórica:** Comercialización del 50% de la copropiedad de dos hembras Brangus de élite por un valor récord de **$214 millones de pesos argentinos**.
+- **Compradoras Brasileñas:** Las adquirentes fueron cabañas líderes de Brasil, convalidando el alto valor de exportación de la genética de El Porvenir. Esto genera una necesidad directa de trazabilidad genealógica, reproductiva y sanitaria de nivel internacional.
+
+### 6to Remate Anual (01/06/2026 - 04/06/2026)
+- **Liquidez & Pre-ofertas:** Éxito masivo en su remate anual del 1 de junio y la posterior apertura de pre-ofertas convalidan la altísima capacidad de pago de los compradores de genética Brangus superior.
+- **Amortización Acelerada:** El incentivo del régimen [[Incentivos a la Inversion RIMI]] para genética bovina cataliza la compra de reproductores de cabañas de punta al permitir deducciones fiscales.
+
+## Oportunidad SaaS & Estrategia Comercial
+
+### Propuestas de Valor AgTech
+- **Trazabilidad de Performance Individual (RFID):** Los compradores de animales con valuaciones millonarias exigen dashboards que certifiquen el historial clínico, ganancia diaria de peso (GDP), calidad de carcasa y pedigree de forma digital e inmutable, vinculándose a la caravana de la Res. 841/2025.
+- **Ficha de Pedigree / "Currículum Digital":** Generación de reportes automáticos exportables de performance para justificar primas de precio en subastas internacionales.
+- **Gestión de Exportación de Semen/Embriones:** Modulos SaaS orientados a simplificar la trazabilidad biológica exigida por SENASA para el comercio regional de embriones y material reproductivo.
 
 ## Backlinks
-- Ver impacto de [[Resolucion SENASA 841-2025]]
-- Ver marco fiscal en [[Incentivos a la Inversion RIMI]]
-- Relacionado con [[Asociacion Brangus Argentina]]
-- Ver contexto en [[2026-06-01]]
+- [[2026-06-01]]
+- [[Asociacion Brangus Argentina]]
+- [[Cordoba]]
+- [[Elite Genetics]]
+- [[Incentivos a la Inversion RIMI]]
+- [[Resolucion SENASA 841-2025]]

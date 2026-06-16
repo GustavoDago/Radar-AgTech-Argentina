@@ -1,3 +1,36 @@
+## [2026-06-15] sync | Ingesta y Consolidación de Inteligencia Jules Sync (5 al 15 de Junio)
+
+- **Actualización y Fusión de Ramas Remotas**:
+  - Secuencialmente integradas 10 ramas remotas de Jules correspondientes a los días 5 de junio al 15 de junio, unificadas con el trabajo local del 15 de junio.
+  - Resueltos conflictos semánticos en `Resolucion SENASA 841-2025.md`, `Pain Points de Trazabilidad.md`, `Friccion EUDR.md` y `Consorcio de Frigorificos ABC.md` sin perder la cronología de eventos.
+  - Normalizado el nombre de `Cabana El Porvenir.md` a `Cabaña El Porvenir.md` en toda la bóveda.
+- **Conceptos Nuevos**:
+  - [[Provincializacion del INTA]] (`wiki/concepts/Provincializacion del INTA.md`) - Descentralización de activos del INTA.
+  - [[Vacio Institucional Soporte Tecnico]] (`wiki/concepts/Vacio Institucional Soporte Tecnico.md`) - Ausencia estatal en soporte de campo detectado en Agroactiva 2026.
+  - [[Friccion Sindical Aceitera 2026]] (`wiki/concepts/Friccion Sindical Aceitera 2026.md`) - Paros gremiales en la industria exportadora aceitera.
+  - [[Transformadores Bio-Basados]] (`wiki/concepts/Transformadores Bio-Basados.md`) - Distribución eléctrica rural a base de aceite de soja.
+  - [[Veto Europeo Carnes Brasilenas]] (`wiki/concepts/Veto Europeo Carnes Brasilenas.md`) - Oficialización del bloqueo sanitario y ambiental de la UE.
+- **Entidades Nuevas**:
+  - [[Agroactiva 2026]] (`wiki/entities/Agroactiva 2026.md`) - Megamuestra agropecuaria y financiamiento crediticio productivo.
+  - [[Cooperativa Agricola Ganadera de Elena]] (`wiki/entities/Cooperativa Agricola Ganadera de Elena.md`) - Estación de servicio y logística rural en Córdoba.
+- **Oportunidades Nuevas**:
+  - [[Logistics_Strike_Insurance_SaaS]] (`wiki/opportunities/Logistics_Strike_Insurance_SaaS.md`) - Tesis basada en el redireccionamiento y seguro agro-logístico ante huelgas.
+- **Oportunidades Actualizadas**:
+  - [[EUDR_Compliance_Gateway]] (Actualizada para incorporar la oficialización del Veto Europeo a Brasil en el módulo biológico/sanitario).
+- **Notas Diarias Incorporadas**:
+  - [[2026-06-15]], [[2026-06-14]], [[2026-06-13]], [[2026-06-12]], [[2026-06-11]], [[2026-06-09]], [[2026-06-08]], [[2026-06-07]], [[2026-06-06]], [[2026-06-05]]
+- **Entidades y Conceptos Actualizados (Unificados)**:
+  - [[Resolucion SENASA 841-2025]] (Integradas las actualizaciones de la línea de tiempo de junio, confirmando anexos del Boletín Oficial, inmovilización de warrants y presión de la Mesa de Enlace).
+  - [[Pain Points de Trazabilidad]] (Integrada la saturación de feedlots, el precio de la leche >$500 y controles de semillas en puertos).
+  - [[Friccion EUDR]] (Consolidado el escenario de "Brasil-Out" con el veto de la UE a partir de septiembre 2026).
+  - [[Consorcio de Frigorificos ABC]] (Unificados triggers de Hilton, escasez de hacienda y el escenario Brasil-Out).
+  - [[Sancor]] (Actualizados hitos de quiebra definitiva, custodia de plantas y la valuación judicial de la marca SanCor).
+  - [[Zonas Nucleo Adaptacion Tecnologica]] (Consolidadas visitas a James Craik, Oncativo, y clúster de alfalfa de San Francisco).
+  - [[Cabaña El Porvenir]] (Registrado el remate récord de hembras Brangus de $214M a compradores brasileños).
+- **Archivos Actualizados**:
+  - `index.md` (Catálogo maestro de la wiki indexado con nuevos nodos y backlinks).
+  - `scraper.py` (Consolidadas exclusiones de vehículos y cultivos de las ramas de Jules).
+
 ## [2026-06-04] sync | Ingesta e Integración de Inteligencia Jules Sync (28 de Mayo al 4 de Junio)
 
 - **Actualización y Fusión de Ramas Remotas**:

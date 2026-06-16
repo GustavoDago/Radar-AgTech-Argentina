@@ -38,15 +38,24 @@ KEYWORDS = [
 ]
 
 EXCLUSIONS = [
-    "crimen", "policial", "robo de cables", "detenido", "detuvieron",
-    "fútbol", "deportes", "espectáculos", "farándula", "cine",
-    "pronóstico lluvia", "pronóstico del tiempo", "clima mañana", "lluvia", "precipitaciones",
-    "temporal", "clima", "smn", "glaciares",
-    "receta", "cocina", "chef", "ingredientes",
-    "cotización dólar", "dólar blue", "feria americana",
-    "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo",
-    "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel", "vitivinícola",
-    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto"
+    "achicamiento", "acuicultura", "agronea", "ajo",
+    "ajuste", "algodón", "amarok", "avícola",
+    "biodiésel", "camino rural", "caminos rurales", "cerdo",
+    "chef", "chevrolet", "chevrolet s10", "cine",
+    "clima", "clima en", "clima mañana", "cocina",
+    "cotización dólar", "crimen", "césped", "deportes",
+    "derechos de exportación", "detenido", "detuvieron", "dólar blue",
+    "elecciones", "espectáculos", "euro blue", "farándula",
+    "feria agrícola", "feria americana", "ford", "ford ranger",
+    "frontier", "fútbol", "glaciares", "hidropónica",
+    "hilux", "horticultura", "ingredientes", "lluvia",
+    "manzana", "maquin", "pick up", "policial",
+    "pollo", "política partidaria", "porcin", "precipitaciones",
+    "pronóstico del tiempo", "pronóstico lluvia", "ranger", "receta",
+    "retenciones", "robo de cables", "rosales", "smn",
+    "sonic", "temporal", "toyota", "toyota hilux",
+    "trucha", "vino", "vitivinícola", "volkswagen",
+    "voto"
 ]
 
 def clean_text(text):
