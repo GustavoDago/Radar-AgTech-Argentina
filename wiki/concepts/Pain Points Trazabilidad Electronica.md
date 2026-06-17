@@ -3,7 +3,7 @@ type: concepto
 tags: [agtech/rfid, operativo/pain_points, infraestructura/conectividad, argentina/senasa]
 sources: [field_intelligence, market_feedback]
 confidence: high
-last_update: 2026-04-05
+last_update: 2026-06-17
 ---
 
 # Pain Points: Trazabilidad Electrónica Individual (Res. 841/2025)
@@ -14,8 +14,9 @@ La transición a la identificación electrónica obligatoria en Argentina presen
 *   **Plazo de Registro:** El productor tiene solo **10 días hábiles** desde la aplicación del dispositivo para registrar el alta individual en el sistema SIGSA o la app *SIGBIOTraza*.
 *   **Microgestión:** Pasar de un control por lotes a uno por individuo incrementa exponencialmente el tiempo de oficina y el riesgo de errores en la carga de datos.
 
-## 2. El Cuello de Botella en la Manga
+## 2. El Cuello de Botella en la Manga y Feedlot (Crítico Junio 2026)
 *   **Velocidad Operativa:** La lectura de caravanas electrónicas/RFID debe integrarse al ritmo de trabajo en la manga sin detener la producción. 
+*   **Récord de Ocupación en Feedlots:** Con los feedlots profesionales al límite de su capacidad, el volumen de movimientos (entradas/salidas) se ha triplicado, convirtiendo la sincronización RFID/SIGSA en el mayor punto de fricción operativa.
 *   **Error Humano:** Si el registro no es exacto en el momento del pesaje o vacunación, se generan inconsistencias que son difíciles de corregir a posteriori sin volver a pasar el animal.
 
 ## 3. Costos de Implementación y Equipamiento
