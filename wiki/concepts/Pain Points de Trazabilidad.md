@@ -20,6 +20,7 @@ last_update: 2026-04-17
 - **Auditorías Externas:** Necesidad de reportes instantáneos para auditorías de la Unión Europea sobre el origen electrónico del animal.
 - **Deadline Europa (1º de Mayo - Urgencia Crítica):** Ratificado el 1 de mayo como la "hora cero" (D-Day) para embarques a la UE bajo las nuevas normativas de libre deforestación (EUDR) y trazabilidad granular. Los frigoríficos del [[Consorcio de Frigorificos ABC]] (ej: [[Frigorifico Logros]]) están bajo presión máxima para auditar el origen electrónico y geográfico de cada animal. El sistema SIGSA/SENASA actual presenta baches de información que requieren validación SaaS externa inmediata.
 - **Pérdida de Stock Vacuno:** Datos oficiales de 2025 confirman una **pérdida de 700.000 cabezas** (con una pérdida estructural de 3.2M desde 2022). Esta escasez de oferta eleva el valor estratégico de cada animal y acelera la adopción de "Beef on Dairy". El dolor técnico es la **segregación de datos** y la captura de primas de calidad mediante el monitoreo individual indispensable.
+- **Brecha Generacional y Hackathons (19/06/2026):** El hackathon en Agroactiva demuestra que los jóvenes están proponiendo soluciones tecnológicas para resolver la trazabilidad. El "pain point" aquí es la **adopción de interfaz**: las herramientas actuales son toscas y no atractivas para el relevo generacional que hereda la gestión del campo.
 
 ## Oportunidades de Venta Directa
 - Software que funcione offline y sincronice con SIGSA cuando haya conexión.
