@@ -1,6 +1,9 @@
 # Radar AgTech Argentina - Vault Index
 
 ## 📡 Inteligencia Diaria (Jules Intel)
+- [[2026-06-18]]
+- [[2026-06-17]]
+- [[2026-06-16]]
 - [[2026-06-15]]
 - [[2026-06-14]]
 - [[2026-06-13]]
@@ -79,8 +82,10 @@
 - [[CADAF_SA]]
 - [[CAINCA]]
 - [[CARSFE]]
+- [[Cabana Buen Retiro]]
 - [[Cabaña El Porvenir]]
 - [[Cabaña Pilaga]]
+- [[Carne de Cabra Chaco Exportacion]]
 - [[Consorcio de Frigorificos ABC]]
 - [[Cooperativa Agricola Ganadera de Elena]]
 - [[Frigorifico Bustos Beltran]]
@@ -99,6 +104,7 @@
 - [[Resolucion SENASA 841-2025]]
 - [[Ruta 10 Sur de Cordoba]]
 - [[SIAL_China_2026]]
+- [[San Ignacio]]
 - [[Sancor]]
 - [[Santa Fe]]
 - [[Sociedad Rural Argentina]]
@@ -150,4 +156,4 @@
 - [[Veto Europeo Carnes Brasilenas]]
 
 ---
-*Última sincronización: 2026-06-15*
+*Última sincronización: 2026-06-18*
