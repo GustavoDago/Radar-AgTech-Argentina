@@ -20,6 +20,7 @@ sources:
 - daily_summary_2026-06-08
 - daily_summary_2026-06-12
 - daily_summary_2026-06-14
+- daily_summary_2026-06-16
 tags:
 - agtech/compliance
 - agtech/rfid
@@ -32,6 +33,8 @@ type: entidad
 
 ## Resumen Ejecutivo
 La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada en el Boletín Oficial (Junio 2026)**, confirmando la plena vigencia de los anexos técnicos para dispositivos homologados. A partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" (caravana visual + dispositivo RFID) antes del destete o primer movimiento.
+
+**Actualización 16/06/2026**: La ocupación récord en feedlots profesionales (Bichos de Campo/Valor Carne) presiona la capacidad operativa de emisión de DT-e. La sincronización RFID-SIGSA es ahora el cuello de botella crítico para el movimiento de hacienda en un mercado con oferta restringida de terneros.
 
 **Actualización 15/06/2026**: Nueva ratificación y publicación en el Boletín Oficial (Resolución 841/2025 - SENASA - Norma Técnica Trazabilidad Electrónica) consolidando el estatus legal inamovible de la norma frente a las últimas presiones de sectores productores.
 

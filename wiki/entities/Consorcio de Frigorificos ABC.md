@@ -32,6 +32,7 @@ El Consorcio de Exportadores de Carnes Argentinas (ABC) agrupa a las empresas qu
 - **Veto Oficial de la UE a Brasil (15/06/2026):** La oficialización del bloqueo a Brasil a partir de septiembre genera un vacío de oferta inmediato. Los frigoríficos del consorcio ABC deben garantizar cumplimiento EUDR y trazabilidad individual digitalizada para capturar esta cuota de mercado vacante.
 - **Inyección de Liquidez Bancor (12/06/2026):** Solicitudes de financiamiento récord por unos $200 mil millones de Bancor en Agroactiva. Esto da liquidez a frigoríficos locales (como Logros en Córdoba) para financiar software y RFID.
 - **Reunión Estratégica con Caputo (06/06/2026):** Contacto directo de directivos de ABC con el Ministerio de Economía para acelerar exportaciones y coordinar simplificación de trámites, demandando de manera urgente una trazabilidad intachable para evitar trabas regulatorias de la UE.
+- **Auditorías de Tercera Parte (Junio 2026):** Creciente presión comercial para reemplazar los procesos manuales de validación de caravanas RFID por sistemas automatizados auditables e integrados en tiempo real con SIGSA.
 
 ### Mayo 2026
 - **Inscripción Cuota Hilton 2026/27 (26/05/2026):** El precio de la tonelada Hilton alcanza precios récord de USD 25.000, impulsando a los frigoríficos a auditar sus cadenas de suministro y agilizar su infraestructura tecnológica de plantas.
@@ -40,7 +41,7 @@ El Consorcio de Exportadores de Carnes Argentinas (ABC) agrupa a las empresas qu
 
 ### Abril 2026
 - **El Deadline del D-Day (1º de Mayo):** Plazo perentorio inicial del reglamento EUDR presiona a las plantas exportadoras para consolidar datos de geolocalización e identificación del animal.
-- **Escasez Estructural de Novillos:** La escasez de oferta nacional (caída estructural de 3.2M de cabezas desde 2022) exige a las plantas capturar y retener remitentes con stock digitalizado.
+- **Escasez Estructural de Novillos & Peso de Faena Récord:** La caída de la oferta nacional (3.2M de cabezas menos desde 2022) combinada con picos en el peso de faena obliga a una gestión ultra-precisa de la eficiencia industrial y trazabilidad granular.
 
 ## Estrategia de Abordaje
 Posicionar el [[EUDR_Compliance_Gateway]] no solo como una herramienta de cumplimiento, sino como la "llave de acceso" al mercado europeo que Brasil ha dejado vacante. Enfatizar la integración directa de bajo impacto con la [[Resolucion SENASA 841-2025]] y la trazabilidad de los feedlots proveedores.

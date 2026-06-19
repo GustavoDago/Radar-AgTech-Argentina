@@ -12,6 +12,7 @@ sources:
 - daily_summary_2026-06-01
 - daily_summary_2026-06-08
 - daily_summary_2026-06-14
+- daily_summary_2026-06-16
 tags:
 - agtech/trazabilidad
 - operativo/pain_points
@@ -25,7 +26,7 @@ type: concepto
 ## Fricciones Identificadas
 
 1. **Caídas del SIGSA:** La dependencia del sistema central de SENASA para emitir el [[DT-e]] genera retrasos y parálisis en la carga de camiones en establecimientos con baja conectividad.
-2. **Deterioro Operativo de SENASA (17/04/2026):** El vaciamiento y falta de presupuesto operativo del organismo aumenta el riesgo de fallas sistémicas en los servidores de SIGSA y demoras críticas en los trámites del productor.
+2. **Deterioro Operativo de SENASA (17/04/2026):** El vaciamiento y falta de presupuesto operativo del organismo aumenta exponencialmente el riesgo de fallas sistémicas en los servidores de SIGSA y demoras críticas en los trámites del productor.
 3. **Fricción en Warrants (27/05/2026):** La "Inmovilización voluntaria" de hacienda para warrants exige una validación de stock infalible. La desconexión entre SIGSA/RFID y el sistema de warrants genera riesgo de fraude o doble prenda.
 4. **Fallas en la Lectura RFID:** Los lectores de baja frecuencia (RFID LF) presentan interferencias físicas en balanzas electrónicas y corrales de metal, ralentizando el pasaje individual.
 5. **Inconsistencias en la Recuperación en Faena:** Desafío técnico en los frigoríficos para capturar bolos o chips durante la faena y evitar contaminar la mercadería.
@@ -33,7 +34,7 @@ type: concepto
 7. **Desequilibrio Costo-Beneficio (01/06/2026):** Resistencia del eslabón de cría a costear las caravanas de la Res. 841/2025 al percibir que el frigorífico exportador captura la mayor parte de la prima de precio.
 8. **Control de Semillas en Puertos (08/06/2026):** Controles digitalizados oficiales en acopios e instalaciones portuarias sientan precedente regulatorio y elevan la presión para auditar digitalmente los activos de origen.
 9. **Brecha de Costos vs. Eficiencia en Tambos (Junio 2026):** Pese al precio de la leche por sobre $500/litro, la escasez de margen exige eficiencia operativa absoluta, eliminando tolerancia a demoras en SIGSA que arriesguen multas.
-10. **Saturación en Feedlots (14/06/2026):** El aumento de ocupación en feedlots profesionales presiona los ingresos/salidas masivos. La sincronización masiva de caravanas RFID con SIGSA es indispensable para evitar demoras logísticas severas.
+10. **Colapso por Ocupación Récord en Feedlots (16/06/2026):** La ocupación máxima en feedlots profesionales estresa la capacidad de procesamiento de SIGSA para la emisión masiva de DT-e. La falta de sincronización en tiempo real entre lectores RFID de campo y el sistema central genera "parates" logísticos costosos.
 
 ## Desafíos de Cumplimiento (Actualizado Junio 2026)
 - **Resolución 841/2025:** El fin de la incertidumbre sobre prórrogas técnicas tras los anexos del Boletín Oficial de fines de mayo obliga a los criadores a equiparse antes del 1 de enero de 2026. La escasez de hardware homologado es el cuello de botella.
