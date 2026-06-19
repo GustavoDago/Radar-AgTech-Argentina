@@ -1,11 +1,12 @@
 ---
 confidence: high
-last_update: '2026-06-15'
+last_update: '2026-06-17'
 sources:
 - valorcarne.com.ar
 - bichosdecampo.com
 - daily_summary_2026-06-12
 - daily_summary_2026-06-15
+- daily_summary_2026-06-17
 tags:
 - agtech/targets
 - frigorificos
@@ -33,6 +34,7 @@ El Consorcio de Exportadores de Carnes Argentinas (ABC) agrupa a las empresas qu
 - **Inyección de Liquidez Bancor (12/06/2026):** Solicitudes de financiamiento récord por unos $200 mil millones de Bancor en Agroactiva. Esto da liquidez a frigoríficos locales (como Logros en Córdoba) para financiar software y RFID.
 - **Reunión Estratégica con Caputo (06/06/2026):** Contacto directo de directivos de ABC con el Ministerio de Economía para acelerar exportaciones y coordinar simplificación de trámites, demandando de manera urgente una trazabilidad intachable para evitar trabas regulatorias de la UE.
 - **Auditorías de Tercera Parte (Junio 2026):** Creciente presión comercial para reemplazar los procesos manuales de validación de caravanas RFID por sistemas automatizados auditables e integrados en tiempo real con SIGSA.
+- **Crecimiento en Faena (Junio 2026):** Aumento en la participación nacional y volumen de faena de los líderes del Consorcio ABC, lo que requiere mayor eficiencia en el procesamiento de datos de trazabilidad individual para evitar cuellos de botella en la noria de faena.
 
 ### Mayo 2026
 - **Inscripción Cuota Hilton 2026/27 (26/05/2026):** El precio de la tonelada Hilton alcanza precios récord de USD 25.000, impulsando a los frigoríficos a auditar sus cadenas de suministro y agilizar su infraestructura tecnológica de plantas.

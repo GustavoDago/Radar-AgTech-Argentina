@@ -1,3 +1,24 @@
+## [2026-06-17] sync | Ingesta de Inteligencia Diaria: Brasil-Out y Saturación de Feedlots
+
+- **Automatización & Inteligencia Diaria**:
+  - Incorporada nota de inteligencia diaria [[2026-06-17]] (`wiki/daily/2026-06-17.md`).
+- **Entidades y Conceptos Actualizados**:
+  - [[Consorcio de Frigorificos ABC]] (Actualizado con el trigger estratégico del veto de la UE a Brasil).
+  - [[Resolucion SENASA 841-2025]] (Actualizado con la presión operativa por la ocupación récord de feedlots).
+  - [[Pain Points Trazabilidad Electronica]] (Detallando cuellos de botella en la emisión de DT-e y lecturas RFID).
+
+## [2026-06-16] sync | Ingesta de Inteligencia Diaria: San Ignacio y Ocupación en Feedlots
+
+- **Automatización & Inteligencia Diaria**:
+  - Incorporada nota de inteligencia diaria [[2026-06-16]] (`wiki/daily/2026-06-16.md`).
+- **Entidades Nuevas**:
+  - [[San Ignacio]] (`wiki/entities/San Ignacio.md`) - Interés de adquisición de Sancor por terceros.
+- **Entidades y Conceptos Actualizados**:
+  - [[Consorcio de Frigorificos ABC]] (Integradas auditorías de tercera parte y triggers de faena).
+  - [[Resolucion SENASA 841-2025]] (Reflejando presión de feedlots en la emisión de DT-e).
+  - [[Pain Points de Trazabilidad]] (Consolidada fricción por colapso de SIGSA y ocupación récord en feedlots).
+  - [[Sancor]] (Añadida la propuesta mixta estilo Vicentin).
+
 ## [2026-06-15] sync | Ingesta y Consolidación de Inteligencia Jules Sync (5 al 15 de Junio)
 
 - **Actualización y Fusión de Ramas Remotas**:
@@ -204,7 +225,6 @@
   - `raw/scrape_20260505_235606.json` (Inteligencia cruda)
 
 ## [2026-04-28] sync | Traer contenido nuevo del repo remoto
-
 
 - **Archivos Nuevos**:
   - [[Incentivos a la Inversion RIMI]] (`wiki/concepts/Incentivos a la Inversion RIMI.md`)
