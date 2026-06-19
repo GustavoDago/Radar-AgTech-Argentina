@@ -1,6 +1,6 @@
 ---
 confidence: high
-last_update: '2026-06-17'
+last_update: '2026-06-18'
 sources:
 - https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696
 - daily_summary_2026-04-08
@@ -20,8 +20,10 @@ sources:
 - daily_summary_2026-06-08
 - daily_summary_2026-06-12
 - daily_summary_2026-06-14
+- daily_summary_2026-06-15
 - daily_summary_2026-06-16
 - daily_summary_2026-06-17
+- daily_summary_2026-06-18
 tags:
 - agtech/compliance
 - agtech/rfid
@@ -34,6 +36,8 @@ type: entidad
 
 ## Resumen Ejecutivo
 La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada en el Boletín Oficial (Junio 2026)**, confirmando la plena vigencia de los anexos técnicos para dispositivos homologados. A partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" (caravana visual + dispositivo RFID) antes del destete o primer movimiento.
+
+**Actualización 18/06/2026**: La ratificación de la norma técnica en el Boletín Oficial esta semana elimina cualquier duda sobre posibles prórrogas. La industria debe acelerar la adopción de lectores y software de integración con SIGSA para evitar el colapso operativo en el movimiento de hacienda a partir de enero.
 
 **Actualización 17/06/2026**: Récord de ocupación en feedlots profesionales aumenta críticamente la presión sobre la sincronización RFID/SIGSA. El alto volumen de movimientos de hacienda genera un riesgo inminente de cuellos de botella en la emisión de DT-e si los sistemas de lectura electrónica fallan o son lentos.
 
@@ -74,6 +78,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 **Actualización 26/05/2026**: La ratificación de la norma en el Boletín Oficial (vínculo técnico) coincide con la apertura de inscripciones para la **Cuota Hilton 2026/27**. El cumplimiento de la Res. 841/2025 se perfila como un requisito de "capacidad técnica" implícito para los exportadores que buscan asegurar cupos premium. Asimismo, el debate sobre la **Huella de Carbono** (secuestro de pasto) eleva la necesidad de asociar datos ambientales al ID individual del animal para capturar primas de valor en mercados exigentes.
 
 **Actualización 25/05/2026**: Los resultados de SIAL China 2026 convalidan que los precios pagados y el acceso a contratos premium dependen de la capacidad de demostrar trazabilidad "audit-ready". Paralelamente, el desmantelamiento de INTA (ver [[Colapso Institucional SENASA INTA]]) eleva el riesgo de falla en el soporte técnico oficial para la implementación, convirtiendo a las soluciones SaaS privadas en el único garante de cumplimiento para exportadores.
+
 **Actualización 28/04/2026**: SENASA actualizó los criterios de etiquetado de fitosanitarios incorporando el Sistema Globalmente Armonizado (SGA). Esta convergencia regulatoria refuerza la necesidad de integrar datos de insumos en la ficha individual del animal (trazabilidad de residuos). Asimismo, la iniciativa de "Carne de Sistemas Pastoriles" busca usar la trazabilidad de la Res. 841/2025 para comunicar identidad y valor nutricional.
 
 **Actualización 27/04/2026**: El interés por la carne de sistemas pastoriles y la necesidad de comunicar "identidad productiva" (INTA/TodoAgro) escala la Res. 841/2025 de una traba burocrática a un activo de marketing. La trazabilidad granular es ahora el vehículo para capturar primas de precio por diferenciación de origen.
@@ -101,13 +106,14 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 ### Finanzas & Diferenciación de Hacienda
 - **Liquidez & Financiamiento Ganadero**: Las líneas de créditos de bienes de capital y digitalización (como los $116 mil millones de Santa Fe en Agroactiva) abren una ventana para financiar la compra de caravanas y software.
 - **Inmovilización de Hacienda para Warrants**: El esquema de warrants requiere que la hacienda esté inmovilizada y sea auditable digitalmente. La Res. 841/2025 se convierte así en requisito bancario y de seguridad financiera.
-- **Diferenciación Genética & Calidad**: Cabañas de élite (ej: [[Asociacion Argentina de Brangus]] y [[Asociacion Braford Argentina]]) utilizan el ID electrónico para asociar indicadores carniceros, facilitando remates y el uso del [[Indice de Calidad de Carne]] (IQ-Carne).
+- **Diferenciación Genética & Calidad**: Cabañas de élite (ej: [[Asociacion Argentina de Brangus]], [[Asociacion Braford Argentina]] y [[Cabana Buen Retiro]]) utilizan el ID electrónico para asociar indicadores de calidad de carne, facilitando remates y el uso del [[Indice de Calidad de Carne]] (IQ-Carne) para capturar el sobreprecio en mercados de exportación (pago por marmoreo y calidad de carcasa).
 - **Certificación de Huella de Carbono**: Asignación del secuestro neto de pastos por cabeza para certificar carne sustentable/carbono neutro.
 
 ### Oportunidades SaaS Directas
-- SaaS de auditoría y reportes automatizados "EU-Ready" integrados con RFID para frigoríficos exportadores.
+- SaaS de auditoría y reportes automatizados "EU-Ready" integrados con RFID para frigoríficos exportadores (ej: [[Consorcio de Frigorificos ABC]], [[Frigorifico Logros]]) para cumplir con EUDR.
 - Plataformas de gestión de colaterales y warrants basadas en inmovilización electrónica.
 - Módulos de gestión offline con sincronización asincrónica para feedlots y campos de cría.
+- **SaaS Multiespecie:** Adaptación de plataformas de trazabilidad para caprinos y ovinos destinados a exportación (ver [[Carne de Cabra Chaco Exportacion]]). Además, surge el trigger de **Identidad Pastoril**: SaaS para certificar atributos de producción a nivel animal.
 
 ## Backlinks
 - Ver dolores operativos en [[Pain Points de Trazabilidad]]
