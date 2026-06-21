@@ -1,12 +1,13 @@
 ---
 confidence: high
-last_update: '2026-06-17'
+last_update: '2026-06-19'
 sources:
 - valorcarne.com.ar
 - bichosdecampo.com
 - daily_summary_2026-06-12
 - daily_summary_2026-06-15
 - daily_summary_2026-06-17
+- daily_summary_2026-06-19
 tags:
 - agtech/targets
 - frigorificos
@@ -30,6 +31,8 @@ El Consorcio de Exportadores de Carnes Argentinas (ABC) agrupa a las empresas qu
 ## Triggers de Compra Críticos (Línea de Tiempo 2026)
 
 ### Junio 2026 (El escenario "Brasil-Out" & Finanzas)
+- **Modernización de la Hidrovía (19/06/2026):** La adjudicación definitiva a Jan de Nul por 25 años y la reducción del 13% en el "peaje" (tasa de dragado) mejora la rentabilidad logística de los frigoríficos exportadores, liberando OPEX para transformación digital.
+- **Benchmark "Soja Visec" (19/06/2026):** El regreso de ofertas de soja certificada para la UE es el precursor del mercado de carne EUDR. Los frigoríficos ABC deben prepararse para un esquema similar de segregación de hacienda basada en trazabilidad individual electrónica.
 - **Veto Oficial de la UE a Brasil (15/06/2026):** La oficialización del bloqueo a Brasil a partir de septiembre genera un vacío de oferta inmediato. Los frigoríficos del consorcio ABC deben garantizar cumplimiento EUDR y trazabilidad individual digitalizada para capturar esta cuota de mercado vacante.
 - **Inyección de Liquidez Bancor (12/06/2026):** Solicitudes de financiamiento récord por unos $200 mil millones de Bancor en Agroactiva. Esto da liquidez a frigoríficos locales (como Logros en Córdoba) para financiar software y RFID.
 - **Reunión Estratégica con Caputo (06/06/2026):** Contacto directo de directivos de ABC con el Ministerio de Economía para acelerar exportaciones y coordinar simplificación de trámites, demandando de manera urgente una trazabilidad intachable para evitar trabas regulatorias de la UE.

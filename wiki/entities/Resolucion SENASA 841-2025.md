@@ -1,6 +1,6 @@
 ---
 confidence: high
-last_update: '2026-06-18'
+last_update: 2026-06-19
 sources:
 - https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696
 - daily_summary_2026-04-08
@@ -24,6 +24,7 @@ sources:
 - daily_summary_2026-06-16
 - daily_summary_2026-06-17
 - daily_summary_2026-06-18
+- daily_summary_2026-06-19
 tags:
 - agtech/compliance
 - agtech/rfid
@@ -79,6 +80,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 **Actualización 25/05/2026**: Los resultados de SIAL China 2026 convalidan que los precios pagados y el acceso a contratos premium dependen de la capacidad de demostrar trazabilidad "audit-ready". Paralelamente, el desmantelamiento de INTA (ver [[Colapso Institucional SENASA INTA]]) eleva el riesgo de falla en el soporte técnico oficial para la implementación, convirtiendo a las soluciones SaaS privadas en el único garante de cumplimiento para exportadores.
 
+**Actualización 19/06/2026**: Re-publicación de las normas técnicas y anexos en el Boletín Oficial, ratificando la fecha límite del **1 de enero de 2026** para la identificación obligatoria de todos los terneros/as. La consolidación de la norma coincide con la presión por el cumplimiento de la EUDR y el interés en la "Carne de Pastizal" (Bichos de Campo), donde la trazabilidad individual es el único camino para certificar atributos regenerativos.
 **Actualización 28/04/2026**: SENASA actualizó los criterios de etiquetado de fitosanitarios incorporando el Sistema Globalmente Armonizado (SGA). Esta convergencia regulatoria refuerza la necesidad de integrar datos de insumos en la ficha individual del animal (trazabilidad de residuos). Asimismo, la iniciativa de "Carne de Sistemas Pastoriles" busca usar la trazabilidad de la Res. 841/2025 para comunicar identidad y valor nutricional.
 
 **Actualización 27/04/2026**: El interés por la carne de sistemas pastoriles y la necesidad de comunicar "identidad productiva" (INTA/TodoAgro) escala la Res. 841/2025 de una traba burocrática a un activo de marketing. La trazabilidad granular es ahora el vehículo para capturar primas de precio por diferenciación de origen.

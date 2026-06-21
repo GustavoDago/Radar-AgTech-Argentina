@@ -1,6 +1,6 @@
 ---
 confidence: high
-last_update: '2026-06-18'
+last_update: '2026-06-19'
 sources:
 - industry_reports
 - market_feedback
@@ -14,6 +14,7 @@ sources:
 - daily_summary_2026-06-14
 - daily_summary_2026-06-16
 - daily_summary_2026-06-18
+- daily_summary_2026-06-19
 tags:
 - agtech/trazabilidad
 - operativo/pain_points
@@ -26,6 +27,7 @@ type: concepto
 
 ## Fricciones Identificadas
 
+<<<<<<< HEAD
 1. **Caídas del SIGSA:** La dependencia del sistema central de SENASA para emitir el [[DT-e]] genera retrasos y parálisis en la carga de camiones en establecimientos con baja conectividad.
 2. **Deterioro Operativo de SENASA (17/04/2026):** El vaciamiento y falta de presupuesto operativo del organismo aumenta exponencialmente el riesgo de fallas sistémicas en los servidores de SIGSA y demoras críticas en los trámites del productor.
 3. **Fricción en Warrants (27/05/2026):** La "Inmovilización voluntaria" de hacienda para warrants exige una validación de stock infalible. La desconexión entre SIGSA/RFID y el sistema de warrants genera riesgo de fraude o doble prenda.
@@ -45,11 +47,11 @@ type: concepto
 - **SIAL China 2026 (Actualización 24/05/2026):** La demanda internacional en Shanghái exige dashboards de trazabilidad auditables integrados con la Res. 841/2025 para diferenciar el producto argentino del regional.
 - **Pérdida Estructural de Stock:** La caída del rodeo nacional (700.000 cabezas menos en 2025, acumulando 3.2M de pérdida desde 2022) exige maximizar el valor de cada cabeza mediante segregación y trazabilidad.
 - **Complejidad por Escala del Agro:** La interacción humana masiva en las cadenas de producción agrícola-ganaderas eleva el riesgo de error humano en la captura manual, haciendo indispensable la automatización con RFID y SaaS.
+- **Brecha Generacional y Adopción (19/06/2026):** El hackathon en Agroactiva demostró que la nueva generación propone soluciones de software pero se encuentra con interfaces toscas e incompatibilidades de hardware. La adopción de interfaz es un cuello de botella crítico para el relevo generacional en la gestión del campo.
 
 ## Oportunidades de Venta Directa
 - Software que funcione offline y sincronice con SIGSA cuando haya conexión.
 - Dashboard de métricas de eficiencia en la lectura RFID por lote.
-<<<<<<< HEAD
 - **Integración Genética:** Módulos que vinculen la [[Resolucion SENASA 841-2025]] con índices de calidad de carne (ver [[Asociacion Braford Argentina]]) y datos de marmoreo (ver [[Cabana Buen Retiro]]) para capturar el sobreprecio en mercados de exportación.
 - **Auditoría SaaS:** Sistemas de auditoría "EU-Ready" para cumplimiento de plazos inmediatos y validación de origen.
 - **Dashboards de Carbono:** Integración de datos de [[Certificacion de Secuestro de Carbono]] en el perfil individual del animal para capturar primas de precio por "Carne Carbono Neutro".
