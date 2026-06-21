@@ -1,3 +1,34 @@
+## [2026-06-20] sync | Ingesta de Inteligencia Diaria: Sincronización SIGSA y Cabaña Buen Retiro
+
+- **Automatización & Inteligencia Diaria**:
+  - Incorporada nota de inteligencia diaria [[2026-06-20]] (`wiki/daily/2026-06-20.md`).
+- **Entidades y Conceptos Actualizados**:
+  - [[Resolucion SENASA 841-2025]] (Actualizado con la ratificación final en el Boletín Oficial y los problemas de sincronía).
+  - [[Pain Points de Trazabilidad]] (Consolidadas fallas de sincronización RFID/SIGSA detectadas en Agroactiva).
+  - [[Consorcio de Frigorificos ABC]] (Integrada la necesidad de middleware ante fallas en la sincronía de SIGSA).
+  - [[Cabana Buen Retiro]] (Consolidados los triggers de diferenciación por calidad de carne y Res. 841/2025).
+
+## [2026-06-19] sync | Ingesta de Inteligencia Diaria: Hidrovía y Cabaña Buen Retiro
+
+- **Automatización & Inteligencia Diaria**:
+  - Incorporada nota de inteligencia diaria [[2026-06-19]] (`wiki/daily/2026-06-19.md`).
+- **Entidades y Conceptos Actualizados**:
+  - [[Consorcio de Frigorificos ABC]] (Actualizado con la reducción del 13% en el peaje de la Hidrovía y benchmark Soja Visec).
+  - [[Resolucion SENASA 841-2025]] (Actualizado con el Boletín Oficial ratificando el deadline de enero 2026).
+  - [[Cabana Buen Retiro]] (Creada la entidad con foco en selección por marmoreo/marbling y necesidad de RFID).
+  - [[Pain Points de Trazabilidad]] (Añadido el impacto de los hackatones y la brecha generacional).
+
+## [2026-06-18] sync | Ingesta de Inteligencia Diaria: Cabras del Chaco y Genética Buen Retiro
+
+- **Automatización & Inteligencia Diaria**:
+  - Incorporada nota de inteligencia diaria [[2026-06-18]] (`wiki/daily/2026-06-18.md`).
+- **Entidades Nuevas**:
+  - [[Carne de Cabra Chaco Exportacion]] (`wiki/entities/Carne de Cabra Chaco Exportacion.md`) - Hito exportador desde El Impenetrable.
+  - [[Cabana Buen Retiro]] (`wiki/entities/Cabana Buen Retiro.md`) - Establecimiento líder en genética de elite y marmoreo.
+- **Conceptos y Entidades Actualizados**:
+  - [[Resolucion SENASA 841-2025]] (Actualizada con el Boletín Oficial ratificando el binomio obligatorio).
+  - [[Pain Points de Trazabilidad]] (Integrados la captura de primas por calidad y trazabilidad multiespecie caprina).
+
 ## [2026-06-17] sync | Ingesta de Inteligencia Diaria: Brasil-Out y Saturación de Feedlots
 
 - **Automatización & Inteligencia Diaria**:
