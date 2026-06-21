@@ -29,7 +29,6 @@ El Consorcio de Exportadores de Carnes Argentinas (ABC) agrupa a las empresas qu
 - **Gorina:** Líder en volumen exportado.
 - **Frigorífico Logros:** Referente en Córdoba (Río Segundo) con fuerte tracción exportadora.
 
-<<<<<<< HEAD
 ## Triggers de Compra Críticos (Línea de Tiempo 2026)
 
 ### Junio 2026 (El escenario "Brasil-Out" & Finanzas)
