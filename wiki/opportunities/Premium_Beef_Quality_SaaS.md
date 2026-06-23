@@ -11,6 +11,8 @@ last_critique: 2026-04-15
 
 - **Fricción Monetizable**: Actualmente, el productor vende "animales" y el frigorífico compra "carne", pero existe una desconexión de datos en el medio. Con el lanzamiento del [[Indice de Calidad de Carne]] (IQ-Carne) y la obligatoriedad de la identificación electrónica ([[Resolucion SENASA 841-2025]]), el mercado está listo para un SaaS que traduzca la **biología en precio premium**. La fricción es que el frigorífico no puede pagar por calidad si no tiene la certeza del origen, y el productor no invierte en genética si no ve el retorno en el gancho.
 
+- **Validación de Mercado (Junio 2026)**: El remate de la **Cabaña Buen Retiro** ha puesto el **marmoreo** (marbling) en el centro de la escena comercial, demostrando que existe una demanda real y dispuesta a pagar por genética de alta performance en carcasa.
+
 - **Moat Técnico**:
     1. **Integración RFID/IQ-Carne Engine**: Un middleware en **Java/Quarkus** que capture la lectura RFID en la balanza del campo, la cruce con el historial genómico de la asociación de criadores (ej: [[Asociacion Braford Argentina]]) y prediga el rendimiento de res (yield) antes de que el animal suba al camión.
     2. **Orquestador de Certificados Multi-Audit**: No solo verifica calidad (IQ-Carne), sino que adjunta automáticamente la prueba de libre deforestación de [[EUDR_Compliance_Gateway]] y el balance de carbono de [[MEVA]].
