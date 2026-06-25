@@ -41,6 +41,12 @@ last_update: 2026-04-12
 - **Necesidad Tecnológica:** Necesitan herramientas de gestión para reconvertirse rápidamente (posiblemente a Beef on Dairy o certificación para otros mercados) y demostrar eficiencia operativa inmediata.
 - **Acción:** Contactar a los 15 remitentes afectados para ofrecer SaaS de gestión que facilite la transición y auditoría de nuevos procesos.
 
+### 6. Provincia de Santa Fe - HUB DE CUMPLIMIENTO EXPORTADOR (Nuevo Junio 2026)
+- **Evento:** Jornada "Del campo a la industria" y anuncios del Gobernador Pullaro.
+- **Perfil:** Provincia con fuerte inversión en infraestructura productiva y alivio fiscal.
+- **Trigger:** El Gobernador Pullaro ratificó el compromiso con la infraestructura y la transparencia. CRA identificó el Acuerdo UE-Mercosur como una oportunidad que requiere evitar "burocracia de certificación".
+- **Acción:** Focalizar esfuerzos comerciales en frigoríficos exportadores de Santa Fe para implementar [[EUDR_Compliance_Gateway]], aprovechando el entorno de inversión provincial y la urgencia por sistemas de auditoría ágiles.
+
 ## Frigoríficos del Consorcio ABC (Targets)
 - **Swift (Rosario):** Planta con alta capacidad de faena y foco exportador.
 - **La Anónima (Salto/Trenque Lauquen):** Líder en trazabilidad y calidad para exportación.

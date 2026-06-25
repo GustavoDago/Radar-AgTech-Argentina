@@ -42,10 +42,11 @@ EXCLUSIONS = [
     "fútbol", "deportes", "espectáculos", "farándula", "cine",
     "pronóstico lluvia", "pronóstico del tiempo", "clima mañana", "lluvia", "precipitaciones",
     "receta", "cocina", "chef", "ingredientes",
-    "cotización dólar", "dólar blue", "feria americana",
+    "cotización dólar", "dólar blue", "feria americana", "euro blue", "euro hoy",
     "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo",
     "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel", "vitivinícola",
-    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto"
+    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto",
+    "alfarero", "ceramista", "arcilla", "algodón", "pitahaya", "bosques", "nativo", "semillas nativas"
 ]
 
 def clean_text(text):
@@ -97,7 +98,7 @@ def scrape_boletin_oficial():
                     "title": "Resolución 841/2025 - SENASA - Norma Técnica Trazabilidad Electrónica",
                     "link": "https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696",
                     "date": "2025-07-18",
-                    "content": "Establece el uso obligatorio de dispositivos electrónicos RFID para bovinos a partir de 2026."
+                    "content": "Establece el uso obligatorio de dispositivos electrónicos RFID for bovinos a partir de 2026."
                 }
             ]
     except Exception as e:
