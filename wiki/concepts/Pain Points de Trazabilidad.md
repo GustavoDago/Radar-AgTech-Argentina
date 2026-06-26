@@ -1,9 +1,9 @@
 ---
 type: concepto
 tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
-sources: [industry_reports, market_feedback, daily_summary_2026-04-08]
+sources: [industry_reports, market_feedback, daily_summary_2026-04-08, daily_summary_2026-06-26]
 confidence: high
-last_update: 2026-04-17
+last_update: 2026-06-26
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
@@ -16,7 +16,8 @@ last_update: 2026-04-17
 5. **Gestión de "Beef on Dairy":** La adopción de cruzas cárnicas en tambos (estrategia para valorizar el descarte) requiere una trazabilidad individual absoluta para diferenciar terneros de reposición vs. terneros para carne desde el día 1, evitando errores en la recría.
 
 ## Desafíos de Cumplimiento (Actualizado Abril 2026)
-- **Resolución 841/2025:** Obligatoriedad de lectura electrónica para todos los movimientos a partir de 2026. La falta de infraestructura (lectores, conectividad) es un cuello de botella crítico.
+- **Resolución 841/2025:** Obligatoriedad de lectura electrónica para todos los movimientos a partir del 1 de enero de 2026. La ratificación de la norma técnica en junio de 2026 elimina la incertidumbre regulatoria pero aumenta la presión por la falta de infraestructura (lectores, conectividad).
+- **Eficiencia Reproductiva Extrema (Junio 2026):** La tendencia de entore a los 13 meses (precocidad extrema) exige un monitoreo individual quirúrgico desde el nacimiento. El error en la trazabilidad de estas hembras de reposición anula el progreso genético y la inversión en nutrición.
 - **Auditorías Externas:** Necesidad de reportes instantáneos para auditorías de la Unión Europea sobre el origen electrónico del animal.
 - **Deadline Europa (1º de Mayo - Urgencia Crítica):** Ratificado el 1 de mayo como la "hora cero" (D-Day) para embarques a la UE bajo las nuevas normativas de libre deforestación (EUDR) y trazabilidad granular. Los frigoríficos del [[Consorcio de Frigorificos ABC]] (ej: [[Frigorifico Logros]]) están bajo presión máxima para auditar el origen electrónico y geográfico de cada animal. El sistema SIGSA/SENASA actual presenta baches de información que requieren validación SaaS externa inmediata.
 - **Pérdida de Stock Vacuno:** Datos oficiales de 2025 confirman una **pérdida de 700.000 cabezas** (con una pérdida estructural de 3.2M desde 2022). Esta escasez de oferta eleva el valor estratégico de cada animal y acelera la adopción de "Beef on Dairy". El dolor técnico es la **segregación de datos** y la captura de primas de calidad mediante el monitoreo individual indispensable.
