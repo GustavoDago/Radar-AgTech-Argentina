@@ -3,12 +3,13 @@ type: concepto
 tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
 sources: [industry_reports, market_feedback, daily_summary_2026-04-08]
 confidence: high
-last_update: 2026-04-17
+last_update: 2026-06-27
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
 
-## Fricciones Identificadas
+## Fricciones Identificadas (Junio 2026)
+- **Vulnerabilidad Sanitaria y Auditoría (27/06/2026):** Críticas a la gestión de vacunación antiaftosa (especialmente en categorías jóvenes) aumentan la necesidad de registros de vacunación individuales e inviolables. Los frigoríficos exportadores temen que una falla en la inmunidad colectiva dispare auditorías internacionales que el sistema SIGSA no pueda satisfacer con rapidez.
 1. **Caídas del SIGSA:** La dependencia del sistema central de SENASA para emitir el [[DT-e]] genera retrasos en la carga de camiones en establecimientos con baja conectividad.
 2. **Deterioro Operativo de SENASA (17/04/2026):** Se reporta que el organismo no puede utilizar gran parte de sus propios recursos, profundizando su deterioro operativo. Esto aumenta exponencialmente el riesgo de fallas sistémicas en SIGSA y demoras críticas en la emisión de documentos de movimiento de hacienda.
 3. **Fallas en la Lectura RFID:** Los lectores de baja frecuencia (RFID LF) pueden presentar interferencias en corrales de metal o balanzas electrónicas, ralentizando el movimiento de hacienda.
