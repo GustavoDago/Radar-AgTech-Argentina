@@ -1,6 +1,6 @@
 ---
 confidence: high
-last_update: 2026-06-22
+last_update: 2026-06-23
 sources:
 - https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696
 - daily_summary_2026-04-08
@@ -28,6 +28,7 @@ sources:
 - daily_summary_2026-06-20
 - daily_summary_2026-06-21
 - daily_summary_2026-06-22
+- daily_summary_2026-06-23
 tags:
 - agtech/compliance
 - agtech/rfid
@@ -39,7 +40,9 @@ type: entidad
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
 
 ## Resumen Ejecutivo
-La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada definitivamente en el Boletín Oficial el 19 de junio de 2026**, confirmando el plazo del **1 de enero de 2026** para todos los terneros/as del país. La reaparición y ratificación técnica de esta norma en el Boletín Oficial el **22 de junio de 2026** refuerza la inminencia de los plazos de implementación.
+La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada definitivamente en el Boletín Oficial el 19 de junio de 2026**, confirmando el plazo del **1 de enero de 2026** para todos los terneros/as del país. La reaparición y ratificación técnica de esta norma en el Boletín Oficial el **22 de junio de 2026** y su consolidación técnica posterior eliminan cualquier incertidumbre sobre la obligatoriedad.
+
+**Actualización 23/06/2026**: La ratificación definitiva de las normas técnicas y sus anexos en el Boletín Oficial elimina cualquier incertidumbre sobre la implementación de la trazabilidad electrónica. Se confirma el **1 de enero de 2026** como fecha inamovible para el inicio de la identificación obligatoria de terneros. Esta "clausura de la etapa especulativa" genera una ventana de compra crítica e inmediata de hardware y software de gestión en el segundo semestre de 2026.
 
 **Actualización 22/06/2026**: Ratificación técnica definitiva en el Boletín Oficial. Se confirman los plazos para la identificación obligatoria de terneros a partir del 1 de enero de 2026. La norma técnica refuerza la obligatoriedad de dispositivos RFID homologados, consolidando el marco legal para la transición tecnológica nacional.
 

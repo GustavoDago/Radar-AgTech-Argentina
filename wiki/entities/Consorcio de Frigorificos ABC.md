@@ -9,6 +9,7 @@ sources:
 - daily_summary_2026-06-17
 - daily_summary_2026-06-19
 - daily_summary_2026-06-20
+- daily_summary_2026-06-23
 tags:
 - agtech/targets
 - frigorificos
@@ -50,6 +51,7 @@ El Consorcio de Exportadores de Carnes Argentinas (ABC) agrupa a las empresas qu
 ### Abril 2026
 - **El Deadline del D-Day (1º de Mayo):** Plazo perentorio inicial del reglamento EUDR presiona a las plantas exportadoras para consolidar datos de geolocalización e identificación del animal.
 - **Escasez Estructural de Novillos & Peso de Faena Récord:** La caída de la oferta nacional (3.2M de cabezas menos desde 2022) combinada con picos en el peso de faena obliga a una gestión ultra-precisa de la eficiencia industrial y trazabilidad granular.
+- **Diferenciación por Calidad (Marmoreo):** El interés del mercado por cortes de alta calidad (visto en remates de Cabaña Buen Retiro) abre una oportunidad para que los frigoríficos ABC paguen premios basados en datos de performance de carcasa trazados digitalmente.
 
 ## Estrategia de Abordaje
 Posicionar el [[EUDR_Compliance_Gateway]] no solo como una herramienta de cumplimiento, sino como la "llave de acceso" al mercado europeo que Brasil ha dejado vacante. Enfatizar la integración directa de bajo impacto con la [[Resolucion SENASA 841-2025]] y la trazabilidad de los feedlots proveedores.

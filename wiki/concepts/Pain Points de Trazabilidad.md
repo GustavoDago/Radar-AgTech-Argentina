@@ -1,6 +1,6 @@
 ---
 confidence: high
-last_update: '2026-06-21'
+last_update: '2026-06-23'
 sources:
 - industry_reports
 - market_feedback
@@ -17,6 +17,8 @@ sources:
 - daily_summary_2026-06-19
 - daily_summary_2026-06-20
 - daily_summary_2026-06-21
+- daily_summary_2026-06-22
+- daily_summary_2026-06-23
 - hackathon_agroactiva_2026
 tags:
 - agtech/trazabilidad
@@ -42,12 +44,12 @@ type: concepto
 10. **Brecha de Costos vs. Eficiencia en Tambos (Junio 2026):** Pese al precio de la leche por sobre $500/litro, la escasez de margen exige eficiencia operativa absoluta, eliminando tolerancia a demoras en SIGSA que arriesguen multas.
 11. **Colapso por Ocupación Récord en Feedlots (16/06/2026):** La ocupación máxima en feedlots profesionales estresa la capacidad de procesamiento de SIGSA para la emisión masiva de DT-e (saturación ya advertida el 14/06). La falta de sincronización en tiempo real entre lectores RFID de campo y el sistema central genera "parates" logísticos costosos.
 12. **Captura de Primas por Calidad (18/06/2026):** La incapacidad de vincular datos de **marmoreo** y calidad de carcasa con el ID individual (ver [[Cabana Buen Retiro]]) impide a los productores de genética premium capturar el valor total de su producción en la venta de reproductores y carne.
-13. **Trazabilidad en Especies de Nicho (18/06/2026):** La apertura de mercados de exportación para carne caprina (ver [[Carne de Cabra Chaco Exportacion]]) reveals la falta de herramientas de trazabilidad adaptadas a especies no bovinas y a regiones remotas con conectividad nula.
+13. **Trazabilidad en Especies de Nicho (18/06/2026):** La apertura de mercados de exportación para carne caprina (ver [[Carne de Cabra Chaco Exportacion]]) y la necesidad de trazabilidad en otras especies de nicho revela la falta de herramientas adaptadas a regiones remotas con conectividad nula.
 14. **Sincronización Crítica (Hackatón Agroactiva 19/06/2026):** Se detectaron fallas masivas en la sincronización en tiempo real entre los lectores RFID de campo y la base de datos central de SIGSA. Los dispositivos a menudo "no son reconocidos" por el sistema estatal a pesar de estar correctamente grabados, bloqueando la emisión de DT-e.
 15. **Brecha de Adopción Generacional:** Resistencia técnica en operarios de campo para el manejo de interfaces digitales complejas, lo que deriva en errores de lectura y pérdida de datos.
 
 ## Desafíos de Cumplimiento (Actualizado Junio 2026)
-- **Resolución 841/2025:** Ratificada en el Boletín Oficial (19/06/2026). Obligatoriedad de lectura electrónica para todos los movimientos a partir del 1 de enero de 2026. La falta de infraestructura (lectores, conectividad) y la inestabilidad de SIGSA son cuellos de botella críticos. El hackatón de trazabilidad de Agroactiva 2026 ratificó que el principal bache es la integración de datos entre hardware y el sistema oficial.
+- **Resolución 841/2025:** Ratificada definitivamente en el Boletín Oficial (19/06/2026) y consolidada en las normas técnicas. Obligatoriedad de lectura electrónica para todos los movimientos a partir del 1 de enero de 2026. La falta de infraestructura (lectores, conectividad) y la inestabilidad de SIGSA son cuellos de botella críticos. El hackatón de trazabilidad de Agroactiva 2026 ratificó que el principal bache es la integración de datos entre hardware y el sistema oficial.
 - **Deadline Europa (1º de Mayo - Urgencia Crítica):** La hora cero (D-Day) de la normativa libre de deforestación (EUDR) presiona a los miembros del [[Consorcio de Frigorificos ABC]] a auditar el origen geográfico e individual de cada animal.
 - **SIAL China 2026 (Actualización 24/05/2026):** La demanda internacional en Shanghái exige dashboards de trazabilidad auditables integrados con la Res. 841/2025 para diferenciar el producto argentino del regional.
 - **Pérdida Estructural de Stock:** La caída del rodeo nacional (700.000 cabezas menos en 2025, acumulando 3.2M de pérdida desde 2022) exige maximizar el valor de cada cabeza mediante segregación y trazabilidad.

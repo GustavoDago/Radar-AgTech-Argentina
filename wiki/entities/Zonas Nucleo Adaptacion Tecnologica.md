@@ -1,6 +1,6 @@
 ---
 confidence: high
-last_update: '2026-06-14'
+last_update: '2026-06-23'
 sources:
 - field_intelligence
 - industry_reports
@@ -8,6 +8,7 @@ sources:
 - daily_summary_2026-06-07
 - daily_summary_2026-06-09
 - daily_summary_2026-06-14
+- daily_summary_2026-06-23
 tags:
 - agtech/targets
 - comercial/zonas_nucleo
@@ -24,19 +25,20 @@ type: entidad
 - **Triggers (Junio 2026):**
   - **Día de la Alfalfa & Alta Productividad:** El consultor Juan Monge promueve la alfalfa como cultivo de "alta música" (6 a 9 cortes anuales).
   - **Inversión de Cadaf:** Ampliación de la infraestructura de procesamiento para duplicar exportaciones, exigiendo trazabilidad granular del origen de los fardos y optimización logística.
-- **Acción:** Contactar directivos del clúster de alfalfa y de Cadaf para ofrecer auditorías logísticas y de origen.
+- **Acción:** Contactar directivos del clúster de alfalfa y de Cadaf para ofrecer auditorías logísticas and de origen.
 
 ### 1. Nogoyá (Entre Ríos) - Trazabilidad & Genética
 - **Perfil:** Cuenca de lechería especializada y foco en genética Jersey.
 - **Acción:** Contactar cabañas y tambos de punta interesados en la trazabilidad individual electrónica aplicada a la selección genética y su valorización reproductiva.
 
 ### 2. Cuenca Lechera Rafaela (Santa Fe) - Mega-Tambos & Logística
-- **Perfil:** Mayor concentración de tambos comerciales de gran escala.
+- **Perfil:** Mayor concentración de tambos comerciales de gran escala y mega-tambos, muchos con sistemas estabulados y robóticos.
+- **Caso de Éxito/Crecimiento:** [[Pro Tambo]], consorcio de 6 productores que escalaron operaciones tras la crisis.
 - **Triggers (Junio 2026):**
   - **Línea de Crédito Agroactiva:** $116.000 millones inyectados a tasas bonificadas por bancos de Santa Fe, impulsando la adquisición de maquinaria y ordeñadoras automatizadas.
   - **Presión Logística & Aftosa (09/06/2026):** En el norte santafesino, el transporte representa hasta un tercio del costo lácteo. A la par, el plan diferencial de vacunación de aftosa de la Región Centro exige un control digital individual estricto.
-  - **Migración a Trazabilidad Electrónica:** Necesidad de migrar de sistemas de identificación propietarios al ID oficial unificado de la Res. 841/2025.
-- **Acción:** Ofrecer soluciones SaaS que integren trazabilidad y eficiencia logística offline/online para establecimientos de más de 1.000 vacas en ordeñe.
+  - **Migración a Trazabilidad Electrónica & Necesidad Tecnológica:** Necesidad de migrar e integrar la identificación electrónica oficial de la Res. 841/2025 con el software de ordeñe y gestión reproductiva, reemplazando los sistemas de identificación propietarios.
+- **Acción:** Visitar establecimientos con más de 1.000 vacas en ordeñe y grupos asociativos como Pro Tambo para ofrecer solución SaaS de trazabilidad integrada y eficiencia logística offline/online.
 
 ### 3. Eje Rosario - Trenque Lauquen (Santa Fe - Buenos Aires) - Frigoríficos Exportadores
 - **Perfil:** Concentración de plantas faenadoras del **Consorcio ABC** y mega-feedlots.
@@ -67,3 +69,4 @@ type: entidad
 - [[Resolucion SENASA 841-2025]]
 - [[Consorcio de Frigorificos ABC]]
 - [[Frigorifico Logros]]
+- [[Pro Tambo]]
