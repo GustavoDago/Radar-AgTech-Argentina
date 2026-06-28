@@ -1,6 +1,6 @@
 ---
 confidence: high
-last_update: 2026-06-21
+last_update: 2026-06-22
 sources:
 - https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696
 - daily_summary_2026-04-08
@@ -27,6 +27,7 @@ sources:
 - daily_summary_2026-06-19
 - daily_summary_2026-06-20
 - daily_summary_2026-06-21
+- daily_summary_2026-06-22
 tags:
 - agtech/compliance
 - agtech/rfid
@@ -38,7 +39,9 @@ type: entidad
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
 
 ## Resumen Ejecutivo
-La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada definitivamente en el Boletín Oficial el 19 de junio de 2026**, confirmando el plazo del **1 de enero de 2026** para todos los terneros/as del país.
+La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada definitivamente en el Boletín Oficial el 19 de junio de 2026**, confirmando el plazo del **1 de enero de 2026** para todos los terneros/as del país. La reaparición y ratificación técnica de esta norma en el Boletín Oficial el **22 de junio de 2026** refuerza la inminencia de los plazos de implementación.
+
+**Actualización 22/06/2026**: Ratificación técnica definitiva en el Boletín Oficial. Se confirman los plazos para la identificación obligatoria de terneros a partir del 1 de enero de 2026. La norma técnica refuerza la obligatoriedad de dispositivos RFID homologados, consolidando el marco legal para la transición tecnológica nacional.
 
 **Actualización 21/06/2026**: La diferenciación por calidad (marmoreo en [[Cabana Buen Retiro]]) y programas de carne certificada con blockchain ([[Asociacion Hereford Argentina]]) están acelerando la transición de la trazabilidad como "carga burocrática" a "activo comercial". La Res. 841/2025 se consolida como la infraestructura base sobre la cual se montan estos servicios de valor agregado para capturar primas de precio en exportación.
 
@@ -48,7 +51,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 **Actualización 18/06/2026**: La ratificación de la norma técnica en el Boletín Oficial esta semana elimina cualquier duda sobre posibles prórrogas. La industria debe acelerar la adopción de lectores y software de integración con SIGSA para evitar el colapso operativo en el movimiento de hacienda a partir de enero.
 
-**Actualización 17/06/2026**: Récord de ocupación en feedlots profesionales aumenta críticamente la presión sobre la sincronización RFID/SIGSA. El alto volumen de movimientos de hacienda genera un riesgo inminente de cuellos de botella en la emisión de DT-e if los sistemas de lectura electrónica fallan o son lentos.
+**Actualización 17/06/2026**: Récord de ocupación en feedlots profesionales aumenta críticamente la presión sobre la sincronización RFID/SIGSA. El alto volumen de movimientos de hacienda genera un riesgo inminente de cuellos de botella en la emisión de DT-e si los sistemas de lectura electrónica fallan o son lentos.
 
 **Actualización 16/06/2026**: La ocupación récord en feedlots profesionales (Bichos de Campo/Valor Carne) presiona la capacidad operativa de emisión de DT-e. La sincronización RFID-SIGSA es ahora el cuello de botella crítico para el movimiento de hacienda en un mercado con oferta restringida de terneros.
 
@@ -126,5 +129,5 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 - Ver nueva entidad: [[Asociacion Argentina de Brangus]]
 - Oportunidad SaaS: [[EUDR_Compliance_Gateway]]
 - Oportunidad SaaS: [[Premium_Beef_Quality_SaaS]]
-- Concepto relacionado: [[Vacio Institucional Soporte Tecnico]]
+- Concepto relacionado: [[Vacio Institucional Soporte Técnico]]
 - Ver nueva entidad: [[Asociacion Hereford Argentina]]

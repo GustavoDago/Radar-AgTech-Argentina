@@ -1,17 +1,17 @@
 ---
 type: entidad
 tags: [ganaderia/genetica, trazabilidad/premium, argentina/buenos_aires, agtech/targets, rfid, remates, cabaña, marmoreo, elite_genetics, beef, marbling, performance_tracking]
-sources: [daily_summary_2026-06-18, valorcarne.com.ar - 2026-06-19, Valor Carne - 2026-06-20, https://www.valorcarne.com.ar/la-cabana-buen-retiro-lleva-el-marmoreo-al-centro-de-la-escena/, daily_summary_2026-06-21]
+sources: [daily_summary_2026-06-18, valorcarne.com.ar - 2026-06-19, Valor Carne - 2026-06-20, https://www.valorcarne.com.ar/la-cabana-buen-retiro-lleva-el-marmoreo-al-centro-de-la-escena/, daily_summary_2026-06-21, daily_summary_2026-06-22]
 confidence: high
-last_update: 2026-06-21
+last_update: 2026-06-22
 ---
 
 # Cabaña Buen Retiro
 
-Cabaña Buen Retiro es un establecimiento ganadero de punta y cabaña líder en la incorporación de tecnología para la medición de marmoleo (marbling) y calidad de carne en genética bovina, liderado por Martín Vergara. Cuenta con más de 30 años de trayectoria (celebrando su 32° remate anual en 2026).
+Cabaña Buen Retiro es un establecimiento ganadero de punta y cabaña líder en la incorporación de tecnología para la medición de marmoleo (marbling) y calidad de carne en genética bovina, liderado por Martín Vergara. Cuenta con más de 30 años de trayectoria (celebrando su 32° remate anual en 2026). En junio de 2026, la cabaña ha llevado este atributo al centro de la escena comercial, respondiendo a una demanda creciente por carne de alta calidad y valor diferenciado en mercados de exportación.
 
 ## Perfil Tecnológico y Foco Estratégico
-- **Marmoreo (Marbling):** Llevan este atributo al centro de su escena comercial. Utilizan ecografía y datos genómicos para seleccionar reproductores con alta capacidad de infiltración de grasa, un atributo crítico para capturar valor en mercados de exportación de alta gama y carne premium.
+- **Marmoreo (Marbling):** Llevan este atributo al centro de su escena comercial. Utilizan ecografía y datos genómicos para seleccionar reproductores con alta capacidad de infiltración de grasa, un atributo crítico para capturar valor en mercados de exportación de alta gama (como la Unión Europea y nichos premium locales).
 - **Eficiencia de Conversión:** Uso de tecnología para maximizar la producción de carne por kilo de alimento.
 - **Trazabilidad Individual & Necesidad de Datos:** Implementan identificación electrónica para el seguimiento de performance desde el nacimiento hasta la faena o venta de reproductores, vinculando el pedigree y los datos de ecografía de carcasa con el ID RFID.
 
