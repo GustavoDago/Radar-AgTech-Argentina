@@ -1,6 +1,6 @@
 ---
 confidence: high
-last_update: 2026-06-26
+last_update: 2026-06-27
 sources:
 - https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696
 - daily_summary_2026-04-08
@@ -32,6 +32,7 @@ sources:
 - daily_summary_2026-06-24
 - daily_summary_2026-06-25
 - daily_summary_2026-06-26
+- daily_summary_2026-06-27
 tags:
 - agtech/compliance
 - agtech/rfid
@@ -43,7 +44,9 @@ type: entidad
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
 
 ## Resumen Ejecutivo
-La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada definitivamente en el Boletín Oficial el 19 de junio de 2026**, confirmando el plazo del **1 de enero de 2026** para todos los terneros/as del país. La publicación definitiva de los anexos técnicos el **26 de junio de 2026** consolida un marco regulatorio ineludible ante las exigencias internacionales de auditoría (EUDR).
+La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada definitivamente en el Boletín Oficial el 19 de junio de 2026**, confirmando el plazo del **1 de enero de 2026** para todos los terneros/as del país. La publicación definitiva de los anexos técnicos el **26 de junio de 2026** y las ratificaciones posteriores consolidan un marco regulatorio ineludible ante las exigencias internacionales de auditoría (EUDR).
+
+**Actualización 27/06/2026**: La re-ratificación de las normas técnicas en el Boletín Oficial confirma que el plazo del 1 de enero de 2026 para la identificación electrónica de terneros es irreversible. Las críticas a la estrategia de vacunación antiaftosa (Milicevic) subrayan la fragilidad del sistema sanitario y elevan la trazabilidad individual auditable a una prioridad de "seguro comercial" para exportadores.
 
 **Actualización 26/06/2026**: La publicación definitiva de los anexos técnicos en el Boletín Oficial confirma el **1 de enero de 2026** como fecha inamovible. Esta certidumbre jurídica dispara la necesidad de adopción masiva de tecnología RFID, eliminando la excusa de la "espera de especificaciones" para los productores.
 
@@ -73,7 +76,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 **Actualización 12/06/2026**: La ratificación definitiva en el Boletín Oficial coincide con el escenario de **"Brasil-Out"** (veto de la UE a carnes brasileñas). La Res. 841/2025 se posiciona como el escudo técnico indispensable para que Argentina capture la cuota de mercado dejada por Brasil, garantizando una trazabilidad auditable superior que desactiva las barreras para-arancelarias de la UE.
 
-**Actualización 10/06/2026**: Ratificación definitiva de las normas técnicas y anexos en el Boletín Oficial. Se confirma el **1 de enero de 2026** como fecha límite inamovible para la identificación electrónica obligatoria de terneros/as. La publicación de los anexos técnicos de dispositivos homologados elimina cualquier incertidumbre regulatoria remanente.
+**Actualización 10/06/2026**: Ratificación definitiva de las normas técnicas y anexos in el Boletín Oficial. Se confirma el **1 de enero de 2026** como fecha límite inamovible para la identificación electrónica obligatoria de terneros/as. La publicación de los anexos técnicos de dispositivos homologados elimina cualquier incertidumbre regulatoria remanente.
 
 **Actualización 09/06/2026**: La suspensión de importaciones brasileñas por parte de la UE (a partir de septiembre) acelera la urgencia de la trazabilidad individual en Argentina para capturar ese mercado. Paralelamente, la Región Centro impulsa un esquema diferencial de vacunación de aftosa para tambos, lo que requiere un registro auditable de la identidad animal.
 
@@ -107,7 +110,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 **Actualización 27/04/2026**: El interés por la carne de sistemas pastoriles y la necesidad de comunicar "identidad productiva" (INTA/TodoAgro) escala la Res. 841/2025 de una traba burocrática a un activo de marketing. La trazabilidad granular es ahora el vehículo para capturar primas de precio por diferenciación de origen.
 
-**Actualización 19/04/2026**: Ratificación técnica en el Boletín Oficial vinculada a la implementación de la Res. 841/2025. La presión internacional aumenta por la cepa inédita de Aftosa en China, lo que refuerza la obligatoriedad de sistemas de trazabilidad auditables antes del deadline de 2026.
+**Actualización 19/04/2026**: Ratificación técnica en el Boletín Oficial vinculada a la implementación de la Res. 841/2025. La presión internacional aumenta por la cepa inédita de Aftosa en China, lo que refuerza la obligatoriedad de de sistemas de trazabilidad auditables antes del deadline de 2026.
 
 **Actualización 18/04/2026**: El estado de "abandono" y desfinanciamiento operativo en SENASA reportado por sus trabajadores eleva el riesgo de colapso en el soporte técnico para la implementación masiva de la Res. 841/2025. Los sistemas privados de trazabilidad que actúen como "buffer" ante fallas de SIGSA son ahora una necesidad crítica de supervivencia operativa.
 

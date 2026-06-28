@@ -1,6 +1,6 @@
 ---
 confidence: high
-last_update: '2026-06-26'
+last_update: '2026-06-27'
 sources:
 - industry_reports
 - market_feedback
@@ -20,6 +20,7 @@ sources:
 - daily_summary_2026-06-22
 - daily_summary_2026-06-23
 - daily_summary_2026-06-26
+- daily_summary_2026-06-27
 - hackathon_agroactiva_2026
 tags:
 - agtech/trazabilidad
@@ -48,6 +49,7 @@ type: concepto
 13. **Trazabilidad en Especies de Nicho (18/06/2026):** La apertura de mercados de exportación para carne caprina (ver [[Carne de Cabra Chaco Exportacion]]) y la necesidad de trazabilidad en otras especies de nicho revela la falta de herramientas adaptadas a regiones remotas con conectividad nula.
 14. **Sincronización Crítica (Hackatón Agroactiva 19/06/2026):** Se detectaron fallas masivas en la sincronización en tiempo real entre los lectores RFID de campo y la base de datos central de SIGSA. Los dispositivos a menudo "no son reconocidos" por el sistema estatal a pesar de estar correctamente grabados, bloqueando la emisión de DT-e.
 15. **Brecha de Adopción Generacional:** Resistencia técnica en operarios de campo para el manejo de interfaces digitales complejas, lo que deriva en errores de lectura y pérdida de datos.
+16. **Vulnerabilidad Sanitaria y Auditoría (27/06/2026):** Críticas a la gestión de vacunación antiaftosa (especialmente en categorías jóvenes) aumentan la necesidad de registros de vacunación individuales e inviolables. Los frigoríficos exportadores temen que una falla en la inmunidad colectiva dispare auditorías internacionales que el sistema SIGSA no pueda satisfacer con rapidez.
 
 ## Desafíos de Cumplimiento (Actualizado Junio 2026)
 - **Resolución 841/2025:** Ratificada definitivamente en el Boletín Oficial (19/06/2026) y consolidada en las normas técnicas. Obligatoriedad de lectura electrónica para todos los movimientos a partir del 1 de enero de 2026. La falta de infraestructura (lectores, conectividad) y la inestabilidad de SIGSA son cuellos de botella críticos. El hackatón de trazabilidad de Agroactiva 2026 ratificó que el principal bache es la integración de datos entre hardware y el sistema oficial.
