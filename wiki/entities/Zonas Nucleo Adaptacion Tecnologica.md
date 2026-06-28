@@ -61,6 +61,12 @@ type: entidad
 - **Perfil:** Quince tambos especializados de punta que perdieron el contrato de Nestlé y deben reconfigurar su modelo de negocio de inmediato.
 - **Acción:** Ofrecer SaaS de gestión y optimización de procesos para auditar transiciones productivas ágiles (ej. pasaje a lechería tradicional eficiente, transición o Beef on Dairy).
 
+### 6. Provincia de Santa Fe - HUB DE CUMPLIMIENTO EXPORTADOR (Nuevo Junio 2026)
+- **Evento:** Jornada "Del campo a la industria" y anuncios del Gobernador Pullaro.
+- **Perfil:** Provincia con fuerte inversión en infraestructura productiva y alivio fiscal.
+- **Trigger:** El Gobernador Pullaro ratificó el compromiso con la infraestructura y la transparencia. CRA identificó el Acuerdo UE-Mercosur como una oportunidad que requiere evitar "burocracia de certificación".
+- **Acción:** Focalizar esfuerzos comerciales en frigoríficos exportadores de Santa Fe para implementar [[EUDR_Compliance_Gateway]], aprovechando el entorno de inversión provincial y la urgencia por sistemas de auditoría ágiles.
+
 ## Frigoríficos del Consorcio ABC (Targets)
 - **Swift (Rosario):** Planta con alta capacidad de faena y foco exportador.
 - **La Anónima (Salto/Trenque Lauquen):** Líder en trazabilidad y calidad para exportación.

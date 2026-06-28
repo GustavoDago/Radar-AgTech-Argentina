@@ -38,24 +38,21 @@ KEYWORDS = [
 ]
 
 EXCLUSIONS = [
-    "achicamiento", "acuicultura", "agronea", "ajo",
-    "ajuste", "algodón", "amarok", "avícola",
-    "biodiésel", "camino rural", "caminos rurales", "cerdo",
-    "chef", "chevrolet", "chevrolet s10", "cine",
-    "clima", "clima en", "clima mañana", "cocina",
-    "cotización dólar", "crimen", "césped", "deportes",
+    "achicamiento", "acuicultura", "agronea", "ajo", "ajuste", "alfarero",
+    "algodón", "amarok", "arcilla", "avícola", "biodiésel", "bosques",
+    "camino rural", "caminos rurales", "ceramista", "cerdo", "chef",
+    "chevrolet", "chevrolet s10", "cine", "clima", "clima en", "clima mañana",
+    "cocina", "cotización dólar", "crimen", "césped", "deportes",
     "derechos de exportación", "detenido", "detuvieron", "dólar blue",
-    "elecciones", "espectáculos", "euro blue", "farándula",
-    "feria agrícola", "feria americana", "ford", "ford ranger",
-    "frontier", "fútbol", "glaciares", "hidropónica",
-    "hilux", "horticultura", "ingredientes", "lluvia",
-    "manzana", "maquin", "pick up", "policial",
-    "pollo", "política partidaria", "porcin", "precipitaciones",
-    "pronóstico del tiempo", "pronóstico lluvia", "ranger", "receta",
-    "retenciones", "robo de cables", "rosales", "smn",
-    "sonic", "temporal", "toyota", "toyota hilux",
-    "trucha", "vino", "vitivinícola", "volkswagen",
-    "voto"
+    "elecciones", "espectáculos", "euro blue", "euro hoy", "farándula",
+    "feria agrícola", "feria americana", "ford", "ford ranger", "frontier",
+    "fútbol", "glaciares", "hidropónica", "hilux", "horticultura",
+    "ingredientes", "lluvia", "manzana", "maquin", "nativo", "pick up",
+    "pitahaya", "policial", "pollo", "política partidaria", "porcin",
+    "precipitaciones", "pronóstico del tiempo", "pronóstico lluvia", "ranger",
+    "receta", "retenciones", "robo de cables", "rosales", "semillas nativas",
+    "smn", "sonic", "temporal", "toyota", "toyota hilux", "trucha", "vino",
+    "vitivinícola", "volkswagen", "voto"
 ]
 
 def clean_text(text):
@@ -107,7 +104,7 @@ def scrape_boletin_oficial():
                     "title": "Resolución 841/2025 - SENASA - Norma Técnica Trazabilidad Electrónica",
                     "link": "https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696",
                     "date": "2025-07-18",
-                    "content": "Establece el uso obligatorio de dispositivos electrónicos RFID para bovinos a partir de 2026."
+                    "content": "Establece el uso obligatorio de dispositivos electrónicos RFID for bovinos a partir de 2026."
                 }
             ]
     except Exception as e:

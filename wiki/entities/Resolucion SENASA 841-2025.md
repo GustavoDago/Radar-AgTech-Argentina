@@ -1,6 +1,6 @@
 ---
 confidence: high
-last_update: 2026-06-24
+last_update: 2026-06-25
 sources:
 - https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696
 - daily_summary_2026-04-08
@@ -30,6 +30,7 @@ sources:
 - daily_summary_2026-06-22
 - daily_summary_2026-06-23
 - daily_summary_2026-06-24
+- daily_summary_2026-06-25
 tags:
 - agtech/compliance
 - agtech/rfid
@@ -42,6 +43,8 @@ type: entidad
 
 ## Resumen Ejecutivo
 La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada definitivamente en el Boletín Oficial el 19 de junio de 2026**, confirmando el plazo del **1 de enero de 2026** para todos los terneros/as del país. La reaparición y ratificación técnica de esta norma en el Boletín Oficial el **22 de junio de 2026** y su posterior ratificación el **24 de junio de 2026** consolidan un marco regulatorio ineludible ante las exigencias internacionales de auditoría (EUDR).
+
+**Actualización 25/06/2026**: En el marco de la jornada "Del campo a la industria", CRA advirtió que las exigencias de sustentabilidad del acuerdo UE-Mercosur no deben convertirse en "mecanismos burocráticos de certificación". Esto posiciona a la trazabilidad automatizada (Res. 841/2025) como la defensa técnica para evitar que la burocracia se convierta en una barrera paraarancelaria.
 
 **Actualización 24/06/2026**: Ratificación técnica definitiva en el Boletín Oficial. La reaparición de la norma en las publicaciones oficiales subraya su carácter ineludible frente a las exigencias de auditoría internacional (EUDR) y la necesidad de sistemas de trazabilidad que garanticen la identidad del animal ante la incertidumbre sanitaria global.
 
