@@ -1,6 +1,14 @@
 # Radar AgTech Argentina - Vault Index
 
 ## 📡 Inteligencia Diaria (Jules Intel)
+- [[2026-06-28]]
+- [[2026-06-27]]
+- [[2026-06-26]]
+- [[2026-06-25]]
+- [[2026-06-24]]
+- [[2026-06-23]]
+- [[2026-06-22]]
+- [[2026-06-21]]
 - [[2026-06-20]]
 - [[2026-06-19]]
 - [[2026-06-18]]
@@ -78,6 +86,7 @@
 - [[Asociacion Argentina de Brangus]]
 - [[Asociacion Braford Argentina]]
 - [[Asociacion Brangus Argentina]]
+- [[Asociacion Hereford Argentina]]
 - [[BCR Labs]]
 - [[Biofarma]]
 - [[Bustos Beltran]]
@@ -102,6 +111,7 @@
 - [[Menara Construcciones]]
 - [[Neuquen Polo Alfalfa]]
 - [[Polo Alfalfa Premium Neuquen]]
+- [[Pro Tambo]]
 - [[Pyme Lactea Santafesina Crisis]]
 - [[Resolucion SENASA 841-2025]]
 - [[Ruta 10 Sur de Cordoba]]
@@ -123,6 +133,7 @@
 - [[Aumento de Densidad en Feedlots]]
 - [[Barreras Biotecnológicas HB4]]
 - [[Barreras_Sanitarias_Antimicrobianos]]
+- [[Burocracia de Certificacion UE-Mercosur]]
 - [[Captura_Carbono_Pasturas]]
 - [[Certificacion de Secuestro de Carbono]]
 - [[Certificacion de Secuestro de Carbono Individual]]
@@ -132,6 +143,7 @@
 - [[Conciliacion_Canje_Granos]]
 - [[DT-e]]
 - [[Desafios Confinamiento Mega-tambos]]
+- [[Entore Precoz]]
 - [[Financiamiento Bienes de Capital 2026]]
 - [[Friccion EUDR]]
 - [[Friccion Logistica Exportadora]]
@@ -144,12 +156,14 @@
 - [[Incentivos a la Inversion RIMI]]
 - [[Incertidumbre Regulatoria Sanitaria]]
 - [[Indice de Calidad de Carne]]
+- [[Oportunidades de Venta Directa]]
 - [[Oportunidad Competitiva EUDR]]
 - [[Pain Points Trazabilidad Electronica]]
 - [[Pain Points de Trazabilidad]]
 - [[Provincializacion del INTA]]
 - [[Reduccion Impositiva Invernada]]
 - [[Resolucion_ARCA_CPE]]
+- [[Riesgo Regulatorio Ecocidio]]
 - [[Transformadores Bio-Basados]]
 - [[Uso_Agronomico_Efluentes_Pecuarios]]
 - [[Vacio Institucional Soporte Tecnico]]
@@ -158,4 +172,4 @@
 - [[Veto Europeo Carnes Brasilenas]]
 
 ---
-*Última sincronización: 2026-06-20*
+*Última sincronización: 2026-06-28*

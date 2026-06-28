@@ -1,3 +1,85 @@
+## [2026-06-28] sync | Ingesta de Inteligencia Diaria: Boletín Oficial y Hereford Pastoril
+
+- **Automatización & Inteligencia Diaria**:
+  - Incorporada nota de inteligencia diaria [[2026-06-28]] (`wiki/daily/2026-06-28.md`).
+- **Conceptos Nuevos**:
+  - [[Entore Precoz]] (`wiki/concepts/Entore Precoz.md`) - Foco en eficiencia de rodeos de cría.
+- **Entidades y Conceptos Actualizados**:
+  - [[Resolucion SENASA 841-2025]] (Actualizado con la ratificación definitiva de la Norma Técnica en el Boletín Oficial, confirmando el deadline absoluto).
+  - [[Sancor]] (Actualizado con la disputa de ocho interesados por los activos remanentes).
+  - [[Asociacion Hereford Argentina]] (Actualizado con triggers de monitoreo individual en pastoreo).
+
+## [2026-06-27] sync | Ingesta de Inteligencia Diaria: Re-ratificación de Normas Técnicas y Aftosa
+
+- **Automatización & Inteligencia Diaria**:
+  - Incorporada nota de inteligencia diaria [[2026-06-27]] (`wiki/daily/2026-06-27.md`).
+- **Entidades y Conceptos Actualizados**:
+  - [[Resolucion SENASA 841-2025]] (Actualizado con la re-ratificación en el Boletín Oficial y la prioridad de seguro comercial ante fallas de vacunación aftosa).
+  - [[Pain Points de Trazabilidad]] (Integrada la vulnerabilidad sanitaria y temor a auditorías internacionales por aftosa).
+  - [[Asociacion Hereford Argentina]] (Actualizado con la integración de datos de pastoreo y EUDR).
+
+## [2026-06-26] sync | Ingesta de Inteligencia Diaria: Publicación de Anexos Técnicos y Hereford
+
+- **Automatización & Inteligencia Diaria**:
+  - Incorporada nota de inteligencia diaria [[2026-06-26]] (`wiki/daily/2026-06-26.md`).
+- **Entidades y Conceptos Actualizados**:
+  - [[Resolucion SENASA 841-2025]] (Actualizado con la publicación definitiva de los anexos técnicos en el Boletín Oficial).
+  - [[Pain Points de Trazabilidad]] (Agregado el impacto del monitoreo quirúrgico de hembras de reposición bajo entore precoz).
+  - [[Asociacion Hereford Argentina]] (Actualizado con el programa de Carne Certificada Hereford y pruebas pastoriles).
+
+## [2026-06-25] sync | Ingesta de Inteligencia Diaria: Sustentabilidad UE-Mercosur y CRA
+
+- **Automatización & Inteligencia Diaria**:
+  - Incorporada nota de inteligencia diaria [[2026-06-25]] (`wiki/daily/2026-06-25.md`).
+- **Conceptos Nuevos**:
+  - [[Burocracia de Certificacion UE-Mercosur]] (`wiki/concepts/Burocracia de Certificacion UE-Mercosur.md`) - Advertencias de CRA sobre barreras paraarancelarias.
+- **Entidades y Conceptos Actualizados**:
+  - [[Resolucion SENASA 841-2025]] (Actualizado con las advertencias de CRA y defensa técnica mediante trazabilidad automatizada).
+  - `scraper.py` (Actualizado con nuevas palabras clave de exclusión).
+
+## [2026-06-24] sync | Ingesta de Inteligencia Diaria: Certidumbre Regulatoria y Marmoreo
+
+- **Automatización & Inteligencia Diaria**:
+  - Incorporada nota de inteligencia diaria [[2026-06-24]] (`wiki/daily/2026-06-24.md`).
+- **Conceptos Nuevos**:
+  - [[Riesgo Regulatorio Ecocidio]] (`wiki/concepts/Riesgo Regulatorio Ecocidio.md`) - Nuevos riesgos de multas e inhabilitación internacional.
+- **Entidades y Conceptos Actualizados**:
+  - [[Resolucion SENASA 841-2025]] (Actualizado con la reaparición de la norma en el Boletín Oficial y exigencias EUDR).
+  - [[Cabana Buen Retiro]] (Actualizado con el trigger de medición de marmoreo y ecografía de ojo de bife).
+  - [[Zonas Nucleo Adaptacion Tecnologica]] (Actualizado con el trigger de liquidez y respiro financiero de tambos).
+
+## [2026-06-23] sync | Ingesta de Inteligencia Diaria: Clausura de Etapa Especulativa y Pro Tambo
+
+- **Automatización & Inteligencia Diaria**:
+  - Incorporada nota de inteligencia diaria [[2026-06-23]] (`wiki/daily/2026-06-23.md`).
+- **Entidades Nuevas**:
+  - [[Pro Tambo]] (`wiki/entities/Pro Tambo.md`) - Consorcio de 6 mega-tambos de punta en Rafaela.
+- **Entidades y Conceptos Actualizados**:
+  - [[Resolucion SENASA 841-2025]] (Actualizada con el fin de la etapa especulativa y ratificación del plazo de enero 2026).
+  - [[Consorcio de Frigorificos ABC]] (Actualizado con la escasez de novillos y premios por marmoreo).
+  - [[Zonas Nucleo Adaptacion Tecnologica]] (Actualizado con el caso de Pro Tambo y software de ordeñe).
+  - [[Pain Points de Trazabilidad]] (Actualizado con la presión de adopción sin prórrogas).
+
+## [2026-06-22] sync | Ingesta de Inteligencia Diaria: Ratificación de Plazos de Caravanas
+
+- **Automatización & Inteligencia Diaria**:
+  - Incorporada nota de inteligencia diaria [[2026-06-22]] (`wiki/daily/2026-06-22.md`).
+- **Entidades y Conceptos Actualizados**:
+  - [[Resolucion SENASA 841-2025]] (Actualizada con la ratificación técnica en el Boletín Oficial).
+  - [[Cabana Buen Retiro]] (Actualizada con la validación de marmoreo individual).
+  - [[Friccion Logistica Exportadora]] (Actualizado con los reclamos de CRA por rutas en el norte y caso Edgar Carignano en alfalfa).
+
+## [2026-06-21] sync | Ingesta de Inteligencia Diaria: Hereford y Trazabilidad Comercial
+
+- **Automatización & Inteligencia Diaria**:
+  - Incorporada nota de inteligencia diaria [[2026-06-21]] (`wiki/daily/2026-06-21.md`).
+- **Entidades Nuevas**:
+  - [[Asociacion Hereford Argentina]] (`wiki/entities/Asociacion Hereford Argentina.md`) - Creada la entidad y su programa de carne certificada con blockchain.
+- **Entidades y Conceptos Actualizados**:
+  - [[Resolucion SENASA 841-2025]] (Actualizada con la aceleración de la trazabilidad como activo comercial).
+  - [[Cabana Buen Retiro]] (Actualizada con el remate anual y marbling).
+  - [[Pain Points de Trazabilidad]] (Actualizado con fallas de sincronización SIGSA/RFID).
+
 ## [2026-06-20] sync | Ingesta de Inteligencia Diaria: Sincronización SIGSA y Cabaña Buen Retiro
 
 - **Automatización & Inteligencia Diaria**:
