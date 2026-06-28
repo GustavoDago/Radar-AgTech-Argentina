@@ -1,6 +1,6 @@
 ---
 confidence: high
-last_update: 2026-06-27
+last_update: 2026-06-28
 sources:
 - https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696
 - daily_summary_2026-04-08
@@ -33,6 +33,7 @@ sources:
 - daily_summary_2026-06-25
 - daily_summary_2026-06-26
 - daily_summary_2026-06-27
+- daily_summary_2026-06-28
 tags:
 - agtech/compliance
 - agtech/rfid
@@ -44,7 +45,9 @@ type: entidad
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
 
 ## Resumen Ejecutivo
-La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada definitivamente en el Boletín Oficial el 19 de junio de 2026**, confirmando el plazo del **1 de enero de 2026** para todos los terneros/as del país. La publicación definitiva de los anexos técnicos el **26 de junio de 2026** y las ratificaciones posteriores consolidan un marco regulatorio ineludible ante las exigencias internacionales de auditoría (EUDR).
+La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada definitivamente en el Boletín Oficial el 19 de junio de 2026**, confirmando el plazo del **1 de enero de 2026** para todos los terneros/as del país. La publicación definitiva de los anexos técnicos el **26 de junio de 2026** y las ratificaciones posteriores en el Boletín Oficial el **28 de junio de 2026** consolidan un marco regulatorio ineludible ante las exigencias internacionales de auditoría (EUDR).
+
+**Actualización 28/06/2026**: Ratificación definitiva en el Boletín Oficial de la Norma Técnica de Trazabilidad Electrónica. Se elimina cualquier duda sobre prórrogas; el 1 de enero de 2026 es la fecha límite absoluta para la identificación de terneros.
 
 **Actualización 27/06/2026**: La re-ratificación de las normas técnicas en el Boletín Oficial confirma que el plazo del 1 de enero de 2026 para la identificación electrónica de terneros es irreversible. Las críticas a la estrategia de vacunación antiaftosa (Milicevic) subrayan la fragilidad del sistema sanitario y elevan la trazabilidad individual auditable a una prioridad de "seguro comercial" para exportadores.
 
@@ -76,7 +79,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 **Actualización 12/06/2026**: La ratificación definitiva en el Boletín Oficial coincide con el escenario de **"Brasil-Out"** (veto de la UE a carnes brasileñas). La Res. 841/2025 se posiciona como el escudo técnico indispensable para que Argentina capture la cuota de mercado dejada por Brasil, garantizando una trazabilidad auditable superior que desactiva las barreras para-arancelarias de la UE.
 
-**Actualización 10/06/2026**: Ratificación definitiva de las normas técnicas y anexos in el Boletín Oficial. Se confirma el **1 de enero de 2026** como fecha límite inamovible para la identificación electrónica obligatoria de terneros/as. La publicación de los anexos técnicos de dispositivos homologados elimina cualquier incertidumbre regulatoria remanente.
+**Actualización 10/06/2026**: Ratificación definitiva de las normas técnicas y anexos en el Boletín Oficial. Se confirma el **1 de enero de 2026** como fecha límite inamovible para la identificación electrónica obligatoria de terneros/as. La publicación de los anexos técnicos de dispositivos homologados elimina cualquier incertidumbre regulatoria remanente.
 
 **Actualización 09/06/2026**: La suspensión de importaciones brasileñas por parte de la UE (a partir de septiembre) acelera la urgencia de la trazabilidad individual en Argentina para capturar ese mercado. Paralelamente, la Región Centro impulsa un esquema diferencial de vacunación de aftosa para tambos, lo que requiere un registro auditable de la identidad animal.
 

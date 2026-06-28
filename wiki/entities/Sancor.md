@@ -1,11 +1,12 @@
 ---
 category: lactea
-last_update: '2026-06-13'
+last_update: '2026-06-28'
 priority: high
 sources:
 - daily_summary_2026-06-08
 - daily_summary_2026-06-13
 - daily_summary_2026-06-16
+- daily_summary_2026-06-28
 tags:
 - lecheria
 - quiebra
@@ -23,6 +24,7 @@ tags:
 ## Señales de Compra (Triggers de la Línea de Tiempo 2026)
 
 ### Junio 2026 (Liquidación & Valuación)
+- **Conflicto Interno e Interés de Compra (28/06/2026):** Ocho interesados compiten en una dura interna por los activos remanentes de Sancor. Esta disputa complica la reestructuración, pero confirma el valor estratégico de su infraestructura para la cuenca lechera.
 - **Resistencia al Remate y Propuesta de Empresa Mixta (16/06/2026):** Acreedores minoritarios se oponen a la liquidación a "precio vil" y proponen una empresa mixta (estilo Vicentin). Esta incertidumbre judicial prolonga la crisis de confianza en la cuenca santafesina.
 - **Valuación Judicial de la Marca y Activos (13/06/2026):** El juez de la quiebra estableció un valor de referencia comercial para la cooperativa. Aunque insuficiente para cancelar los pasivos totales, revaloriza la marca "SanCor" como activo intangible prioritario, atrayendo a grandes compradores interesados en el mercado lácteo.
 - **Incendio en Planta Sunchales (08/06/2026):** Reporte de un siniestro sospechoso en la planta central de Sunchales. Este incidente eleva la fricción operativa y acelera la migración de los mega-tambos remitentes remanentes hacia compradores alternativos.
