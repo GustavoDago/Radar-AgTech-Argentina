@@ -13,6 +13,7 @@ last_update: 2026-04-27
 - **Estatus**: Histórica cooperativa láctea argentina en proceso de quiebra definitiva.
 
 ## Señales de Compra (Triggers)
+- **Conflicto Interno e Interés de Compra (28/06/2026)**: Ocho interesados compiten en una dura interna por los activos remanentes de Sancor. Esta disputa complica la reestructuración, pero confirma el valor estratégico de su infraestructura para la cuenca lechera.
 - **Quiebra Definitiva y Custodia de Plantas (27/04/2026)**: La justicia ha designado a 178 trabajadores para la custodia y mantenimiento de las plantas industriales. Esto confirma la parálisis operativa total bajo gestión cooperativa y acelera la liquidación o venta de activos.
 - **Fricción Financiera / Quiebra (16/04/2026)**: Sancor solicitó su propia quiebra. Marca el fin de una era y la redistribución masiva de la cuenca lechera central.
 - **Oportunidad por Desplazamiento**: Los mega-tambos que proveían a Sancor buscan nuevos destinos (ej. Saputo, Williner, Adecoagro) o integración vertical. Urgencia de SaaS para gestión logística y seguridad en cobros para productores "huérfanos".
