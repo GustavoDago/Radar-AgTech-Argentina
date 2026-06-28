@@ -1,6 +1,6 @@
 ---
 confidence: high
-last_update: 2026-06-25
+last_update: 2026-06-26
 sources:
 - https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696
 - daily_summary_2026-04-08
@@ -31,6 +31,7 @@ sources:
 - daily_summary_2026-06-23
 - daily_summary_2026-06-24
 - daily_summary_2026-06-25
+- daily_summary_2026-06-26
 tags:
 - agtech/compliance
 - agtech/rfid
@@ -42,7 +43,9 @@ type: entidad
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
 
 ## Resumen Ejecutivo
-La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada definitivamente en el Boletín Oficial el 19 de junio de 2026**, confirmando el plazo del **1 de enero de 2026** para todos los terneros/as del país. La reaparición y ratificación técnica de esta norma en el Boletín Oficial el **22 de junio de 2026** y su posterior ratificación el **24 de junio de 2026** consolidan un marco regulatorio ineludible ante las exigencias internacionales de auditoría (EUDR).
+La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada definitivamente en el Boletín Oficial el 19 de junio de 2026**, confirmando el plazo del **1 de enero de 2026** para todos los terneros/as del país. La publicación definitiva de los anexos técnicos el **26 de junio de 2026** consolida un marco regulatorio ineludible ante las exigencias internacionales de auditoría (EUDR).
+
+**Actualización 26/06/2026**: La publicación definitiva de los anexos técnicos en el Boletín Oficial confirma el **1 de enero de 2026** como fecha inamovible. Esta certidumbre jurídica dispara la necesidad de adopción masiva de tecnología RFID, eliminando la excusa de la "espera de especificaciones" para los productores.
 
 **Actualización 25/06/2026**: En el marco de la jornada "Del campo a la industria", CRA advirtió que las exigencias de sustentabilidad del acuerdo UE-Mercosur no deben convertirse en "mecanismos burocráticos de certificación". Esto posiciona a la trazabilidad automatizada (Res. 841/2025) como la defensa técnica para evitar que la burocracia se convierta en una barrera paraarancelaria.
 

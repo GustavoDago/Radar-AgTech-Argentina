@@ -1,6 +1,6 @@
 ---
 confidence: high
-last_update: '2026-06-23'
+last_update: '2026-06-26'
 sources:
 - industry_reports
 - market_feedback
@@ -19,6 +19,7 @@ sources:
 - daily_summary_2026-06-21
 - daily_summary_2026-06-22
 - daily_summary_2026-06-23
+- daily_summary_2026-06-26
 - hackathon_agroactiva_2026
 tags:
 - agtech/trazabilidad
@@ -50,6 +51,7 @@ type: concepto
 
 ## Desafíos de Cumplimiento (Actualizado Junio 2026)
 - **Resolución 841/2025:** Ratificada definitivamente en el Boletín Oficial (19/06/2026) y consolidada en las normas técnicas. Obligatoriedad de lectura electrónica para todos los movimientos a partir del 1 de enero de 2026. La falta de infraestructura (lectores, conectividad) y la inestabilidad de SIGSA son cuellos de botella críticos. El hackatón de trazabilidad de Agroactiva 2026 ratificó que el principal bache es la integración de datos entre hardware y el sistema oficial.
+- **Eficiencia Reproductiva Extrema (Junio 2026):** La tendencia de entore a los 13 meses (precocidad extrema) exige un monitoreo individual quirúrgico desde el nacimiento. El error en la trazabilidad de estas hembras de reposición anula el progreso genético y la inversión en nutrición.
 - **Deadline Europa (1º de Mayo - Urgencia Crítica):** La hora cero (D-Day) de la normativa libre de deforestación (EUDR) presiona a los miembros del [[Consorcio de Frigorificos ABC]] a auditar el origen geográfico e individual de cada animal.
 - **SIAL China 2026 (Actualización 24/05/2026):** La demanda internacional en Shanghái exige dashboards de trazabilidad auditables integrados con la Res. 841/2025 para diferenciar el producto argentino del regional.
 - **Pérdida Estructural de Stock:** La caída del rodeo nacional (700.000 cabezas menos en 2025, acumulando 3.2M de pérdida desde 2022) exige maximizar el valor de cada cabeza mediante segregación y trazabilidad.
