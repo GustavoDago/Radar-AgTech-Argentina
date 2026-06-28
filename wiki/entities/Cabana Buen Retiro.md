@@ -1,14 +1,14 @@
 ---
 type: entidad
-tags: [ganaderia/genetica, trazabilidad/premium, argentina/buenos_aires, agtech/targets, rfid, remates, cabaña, marmoreo]
-sources: [daily_summary_2026-06-18, valorcarne.com.ar - 2026-06-19, Valor Carne - 2026-06-20]
+tags: [ganaderia/genetica, trazabilidad/premium, argentina/buenos_aires, agtech/targets, rfid, remates, cabaña, marmoreo, elite_genetics, beef, marbling, performance_tracking]
+sources: [daily_summary_2026-06-18, valorcarne.com.ar - 2026-06-19, Valor Carne - 2026-06-20, https://www.valorcarne.com.ar/la-cabana-buen-retiro-lleva-el-marmoreo-al-centro-de-la-escena/, daily_summary_2026-06-21]
 confidence: high
-last_update: 2026-06-20
+last_update: 2026-06-21
 ---
 
 # Cabaña Buen Retiro
 
-Cabaña Buen Retiro es un establecimiento ganadero de punta y cabaña líder en la incorporación de tecnología para la medición de marmoleo (marbling) y calidad de carne en genética bovina, liderado por Martín Vergara.
+Cabaña Buen Retiro es un establecimiento ganadero de punta y cabaña líder en la incorporación de tecnología para la medición de marmoleo (marbling) y calidad de carne en genética bovina, liderado por Martín Vergara. Cuenta con más de 30 años de trayectoria (celebrando su 32° remate anual en 2026).
 
 ## Perfil Tecnológico y Foco Estratégico
 - **Marmoreo (Marbling):** Llevan este atributo al centro de su escena comercial. Utilizan ecografía y datos genómicos para seleccionar reproductores con alta capacidad de infiltración de grasa, un atributo crítico para capturar valor en mercados de exportación de alta gama y carne premium.
