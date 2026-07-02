@@ -3,7 +3,7 @@ type: concepto
 tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
 sources: [industry_reports, market_feedback, daily_summary_2026-04-08]
 confidence: high
-last_update: 2026-04-17
+last_update: 2026-07-02
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
@@ -11,9 +11,10 @@ last_update: 2026-04-17
 ## Fricciones Identificadas
 1. **Caídas del SIGSA:** La dependencia del sistema central de SENASA para emitir el [[DT-e]] genera retrasos en la carga de camiones en establecimientos con baja conectividad.
 2. **Deterioro Operativo de SENASA (17/04/2026):** Se reporta que el organismo no puede utilizar gran parte de sus propios recursos, profundizando su deterioro operativo. Esto aumenta exponencialmente el riesgo de fallas sistémicas en SIGSA y demoras críticas en la emisión de documentos de movimiento de hacienda.
-3. **Fallas en la Lectura RFID:** Los lectores de baja frecuencia (RFID LF) pueden presentar interferencias en corrales de metal o balanzas electrónicas, ralentizando el movimiento de hacienda.
-4. **Inconsistencias en la Recuperación en Faena:** Los frigoríficos enfrentan el desafío de recuperar dispositivos (microchips o bolos) durante la línea de faena para evitar contaminación física del producto.
-5. **Gestión de "Beef on Dairy":** La adopción de cruzas cárnicas en tambos (estrategia para valorizar el descarte) requiere una trazabilidad individual absoluta para diferenciar terneros de reposición vs. terneros para carne desde el día 1, evitando errores en la recría.
+3. **Fracaso Informático en la SRA (02/07/2026):** La [[Sociedad Rural Argentina]] reporta un fallo crítico en su nuevo sistema informático (inversión de USD 4.5M). El mal funcionamiento genera conflictos internos y parálisis operativa, exponiendo la vulnerabilidad de depender de soluciones a medida mal ejecutadas y abriendo una ventana para SaaS especializados y probados.
+4. **Fallas en la Lectura RFID:** Los lectores de baja frecuencia (RFID LF) pueden presentar interferencias en corrales de metal o balanzas electrónicas, ralentizando el movimiento de hacienda.
+5. **Inconsistencias en la Recuperación en Faena:** Los frigoríficos enfrentan el desafío de recuperar dispositivos (microchips o bolos) durante la línea de faena para evitar contaminación física del producto.
+6. **Gestión de "Beef on Dairy":** La adopción de cruzas cárnicas en tambos (estrategia para valorizar el descarte) requiere una trazabilidad individual absoluta para diferenciar terneros de reposición vs. terneros para carne desde el día 1, evitando errores en la recría.
 
 ## Desafíos de Cumplimiento (Actualizado Abril 2026)
 - **Resolución 841/2025:** Obligatoriedad de lectura electrónica para todos los movimientos a partir de 2026. La falta de infraestructura (lectores, conectividad) es un cuello de botella crítico.
