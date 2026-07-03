@@ -21,6 +21,8 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 **Actualización 18/04/2026**: El estado de "abandono" y desfinanciamiento operativo en SENASA reportado por sus trabajadores eleva el riesgo de colapso en el soporte técnico para la implementación masiva de la Res. 841/2025. Los sistemas privados de trazabilidad que actúen como "buffer" ante fallas de SIGSA son ahora una necesidad crítica de supervivencia operativa.
 
+**Actualización 03/07/2026**: Informes del INTA subrayan que la identificación electrónica individual está "redefiniendo la toma de decisiones" en el campo, permitiendo a los productores evaluar la eficiencia de conversión y la ganancia de peso a nivel individual por primera vez de forma escalable.
+
 **Actualización 16/04/2026**: La alerta de la OMSA sobre la cepa **SAT 1** de aftosa (amenaza grave y en evolución) eleva la Res. 841/2025 a un nivel de seguridad nacional para el sector exportador. La trazabilidad electrónica ya no es solo cumplimiento comercial, sino la única defensa técnica ante cierres de mercado por sospecha sanitaria.
 
 **Actualización 15/04/2026**: Los brotes de fiebre aftosa en China (más de 200 casos) aceleran la necesidad de trazabilidad electrónica individual para blindar las exportaciones argentinas ante posibles auditorías sanitarias de emergencia.

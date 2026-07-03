@@ -45,6 +45,8 @@ EXCLUSIONS = [
     "cotización dólar", "dólar blue", "feria americana",
     "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo",
     "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel", "vitivinícola",
+    "algodón", "rosales", "pitahaya", "pecán", "olivo", "mandioca", "banana", "citrus",
+    "arroz", "papa", "cebolla", "tomate",
     "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto"
 ]
 
