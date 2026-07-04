@@ -3,12 +3,12 @@ type: entidad
 tags: [agtech/targets, comercial/zonas_nucleo, argentina/provincias]
 sources: [field_intelligence, industry_reports]
 confidence: high
-last_update: 2026-04-12
+last_update: 2026-07-04
 ---
 
 # Zonas Núcleo y Adaptación Tecnológica: Visitas Comerciales
 
-## Zonas Críticas para Visitas Presenciales (Abril 2026)
+## Zonas Críticas para Visitas Presenciales (Julio 2026)
 
 ### 0. San Francisco (Córdoba) - TRIGGERS DE EXPANSIÓN
 - **Evento:** Ampliación de infraestructura de **Cadaf** (Confirmado Abril 2026).
@@ -40,6 +40,12 @@ last_update: 2026-04-12
 - **Perfil:** 15 tambos de punta que proveían a Nestlé y ahora deben pivotar su modelo de negocio.
 - **Necesidad Tecnológica:** Necesitan herramientas de gestión para reconvertirse rápidamente (posiblemente a Beef on Dairy o certificación para otros mercados) y demostrar eficiencia operativa inmediata.
 - **Acción:** Contactar a los 15 remitentes afectados para ofrecer SaaS de gestión que facilite la transición y auditoría de nuevos procesos.
+
+### 6. Formosa - El Colorado (NUEVO HUB)
+- **Evento:** Descubrimiento de adaptación de Alfalfa en condiciones subtropicales.
+- **Perfil:** Zona tradicionalmente algodonera migrando a ganadería intensiva y producción de forraje de alta calidad.
+- **Trigger:** Inversión en Alfalfa en Formosa indica una "Nueva Frontera" para la suplementación estratégica y ganadería de precisión.
+- **Acción:** Explorar contactos en el Cluster Ganadero Formosa para ofrecer soluciones de monitoreo de forraje y nutrición.
 
 ## Frigoríficos del Consorcio ABC (Targets)
 - **Swift (Rosario):** Planta con alta capacidad de faena y foco exportador.
