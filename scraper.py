@@ -42,10 +42,12 @@ EXCLUSIONS = [
     "fútbol", "deportes", "espectáculos", "farándula", "cine",
     "pronóstico lluvia", "pronóstico del tiempo", "clima mañana", "lluvia", "precipitaciones",
     "receta", "cocina", "chef", "ingredientes",
-    "cotización dólar", "dólar blue", "feria americana",
+    "cotización dólar", "dólar blue", "euro blue", "blue hoy", "feria americana",
     "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo",
     "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel", "vitivinícola",
-    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto"
+    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto",
+    "clima", "pitahaya", "pecán", "olivo", "mandioca", "banana", "citrus", "arroz", "papa", "cebolla", "tomate",
+    "semilla", "soja", "algodón", "horticultura", "hidroponia", "vehículo de pasajeros"
 ]
 
 def clean_text(text):

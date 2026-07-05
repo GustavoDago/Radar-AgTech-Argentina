@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [agtech/targets, comercial/zonas_nucleo, argentina/provincias]
-sources: [field_intelligence, industry_reports]
-confidence: high
-last_update: 2026-04-12
+fuentes: [field_intelligence, industry_reports, daily_summary_2026-07-05]
+confianza: alta
+ultima_actualizacion: 2026-07-05
 ---
 
 # Zonas Núcleo y Adaptación Tecnológica: Visitas Comerciales
@@ -16,15 +16,15 @@ last_update: 2026-04-12
 - **Trigger:** Inversión estratégica para duplicar exportaciones de alfalfa. Indica alta capacidad de inversión y una necesidad crítica de trazabilidad de origen y logística para consolidar el posicionamiento en mercados globales desafiantes.
 - **Acción:** Contactar a directivos de Cadaf y empresas del clúster de alfalfa de San Francisco para ofrecer auditoría de trazabilidad de procesos.
 
-### 1. Nogoyá (Entre Ríos) - PRIORIDAD INMEDIATA
-- **Evento:** ExpoLeche (17 al 19 de Abril).
-- **Perfil:** Foco en genética Jersey y lechería especializada.
-- **Acción:** Presencia comercial para captar early adopters de trazabilidad individual electrónica aplicada a la selección genética de precisión.
+### 1. Nogoyá y Cuenca Lechera de Entre Ríos - PRIORIDAD ALTA
+- **Contexto (Julio 2026):** Implementación del **RINI (Régimen de Incentivo a las Nuevas Inversiones)** provincial. Empresas agroindustriales ya se están sumando.
+- **Perfil:** Lechería y agroindustria con fuerte apoyo provincial para inversiones.
+- **Acción:** Aprovechar los beneficios fiscales del RINI para proponer proyectos de digitalización y trazabilidad electrónica integral.
 
-### 2. Cuenca Lechera Rafaela (Santa Fe)
-- **Perfil:** Mayor concentración de mega-tambos del país, muchos con sistemas estabulados y robóticos.
-- **Necesidad Tecnológica:** Integración de la identificación electrónica ([[Resolucion SENASA 841-2025]]) con el software de ordeñe y gestión reproductiva. El paso de identificación propietaria a identificación oficial es un reto.
-- **Acción:** Visitar establecimientos con más de 1,000 vacas en ordeñe para ofrecer solución SaaS de trazabilidad integrada.
+### 2. Cuenca Lechera Rafaela y Centro (Santa Fe/Córdoba)
+- **Perfil:** Mayor concentración de mega-tambos del país. Se confirma (Julio 2026) la existencia de **más de 400 tambos robotizados** operando en Argentina.
+- **Necesidad Tecnológica:** Integración de la identificación electrónica oficial ([[Resolucion SENASA 841-2025]]) con sistemas de ordeñe robótico. Se requiere anticiparse al estrés térmico con tecnologías de precisión (INTA).
+- **Acción:** Visitar establecimientos robotizados para ofrecer SaaS de gestión que unifique la identificación oficial con los datos de producción de los robots.
 
 ### 3. Eje Rosario - Trenque Lauquen (Santa Fe - Buenos Aires)
 - **Perfil:** Corredor de los principales frigoríficos del **Consorcio ABC** y mega-feeldots.

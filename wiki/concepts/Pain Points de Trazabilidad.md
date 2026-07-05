@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
-sources: [industry_reports, market_feedback, daily_summary_2026-04-08]
-confidence: high
-last_update: 2026-04-17
+fuentes: [industry_reports, market_feedback, daily_summary_2026-04-08]
+confianza: high
+ultima_actualizacion: 2026-04-17
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
