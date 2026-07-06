@@ -3,7 +3,7 @@ type: entidad
 tags: [agtech/targets, frigorificos, exportacion, eudr, consorcio_abc]
 sources: [valorcarne.com.ar, bichosdecampo.com]
 confidence: high
-last_update: 2026-04-09
+last_update: 2026-07-06
 ---
 
 # Consorcio de Frigoríficos ABC
@@ -21,6 +21,7 @@ El Consorcio de Exportadores de Carnes Argentinas (ABC) agrupa a las empresas qu
 2. **Auditorías de Tercera Parte:** Presión para reemplazar procesos manuales de validación de caravanas RFID por sistemas automatizados sincronizados con el SIGSA.
 3. **Escasez de Novillos:** La baja del stock nacional (pérdida de 700k cabezas en 2025) obliga a los frigoríficos a "competir" por los mejores lotes, ofreciendo servicios de valor agregado a los productores que tengan su trazabilidad digitalizada.
 4. **Precios Récord Cuota Hilton:** El precio de la tonelada alcanzó los USD 25.000 (Abril 2026). Esto genera una ventana de liquidez para inversiones en modernización tecnológica de plantas exportadoras.
+5. **Concentración Cuota Hilton 2026 (06/07/2026):** Los 10 principales grupos frigoríficos concentran el 67% de la torta de USD 530 millones. Esta concentración de liquidez extrema en el "Top 10" los convierte en los targets primarios para implementaciones de trazabilidad RFID de alta gama y sistemas de auditoría automatizados.
 
 ## Estrategia de Abordaje
 Ofrecer el [[EUDR_Compliance_Gateway]] como una capa de auditoría de bajo impacto en la infraestructura actual del frigorífico pero de alto valor para el cumplimiento normativo inmediato.
