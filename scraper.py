@@ -40,10 +40,12 @@ KEYWORDS = [
 EXCLUSIONS = [
     "crimen", "policial", "robo de cables", "detenido", "detuvieron",
     "fútbol", "deportes", "espectáculos", "farándula", "cine",
-    "pronóstico lluvia", "pronóstico del tiempo", "clima mañana", "lluvia", "precipitaciones",
+    "pronóstico lluvia", "pronóstico del tiempo", "clima mañana", "lluvia", "precipitaciones", "clima",
     "receta", "cocina", "chef", "ingredientes",
-    "cotización dólar", "dólar blue", "feria americana",
+    "cotización dólar", "dólar blue", "euro blue", "blue hoy", "feria americana",
     "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo",
+    "pitahaya", "pecán", "olivo", "mandioca", "banana", "citrus", "arroz", "papa", "cebolla", "tomate",
+    "horticultura", "hidroponia", "vehículos de pasajeros", "semillas", "soja", "algodón",
     "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel", "vitivinícola",
     "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto"
 ]
