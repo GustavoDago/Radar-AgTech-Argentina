@@ -41,11 +41,20 @@ EXCLUSIONS = [
     "crimen", "policial", "robo de cables", "detenido", "detuvieron",
     "fútbol", "deportes", "espectáculos", "farándula", "cine",
     "pronóstico lluvia", "pronóstico del tiempo", "clima mañana", "lluvia", "precipitaciones",
+    "clima", "tiempo", "pronóstico", "tormenta", "granizo",
     "receta", "cocina", "chef", "ingredientes",
-    "cotización dólar", "dólar blue", "feria americana",
-    "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo",
-    "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel", "vitivinícola",
-    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto"
+    "cotización dólar", "dólar blue", "feria americana", "euro blue", "blue hoy",
+    "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo", "pescado", "camarón", "boga", "pacú",
+    "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel", "vitivinícola", "uva", "vid", "viñedo",
+    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto",
+    "pitahaya", "pecán", "olivo", "mandioca", "banana", "citrus", "limón", "naranja", "mandarina", "arroz", "papa", "cebolla", "tomate",
+    "horticultura", "hidroponia", "vehículos de pasajeros", "algodón", "soja", "semilla", "trigo",
+    "girasol", "cebada", "carinata", "colza", "caña", "yerba", "té", "lúpulo", "chía", "maní",
+    "batata", "frutilla", "arveja", "legumbre", "lenteja", "garbanzo", "poroto", "nogal", "almendro", "ciruelo", "pera", "durazno", "carozo",
+    "arándano", "ananá", "moringa", "quinua", "floricultura", "bosque", "madera", "pino", "álamo", "sauce", "eucalipto", "ciprés", "ñire",
+    "incendio", "fuego", "abeja", "colmena", "miel", "apicultura", "hidromiel", "polen", "nematodo", "picudo", "chicharrita", "tucura", "gusano", "plaga",
+    "turismo rural", "artesanía", "gastronomía", "feria", "exposición", "agroactiva", "expoagro", "rural", "escuela", "comunidad", "género", "mujeres",
+    "falleció", "muerte", "homenaje", "prócer", "vacuna aftosa", "vacunación aftosa"
 ]
 
 def clean_text(text):

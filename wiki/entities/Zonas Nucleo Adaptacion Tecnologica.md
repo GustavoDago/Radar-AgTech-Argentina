@@ -1,14 +1,15 @@
 ---
-type: entidad
+tipo: entidad
 tags: [agtech/targets, comercial/zonas_nucleo, argentina/provincias]
-sources: [field_intelligence, industry_reports]
-confidence: high
-last_update: 2026-04-12
+fuentes: [field_intelligence, industry_reports, daily_summary_2026-07-08, INTA Informa, Valor Carne]
+confianza: alta
+ultima_actualizacion: 2026-07-08
+fecha: 2026-07-08
 ---
 
 # Zonas Núcleo y Adaptación Tecnológica: Visitas Comerciales
 
-## Zonas Críticas para Visitas Presenciales (Abril 2026)
+## Zonas Críticas para Visitas Presenciales (Actualizado Julio 2026)
 
 ### 0. San Francisco (Córdoba) - TRIGGERS DE EXPANSIÓN
 - **Evento:** Ampliación de infraestructura de **Cadaf** (Confirmado Abril 2026).
@@ -16,12 +17,8 @@ last_update: 2026-04-12
 - **Trigger:** Inversión estratégica para duplicar exportaciones de alfalfa. Indica alta capacidad de inversión y una necesidad crítica de trazabilidad de origen y logística para consolidar el posicionamiento en mercados globales desafiantes.
 - **Acción:** Contactar a directivos de Cadaf y empresas del clúster de alfalfa de San Francisco para ofrecer auditoría de trazabilidad de procesos.
 
-### 1. Nogoyá (Entre Ríos) - PRIORIDAD INMEDIATA
-- **Evento:** ExpoLeche (17 al 19 de Abril).
-- **Perfil:** Foco en genética Jersey y lechería especializada.
-- **Acción:** Presencia comercial para captar early adopters de trazabilidad individual electrónica aplicada a la selección genética de precisión.
-
-### 2. Cuenca Lechera Rafaela (Santa Fe)
+### 1. Cuenca Lechera Rafaela / Villa María - PRIORIDAD MÁXIMA (08/07/2026)
+- **Evento:** Confirmación de más de **400 tambos robotizados** operativos en Argentina.
 - **Perfil:** Mayor concentración de mega-tambos del país, muchos con sistemas estabulados y robóticos.
 - **Necesidad Tecnológica:** Integración de la identificación electrónica ([[Resolucion SENASA 841-2025]]) con el software de ordeñe y gestión reproductiva. El paso de identificación propietaria a identificación oficial es un reto.
 - **Acción:** Visitar establecimientos con más de 1,000 vacas en ordeñe para ofrecer solución SaaS de trazabilidad integrada.
@@ -31,10 +28,11 @@ last_update: 2026-04-12
 - **Necesidad Tecnológica:** El cumplimiento de la normativa UE de libre deforestación exige una auditoría granular del origen del animal, imposible de escalar manualmente.
 - **Acción:** Reunión con gerentes de calidad de frigoríficos exportadores para demostrar auditoría automatizada de caravanas RFID sincronizadas con el [[DT-e]].
 
-### 4. Cuenca Villa María (Córdoba)
-- **Perfil:** Hub de servicios agrotecnológicos y sede de **TodoLáctea**. Concentra tambos de escala que están migrando masivamente al modelo *Beef on Dairy* para maximizar rentabilidad operativa (vía genética carnicera en el 30-40% del rodeo).
-- **Necesidad Tecnológica:** Dashboards que conviertan el descarte intuitivo en negocio estratégico mediante [[Beef_on_Dairy_Analytics_Engine]].
-- **Acción:** Visita prioritaria a James Craik y Oncativo. Contactar a los remitentes de mega-tambos de la zona para ofrecer auditoría de trazabilidad individual desde el nacimiento.
+### 4. Formosa (El Colorado / Clúster Alfalfa) - FRONTERA EMERGENTE (08/07/2026)
+- **Evento:** Reporte "Llamativo: ¿Alfalfa en Formosa?" (Valor Carne).
+- **Perfil:** Conversión de campos de algodón a ganadería integrada con alfalfa en condiciones subtropicales.
+- **Necesidad Tecnológica:** Sistemas de gestión para el entore precoz (13 meses) y monitoreo de conversión en sistemas pastoriles.
+- **Acción:** Contactar al Clúster Ganadero Formosa y productores que están pivotando de algodón a ganadería premium.
 
 ### 5. Tambos Orgánicos en Crisis (Post-Nestlé)
 - **Perfil:** 15 tambos de punta que proveían a Nestlé y ahora deben pivotar su modelo de negocio.
