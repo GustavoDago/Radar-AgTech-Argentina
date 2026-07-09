@@ -1,14 +1,20 @@
 ---
 type: entidad
 tags: [agtech/targets, comercial/zonas_nucleo, argentina/provincias]
-sources: [field_intelligence, industry_reports]
-confidence: high
-last_update: 2026-04-12
+fuentes: [field_intelligence, industry_reports, daily_summary_2026-07-09]
+confianza: alta
+ultima_actualizacion: 2026-07-09
 ---
 
 # Zonas Núcleo y Adaptación Tecnológica: Visitas Comerciales
 
-## Zonas Críticas para Visitas Presenciales (Abril 2026)
+## Zonas Críticas para Visitas Presenciales (Actualización Julio 2026)
+
+### 0. Cuenca Lechera Central (Santa Fe/Córdoba) - TARGET ROBÓTICO
+- **Evento:** Confirmación de más de 400 tambos robotizados en operación (Julio 2026).
+- **Perfil:** Unidades productivas de alta tecnología con necesidad de integración de datos.
+- **Trigger:** La madurez del parque robótico exige software de gestión que unifique la identificación oficial ([[Resolucion SENASA 841-2025]]) con los sensores de producción y salud animal.
+- **Acción:** Visitar Rafaela, Villa María y Morteros. Foco en establecimientos con robots Lely/DeLaval para ofrecer SaaS de monitoreo individual.
 
 ### 0. San Francisco (Córdoba) - TRIGGERS DE EXPANSIÓN
 - **Evento:** Ampliación de infraestructura de **Cadaf** (Confirmado Abril 2026).
