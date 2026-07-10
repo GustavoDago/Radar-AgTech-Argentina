@@ -3,18 +3,19 @@ type: entidad
 category: frigorifico
 priority: high
 tags: [frigorifico, exportador, la_plata, capacidad_expansion, liderazgo, gorina, agtech/targets]
-sources: [Valor Carne - 2026-04-18, daily_summary_2026-04-19, Valor Carne - 2026-04-28]
+sources: [Valor Carne - 2026-04-18, daily_summary_2026-04-19, Valor Carne - 2026-04-28, Bichos de Campo - 2026-07-10]
 confidence: high
-last_update: 2026-04-28
+last_update: 2026-07-10
 ---
 
 # Frigorífico Gorina
 
 ## Perfil
 - **Ubicación**: La Plata, Buenos Aires.
-- **Estatus**: Líder en volumen exportado de carne vacuna en Argentina y miembro clave del [[Consorcio de Frigorificos ABC]]. Se destaca por su volumen operativo, alta eficiencia y constante enfoque en el crecimiento para mercados internacionales (China, UE). Se consolida como un "Target Triple A" para soluciones SaaS.
+- **Estatus**: Líder en volumen exportado de carne vacuna en Argentina y miembro clave del [[Consorcio de Frigorificos ABC]]. Tras su reconstrucción, ha iniciado un proceso agresivo de digitalización industrial. Se consolida como el "Early Adopter" de referencia para la industria 4.0 en frigoríficos.
 
 ## Señales de Compra (Triggers)
+- **Transformación Tecnológica (Actualizado 10/07/2026)**: Gorina acelera su digitalización de la mano de **Crosetto Ingeniería**. Este hito marca el fin de la etapa de reconstrucción física y el inicio de la fase de optimización mediante software y automatismo. Es el momento crítico para integrar soluciones SaaS de trazabilidad y gestión de faena.
 - **Crecimiento Sostenido (Actualizado 28/04/2026)**: Gorina vuelve a posicionarse entre los faenadores líderes que más crecen. En marzo, las exportaciones argentinas saltaron un 44% interanual con un precio récord de **USD 7.800/t**, lo que otorga liquidez para inversiones AgTech.
 - **Expansión de Capacidad (Actualizado 19/04/2026)**: Confirmado como uno de los faenadores que más crece en el ranking nacional. Esta expansión demanda mayor automatización en el registro de faena y trazabilidad RFID para no saturar la administración.
 - **Eficiencia en Escala**: Operar a niveles líderes requiere una precisión absoluta en la captura de datos de faena y cumplimiento de la [[Resolucion SENASA 841-2025]]. El aumento en el volumen presiona los sistemas actuales, creando una ventana para software de optimización.
