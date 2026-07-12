@@ -3,28 +3,28 @@ type: entidad
 category: frigorifico
 priority: high
 tags: [frigorifico, exportador, la_plata, capacidad_expansion, liderazgo, gorina, agtech/targets]
-sources: [Valor Carne - 2026-04-18, daily_summary_2026-04-19, Valor Carne - 2026-04-28]
+sources: [Valor Carne - 2026-04-18, daily_summary_2026-04-19, Valor Carne - 2026-04-28, daily_summary_2026-07-12]
 confidence: high
-last_update: 2026-04-28
+last_update: 2026-07-12
 ---
 
 # Frigorífico Gorina
 
 ## Perfil
 - **Ubicación**: La Plata, Buenos Aires.
-- **Estatus**: Líder en volumen exportado de carne vacuna en Argentina y miembro clave del [[Consorcio de Frigorificos ABC]]. Se destaca por su volumen operativo, alta eficiencia y constante enfoque en el crecimiento para mercados internacionales (China, UE). Se consolida como un "Target Triple A" para soluciones SaaS.
+- **Estatus**: Líder en volumen exportado de carne vacuna en Argentina y miembro clave del [[Consorcio de Frigorificos ABC]]. Se destaca por ser uno de los principales adjudicatarios de la **Cuota Hilton 2026/27** (concentrada en el Top 10 que incluye a Gorina, Swift y ArreBeef). Se consolida como un "Target Triple A" para soluciones SaaS.
 
 ## Señales de Compra (Triggers)
-- **Crecimiento Sostenido (Actualizado 28/04/2026)**: Gorina vuelve a posicionarse entre los faenadores líderes que más crecen. En marzo, las exportaciones argentinas saltaron un 44% interanual con un precio récord de **USD 7.800/t**, lo que otorga liquidez para inversiones AgTech.
-- **Expansión de Capacidad (Actualizado 19/04/2026)**: Confirmado como uno de los faenadores que más crece en el ranking nacional. Esta expansión demanda mayor automatización en el registro de faena y trazabilidad RFID para no saturar la administración.
-- **Eficiencia en Escala**: Operar a niveles líderes requiere una precisión absoluta en la captura de datos de faena y cumplimiento de la [[Resolucion SENASA 841-2025]]. El aumento en el volumen presiona los sistemas actuales, creando una ventana para software de optimización.
-- **Cumplimiento Internacional (EUDR)**: Como exportador líder a Europa, el plazo del 1º de mayo de 2026 para normativas de deforestación es crítico. Es un target prioritario para soluciones de cumplimiento y auditoría, especialmente para la certificación automatizada de Cuota Hilton.
-- **Optimización de Procesos**: En un contexto de baja de stock nacional, maximizar el rendimiento por res mediante integración de datos de campo y planta es una prioridad estratégica para reducir mermas.
+- **Transformación Tecnológica (Julio 2026)**: Gorina ha iniciado una fase crítica de digitalización integral con **Crosetto Ingeniería**. Esta inversión en infraestructura industrial abre una ventana inmediata para la integración de capas de software (SaaS) de trazabilidad y analítica de datos.
+- **Cuota Hilton 2026/27**: Como principal beneficiario de la cuota (29.389 toneladas totales distribuidas en Julio 2026), Gorina enfrenta la presión de cumplir con la nueva **Certificación Europea de Bienestar Animal**, que ahora es un requisito de acceso y diferenciación.
+- **Crecimiento Sostenido**: Gorina se mantiene entre los faenadores líderes. La liquidez proveniente de precios de exportación récord (USD 7.800/t en picos de 2026) facilita la adopción de AgTech.
+- **Cumplimiento Internacional (EUDR)**: El cumplimiento de normativas de libre deforestación es crítico para sus embarques a la UE. Requiere sistemas de validación de origen geográfico vinculados a la [[Resolucion SENASA 841-2025]].
+- **Optimización de Procesos**: La necesidad de maximizar el rendimiento por res ante la baja de stock nacional posiciona a la analítica de datos como una prioridad estratégica.
 
 ## Estrategia Comercial / Oportunidad SaaS
-- **Punto de Contacto**: Gerencia de Operaciones / IT.
-- **Propuesta de Valor**: Ofrecer integración directa de lecturas RFID en la línea de faena con el sistema de gestión interna para agilizar la certificación de exportación y optimizar el rendimiento por animal.
-- **Acción Recomendada**: Realizar auditoría de flujo de datos desde recepción de hacienda hasta despacho, enfocándose en la reducción de mermas y dashboards de eficiencia en tiempo real.
+- **Punto de Contacto**: Gerencia de Operaciones / IT (Foco en integración con Crosetto Ingeniería).
+- **Propuesta de Valor**: Middleware que conecte la nueva infraestructura de Crosetto con dashboards de cumplimiento para Bienestar Animal y trazabilidad RFID individual (Res. 841/2025).
+- **Acción Recomendada**: Presentar un plan de "Certificación Automatizada" para la Cuota Hilton, reduciendo la carga administrativa de las auditorías europeas.
 
 ## Backlinks
 - [[Consorcio de Frigorificos ABC]]
