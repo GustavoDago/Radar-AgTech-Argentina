@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
-sources: [industry_reports, market_feedback, daily_summary_2026-04-08]
-confidence: high
-last_update: 2026-04-17
+fuentes: [industry_reports, market_feedback, daily_summary_2026-04-08, daily_summary_2026-07-13]
+confianza: alta
+ultima_actualizacion: 2026-07-13
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
@@ -19,6 +19,7 @@ last_update: 2026-04-17
 - **Resolución 841/2025:** Obligatoriedad de lectura electrónica para todos los movimientos a partir de 2026. La falta de infraestructura (lectores, conectividad) es un cuello de botella crítico.
 - **Auditorías Externas:** Necesidad de reportes instantáneos para auditorías de la Unión Europea sobre el origen electrónico del animal.
 - **Deadline Europa (1º de Mayo - Urgencia Crítica):** Ratificado el 1 de mayo como la "hora cero" (D-Day) para embarques a la UE bajo las nuevas normativas de libre deforestación (EUDR) y trazabilidad granular. Los frigoríficos del [[Consorcio de Frigorificos ABC]] (ej: [[Frigorifico Logros]]) están bajo presión máxima para auditar el origen electrónico y geográfico de cada animal. El sistema SIGSA/SENASA actual presenta baches de información que requieren validación SaaS externa inmediata.
+- **Certificación de Bienestar Animal (Julio 2026):** La implementación obligatoria de la certificación europea de Bienestar Animal en Latinoamérica para los beneficiarios de la Cuota Hilton (ej: Swift, Gorina, ArreBeef, Rioplatense, Minerva) añade una capa de cumplimiento que requiere registros digitales auditables integrados con la trazabilidad individual.
 - **Pérdida de Stock Vacuno:** Datos oficiales de 2025 confirman una **pérdida de 700.000 cabezas** (con una pérdida estructural de 3.2M desde 2022). Esta escasez de oferta eleva el valor estratégico de cada animal y acelera la adopción de "Beef on Dairy". El dolor técnico es la **segregación de datos** y la captura de primas de calidad mediante el monitoreo individual indispensable.
 
 ## Oportunidades de Venta Directa

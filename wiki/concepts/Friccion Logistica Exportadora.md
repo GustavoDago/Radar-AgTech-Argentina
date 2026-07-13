@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [logistica, exportacion, conflicto, riesgo]
-sources: [daily_summary_2026-04-19]
-confidence: high
-last_update: 2026-04-19
+fuentes: [daily_summary_2026-04-19, daily_summary_2026-07-13]
+confianza: alta
+ultima_actualizacion: 2026-07-13
 ---
 
 # Fricción Logística Exportadora
@@ -16,4 +16,5 @@ Interrupciones en el flujo de mercancías agroindustriales (carne, granos, alfal
 - **Demanda de Soluciones:** Genera una necesidad crítica por sistemas de monitoreo en tiempo real y gestión de contingencias logísticas.
 
 ## Casos Recientes
+- **13/07/2026:** La creación de la "Mesa de Logística" en Santa Fe busca mejorar el transporte de cargas, reconociendo que la logística está en el centro del debate para la competitividad exportadora. Esto abre una oportunidad para integrar sistemas de gestión de flota con trazabilidad de origen.
 - **19/04/2026:** Entidades empresarias advierten sobre el impacto de bloqueos de rutas en las exportaciones argentinas, pidiendo intervención judicial. Este evento afecta directamente el cumplimiento de contratos internacionales.

@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [agtech/targets, comercial/zonas_nucleo, argentina/provincias]
-sources: [field_intelligence, industry_reports]
-confidence: high
-last_update: 2026-04-12
+fuentes: [field_intelligence, industry_reports]
+confianza: alta
+ultima_actualizacion: 2026-07-13
 ---
 
 # Zonas Núcleo y Adaptación Tecnológica: Visitas Comerciales
@@ -22,9 +22,9 @@ last_update: 2026-04-12
 - **Acción:** Presencia comercial para captar early adopters de trazabilidad individual electrónica aplicada a la selección genética de precisión.
 
 ### 2. Cuenca Lechera Rafaela (Santa Fe)
-- **Perfil:** Mayor concentración de mega-tambos del país, muchos con sistemas estabulados y robóticos.
-- **Necesidad Tecnológica:** Integración de la identificación electrónica ([[Resolucion SENASA 841-2025]]) con el software de ordeñe y gestión reproductiva. El paso de identificación propietaria a identificación oficial es un reto.
-- **Acción:** Visitar establecimientos con más de 1,000 vacas en ordeñe para ofrecer solución SaaS de trazabilidad integrada.
+- **Perfil:** Mayor concentración de mega-tambos del país, muchos con sistemas estabulados y robóticos. Argentina cuenta ya con **más de 400 tambos robotizados** en funcionamiento (Julio 2026), con Santa Fe como hub principal.
+- **Necesidad Tecnológica:** Integración de la identificación electrónica ([[Resolucion SENASA 841-2025]]) con el software de ordeñe y gestión reproductiva. El paso de identificación propietaria a identificación oficial es un reto. Urgencia por mitigar el estrés térmico mediante sensorización y monitoreo individual.
+- **Acción:** Visitar establecimientos con más de 1,000 vacas en ordeñe para ofrecer solución SaaS de trazabilidad integrada y módulos de eficiencia robotizada.
 
 ### 3. Eje Rosario - Trenque Lauquen (Santa Fe - Buenos Aires)
 - **Perfil:** Corredor de los principales frigoríficos del **Consorcio ABC** y mega-feeldots.

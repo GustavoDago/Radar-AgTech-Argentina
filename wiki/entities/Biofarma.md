@@ -1,11 +1,11 @@
 ---
-type: entidad
+tipo: entidad
 category: feedlot
 priority: high
 tags: [feedlot, biofarma, cenab, capacidad_expansion, agtech/targets]
-sources: [Bichos de Campo - 2026-04-28]
-confidence: high
-last_update: 2026-04-28
+fuentes: [Bichos de Campo - 2026-04-28]
+confianza: alta
+ultima_actualizacion: 2026-04-28
 ---
 
 # Biofarma (CENAB)
