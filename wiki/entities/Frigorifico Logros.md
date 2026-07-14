@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [frigorifico, exportador, cordoba, eficiencia, agtech/oportunidad]
-sources: [Bichos de Campo - 2026-04-08]
-confidence: high
-last_update: 2026-04-08
+fuentes: [Bichos de Campo - 2026-04-08]
+confianza: high
+ultima_actualizacion: 2026-04-08
 ---
 
 # Frigorífico Logros (Córdoba)

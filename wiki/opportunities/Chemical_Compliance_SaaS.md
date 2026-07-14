@@ -1,9 +1,9 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: [Java/Quarkus, PostgreSQL, IoT]
 target: [ArreBeef | Swift | Frigorifico Logros | Consorcio ABC]
-last_update: 2026-04-15
+ultima_actualizacion: 2026-04-15
 last_critique: 2026-04-15
 ---
 

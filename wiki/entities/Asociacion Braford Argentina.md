@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [agtech/targets, raza, calidad_carne, innovacion]
-sources: [valorcarne.com.ar]
-confidence: high
-last_update: 2026-04-12
+fuentes: [valorcarne.com.ar]
+confianza: high
+ultima_actualizacion: 2026-04-12
 ---
 
 # Asociación Braford Argentina
