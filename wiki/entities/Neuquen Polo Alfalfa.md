@@ -1,9 +1,9 @@
 ---
-type: zona
+tipo: zona
 tags: [alfalfa, exportacion, neuquen, polo_premium]
-sources: [daily_summary_2026-04-19]
-confidence: high
-last_update: 2026-04-19
+fuentes: [daily_summary_2026-04-19]
+confianza: alta
+ultima_actualizacion: 2026-04-19
 ---
 
 # Neuquén: Polo de Alfalfa Premium

@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/rfid, operativo/pain_points, infraestructura/conectividad, argentina/senasa]
-sources: [field_intelligence, market_feedback]
-confidence: high
-last_update: 2026-04-05
+fuentes: [field_intelligence, market_feedback]
+confianza: alta
+ultima_actualizacion: 2026-04-05
 ---
 
 # Pain Points: Trazabilidad Electrónica Individual (Res. 841/2025)

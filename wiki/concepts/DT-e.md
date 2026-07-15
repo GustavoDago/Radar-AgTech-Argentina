@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/trazabilidad, argentina/senasa, operativo/logistica, tecnologia/sigsa]
-sources: [https://www.argentina.gob.ar/senasa/tramites/emision-de-documento-de-transito-electronico-dt-e]
-confidence: high
-last_update: 2026-04-05
+fuentes: [https://www.argentina.gob.ar/senasa/tramites/emision-de-documento-de-transito-electronico-dt-e]
+confianza: alta
+ultima_actualizacion: 2026-04-05
 ---
 
 # DT-e: Documento de Tránsito Electrónico

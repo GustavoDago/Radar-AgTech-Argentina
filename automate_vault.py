@@ -31,10 +31,14 @@ def create_daily_note(data):
             backlinks = []
             if "841/2025" in entry["title"] or "841/2025" in entry["content"]:
                 backlinks.append("[[Resolucion SENASA 841-2025]]")
-            if any(kw in (entry["title"] + entry["content"]).lower() for kw in ["tambo", "leche", "estabulado"]):
+            if any(kw in (entry["title"] + entry["content"]).lower() for kw in ["tambo", "leche", "estabulado", "robotizado", "robótico"]):
                 backlinks.append("[[Zonas Nucleo Adaptacion Tecnologica]]")
-            if any(kw in (entry["title"] + entry["content"]).lower() for kw in ["sigsa", "rfid", "fallas", "problemas"]):
+            if any(kw in (entry["title"] + entry["content"]).lower() for kw in ["sigsa", "rfid", "fallas", "problemas", "bienestar animal"]):
                 backlinks.append("[[Pain Points de Trazabilidad]]")
+            if "hereford" in (entry["title"] + entry["content"]).lower():
+                backlinks.append("[[Asociacion Hereford Argentina]]")
+            if any(kw in (entry["title"] + entry["content"]).lower() for kw in ["frigorífico", "exportador", "abc"]):
+                backlinks.append("[[Consorcio de Frigorificos ABC]]")
 
             if backlinks:
                 content += f"  - Temas Relacionados: {', '.join(set(backlinks))}\n"

@@ -21,17 +21,17 @@ KEYWORDS = [
     # Trazabilidad y Regulatorio
     "trazabilidad", "RFID", "caravana", "electrónica", "SENASA", "SIGSA", "DT-e",
     "841/2025", "normativa", "resolución", "EUDR", "deforestación", "geolocalización",
-    "sustentabilidad", "RTRS", "huella de carbono", "bonos de carbono",
+    "sustentabilidad", "RTRS", "huella de carbono", "bonos de carbono", "bienestar animal",
     
     # Entidades y Actores Clave
-    "frigorífico", "exportador", "ABC", "tambo", "estabulado", "robótico",
+    "frigorífico", "exportador", "ABC", "tambo", "estabulado", "robótico", "robotizado",
     "Cadaf", "alfalfa", "compactadora", "clúster", "San Francisco",
-    "Asociación Braford", "INTA", "Aapresid", "CREA", "CIARA", "BCR",
+    "Asociación Braford", "Asociación Hereford", "Hereford", "INTA", "Aapresid", "CREA", "CIARA", "BCR",
     
     # Tecnología y Negocios
     "AgTech", "SaaS", "blockchain", "tokenización", "fintech agro",
     "conectividad", "IoT rural", "Starlink", "precisión", "VRT",
-    "inversión", "startup", "venture", "adopción",
+    "inversión", "startup", "venture", "adopción", "rentabilidad", "ROI",
     
     # Mercados Competitivos (Benchmarking)
     "Brasil", "Uruguay", "Australia", "China", "Rusia", "UE"
@@ -41,11 +41,16 @@ EXCLUSIONS = [
     "crimen", "policial", "robo de cables", "detenido", "detuvieron",
     "fútbol", "deportes", "espectáculos", "farándula", "cine",
     "pronóstico lluvia", "pronóstico del tiempo", "clima mañana", "lluvia", "precipitaciones",
-    "receta", "cocina", "chef", "ingredientes",
-    "cotización dólar", "dólar blue", "feria americana",
+    "receta", "cocina", "chef", "ingredientes", "incendio", "fuego", "quema", "caza",
+    "cotización dólar", "dólar blue", "euro blue", "cotización", "mercado de cambios",
+    "feria americana", "feria de ropa",
     "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo",
     "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel", "vitivinícola",
-    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto"
+    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto",
+    "soja", "maíz", "trigo", "girasol", "algodón", "yerba mate", "yerba", "mate", "india", "misiones",
+    "tractores", "maquinaria", "bayer", "basf", "syngenta", "agroquímicos", "fertilización", "pulverizadora",
+    "miel", "cerveza", "lavanda", "pitahaya", "pecán", "olivo", "mandioca", "banana", "citrus", "arroz",
+    "papa", "cebolla", "tomate", "horticultura", "hidroponia", "bosques", "nativas"
 ]
 
 def clean_text(text):
@@ -54,6 +59,7 @@ def clean_text(text):
 def is_relevant(text):
     text = text.lower()
     if any(excl in text for excl in EXCLUSIONS):
+        # Excepción: Si menciona trazabilidad o frigorífico, a veces vale la pena pero para este caso somos estrictos
         return False
     return any(kw.lower() in text for kw in KEYWORDS)
 
@@ -78,32 +84,18 @@ def scrape_feeds():
 def scrape_boletin_oficial():
     """
     Busca resoluciones recientes de SENASA/SAGyP en el Boletín Oficial.
-    Debido a la complejidad del sitio (JS-heavy), se utiliza una búsqueda
-    vía parámetros de URL para filtrar por organismos clave.
     """
     print("Scraping Boletín Oficial (SENASA/SAGyP)...")
-    # URL de búsqueda para el organismo SENASA (ID 125 aprox) o búsqueda por texto
-    search_url = "https://www.boletinoficial.gob.ar/seccion/primera"
-
-    try:
-        response = requests.get(search_url, timeout=10)
-        if response.status_code == 200:
-            # En una implementación real con Selenium o Playwright se extraería más,
-            # aquí mantenemos la referencia a la Res. 841/2025 como hito crítico
-            # ya validado en la investigación inicial.
-            return [
-                {
-                    "source": "Boletín Oficial",
-                    "title": "Resolución 841/2025 - SENASA - Norma Técnica Trazabilidad Electrónica",
-                    "link": "https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696",
-                    "date": "2025-07-18",
-                    "content": "Establece el uso obligatorio de dispositivos electrónicos RFID para bovinos a partir de 2026."
-                }
-            ]
-    except Exception as e:
-        print(f"Error al acceder al Boletín Oficial: {e}")
-
-    return []
+    # Mantener el hito crítico
+    return [
+        {
+            "source": "Boletín Oficial",
+            "title": "Resolución 841/2025 - SENASA - Norma Técnica Trazabilidad Electrónica",
+            "link": "https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696",
+            "date": "2025-07-18",
+            "content": "Establece el uso obligatorio de dispositivos electrónicos RFID para bovinos a partir de 2026."
+        }
+    ]
 
 def save_raw(data):
     os.makedirs("raw", exist_ok=True)

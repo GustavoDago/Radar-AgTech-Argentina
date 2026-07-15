@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [tambo, lacteo, santa_fe, friccion_financiera, crisis]
-sources: [Bichos de Campo - 2026-04-17]
-confidence: high
-last_update: 2026-04-17
+fuentes: [Bichos de Campo - 2026-04-17]
+confianza: alta
+ultima_actualizacion: 2026-04-17
 ---
 
 # Lácteos Verónica
