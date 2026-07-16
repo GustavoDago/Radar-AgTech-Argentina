@@ -12,7 +12,7 @@ ultima_actualizacion: 2026-04-28
 
 ## Perfil
 - **Ubicación**: La Plata, Buenos Aires.
-- **Estatus**: Líder en volumen exportado de carne vacuna en Argentina y miembro clave del [[Consorcio de Frigorificos ABC]]. Se destaca por su volumen operativo, alta eficiencia y constante enfoque en el crecimiento para mercados internacionales (China, UE). Se consolida como un "Target Triple A" para soluciones SaaS.
+- **Estatus**: Líder en volumen exportado de carne vacuna en Argentina y miembro clave del [[Consorcio de Frigorificos ABC]]. Tras su reconstrucción, ha iniciado un proceso agresivo de digitalización industrial. Se consolida como el "Early Adopter" de referencia para la industria 4.0 en frigoríficos.
 
 ## Señales de Compra (Triggers)
 - **Alerta de Mercado EE.UU. (14/05/2026)**: La posible pérdida de beneficios arancelarios en Estados Unidos obliga a los líderes como Gorina a optimizar al máximo la eficiencia de faena y trazabilidad para mantener márgenes competitivos.
