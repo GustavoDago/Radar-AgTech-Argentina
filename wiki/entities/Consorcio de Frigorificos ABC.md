@@ -24,7 +24,10 @@ type: entidad
 El Consorcio de Exportadores de Carnes Argentinas (ABC) agrupa a las empresas que concentran el mayor porcentaje de las exportaciones de carne vacuna del país.
 
 ## Miembros Clave (Top Targets)
-- **Swift Argentina:** Planta en Villa Gobernador Gálvez (Santa Fe). Foco en eficiencia masiva.
+- **Swift Argentina:** Planta en Villa Gobernador Gálvez (Santa Fe). Concentra el mayor volumen de Cuota Hilton 2026/27.
+- **Frigorífico Gorina:** Líder en volumen exportado y segundo mayor beneficiario de Cuota Hilton.
+- **ArreBeef:** Planta en Pérez Millán. Fuerte enfoque en procesos y sostenibilidad.
+- **Frigorífico Logros:** Referente en el norte de Córdoba con fuerte apuesta a la trazabilidad RFID.
 - **La Anónima:** Plantas en Salto y Trenque Lauquen. Alta calidad y trazabilidad.
 - **ArreBeef:** Planta en Pérez Millán. Fuerte enfoque en procesos.
 - **Gorina:** Líder en volumen exportado.
