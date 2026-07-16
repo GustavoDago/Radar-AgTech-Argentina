@@ -68,6 +68,12 @@ type: entidad
 - **Trigger:** El Gobernador Pullaro ratificó el compromiso con la infraestructura y la transparencia. CRA identificó el Acuerdo UE-Mercosur como una oportunidad que requiere evitar "burocracia de certificación".
 - **Acción:** Focalizar esfuerzos comerciales en frigoríficos exportadores de Santa Fe para implementar [[EUDR_Compliance_Gateway]], aprovechando el entorno de inversión provincial y la urgencia por sistemas de auditoría ágiles.
 
+### 6. Formosa - El Colorado (NUEVO HUB)
+- **Evento:** Descubrimiento de adaptación de Alfalfa en condiciones subtropicales.
+- **Perfil:** Zona tradicionalmente algodonera migrando a ganadería intensiva y producción de forraje de alta calidad.
+- **Trigger:** Inversión en Alfalfa en Formosa indica una "Nueva Frontera" para la suplementación estratégica y ganadería de precisión.
+- **Acción:** Explorar contactos en el Cluster Ganadero Formosa para ofrecer soluciones de monitoreo de forraje y nutrición.
+
 ## Frigoríficos del Consorcio ABC (Targets)
 - **Swift (Rosario):** Planta con alta capacidad de faena y foco exportador.
 - **La Anónima (Salto/Trenque Lauquen):** Líder en trazabilidad y calidad para exportación.
