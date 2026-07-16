@@ -1,5 +1,5 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: [Java/Quarkus, Postgres/PostGIS, Apache Kafka]
 target: [Consorcio de Frigorificos ABC | Frigorifico Logros | Exportadores Premium]

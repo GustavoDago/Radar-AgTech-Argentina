@@ -1,5 +1,5 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/investment, riego, mega-tambo, rimi, fiscal]
 sources: [TodoAgro, INTA Informa, Agroverdad, Valor Carne, 2026-05-31, daily_summary_2026-06-02]
 confidence: high

@@ -1,5 +1,5 @@
 ---
-type: concepto
+tipo: concepto
 tags: [logistica, exportacion, conflicto, riesgo]
 sources: [daily_summary_2026-04-19, daily_summary_2026-04-30, daily_summary_2026-06-22]
 confidence: high

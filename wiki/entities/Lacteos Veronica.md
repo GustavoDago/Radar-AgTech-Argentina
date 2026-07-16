@@ -1,5 +1,5 @@
 ---
-type: entidad
+tipo: entidad
 tags: [tambo, lacteo, santa_fe, friccion_financiera, crisis]
 sources: [Bichos de Campo - 2026-04-17, Bichos de Campo - 2026-05-06]
 confidence: high

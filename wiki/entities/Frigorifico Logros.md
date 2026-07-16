@@ -1,5 +1,5 @@
 ---
-type: entidad
+tipo: entidad
 tags: [frigorifico, exportador, cordoba, eficiencia, agtech/oportunidad]
 sources: [Bichos de Campo - 2026-04-08, Infocampo - 2026-05-18]
 confidence: high
