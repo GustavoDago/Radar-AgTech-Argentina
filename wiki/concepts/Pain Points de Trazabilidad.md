@@ -64,7 +64,7 @@ type: concepto
 - **Diferenciación por Calidad:** La necesidad de vincular datos de marmoleo (ver [[Cabana Buen Retiro]]) con el ID individual para capturar primas de precio en exportación.
 
 ## Oportunidades de Venta Directa
-- Software que funcione offline y sincronice con SIGSA cuando haya conexión.
+- **Offline-First Buffer SaaS:** Software que funcione offline para mitigar las fallas de sincronización con SIGSA, permitiendo la recepción de hacienda sin interrupciones.
 - Dashboard de métricas de eficiencia en la lectura RFID por lote.
 - **Integración Genética:** Módulos que vinculen la [[Resolucion SENASA 841-2025]] con índices de calidad de carne (ver [[Asociacion Braford Argentina]]) y datos de marmoreo (ver [[Cabana Buen Retiro]]) para capturar el sobreprecio en mercados de exportación.
 - **Auditoría SaaS:** Sistemas de auditoría "EU-Ready" para cumplimiento de plazos inmediatos y validación de origen.
