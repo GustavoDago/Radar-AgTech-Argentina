@@ -40,7 +40,8 @@ type: entidad
   - **Línea de Crédito Agroactiva:** $116.000 millones inyectados a tasas bonificadas por bancos de Santa Fe, impulsando la adquisición de maquinaria y ordeñadoras automatizadas.
   - **Presión Logística & Aftosa (09/06/2026):** En el norte santafesino, el transporte representa hasta un tercio del costo lácteo. A la par, el plan diferencial de vacunación de aftosa de la Región Centro exige un control digital individual estricto.
   - **Migración a Trazabilidad Electrónica & Necesidad Tecnológica:** Necesidad de migrar e integrar la identificación electrónica oficial de la Res. 841/2025 con el software de ordeñe y gestión reproductiva, reemplazando los sistemas de identificación propietarios.
-- **Acción:** Contactar a los grupos de productores CREA de la zona y visitar establecimientos con más de 1.000 vacas en ordeñe (y grupos como Pro Tambo) para ofrecer la solución SaaS de trazabilidad integrada y eficiencia logística offline/online.
+  - **Crisis Pyme vs Consolidación Robótica (Julio 2026):** El cierre del último tambo en Margarita (norte santafesino) marca la extinción del productor chico, mientras que en simultáneo se confirma la operación de más de 400 tambos robóticos en la zona (ver [[Lecheria Robotica]]). La brecha tecnológica demanda un enfoque comercial directo a las explotaciones de gran capital.
+- **Acción:** Contactar a los grupos de productores CREA de la zona y visitar establecimientos con más de 1.000 vacas en ordeñe (y grupos como Pro Tambo) para ofrecer la solución SaaS de trazabilidad integrada y eficiencia logística offline/online. Ofrecer capas de analítica para integrarse con los sistemas propietarios de los robots.
 
 ### 3. Eje Rosario - Trenque Lauquen (Santa Fe - Buenos Aires) - Frigoríficos Exportadores
 - **Perfil:** Concentración de plantas faenadoras del **Consorcio ABC** y mega-feedlots.

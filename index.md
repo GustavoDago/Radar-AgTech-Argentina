@@ -1,6 +1,24 @@
 # Radar AgTech Argentina - Vault Index
 
 ## 📡 Inteligencia Diaria (Jules Intel)
+- [[2026-07-16]]
+- [[2026-07-15]]
+- [[2026-07-14]]
+- [[2026-07-13]]
+- [[2026-07-12]]
+- [[2026-07-11]]
+- [[2026-07-10]]
+- [[2026-07-09]]
+- [[2026-07-08]]
+- [[2026-07-07]]
+- [[2026-07-06]]
+- [[2026-07-05]]
+- [[2026-07-04]]
+- [[2026-07-03]]
+- [[2026-07-02]]
+- [[2026-07-01]]
+- [[2026-06-30]]
+- [[2026-06-29]]
 - [[2026-06-28]]
 - [[2026-06-27]]
 - [[2026-06-26]]
@@ -78,6 +96,7 @@
 - [[PreMortem_Whey_Valorization]]
 
 ## 🏢 Entidades Clave
+- [[Acopiador Corredor de Granos]] *(nuevo)*
 - [[AFA]]
 - [[AgroZAL]]
 - [[Agroactiva 2026]]
@@ -88,6 +107,7 @@
 - [[Asociacion Brangus Argentina]]
 - [[Asociacion Hereford Argentina]]
 - [[BCR Labs]]
+- [[Beneficiarios Cuota Hilton 2026-2027]]
 - [[Biofarma]]
 - [[Bustos Beltran]]
 - [[CADAF_SA]]
@@ -98,7 +118,12 @@
 - [[Cabaña Pilaga]]
 - [[Carne de Cabra Chaco Exportacion]]
 - [[Consorcio de Frigorificos ABC]]
+- [[Contratista Rural]]
+- [[Cooperativa Agricola]] *(nuevo)*
 - [[Cooperativa Agricola Ganadera de Elena]]
+- [[Exportadora Terminal Portuaria]] *(nuevo)*
+- [[Feedlot]] *(nuevo)*
+- [[Financiador Agropecuario]] *(nuevo)*
 - [[Frigorifico Bustos Beltran]]
 - [[Frigorifico Bustos y Beltran]]
 - [[Frigorifico Gorina]]
@@ -108,10 +133,14 @@
 - [[Las Nacionales 2026]]
 - [[MEVA]]
 - [[Mapa Bufalino Cordoba]]
+- [[Mastellone Hnos.]]
 - [[Menara Construcciones]]
 - [[Neuquen Polo Alfalfa]]
 - [[Polo Alfalfa Premium Neuquen]]
 - [[Pro Tambo]]
+- [[Productor Agricola Cerealero]] *(nuevo)*
+- [[Productor Economias Regionales]] *(nuevo)*
+- [[Productor Tambero]]
 - [[Pyme Lactea Santafesina Crisis]]
 - [[Resolucion SENASA 841-2025]]
 - [[Ruta 10 Sur de Cordoba]]
@@ -120,7 +149,9 @@
 - [[Sancor]]
 - [[Santa Fe]]
 - [[Sociedad Rural Argentina]]
+- [[Sudamericana de Lacteos]]
 - [[Tambo Ugartemendia]]
+- [[Veterinario Rural]] *(nuevo)*
 - [[VISEC]]
 - [[VISEC Carnes]]
 - [[Zona Ganadera Olavarria]]
@@ -134,16 +165,24 @@
 - [[Barreras Biotecnológicas HB4]]
 - [[Barreras_Sanitarias_Antimicrobianos]]
 - [[Burocracia de Certificacion UE-Mercosur]]
+- [[Burocracia Sanitaria Interprovincial]]
 - [[Captura_Carbono_Pasturas]]
+- [[Certificacion Europea Bienestar Animal]]
 - [[Certificacion de Secuestro de Carbono]]
 - [[Certificacion de Secuestro de Carbono Individual]]
 - [[Certificacion_Huella_Carbono_Biocombustibles]]
 - [[Colapso Institucional SENASA INTA]]
 - [[Colapso Operativo Estatal]]
+- [[Colapso Operativo SENASA]]
 - [[Conciliacion_Canje_Granos]]
+- [[Cooperativa como Hub Logistico e Infraestructura]]
+- [[Cooperativismo como Agregador AgTech]]
+- [[Cooperativismo como Salvavidas Financiero]]
 - [[DT-e]]
 - [[Desafios Confinamiento Mega-tambos]]
 - [[Entore Precoz]]
+- [[Extincion del Tambo Familiar por Escala]]
+- [[Falla de Adopcion de Software Gremial]]
 - [[Financiamiento Bienes de Capital 2026]]
 - [[Friccion EUDR]]
 - [[Friccion Logistica Exportadora]]
@@ -156,6 +195,7 @@
 - [[Incentivos a la Inversion RIMI]]
 - [[Incertidumbre Regulatoria Sanitaria]]
 - [[Indice de Calidad de Carne]]
+- [[Lecheria Robotica]]
 - [[Oportunidades de Venta Directa]]
 - [[Oportunidad Competitiva EUDR]]
 - [[Pain Points Trazabilidad Electronica]]
@@ -172,4 +212,4 @@
 - [[Veto Europeo Carnes Brasilenas]]
 
 ---
-*Última sincronización: 2026-06-28*
+*Última sincronización: 2026-07-16*
