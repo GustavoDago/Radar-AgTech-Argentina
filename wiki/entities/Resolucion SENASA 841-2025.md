@@ -127,7 +127,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 **Actualización 16/04/2026**: La alerta de la OMSA sobre la cepa **SAT 1** de aftosa eleva la Res. 841/2025 a un nivel de seguridad nacional para el sector exportador, refuerza la obligatoriedad de sistemas de trazabilidad auditables.
 
-**Actualización 15/04/2026**: Los brotes de fiebre aftosa en China (más de 200 casos) aceleran la necesidad de trazabilidad electrónica individual para blindar las exportaciones argentinas ante posibles auditorías sanitarias de emergencia.
+**Actualización 15/04/2026**: Los brotes de fiebre aftosa en China aceleran la necesidad de trazabilidad electrónica individual para blindar las exportaciones argentinas ante posibles auditorías sanitarias de emergencia.
 
 ## Componentes del Binomio
 1. **Tarjeta Visual:** Oreja izquierda (CUIG).
