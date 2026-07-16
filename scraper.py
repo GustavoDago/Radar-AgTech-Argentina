@@ -21,17 +21,17 @@ KEYWORDS = [
     # Trazabilidad y Regulatorio
     "trazabilidad", "RFID", "caravana", "electrónica", "SENASA", "SIGSA", "DT-e",
     "841/2025", "normativa", "resolución", "EUDR", "deforestación", "geolocalización",
-    "sustentabilidad", "RTRS", "huella de carbono", "bonos de carbono",
+    "sustentabilidad", "RTRS", "huella de carbono", "bonos de carbono", "bienestar animal",
     
     # Entidades y Actores Clave
-    "frigorífico", "exportador", "ABC", "tambo", "estabulado", "robótico",
+    "frigorífico", "exportador", "ABC", "tambo", "estabulado", "robótico", "robotizado",
     "Cadaf", "alfalfa", "compactadora", "clúster", "San Francisco",
-    "Asociación Braford", "INTA", "Aapresid", "CREA", "CIARA", "BCR",
+    "Asociación Braford", "Asociación Hereford", "Hereford", "INTA", "Aapresid", "CREA", "CIARA", "BCR",
     
     # Tecnología y Negocios
     "AgTech", "SaaS", "blockchain", "tokenización", "fintech agro",
     "conectividad", "IoT rural", "Starlink", "precisión", "VRT",
-    "inversión", "startup", "venture", "adopción",
+    "inversión", "startup", "venture", "adopción", "rentabilidad", "ROI",
     
     # Mercados Competitivos (Benchmarking)
     "Brasil", "Uruguay", "Australia", "China", "Rusia", "UE"
@@ -61,6 +61,7 @@ def clean_text(text):
 def is_relevant(text):
     text = text.lower()
     if any(excl in text for excl in EXCLUSIONS):
+        # Excepción: Si menciona trazabilidad o frigorífico, a veces vale la pena pero para este caso somos estrictos
         return False
     return any(kw.lower() in text for kw in KEYWORDS)
 
@@ -85,8 +86,6 @@ def scrape_feeds():
 def scrape_boletin_oficial():
     """
     Busca resoluciones recientes de SENASA/SAGyP en el Boletín Oficial.
-    Debido a la complejidad del sitio (JS-heavy), se utiliza una búsqueda
-    vía parámetros de URL para filtrar por organismos clave.
     """
     print("Scraping Boletín Oficial (SENASA/SAGyP)...")
     # URL de búsqueda para el organismo SENASA (ID 125 aprox) o búsqueda por texto

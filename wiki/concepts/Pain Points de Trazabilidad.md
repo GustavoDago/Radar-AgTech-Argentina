@@ -30,7 +30,7 @@ tags:
 type: concepto
 ---
 
-# Pain Points de Trazabilidad: RFID y SIGSA
+# Pain Points de Trazabilidad: RFID, SIGSA y Bienestar Animal
 
 ## Fricciones Identificadas
 
