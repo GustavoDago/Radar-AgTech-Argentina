@@ -13,7 +13,7 @@ def create_daily_note(data):
     today = datetime.now().strftime("%Y-%m-%d")
     filename = f"{DAILY_DIR}/{today}.md"
 
-    content = f"---\ndate: {today}\ntype: daily_summary\n---\n\n# Resumen Diario de Inteligencia AgTech - {today}\n\n"
+    content = f"---\nfecha: {today}\ntipo: resumen_diario\n---\n\n# Resumen Diario de Inteligencia AgTech - {today}\n\n"
 
     # Agrupar por fuente
     grouped_data = {}
