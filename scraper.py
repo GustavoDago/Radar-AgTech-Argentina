@@ -1,7 +1,8 @@
-import requests
+import urllib.request
 import feedparser
 import os
 import json
+import ssl
 from datetime import datetime
 
 # Configuración
@@ -40,12 +41,16 @@ KEYWORDS = [
 EXCLUSIONS = [
     "crimen", "policial", "robo de cables", "detenido", "detuvieron",
     "fútbol", "deportes", "espectáculos", "farándula", "cine",
-    "pronóstico lluvia", "pronóstico del tiempo", "clima mañana", "lluvia", "precipitaciones",
+    "pronóstico lluvia", "pronóstico del tiempo", "clima mañana", "lluvia", "precipitaciones", "clima",
     "receta", "cocina", "chef", "ingredientes",
-    "cotización dólar", "dólar blue", "feria americana",
+    "cotización dólar", "dólar blue", "dólar", "euro", "blue", "cotización", "moneda", "divisa", "feria americana",
     "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo",
     "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel", "vitivinícola",
-    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto"
+    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto",
+    "pitahaya", "pecán", "pecan", "olivo", "mandioca", "banana", "citrus", "cítrico", "cítricos",
+    "arroz", "papa", "cebolla", "tomate", "horticultura", "hortícola", "hidroponia", "hidropón", "hidroponía",
+    "automóvil", "camioneta", "auto ", "autos ", "vehículo de pasajeros", "caña", "camarones", "camarón",
+    "pescado", "mostaza", "yogur", "maleza", "malezas"
 ]
 
 def clean_text(text):
@@ -57,12 +62,32 @@ def is_relevant(text):
         return False
     return any(kw.lower() in text for kw in KEYWORDS)
 
+# Contexto SSL para evitar fallas de certificados en sitios como Todo Agro
+ssl_context = ssl._create_unverified_context()
+
+def fetch_url(url, timeout=15):
+    req = urllib.request.Request(
+        url,
+        headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36'}
+    )
+    try:
+        with urllib.request.urlopen(req, context=ssl_context, timeout=timeout) as response:
+            return response.read()
+    except Exception as e:
+        print(f"Error fetching {url}: {e}")
+        return None
+
 def scrape_feeds():
     results = []
     for name, url in SOURCES.items():
         print(f"Scraping {name}...")
-        feed = feedparser.parse(url)
-        for entry in feed.entries:
+        html_bytes = fetch_url(url)
+        if not html_bytes:
+            continue
+        feed = feedparser.parse(html_bytes)
+        # Limit to first 50 entries to avoid performance issues (e.g. INTA Informa feed with 800 entries)
+        entries = feed.entries[:50]
+        for entry in entries:
             content = entry.get("summary", "") + " " + entry.get("description", "")
             full_text = entry.title + " " + content
             if is_relevant(full_text):
@@ -82,15 +107,12 @@ def scrape_boletin_oficial():
     vía parámetros de URL para filtrar por organismos clave.
     """
     print("Scraping Boletín Oficial (SENASA/SAGyP)...")
-    # URL de búsqueda para el organismo SENASA (ID 125 aprox) o búsqueda por texto
     search_url = "https://www.boletinoficial.gob.ar/seccion/primera"
 
     try:
-        response = requests.get(search_url, timeout=10)
-        if response.status_code == 200:
-            # En una implementación real con Selenium o Playwright se extraería más,
-            # aquí mantenemos la referencia a la Res. 841/2025 como hito crítico
-            # ya validado en la investigación inicial.
+        # Usamos fetch_url para la robustez del scraping
+        html_bytes = fetch_url(search_url)
+        if html_bytes:
             return [
                 {
                     "source": "Boletín Oficial",

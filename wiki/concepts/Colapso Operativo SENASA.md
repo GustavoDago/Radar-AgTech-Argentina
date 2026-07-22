@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [senasa, sigsa, falla_tecnica, riesgo_operativo]
-sources: [bichosdecampo.com]
-confidence: high
-last_update: 2026-04-18
+fuentes: [bichosdecampo.com]
+confianza: high
+ultima_actualizacion: 2026-04-18
 ---
 
 # Colapso Operativo SENASA
