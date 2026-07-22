@@ -1,9 +1,9 @@
 ---
 tipo: entidad
 tags: [tambo, lacteo, santa_fe, friccion_financiera, crisis]
-sources: [Bichos de Campo - 2026-04-17, Bichos de Campo - 2026-05-06]
-confidence: high
-last_update: 2026-05-06
+fuentes: [Bichos de Campo - 2026-04-17]
+confianza: high
+ultima_actualizacion: 2026-04-17
 ---
 
 # Lácteos Verónica
@@ -12,7 +12,7 @@ last_update: 2026-05-06
 Empresa láctea tradicional con fuerte presencia en la cuenca santafesina. Es un actor relevante para los tambos de la región como comprador y procesador.
 
 ## Trigger de Compra / Pain Points
-- **Fricción Financiera y Operativa (Actualización 06/05/2026):** Aunque persiste la parálisis, la familia propietaria ha mostrado disposición a ceder parte de las plantas, lo que abre una ventana para la reestructuración o adquisición por nuevos operadores.
+- **Fricción Financiera y Operativa:** Actualmente atraviesa una situación de parálisis operativa y conflictos laborales. Se han establecido mesas interdisciplinarias para intentar destrabar la situación.
 - **Reestructuración de Cuenca:** La crisis de Verónica, sumada a la quiebra de Sancor (16/04/2026), indica una fuerte reconfiguración de los proveedores de leche en Santa Fe.
 - **Oportunidad para SaaS:** En contextos de crisis, los tambos remitentes necesitan herramientas de gestión que les permitan diversificar destinos o asegurar la trazabilidad de sus pagos y contratos de suministro.
 

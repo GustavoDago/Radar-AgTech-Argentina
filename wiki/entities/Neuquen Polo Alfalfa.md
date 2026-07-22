@@ -2,7 +2,7 @@
 tipo: zona
 tags: [alfalfa, exportacion, neuquen, polo_premium]
 fuentes: [daily_summary_2026-04-19]
-confianza: alta
+confianza: high
 ultima_actualizacion: 2026-04-19
 ---
 

@@ -2,7 +2,7 @@
 tipo: entidad
 tags: [agtech/targets, zona_nucleo, alfalfa, exportacion, neuquen]
 fuentes: [todoagro.com.ar]
-confianza: media
+confianza: medium
 ultima_actualizacion: 2026-04-18
 ---
 

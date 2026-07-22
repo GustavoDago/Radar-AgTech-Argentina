@@ -4,7 +4,7 @@ category: feedlot
 priority: high
 tags: [feedlot, biofarma, cenab, capacidad_expansion, agtech/targets]
 fuentes: [Bichos de Campo - 2026-04-28]
-confianza: alta
+confianza: high
 ultima_actualizacion: 2026-04-28
 ---
 

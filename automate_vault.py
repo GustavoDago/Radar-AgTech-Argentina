@@ -13,6 +13,7 @@ def create_daily_note(data):
     today = datetime.now().strftime("%Y-%m-%d")
     filename = f"{DAILY_DIR}/{today}.md"
 
+    # Usar obligatoriamente claves en español para consistencia de gobernanza de la Wiki
     content = f"---\nfecha: {today}\ntipo: resumen_diario\n---\n\n# Resumen Diario de Inteligencia AgTech - {today}\n\n"
 
     # Agrupar por fuente

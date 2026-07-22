@@ -2,7 +2,7 @@
 tipo: concepto
 tags: [agtech/dairy, industria/lactea, economia/circular, trazabilidad/industrial]
 fuentes: [Bichos de Campo, Industry Reports]
-confianza: alta
+confianza: high
 ultima_actualizacion: 2026-04-10
 ---
 

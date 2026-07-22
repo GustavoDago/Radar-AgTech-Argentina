@@ -1,20 +1,9 @@
 ---
-confidence: high
-last_update: '2026-06-24'
-sources:
-- field_intelligence
-- industry_reports
-- daily_summary_2026-06-05
-- daily_summary_2026-06-07
-- daily_summary_2026-06-09
-- daily_summary_2026-06-14
-- daily_summary_2026-06-23
-- daily_summary_2026-06-24
-tags:
-- agtech/targets
-- comercial/zonas_nucleo
-- argentina/provincias
-type: entidad
+tipo: entidad
+tags: [agtech/targets, comercial/zonas_nucleo, argentina/provincias]
+fuentes: [field_intelligence, industry_reports, daily_summary_2026-06-05, daily_summary_2026-06-24]
+confianza: alta
+ultima_actualizacion: 2026-06-24
 ---
 
 # Zonas Núcleo y Adaptación Tecnológica: Visitas Comerciales

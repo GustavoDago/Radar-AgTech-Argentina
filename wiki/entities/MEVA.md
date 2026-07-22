@@ -1,9 +1,12 @@
 ---
-title: Mercado de Valores Ambientales
+tipo: entidad
+tags: [fintech, carbono, cordoba, sustentabilidad, meva]
 acronym: MEVA
 location: Córdoba, Argentina
 sector: Créditos de Carbono / Fintech Agro
-launch_fecha: 2026-04-14
+fecha_lanzamiento: 2026-04-14
+confianza: alta
+ultima_actualizacion: 2026-07-22
 ---
 
 # MEVA (Mercado de Valores Ambientales)

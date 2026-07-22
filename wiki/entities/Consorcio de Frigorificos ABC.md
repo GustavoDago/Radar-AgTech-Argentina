@@ -1,22 +1,9 @@
 ---
-confidence: high
-last_update: '2026-06-20'
-sources:
-- valorcarne.com.ar
-- bichosdecampo.com
-- daily_summary_2026-06-12
-- daily_summary_2026-06-15
-- daily_summary_2026-06-17
-- daily_summary_2026-06-19
-- daily_summary_2026-06-20
-- daily_summary_2026-06-23
-tags:
-- agtech/targets
-- frigorificos
-- exportacion
-- eudr
-- consorcio_abc
-type: entidad
+tipo: entidad
+tags: [agtech/targets, frigorificos, exportacion, eudr, consorcio_abc]
+fuentes: [valorcarne.com.ar, bichosdecampo.com, daily_summary_2026-06-12, daily_summary_2026-06-20]
+confianza: alta
+ultima_actualizacion: 2026-06-20
 ---
 
 # Consorcio de Frigoríficos ABC

@@ -2,7 +2,7 @@
 tipo: concepto
 tags: [agtech/trazabilidad, argentina/senasa, operativo/logistica, tecnologia/sigsa]
 fuentes: [https://www.argentina.gob.ar/senasa/tramites/emision-de-documento-de-transito-electronico-dt-e]
-confianza: alta
+confianza: high
 ultima_actualizacion: 2026-04-05
 ---
 

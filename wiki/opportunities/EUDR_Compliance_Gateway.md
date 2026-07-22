@@ -3,8 +3,8 @@ tipo: oportunidad
 high_leverage: yes
 tech_stack: [Java/Quarkus, Postgres/PostGIS, Apache Kafka]
 target: [Consorcio de Frigorificos ABC | Frigorifico Logros | Exportadores Premium]
-last_update: 2026-05-25
-last_critique: 2026-05-25
+ultima_actualizacion: 2026-04-10
+last_critique: 2026-04-10
 ---
 
 # EUDR Compliance Gateway: Del Parche al Moat Estratégico
@@ -34,8 +34,6 @@ last_critique: 2026-05-25
 3. **Riesgos críticos:**
     * **Riesgo de Atonía (Sloth Risk)**: Con 20 meses por delante (hasta dic 2026), muchos frigoríficos dejarán de invertir en sus sistemas de datos hoy, creyendo que el problema "se solucionó". El SaaS debe venderse no como cumplimiento remoto, sino como **preparación para la reclasificación**. Si Argentina no demuestra datos impecables en 2026, la UE bajará la calificación del país a "Riesgo Medio/Alto", destruyendo márgenes.
     * **Fraude Físico (El Eslabón Perdido)**: El productor puede colocar la caravana RFID (Res. 841/2025) de un animal nacido en zona permitida en un animal gordo criado en monte deforestado. Tu sistema validará la geografía del "ID", no de la "carne".
-    * **Contaminación Cruzada Transgénica (Factor HB4 - 26/04/2026)**: Europa ya comenzó a ofrecer servicios de análisis para detectar soja HB4. El gatekeeping de la UE no será únicamente geográfico (deforestación); la trazabilidad de la dieta y raciones (feedlot/tambo) será exigida. El SaaS quedará obsoleto si no traza los insumos alimenticios.
-    * **El Eslabón Biológico/Sanitario (Veto Europeo a Brasil - Junio 2026)**: La oficialización por parte de la UE del veto a las importaciones de carne de Brasil a partir del 3 de septiembre de 2026 por deficiencias en antimicrobianos establece un nuevo estándar sanitario inamovible. Un SaaS enfocado puramente en geografía forestal quedará obsoleto si no puede certificar inalterablemente la bioseguridad y el historial farmacológico del ganado (ver [[Veto Europeo Carnes Brasilenas]]).
 
 4. **Efectos de segundo orden:** 
     * **Canibalización de Pequeños**: Los invernadores medianos que no logren digitalizar su historial geográfico retroactivamente al 2020 quedarán fuera del circuito exportador. Esto creará un stock de ganado "sucio" (barato para consumo interno) y ganado "certificado" (caro para exportación), distorsionando el precio del asado local.
@@ -46,4 +44,3 @@ last_critique: 2026-05-25
     * **Paso 2**: Unir la entrada de datos RFID con la firma digital del veterinario en el punto de despacho.
     * **Paso 3 (Nuevo Factor de Riesgo 2026)**: Integrar el **Semáforo Sanitario (Aftosa/Prurigo)**. Ante la incertidumbre regulatoria actual, los compradores no solo piden geografía, sino garantía de vacunación auditable ante auditorías externas de China o Rusia. Ver [[Incertidumbre Regulatoria Sanitaria]].
     * **Paso 4 (MEVA Layer)**: Implementar la integración con el **Mercado de Valores Ambientales (MEVA)**. Los créditos de carbono o biodiversidad generados por el productor no son solo un "extra", son la **evidencia colateral** definitiva de que el campo está en modo regenerativo y cumple con el espíritu del EUDR, no solo con la letra.
-    * **Paso 5 (Módulo de Antimicrobianos y Huella de Carbono Pasturas - Mayo 2026)**: Integrar la trazabilidad biológica de tratamientos veterinarios (antimicrobianos) para capturar el mercado europeo vacante por la potencial suspensión a Brasil (03/09/2026) (ver [[Barreras_Sanitarias_Antimicrobianos]]). Adicionalmente, incorporar un módulo de cálculo de huella de carbono neto (basado en el estudio del INTA-Bongiovanni de secuestro de pasturas naturales) para certificar carne carbono-neutral en origen (ver [[Captura_Carbono_Pasturas]]).
