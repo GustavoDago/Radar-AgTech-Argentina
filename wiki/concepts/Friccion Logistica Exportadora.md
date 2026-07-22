@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [logistica, exportacion, conflicto, riesgo]
-sources: [daily_summary_2026-04-19]
-confidence: high
-last_update: 2026-04-19
+fuentes: [daily_summary_2026-04-19]
+confianza: high
+ultima_actualizacion: 2026-04-19
 ---
 
 # Fricción Logística Exportadora
