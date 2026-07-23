@@ -85,14 +85,6 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 **Actualización 28/04/2026**: SENASA actualizó los criterios de etiquetado de fitosanitarios incorporando el Sistema Globalmente Armonizado (SGA). Esta convergencia regulatoria refuerza la necesidad de integrar datos de insumos en la ficha individual del animal (trazabilidad de residuos). Asimismo, la iniciativa de "Carne de Sistemas Pastoriles" (INTA/TodoAgro) escala la Res. 841/2025 de una traba burocrática a un activo de marketing y diferenciación de origen para capturar primas de precio por "identidad productiva".
 
-<<<<<<< HEAD
-**Actualización 27/04/2026**: El interés por la carne de sistemas pastoriles y la necesidad de comunicar "identidad productiva" (INTA/TodoAgro) escala la Res. 841/2025 de una traba burocrática a un activo de marketing. La trazabilidad granular es ahora el vehículo para capturar primas de precio por diferenciación de origen.
-=======
-**Actualización 17/07/2026**: La trazabilidad individual electrónica se consolida tanto para el cumplimiento de estándares internacionales complejos, como la nueva certificación europea **Welfair® de Bienestar Animal**, como para el retorno de inversión en recría ganadera, según lo demuestran las pruebas pastoriles de la raza Hereford junto al INTA. Ambas iniciativas ratifican la Res. 841/2025 como el núcleo tecnológico del negocio ganadero moderno.
-
-**Actualización 28/04/2026**: SENASA actualizó los criterios de etiquetado de fitosanitarios incorporando el Sistema Globalmente Armonizado (SGA). Esta convergencia regulatoria refuerza la necesidad de integrar datos de insumos en la ficha individual del animal (trazabilidad de residuos). Asimismo, el interés por la carne de sistemas pastoriles y la necesidad de comunicar "identidad productiva" (INTA/TodoAgro) escala la Res. 841/2025 de una traba burocrática a un activo de marketing, permitiendo capturar primas de precio por diferenciación de origen y valor nutricional.
->>>>>>> origin/jules-11554020896507043946-a418c1bf
-
 **Actualización 19/04/2026**: Ratificación técnica en el Boletín Oficial vinculada a la implementación de la Res. 841/2025. La presión internacional aumenta por la cepa inédita de Aftosa en China, lo que refuerza la obligatoriedad de de sistemas de trazabilidad auditables antes del deadline de 2026.
 
 **Actualización 18/04/2026**: El estado de "abandono" y desfinanciamiento operativo en SENASA reportado por sus trabajadores eleva el riesgo de colapso en el soporte técnico para la implementación masiva de la Res. 841/2025. Los sistemas privados de trazabilidad que actúen como "buffer" ante fallas de SIGSA son ahora una necesidad crítica de supervivencia operativa.
@@ -106,7 +98,6 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 2. **Dispositivo Electrónico (RFID):** Oreja derecha (caravana de baja frecuencia), bolo ruminal o transpondedor inyectable.
 
 ## Implicancias Estratégicas y de Negocio (Actualización Julio 2026)
-<<<<<<< HEAD
 - **Fricción Regulatoria de Residuos (Res. 655/2026)**: El nuevo Plan Nacional de Garrapata obliga a realizar bioensayos a los establecimientos que registren parásitos. El endurecimiento de los controles de la UE por residuos químicos (ej: carencia de fipronil) requiere que los frigoríficos cuenten con una base de datos robusta vinculada al ID electrónico de cada novillo.
 - **Fricción Operativa y Soluciones RFID (Palermo 2026)**: Se reducen las demoras en la recepción de plantas mediante sistemas integrados como el de UBIAR, que asocian directamente el lector LFRFID de caravanas al sistema ERP, mitigando el colapso de SIGSA.
 - **Rentabilidad & ROI del Productor (Julio 2026)**: Estudios del INTA ratifican que el seguimiento electrónico individual de peso diario permite optimizar decisiones ganaderas y de conversión de pasto a carne, ofreciendo un retorno de inversión claro frente al costo de los dispositivos.
@@ -132,18 +123,6 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 - Ver nueva entidad: [[Asociacion Argentina de Brangus]]
 - Ver nueva entidad: [[Asociacion Hereford Argentina]]
 - Ver nueva entidad: [[UBIAR]]
-=======
-- **Fricción Regulatoria EUDR**: La [[Friccion EUDR]] en Europa abre una oportunidad para que el sistema de trazabilidad argentino sea más resiliente y proactivo que el europeo.
-- **Fricción Operativa:** Se ratifica el riesgo de cuellos de botella en la emisión del [[DT-e]] por fallas en la lectura RFID o falta de sincronía con SIGSA. La integración de datos genéticos y de calidad (ver [[Asociacion Braford Argentina]]) se vuelve crítica para no perder valor en la recría.
-- **Innovación en Calidad:** El lanzamiento del [[Indice de Calidad de Carne]] (IQ-Carne) transforma la Res. 841/2025 de una obligación burocrática a una herramienta de valor comercial, permitiendo el pago por calidad basado en el ID individual.
-- **Oportunidad SaaS:** Urgencia total por el **Deadline Europa**. Los frigoríficos exportadores (ej: [[Consorcio de Frigorificos ABC]], [[Frigorifico Logros]]) necesitan sistemas que traduzcan la identificación de la Res. 841/2025 en certificados de auditoría automatizados para cumplir con EUDR. Además, surge el trigger de **Identidad Pastoril**: SaaS para certificar atributos de producción a nivel animal.
-- **Relación con UE:** La obligatoriedad de la identificación electrónica es la piedra angular para mantener el acceso al mercado europeo.
-
-## Backlinks
-- Ver impactos en [[Pain Points de Trazabilidad]]
-- Ver objetivos en [[Consorcio de Frigorificos ABC]]
-- Casos de aplicación: [[Frigorifico Logros]]
->>>>>>> origin/jules-11554020896507043946-a418c1bf
 - Oportunidad SaaS: [[EUDR_Compliance_Gateway]]
 - Oportunidad SaaS: [[Premium_Beef_Quality_SaaS]]
 - Concepto relacionado: [[Certificacion Europea Bienestar Animal]]

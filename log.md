@@ -1,7 +1,9 @@
 ## [2026-07-22] sync | Ingesta y Consolidación de Inteligencia Jules Sync (17 de Julio al 22 de Julio)
 
 - **Actualización y Fusión de Ramas Remotas**:
-  - Se han consolidado e integrado de manera segura todas las 7 ramas remotas de Jules en la rama principal `main`, resolviendo quirúrgicamente conflictos en scripts claves (`automate_vault.py`, `scraper.py`) y en notas conceptuales/entidades de la wiki (`Pain Points de Trazabilidad`, `Resolucion SENASA 841-2025`, `Zonas Nucleo Adaptacion Tecnologica`, `Consorcio de Frigorificos ABC`, `Asociacion Braford Argentina`).
+  - Se han consolidado e integrado de manera segura todas las 7 ramas remotas de Jules en la rama principal `main`.
+  - **Resolución de Conflictos**: Se resolvieron quirúrgicamente todos los marcadores de conflicto existentes (`<<<<<<< HEAD`) en `Resolucion SENASA 841-2025.md` consolidando toda la inteligencia.
+  - **Sincronización del Índice**: Se actualizó `index.md` agregando las nuevas entidades (`Cabaña La Tregua`, `UBIAR`, `Valle de Rio Negro Alfalfa`) y conceptos (`Certificacion Bienestar Animal Europea`, `Resolucion SENASA 655-2026`) en sus correspondientes posiciones alfabéticas.
   - Cambios subidos exitosamente a la rama remota de producción (`git push`).
 - **Entidades y Conceptos Actualizados**:
   - [[Resolucion SENASA 841-2025]]: Consolidación total de las actualizaciones del 17 al 22 de julio. Incorporación de los detalles de la **Resolución SENASA 655/2026** (Plan Nacional de Control y Erradicación de la Garrapata) y la convergencia de datos de carencia del fipronil con trazabilidad RFID individual. Integración del lanzamiento de la solución de lectura industrial de **UBIAR** en Palermo 2026.
