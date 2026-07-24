@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/dairy, industria/lactea, economia/circular, trazabilidad/industrial]
-sources: [Bichos de Campo, Industry Reports]
-confidence: high
-last_update: 2026-04-10
+fuentes: [Bichos de Campo, Industry Reports]
+confianza: high
+ultima_actualizacion: 2026-04-10
 ---
 
 # Valorización del Suero de Leche ("Oro Líquido")

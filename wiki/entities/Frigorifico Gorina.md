@@ -1,11 +1,11 @@
 ---
-type: entidad
+tipo: entidad
 category: frigorifico
 priority: high
 tags: [frigorifico, exportador, la_plata, capacidad_expansion, liderazgo, gorina, agtech/targets]
-sources: [Valor Carne - 2026-04-18, daily_summary_2026-04-19, Valor Carne - 2026-04-28]
-confidence: high
-last_update: 2026-04-28
+fuentes: [Valor Carne - 2026-04-18, daily_summary_2026-04-19, Valor Carne - 2026-04-28]
+confianza: high
+ultima_actualizacion: 2026-04-28
 ---
 
 # Frigorífico Gorina
