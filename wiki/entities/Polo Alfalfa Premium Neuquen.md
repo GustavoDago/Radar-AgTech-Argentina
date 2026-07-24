@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [agtech/targets, zona_nucleo, alfalfa, exportacion, neuquen]
-sources: [todoagro.com.ar]
-confidence: medium
-last_update: 2026-04-18
+fuentes: [todoagro.com.ar]
+confianza: medium
+ultima_actualizacion: 2026-04-18
 ---
 
 # Polo Alfalfa Premium Neuquén

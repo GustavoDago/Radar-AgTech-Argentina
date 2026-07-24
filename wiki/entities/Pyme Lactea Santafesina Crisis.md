@@ -1,9 +1,9 @@
 ---
 title: Crisis de Pyme Láctea Santafesina
-type: entidad
+tipo: entidad
 tags: [lecheria, santa_fe, crisis, legal, proveedores]
-sources: [Bichos de Campo, 2026-04-14]
-last_update: 2026-04-14
+fuentes: [Bichos de Campo, 2026-04-14]
+ultima_actualizacion: 2026-04-14
 ---
 
 # Crisis de Pyme Láctea Santafesina (Abril 2026)
