@@ -1,6 +1,8 @@
 # Radar AgTech Argentina - Vault Index
 
 ## 📡 Inteligencia Diaria (Jules Intel)
+- [[2026-07-25]]
+- [[2026-07-24]]
 - [[2026-07-22]]
 - [[2026-07-21]]
 - [[2026-07-20]]
@@ -223,4 +225,4 @@
 - [[Veto Europeo Carnes Brasilenas]]
 
 ---
-*Última sincronización: 2026-07-22*
+*Última sincronización: 2026-07-25*
