@@ -1,27 +1,27 @@
 ---
 tipo: concepto
-tags: [agtech/compliance, ganaderia/bienestar_animal, exportacion/europa, calidad/certificacion]
-fuentes: [INTA Informa, daily_summary_2026-07-16, daily_summary_2026-07-24, daily_summary_2026-07-25, daily_summary_2026-07-26, field_intelligence]
+tags: [agtech/compliance, ganaderia/bienestar_animal, exportacion/europa, calidad/certificacion, welfair]
+fuentes: [INTA Informa, daily_summary_2026-07-16, daily_summary_2026-07-21, daily_summary_2026-07-24, daily_summary_2026-07-25, daily_summary_2026-07-26, daily_summary_2026-07-29, field_intelligence]
 confianza: alta
-ultima_actualizacion: 2026-07-26
+ultima_actualizacion: 2026-07-29
 ---
 
 # Certificación Europea en Bienestar Animal (Welfair®)
 
 ## Descripción
-La llegada y expansión de la certificación europea en bienestar animal **Welfair®** a Latinoamérica (impulsada con el soporte de especialistas del INTA) representa un nuevo estándar de cumplimiento auditable para la industria frigorífica exportadora y mega-establecimientos.
+La llegada y expansión de la certificación europea en bienestar animal **Welfair®** a Latinoamérica (impulsada con el soporte de especialistas del INTA) representa un nuevo estándar de cumplimiento auditable y el sello técnico de oro de la Unión Europea para la industria frigorífica exportadora y mega-establecimientos ganaderos.
 
 Esta certificación evalúa de manera rigurosa cuatro principios éticos fundamentales:
-1. **Alimentación**: Nutrición adecuada y libre de sed/hambre.
-2. **Alojamiento**: Confort en áreas de descanso y facilidad de movimiento.
-3. **Salud**: Ausencia de dolor, lesiones o enfermedades curables.
-4. **Comportamiento**: Expresión de conductas sociales positivas y buena relación con los humanos.
+1. **Alimentación**: Nutrición adecuada, ausencia de hambre prolongada y sed.
+2. **Alojamiento**: Confort físico en áreas de descanso, confort térmico y facilidad de movimiento.
+3. **Salud**: Ausencia de lesiones, dolor derivado del manejo o enfermedades curables.
+4. **Comportamiento**: Expresión de conductas sociales normales, relación humano-animal positiva y estado emocional positivo (reducción de estrés).
 
 ## Contexto y Relevancia Comercial (Julio 2026)
-- **Acceso Directo a Mercados Premium & Cuota Hilton:** Obtener este sello permite a los frigoríficos exportadores argentinos (encabezados por los 81 beneficiarios de la Cuota Hilton: Swift, Gorina, ArreBeef, Rioplatense, Minerva del [[Consorcio de Frigorificos ABC]]) mantener el acceso preferencial y capturar primas de precio en las cadenas de distribución europeas.
+- **Acceso Directo a Mercados Premium & Cuota Hilton:** Obtener este sello permite a los frigoríficos exportadores argentinos (encabezados por los beneficiarios de la Cuota Hilton: Swift, Gorina, ArreBeef, Rioplatense, Minerva del [[Consorcio de Frigorificos ABC]]) mantener el acceso preferencial y capturar primas de precio en las cadenas de distribución europeas.
 - **Día Cero Exclusiones ("Brasil-Out"):** Ante el veto oficial de la UE a las exportaciones de carne brasileña (estimado para Septiembre de 2026), los exportadores de Argentina tienen una ventana de oportunidad crítica para ganar cuota de mercado en Europa. La certificación en bienestar animal y el cumplimiento de la normativa de libre deforestación (EUDR) son las dos barreras técnicas indispensables.
-- **Dolor Operativo en Carga y Transporte:** El bienestar animal se ve gravemente afectado durante transportes de larga distancia y demoras en guías de tránsito. Se requieren herramientas digitales auditables para registrar tiempos de espera y evitar castigos por estrés animal o machucones (mermas físicas).
-- **Relación con Calidad de Carne (Marbling vs. Dark Cutting):** Existe una correlación directa entre el confort animal previo a faena y la calidad de res. El estrés premortem genera bife oscuro (*dark cutting*) y graves mermas comerciales en cortes marmoleados de exportación.
+- **Dolor Operativo en Carga y Transporte:** El bienestar animal se ve gravemente afectado durante transportes de larga distancia y demoras en guías de tránsito. Se requieren herramientas digitales auditables para registrar tiempos de espera y evitar castigos por estrés animal, mermas de peso por deshidratación o machucones.
+- **Relación con Calidad de Carne (Marbling vs. Dark Cutting):** Existe una correlación directa entre el confort animal previo a faena y la calidad de res. El estrés premortem altera el pH de la carne, generando bife oscuro (*dark cutting*) y graves mermas comerciales en cortes marmoleados de exportación.
 
 ## Sinergia con la Trazabilidad Electrónica RFID (Res. 841/2025)
 La implementación de auditorías para la certificación de Bienestar Animal se simplifica drásticamente cuando se cuenta con una base de datos de trazabilidad individual:
@@ -40,4 +40,5 @@ La implementación de auditorías para la certificación de Bienestar Animal se 
 - [[Resolucion SENASA 841-2025]]
 - [[Pain Points de Trazabilidad]]
 - [[Consorcio de Frigorificos ABC]]
+- [[Frigorifico Gorina]]
 - [[Zonas Nucleo Adaptacion Tecnologica]]

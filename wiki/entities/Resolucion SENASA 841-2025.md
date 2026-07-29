@@ -1,9 +1,9 @@
 ---
 tipo: entidad
 tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
-fuentes: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-05-26, daily_summary_2026-05-28, daily_summary_2026-06-28, daily_summary_2026-07-17, daily_summary_2026-07-22, daily_summary_2026-07-24, daily_summary_2026-07-25, daily_summary_2026-07-26, daily_summary_2026-07-27, daily_summary_2026-07-28, Valor Carne - 2026-07-23, INTA Informa - 2026-07-17]
+fuentes: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-05-26, daily_summary_2026-05-28, daily_summary_2026-06-28, daily_summary_2026-07-17, daily_summary_2026-07-22, daily_summary_2026-07-24, daily_summary_2026-07-25, daily_summary_2026-07-26, daily_summary_2026-07-27, daily_summary_2026-07-28, daily_summary_2026-07-29, Valor Carne - 2026-07-23, INTA Informa - 2026-07-17]
 confianza: alta
-ultima_actualizacion: 2026-07-28
+ultima_actualizacion: 2026-07-29
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
@@ -11,7 +11,9 @@ ultima_actualizacion: 2026-07-28
 ## Resumen Ejecutivo
 La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada definitivamente en el Boletín Oficial**, confirmando el plazo del **1 de enero de 2026** para todos los terneros/as del país. La publicación definitiva de los anexos técnicos el **26 de junio de 2026** y las ratificaciones posteriores consolidan un marco regulatorio ineludible ante las exigencias internacionales de auditoría (EUDR).
 
-**Actualización 28/07/2026**: A medida que avanza el cronograma de SENASA, el foco de la trazabilidad RFID pasa del simple cumplimiento legal a la habilitación de **sellos de calidad comerciales (IA + Marmoreo)** y la gestión de contingencias sanitarias (trazabilidad veterinaria). La necesidad de conectar los datos biológicos individuales desde el campo hasta la gancho se consolida como el principal dolor de integración de los frigoríficos exportadores.
+**Actualización 29/07/2026**: A medida que avanza el cronograma de SENASA, el foco de la trazabilidad RFID pasa del simple cumplimiento legal a la habilitación de **sellos de calidad comerciales (IA + Marmoreo)** y la gestión de contingencias sanitarias (trazabilidad veterinaria). La necesidad de conectar los datos biológicos individuales desde el campo hasta la gancho se consolida como el principal dolor de integración de los frigoríficos exportadores.
+
+**Actualización 28/07/2026**: A medida que avanza el cronograma de SENASA, el foco de la trazabilidad RFID pasa del simple cumplimiento legal a la habilitación de sellos de calidad comerciales (IA + Marmoreo) y la gestión de contingencias sanitarias (trazabilidad veterinaria). La necesidad de conectar los datos biológicos individuales desde el campo hasta el gancho se consolida como el principal dolor de integración de los frigoríficos exportadores.
 
 **Actualización 27/07/2026**: Nuevos datos técnicos presentados por el Gobierno nacional, el INTA, la Secretaría de Agricultura y productores de Mercedes (Corrientes) confirman el alto impacto del Sistema Nacional de Trazabilidad Individual Electrónica. Al analizar la historia reproductiva y productiva de cada vientre, la tecnología RFID individual incrementa directamente la rentabilidad ganadera hasta un 20%. Asimismo, el informe de Greenpeace sobre 40.000 hectáreas deforestadas en el norte argentino acelera la necesidad de integrar la identificación oficial RFID con sistemas de geolocalización satelital para el cumplimiento inmediato de las auditorías de deforestación cero de la Unión Europea (EUDR).
 
@@ -109,7 +111,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 
 ## Implicancias Estratégicas y de Negocio (Actualización Julio 2026)
 - **Fricción Regulatoria EUDR (27/07/2026)**: El desmonte de 40,000 hectáreas en el norte del país denunciado por Greenpeace incrementa el riesgo de exclusión de exportadores ganaderos. La trazabilidad oficial de la Res. 841/2025 debe integrarse con polígonos de geolocalización satelital para mitigar la fricción con la UE.
-- **Fricción Regulatoria de Residuos (Res. 655/2026)**: El nuevo Plan Nacional de Garrapata obliga a realizar bioensayos a los establecimientos que registren parásitos. El endurecimiento de los controles de la UE por residuos químicos (ej: carencia de fipronil) requiere que los frigoríficos cuenten con una base de datos robusta vinculada al ID electrónico de cada novillo.
+- **Fricción Regulatoria de Residuos (Res. 655/2026)**: El nuevo Plan Nacional de Garrapata obliga a realizar bioensayos a los establecimientos que registren parásitos. El enduring de los controles de la UE por residuos químicos (ej: carencia de fipronil) requiere que los frigoríficos cuenten con una base de datos robusta vinculada al ID electrónico de cada novillo.
 - **Fricción Operativa y Soluciones RFID (Palermo 2026)**: Se reducen las demoras en la recepción de plantas mediante sistemas integrados como el de UBIAR, que asocian directamente el lector LFRFID de caravanas al sistema ERP, mitigando el colapso de SIGSA.
 - **Rentabilidad & ROI del Productor (Julio 2026)**: Estudios del INTA ratifican que el seguimiento electrónico individual de peso diario permite optimizar decisiones ganaderas y de conversión de pasto a carne, ofreciendo un retorno de inversión claro frente al costo de los dispositivos.
 - **Certificación de Bienestar Animal de la UE**: Capa regulatoria adicional en la exportación que requiere auditorías no manipulables sobre el trato animal, sustentadas únicamente sobre el ID electrónico de la Res. 841/2025 (ver [[Certificacion Bienestar Animal Europea]]).
