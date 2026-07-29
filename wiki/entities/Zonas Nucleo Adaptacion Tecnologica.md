@@ -1,14 +1,24 @@
 ---
 tipo: entidad
 tags: [agtech/targets, comercial/zonas_nucleo, argentina/provincias]
+<<<<<<< HEAD
 fuentes: [field_intelligence, industry_reports, daily_summary_2026-06-05, daily_summary_2026-06-24, daily_summary_2026-07-26, INTA Informa - 2026-07-26]
 confianza: alta
 ultima_actualizacion: 2026-07-26
+=======
+fuentes: [field_intelligence, industry_reports, daily_summary_2026-07-27]
+confianza: high
+ultima_actualizacion: 2026-07-27
+>>>>>>> origin/feature/agtech-intelligence-update-2026-07-27-8327015094088152979
 ---
 
 # Zonas Núcleo y Adaptación Tecnológica: Visitas Comerciales
 
+<<<<<<< HEAD
 ## Zonas Críticas para Visitas Presenciales (Línea de Tiempo 2026)
+=======
+## Zonas Críticas para Visitas Presenciales (Actualizado Julio 2026)
+>>>>>>> origin/feature/agtech-intelligence-update-2026-07-27-8327015094088152979
 
 ### 0. San Francisco (Córdoba) - Clúster de Alfalfa Exportadora & Triggers de Expansión
 - **Perfil:** Exportación masiva de alfalfa a mercados árabes y globales.
@@ -17,6 +27,7 @@ ultima_actualizacion: 2026-07-26
   - **Inversión de Cadaf:** Ampliación de la infraestructura de procesamiento para duplicar exportaciones, exigiendo trazabilidad granular del origen de los fardos y optimización logística.
 - **Acción:** Contactar directivos del clúster de alfalfa y de Cadaf para ofrecer auditorías logísticas y de origen.
 
+<<<<<<< HEAD
 ### 1. Nogoyá (Entre Ríos) - Trazabilidad & Genética (Prioridad Inmediata)
 - **Perfil:** Cuenca de lechería especializada y foco en genética Jersey (ExpoLeche).
 - **Acción:** Contactar cabañas y tambos de punta interesados en la trazabilidad individual electrónica aplicada a la selección genética y su valorización reproductiva (captar early adopters).
@@ -38,6 +49,25 @@ ultima_actualizacion: 2026-07-26
   - **Saturación en Feedlots (14/06/2026):** Alta densidad de hacienda en corrales profesionales exige la lectura RFID automatizada para evitar demoras en ingresos/salidas de SIGSA.
   - **Reglamento EUDR & Certificación Welfair®:** Demostrar origen libre de deforestación por cabeza y automatizar auditorías de trato animal pre-faena ante el escenario "Brasil-Out" (veto de la UE a carne brasileña en Septiembre 2026).
 - **Acción:** Presentar a gerentes de calidad el módulo [[EUDR_Compliance_Gateway]] y la solución de auditoría automatizada de Bienestar Animal para frigoríficos exportadores en Rosario y norte de Buenos Aires.
+=======
+### 1. Nogoyá (Entre Ríos) - PRIORIDAD INMEDIATA
+- **Evento:** ExpoLeche.
+- **Perfil:** Foco en genética Jersey y lechería especializada.
+- **Acción:** Presencia comercial para captar early adopters de trazabilidad individual electrónica aplicada a la selección genética de precisión.
+
+### 2. Cuenca Lechera Rafaela y Centro de Santa Fe (Rafaela, Franck) - ACTUALIZADO JULIO 2026
+- **Perfil:** Mayor concentración de mega-tambos del país, muchos con sistemas estabulados y robóticos (con más de 400 tambos robotizados en Argentina como hito país).
+- **Triggers Críticos de la Zona:**
+  - **Tambo Roca (Rafaela):** INTA validó con éxito el modelo de seguridad hídrica, demostrando que la planificación del uso de agua (calidad, cantidad, reciclaje y continuidad) es altamente rentable para estabilizar rodeos y expandir la capacidad del tambo sin restricciones de recursos.
+  - **Franck (Santa Fe - Las Colonias):** La historia del productor Mario "Pipa" Rossi ilustra la evolución de un pequeño tambo familiar hacia una gestión agrícola/lechera estricta impulsada por "los números" ("para sobrevivir hay que saber de números"). Representa el dolor de la transición de agricultura intuitiva a la digitalización de costos y control de stock individual.
+- **Acción:** Visitar de forma prioritaria Tambo Roca y a los remitentes del nodo Franck-Rafaela (Las Colonias/Castellanos) con más de 1,000 vacas en ordeñe para ofrecer la suite de gestión integrada (RFID + Sensores de Agua y Alimentación).
+
+### 3. Eje Rosario - Trenque Lauquen (Santa Fe - Buenos Aires) y Nodos de Exportación del Norte - ACTUALIZADO JULIO 2026
+- **Perfil:** Corredor de los principales frigoríficos del **Consorcio ABC**, mega-feedlots y nodos ganaderos de exportación.
+- **Trigger Crítico (Julio 2026):** Greenpeace denunció el desmonte ilegal de 40,000 hectáreas en el norte del país (Formosa, Chaco, Salta, Santiago del Estero) durante el primer semestre de 2026. Los frigoríficos exportadores que se abastecen de estas regiones enfrentan el riesgo inmediato de auditorías y bloqueos comerciales por el reglamento EUDR de la Unión Europea.
+- **Necesidad Tecnológica:** El cumplimiento exige de manera inminente una auditoría automatizada y geolocalizada de cada lote. Los sistemas deben vincular de forma transparente la caravana RFID oficial ([[Resolucion SENASA 841-2025]]) con polígonos satelitales de libre deforestación para certificar embarques "deforestación cero".
+- **Acción:** Reunión urgente con directores de calidad de frigoríficos exportadores del Consorcio ABC y mega-feedlots del eje para ofrecer integraciones con [[EUDR_Compliance_Gateway]].
+>>>>>>> origin/feature/agtech-intelligence-update-2026-07-27-8327015094088152979
 
 ### 4. Cuenca Villa María (Córdoba) - Hub de Innovación & Beef on Dairy
 - **Perfil:** Zona de gran desarrollo lácteo y sede de **TodoLáctea**. Concentra tambos de escala que están migrando masivamente al modelo *Beef on Dairy*.
