@@ -1,9 +1,9 @@
 ---
 tipo: entidad
 tags: [asociacion, criadores, hereford, pruebas_pastoriles, genetica, calidad_carne, agtech/targets]
-fuentes: [INTA Informa, Valor Carne, Bichos de Campo, Infocampo, daily_summary_2026-07-17, daily_summary_2026-07-24, daily_summary_2026-07-25, daily_summary_2026-07-26]
+fuentes: [INTA Informa, Valor Carne, Bichos de Campo, Infocampo, daily_summary_2026-07-17, daily_summary_2026-07-24, daily_summary_2026-07-25, daily_summary_2026-07-26, daily_summary_2026-07-28]
 confianza: alta
-ultima_actualizacion: 2026-07-26
+ultima_actualizacion: 2026-07-28
 ---
 
 # Asociación Argentina de Criadores de Hereford
@@ -14,7 +14,7 @@ La Asociación Argentina de Criadores de Hereford (Asociación Hereford Argentin
 ## Triggers y Señales de Compra (Actualizado Julio 2026)
 
 ### 1. Programa de Medición de Marmoreo con Inteligencia Artificial
-- **Sello Hereford Beef con IA (24/07/2026 & 26/07/2026):** Campos pioneros del programa de carne certificada **Hereford Beef** han contratado startups de Inteligencia Artificial para medir objetivamente atributos de calidad y porcentaje de marmoreo (*marbling*) directamente en la línea de faena de los frigoríficos (ej. evaluación de 500 novillos terminados), permitiendo ofrecer cortes con códigos QR de trazabilidad total.
+- **Sello Hereford Beef con IA (24/07/2026 & 28/07/2026):** Campos pioneros del programa de carne certificada **Hereford Beef** han contratado startups de Inteligencia Artificial para medir objetivamente atributos de calidad y porcentaje de marmoreo (*marbling*) directamente en la línea de faena de los frigoríficos (ej. evaluación de 500 novillos terminados), permitiendo ofrecer cortes con códigos QR de trazabilidad total.
 - **Fin del "Venta por Kilo":** Este hito representa un cambio de paradigma hacia la comercialización por calidad de carne y diferenciación de valor, ofreciendo cortes trazados mediante códigos QR directo al consumidor final.
 - **Demanda SaaS:** Alta urgencia por software de recolección y análisis de datos en plantas de faena que asocie los identificadores RFID individuales con las mediciones de calidad de carcasa de IA.
 
