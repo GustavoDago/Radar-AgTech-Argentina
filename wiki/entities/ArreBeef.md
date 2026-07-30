@@ -1,10 +1,10 @@
 ---
-type: entidad
+tipo: entidad
 tags: [frigorifico, exportacion, perez_millan, china, suspension, biogas, sustentabilidad]
 location: Pérez Millán, Buenos Aires
 main_markets: [China (Suspendido), UE, EEUU, Israel]
 employees_affected: 400
-last_update: 2026-04-15
+ultima_actualizacion: 2026-04-15
 ---
 
 # ArreBeef S.A.

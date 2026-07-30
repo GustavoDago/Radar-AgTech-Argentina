@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
-sources: [industry_reports, market_feedback, daily_summary_2026-04-08]
-confidence: high
-last_update: 2026-04-17
+fuentes: [industry_reports, market_feedback, daily_summary_2026-04-08, daily_summary_2026-07-30]
+confianza: alta
+ultima_actualizacion: 2026-07-30
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
@@ -20,6 +20,7 @@ last_update: 2026-04-17
 - **Auditorías Externas:** Necesidad de reportes instantáneos para auditorías de la Unión Europea sobre el origen electrónico del animal.
 - **Deadline Europa (1º de Mayo - Urgencia Crítica):** Ratificado el 1 de mayo como la "hora cero" (D-Day) para embarques a la UE bajo las nuevas normativas de libre deforestación (EUDR) y trazabilidad granular. Los frigoríficos del [[Consorcio de Frigorificos ABC]] (ej: [[Frigorifico Logros]]) están bajo presión máxima para auditar el origen electrónico y geográfico de cada animal. El sistema SIGSA/SENASA actual presenta baches de información que requieren validación SaaS externa inmediata.
 - **Pérdida de Stock Vacuno:** Datos oficiales de 2025 confirman una **pérdida de 700.000 cabezas** (con una pérdida estructural de 3.2M desde 2022). Esta escasez de oferta eleva el valor estratégico de cada animal y acelera la adopción de "Beef on Dairy". El dolor técnico es la **segregación de datos** y la captura de primas de calidad mediante el monitoreo individual indispensable.
+- **Validación del ROI Pastoril y Reproductivo (30/07/2026)**: Datos del Gobierno e INTA en Corrientes demuestran que la trazabilidad individual electrónica mitiga la pérdida de eficiencia al permitir el seguimiento individual de vientres. Además, balanzas de pesaje al paso y comederos inteligentes en Córdoba permiten un 20% de sobreprecio sobre el ternero común, demostrando el retorno real de la tecnología y superando la resistencia inicial al costo del hardware RFID.
 
 ## Oportunidades de Venta Directa
 - Software que funcione offline y sincronice con SIGSA cuando haya conexión.
@@ -31,3 +32,5 @@ last_update: 2026-04-17
 - Ver normativa en [[Resolucion SENASA 841-2025]]
 - Ver clientes potenciales en [[Zonas Nucleo Adaptacion Tecnologica]]
 - Casos críticos: [[Frigorifico Logros]]
+- Entidades asociadas: [[Asociacion Hereford Argentina]]
+- Conceptos clave: [[Certificacion Bienestar Animal Europea]]
