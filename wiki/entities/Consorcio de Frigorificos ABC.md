@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [agtech/targets, frigorificos, exportacion, eudr, consorcio_abc]
-sources: [valorcarne.com.ar, bichosdecampo.com]
-confidence: high
-last_update: 2026-04-09
+fuentes: [valorcarne.com.ar, bichosdecampo.com]
+confianza: alta
+ultima_actualizacion: 2026-04-09
 ---
 
 # Consorcio de Frigoríficos ABC

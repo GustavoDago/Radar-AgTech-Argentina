@@ -1,9 +1,9 @@
 ---
-type: oportunidad
-high_leverage: yes
-tech_stack: [Java/Spring Boot, Python/FastAPI (ML), PostgreSQL]
-target: Tambos Medianos y Grandes / Asesores Genéticos
-last_critique: 2026-04-05
+tipo: oportunidad
+alto_impacto: yes
+tecnologias: [Java/Spring Boot, Python/FastAPI (ML), PostgreSQL]
+objetivo: Tambos Medianos y Grandes / Asesores Genéticos
+ultima_critica: 2026-04-05
 ---
 
 # Beef on Dairy Analytics Engine: Motor de Decisión Genética y Rentabilidad

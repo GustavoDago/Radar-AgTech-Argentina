@@ -1,9 +1,9 @@
 ---
-type: oportunidad
-high_leverage: yes
-tech_stack: [Java/SpringBoot]
-target: [Productores Zona Núcleo | Inversores Ambientales | Empresas con Meta Carbono Cero]
-last_critique: 2026-04-13
+tipo: oportunidad
+alto_impacto: yes
+tecnologias: [Java/SpringBoot]
+objetivo: [Productores Zona Núcleo | Inversores Ambientales | Empresas con Meta Carbono Cero]
+ultima_critica: 2026-04-13
 ---
 # SaaS de Verificación (MRV) para el Mercado de Valores Ambientales (MEVA)
 

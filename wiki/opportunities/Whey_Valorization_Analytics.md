@@ -1,10 +1,10 @@
 ---
-type: oportunidad
-high_leverage: yes
-tech_stack: [Java/Quarkus, Kafka, TimescaleDB]
-target: [Industrias Lacteas (Cuenca Central) | Mega-Tambos | Exportadores de WPC]
-last_update: 2026-04-10
-last_critique: 2026-04-10
+tipo: oportunidad
+alto_impacto: yes
+tecnologias: [Java/Quarkus, Kafka, TimescaleDB]
+objetivo: [Industrias Lacteas (Cuenca Central) | Mega-Tambos | Exportadores de WPC]
+ultima_actualizacion: 2026-04-10
+ultima_critica: 2026-04-10
 ---
 
 # Whey Insight Engine: Monetizando el "Oro Líquido"

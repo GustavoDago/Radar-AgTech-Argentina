@@ -1,9 +1,9 @@
 ---
-type: oportunidad
-high_leverage: yes
-tech_stack: [Java/Quarkus/Spring]
-target: [CADAF | Exportadores de Alfalfa San Francisco]
-last_critique: 2026-04-11
+tipo: oportunidad
+alto_impacto: yes
+tecnologias: [Java/Quarkus/Spring]
+objetivo: [CADAF | Exportadores de Alfalfa San Francisco]
+ultima_critica: 2026-04-11
 ---
 
 # Alfalfa Export Traceability & Quality Compliance (AETQC)

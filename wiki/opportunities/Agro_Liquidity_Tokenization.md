@@ -1,9 +1,9 @@
 ---
-type: oportunidad
-high_leverage: yes
-tech_stack: [Java/Spring Boot/Web3j]
-target: [Productores con Excedente de Liquidez | Empresas de Insumos | Inversores Retail]
-last_critique: 2026-04-12
+tipo: oportunidad
+alto_impacto: yes
+tecnologias: [Java/Spring Boot/Web3j]
+objetivo: [Productores con Excedente de Liquidez | Empresas de Insumos | Inversores Retail]
+ultima_critica: 2026-04-12
 ---
 # Tokenización de Liquidez Agropecuaria (Agro-YTM)
 

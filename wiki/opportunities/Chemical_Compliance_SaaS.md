@@ -1,10 +1,10 @@
 ---
-type: oportunidad
-high_leverage: yes
-tech_stack: [Java/Quarkus, PostgreSQL, IoT]
-target: [ArreBeef | Swift | Frigorifico Logros | Consorcio ABC]
-last_update: 2026-04-15
-last_critique: 2026-04-15
+tipo: oportunidad
+alto_impacto: yes
+tecnologias: [Java/Quarkus, PostgreSQL, IoT]
+objetivo: [ArreBeef | Swift | Frigorifico Logros | Consorcio ABC]
+ultima_actualizacion: 2026-04-15
+ultima_critica: 2026-04-15
 ---
 
 # Meat Sanitary Shield: SaaS de Trazabilidad Química de Insumos

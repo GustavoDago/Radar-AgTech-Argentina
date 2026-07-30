@@ -1,10 +1,10 @@
 ---
-type: oportunidad
-high_leverage: yes
-tech_stack: [Java/Quarkus, PostgreSQL, PostGIS]
-target: [Consorcio de Frigorificos ABC | Asociaciones de Criadores | Frigorifico Logros]
-last_update: 2026-04-15
-last_critique: 2026-04-15
+tipo: oportunidad
+alto_impacto: yes
+tecnologias: [Java/Quarkus, PostgreSQL, PostGIS]
+objetivo: [Consorcio de Frigorificos ABC | Asociaciones de Criadores | Frigorifico Logros]
+ultima_actualizacion: 2026-04-15
+ultima_critica: 2026-04-15
 ---
 
 # Argentina Premium Beef Data-Gateway
