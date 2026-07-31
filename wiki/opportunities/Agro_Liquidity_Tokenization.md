@@ -1,5 +1,5 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: [Java/Spring Boot/Web3j]
 target: [Productores con Excedente de Liquidez | Empresas de Insumos | Inversores Retail]

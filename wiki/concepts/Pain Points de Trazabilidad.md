@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/trazabilidad, operativo/pain_points, ganaderia/rfid, tecnologia/sigsa]
-sources: [industry_reports, market_feedback, daily_summary_2026-04-08]
-confidence: high
-last_update: 2026-04-17
+fuentes: [industry_reports, market_feedback, daily_summary_2026-04-08, INTA Informa - 2026-07-31]
+confianza: alta
+ultima_actualizacion: 2026-07-31
 ---
 
 # Pain Points de Trazabilidad: RFID y SIGSA
@@ -15,11 +15,12 @@ last_update: 2026-04-17
 4. **Inconsistencias en la Recuperación en Faena:** Los frigoríficos enfrentan el desafío de recuperar dispositivos (microchips o bolos) durante la línea de faena para evitar contaminación física del producto.
 5. **Gestión de "Beef on Dairy":** La adopción de cruzas cárnicas en tambos (estrategia para valorizar el descarte) requiere una trazabilidad individual absoluta para diferenciar terneros de reposición vs. terneros para carne desde el día 1, evitando errores en la recría.
 
-## Desafíos de Cumplimiento (Actualizado Abril 2026)
+## Desafíos de Cumplimiento (Actualizado Julio 2026)
 - **Resolución 841/2025:** Obligatoriedad de lectura electrónica para todos los movimientos a partir de 2026. La falta de infraestructura (lectores, conectividad) es un cuello de botella crítico.
 - **Auditorías Externas:** Necesidad de reportes instantáneos para auditorías de la Unión Europea sobre el origen electrónico del animal.
 - **Deadline Europa (1º de Mayo - Urgencia Crítica):** Ratificado el 1 de mayo como la "hora cero" (D-Day) para embarques a la UE bajo las nuevas normativas de libre deforestación (EUDR) y trazabilidad granular. Los frigoríficos del [[Consorcio de Frigorificos ABC]] (ej: [[Frigorifico Logros]]) están bajo presión máxima para auditar el origen electrónico y geográfico de cada animal. El sistema SIGSA/SENASA actual presenta baches de información que requieren validación SaaS externa inmediata.
 - **Pérdida de Stock Vacuno:** Datos oficiales de 2025 confirman una **pérdida de 700.000 cabezas** (con una pérdida estructural de 3.2M desde 2022). Esta escasez de oferta eleva el valor estratégico de cada animal y acelera la adopción de "Beef on Dairy". El dolor técnico es la **segregación de datos** y la captura de primas de calidad mediante el monitoreo individual indispensable.
+- **Valorización de Calidad y Marmoleado (31/07/2026)**: El abandono progresivo de la venta por lote y volumen a favor de programas premium (como el de Hereford Beef que evalúa la calidad de marmoleado con IA) exige asociar de manera infalible la caravana RFID con el historial sanitario, nutricional y genético de cada animal. Existe un gap de integración técnica crítica de datos entre los lectores de campo y los sistemas centrales de certificación.
 
 ## Oportunidades de Venta Directa
 - Software que funcione offline y sincronice con SIGSA cuando haya conexión.

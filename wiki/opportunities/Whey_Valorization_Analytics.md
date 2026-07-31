@@ -1,9 +1,9 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: [Java/Quarkus, Kafka, TimescaleDB]
 target: [Industrias Lacteas (Cuenca Central) | Mega-Tambos | Exportadores de WPC]
-last_update: 2026-04-10
+ultima_actualizacion: 2026-04-10
 last_critique: 2026-04-10
 ---
 
