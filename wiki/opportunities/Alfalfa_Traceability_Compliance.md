@@ -1,5 +1,5 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: [Java/Quarkus/Spring]
 target: [CADAF | Exportadores de Alfalfa San Francisco]

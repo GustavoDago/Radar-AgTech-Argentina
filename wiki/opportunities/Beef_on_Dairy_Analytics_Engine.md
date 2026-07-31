@@ -1,5 +1,5 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: [Java/Spring Boot, Python/FastAPI (ML), PostgreSQL]
 target: Tambos Medianos y Grandes / Asesores Genéticos
