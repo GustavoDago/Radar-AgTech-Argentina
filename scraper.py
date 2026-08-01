@@ -58,21 +58,42 @@ def is_relevant(text):
     return any(kw.lower() in text for kw in KEYWORDS)
 
 def scrape_feeds():
+    import urllib3
+    urllib3.disable_warnings()
     results = []
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+    }
     for name, url in SOURCES.items():
         print(f"Scraping {name}...")
-        feed = feedparser.parse(url)
-        for entry in feed.entries:
-            content = entry.get("summary", "") + " " + entry.get("description", "")
-            full_text = entry.title + " " + content
-            if is_relevant(full_text):
-                results.append({
-                    "source": name,
-                    "title": entry.title,
-                    "link": entry.link,
-                    "date": entry.get("published", datetime.now().isoformat()),
-                    "content": content
-                })
+        try:
+            # Fetch content with requests to apply headers, timeout, and verify=False
+            response = requests.get(url, headers=headers, timeout=15, verify=False)
+            if response.status_code != 200:
+                print(f"Error scraping {name}: HTTP {response.status_code}")
+                continue
+
+            # Parse feed content with feedparser
+            feed = feedparser.parse(response.content)
+
+            # Limit to top 50 entries
+            entries = feed.entries[:50]
+            print(f"Parsed {len(entries)} entries for {name}")
+
+            for entry in entries:
+                content = entry.get("summary", "") + " " + entry.get("description", "")
+                full_text = entry.title + " " + content
+                if is_relevant(full_text):
+                    results.append({
+                        "source": name,
+                        "title": entry.title,
+                        "link": entry.link,
+                        "date": entry.get("published", datetime.now().isoformat()),
+                        "content": content
+                    })
+        except Exception as e:
+            print(f"Exception while scraping {name}: {e}")
+
     return results
 
 def scrape_boletin_oficial():
@@ -82,11 +103,13 @@ def scrape_boletin_oficial():
     vía parámetros de URL para filtrar por organismos clave.
     """
     print("Scraping Boletín Oficial (SENASA/SAGyP)...")
-    # URL de búsqueda para el organismo SENASA (ID 125 aprox) o búsqueda por texto
     search_url = "https://www.boletinoficial.gob.ar/seccion/primera"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+    }
 
     try:
-        response = requests.get(search_url, timeout=10)
+        response = requests.get(search_url, headers=headers, timeout=15, verify=False)
         if response.status_code == 200:
             # En una implementación real con Selenium o Playwright se extraería más,
             # aquí mantenemos la referencia a la Res. 841/2025 como hito crítico
