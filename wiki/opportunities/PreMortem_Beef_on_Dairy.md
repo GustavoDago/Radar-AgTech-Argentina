@@ -1,5 +1,5 @@
 ---
-type: premortem
+tipo: premortem
 opportunity: "[[Beef_on_Dairy_Analytics_Engine]]"
 high_leverage: yes
 last_critique: 2026-05-25

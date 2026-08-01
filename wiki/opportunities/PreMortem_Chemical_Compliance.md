@@ -1,9 +1,9 @@
 ---
-type: pre_mortem
+tipo: pre_mortem
 high_leverage: yes
 tech_stack: [Java/Quarkus, PostgreSQL, IoT]
 target: [ArreBeef | Swift | Frigorífico Logros | Consorcio ABC]
-last_update: 2026-05-25
+ultima_actualizacion: 2026-05-25
 ---
 
 # Pre-Mortem: Meat Sanitary Shield (MSS)

@@ -1,7 +1,7 @@
 ---
-type: premortem
+tipo: premortem
 opportunity: "[[Orphan_Tambo_Liquidity_Network]]"
-date: 2026-05-25
+fecha: 2026-05-25
 status: completed
 verdict: REQUIERE REDISEÑO FUNDAMENTAL
 ---

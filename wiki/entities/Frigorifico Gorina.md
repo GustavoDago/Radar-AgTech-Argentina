@@ -4,7 +4,7 @@ category: frigorifico
 priority: high
 tags: [frigorifico, exportador, la_plata, capacidad_expansion, liderazgo, gorina, agtech/targets]
 fuentes: [Valor Carne - 2026-04-18, daily_summary_2026-04-19, Valor Carne - 2026-04-28]
-confianza: high
+confianza: alta
 ultima_actualizacion: 2026-04-28
 ---
 

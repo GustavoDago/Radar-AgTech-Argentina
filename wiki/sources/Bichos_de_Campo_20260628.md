@@ -1,7 +1,7 @@
 ---
-type: resumen
+tipo: resumen
 source: Bichos de Campo
-date: 2026-06-28
+fecha: 2026-06-28
 tags: [lecheria, sancor, fertilizantes, agricultura_regenerativa]
 ---
 

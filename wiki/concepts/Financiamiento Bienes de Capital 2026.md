@@ -1,8 +1,8 @@
 ---
-type: concepto
+tipo: concepto
 tags: [financiamiento, agtech/adopcion, argentina/santa_fe]
-sources: [Bichos de Campo - 2026-06-04, Infocampo - 2026-06-04]
-last_update: 2026-06-04
+fuentes: [Bichos de Campo - 2026-06-04, Infocampo - 2026-06-04]
+ultima_actualizacion: 2026-06-04
 ---
 
 # Financiamiento Agresivo para Bienes de Capital (Agroactiva 2026)

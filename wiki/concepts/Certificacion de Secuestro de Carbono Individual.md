@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/sustainability, carne/huella_carbono, eudr, rfid]
-sources: [valorcarne.com.ar, daily_summary_2026-05-26]
-confidence: medium
-last_update: 2026-05-26
+fuentes: [valorcarne.com.ar, daily_summary_2026-05-26]
+confianza: media
+ultima_actualizacion: 2026-05-26
 ---
 
 # Certificación de Secuestro de Carbono Individual

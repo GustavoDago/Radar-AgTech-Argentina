@@ -1,7 +1,7 @@
 ---
-type: resumen
+tipo: resumen
 source: Boletín Oficial
-date: 2026-06-28
+fecha: 2026-06-28
 tags: [senasa, normativa, trazabilidad, rfid]
 ---
 

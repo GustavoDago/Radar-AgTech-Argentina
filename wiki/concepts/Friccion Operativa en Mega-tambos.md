@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [lecheria, mega-tambo, bienestar-animal, eficiencia, agtech/pain-point]
-sources: [TodoAgro - 2026-05-18, TodoLáctea 2026]
-confidence: high
-last_update: 2026-05-18
+fuentes: [TodoAgro - 2026-05-18, TodoLáctea 2026]
+confianza: alta
+ultima_actualizacion: 2026-05-18
 ---
 
 # Fricción Operativa en Mega-tambos

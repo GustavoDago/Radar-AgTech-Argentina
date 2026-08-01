@@ -1,9 +1,9 @@
 ---
-type: pre_mortem
+tipo: pre_mortem
 opportunity: [[Enterprise_Barter_Engine]]
 high_leverage: yes
 tech_stack: [Java/Quarkus/Axon]
-date: 2026-05-25
+fecha: 2026-05-25
 verdict: REQUIERE REDISEÑO FUNDAMENTAL
 ---
 

@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [zona, santa_fe, friccion_logistica, regulacion, exportacion]
-sources: [Bichos de Campo - 2026-05-06]
-confidence: high
-last_update: 2026-05-06
+fuentes: [Bichos de Campo - 2026-05-06]
+confianza: alta
+ultima_actualizacion: 2026-05-06
 ---
 
 # Santa Fe (Provincia)

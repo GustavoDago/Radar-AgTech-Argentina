@@ -1,5 +1,5 @@
 ---
-type: entity
+tipo: entidad
 category: actor_mercado
 sector: economias_regionales
 escala: [pequeño, mediano]

@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [exportacion/nicho, chaco, trazabilidad/caprina]
-sources: [daily_summary_2026-06-18]
-confidence: high
-last_update: 2026-06-18
+fuentes: [daily_summary_2026-06-18]
+confianza: alta
+ultima_actualizacion: 2026-06-18
 ---
 
 # Carne de Cabra - El Impenetrable (Chaco)

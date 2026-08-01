@@ -1,5 +1,5 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: [Java/SpringBoot]
 target: [Plantas de Biodiésel y Bioetanol | Exportadores de Granos Premium | Auditores ISCC]

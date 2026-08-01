@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [tambo, mega-tambo, tecnologia/robotica, cordoba, inversion]
-sources: [Bichos de Campo - 2026-05-12]
-confidence: high
-last_update: 2026-05-12
+fuentes: [Bichos de Campo - 2026-05-12]
+confianza: alta
+ultima_actualizacion: 2026-05-12
 ---
 
 # Tambo Ugartemendía

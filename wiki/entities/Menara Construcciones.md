@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [infraestructura, lecheria, expansion, argentina]
-sources: [Bichos de Campo, daily_summary_2026-05-11]
-confidence: high
-last_update: 2026-05-11
+fuentes: [Bichos de Campo, daily_summary_2026-05-11]
+confianza: alta
+ultima_actualizacion: 2026-05-11
 ---
 
 # Menara Construcciones

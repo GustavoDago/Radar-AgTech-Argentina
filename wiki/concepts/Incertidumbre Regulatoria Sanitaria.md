@@ -2,7 +2,7 @@
 tipo: concepto
 tags: [agtech/pain_points, sanidad, regulacion, argentina/senasa]
 fuentes: [bichosdecampo.com]
-confianza: medium
+confianza: media
 ultima_actualizacion: 2026-04-15
 ---
 

@@ -1,8 +1,8 @@
 ---
-type: entidad
+tipo: entidad
 category: lactea
 tags: [dulce_de_leche, exportacion, santa_fe, miym, adquisicion]
-last_update: 2026-06-16
+ultima_actualizacion: 2026-06-16
 ---
 
 # San Ignacio

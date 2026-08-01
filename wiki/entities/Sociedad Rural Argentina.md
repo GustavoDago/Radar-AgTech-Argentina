@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 category: gremial
 priority: medium
 tags: [trazabilidad, genetica, digitalizacion, registros]
-last_update: 2026-04-26
+ultima_actualizacion: 2026-04-26
 ---
 
 # Sociedad Rural Argentina (SRA)

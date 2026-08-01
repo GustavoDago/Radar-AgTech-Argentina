@@ -1,9 +1,9 @@
 ---
-type: pre_mortem
+tipo: pre_mortem
 opportunity_linked: "[[Gorina_Sanitary_Shield_SaaS]]"
 target: Frigorifico Gorina
 analyst_mode: "Socio Intelectual / Tech Leader Backend Java / VC Escéptico"
-date: 2026-05-25
+fecha: 2026-05-25
 ---
 
 # Pre-Mortem Forense: Gorina Sanitary Shield SaaS

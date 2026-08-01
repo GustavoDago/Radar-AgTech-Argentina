@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [agtech/investment, agroquimicos, cooperativa, expansion]
-sources: [Bichos de Campo, daily_summary_2026-05-31]
-confidence: high
-last_update: 2026-05-31
+fuentes: [Bichos de Campo, daily_summary_2026-05-31]
+confianza: alta
+ultima_actualizacion: 2026-05-31
 ---
 
 # AFA (Agricultores Federados Argentinos)

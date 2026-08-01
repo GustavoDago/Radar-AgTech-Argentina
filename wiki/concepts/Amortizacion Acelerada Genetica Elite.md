@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/investment, ganaderia/elite, fiscal, genetica]
-sources: [Infocampo, 2026-05-29]
-confidence: high
-last_update: 2026-05-29
+fuentes: [Infocampo, 2026-05-29]
+confianza: alta
+ultima_actualizacion: 2026-05-29
 ---
 
 # Amortización Acelerada: Genética Bovina de Elite

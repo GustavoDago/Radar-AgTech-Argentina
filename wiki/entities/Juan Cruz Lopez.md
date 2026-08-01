@@ -1,8 +1,8 @@
 ---
-type: entity
+tipo: entidad
 role: Exportador / Líder de Opinión
 focus: Carne a pasto, Mercado Europeo
-last_update: 2026-07-04
+ultima_actualizacion: 2026-07-04
 ---
 
 # Juan Cruz López

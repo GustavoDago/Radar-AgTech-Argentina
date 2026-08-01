@@ -1,10 +1,10 @@
 ---
-type: entidad
+tipo: entidad
 category: agroactiva
 tags: [feria, agroactiva, santa_fe, liquidez, financiacion, agtech/trigger]
-sources: [Infocampo - 2026-06-05, Agroverdad - 2026-06-05]
-confidence: high
-last_update: 2026-06-05
+fuentes: [Infocampo - 2026-06-05, Agroverdad - 2026-06-05]
+confianza: alta
+ultima_actualizacion: 2026-06-05
 ---
 
 # Agroactiva 2026

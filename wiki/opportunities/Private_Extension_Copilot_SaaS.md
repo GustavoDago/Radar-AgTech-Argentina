@@ -1,5 +1,5 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: Java/Quarkus/AI-LLM
 target: Productores Agrícolas / Redes CREA

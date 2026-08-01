@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [zona_productiva, buenos_aires, ganaderia, logistica]
-sources: [Bichos de Campo - 2026-05-15]
-confidence: medium
-last_update: 2026-05-15
+fuentes: [Bichos de Campo - 2026-05-15]
+confianza: media
+ultima_actualizacion: 2026-05-15
 ---
 
 # Zona Ganadera Olavarría

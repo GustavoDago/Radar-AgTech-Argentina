@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/genetica, mega-tambo, eficiencia, todolactea]
-sources: [TodoAgro - 2026-05-17]
-confidence: high
-last_update: 2026-05-17
+fuentes: [TodoAgro - 2026-05-17]
+confianza: alta
+ultima_actualizacion: 2026-05-17
 ---
 
 # Gestión de Genética en Mega-Tambos

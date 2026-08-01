@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [climatetech, carbon_accounting, iscc, eudr, biocombustibles, bioetanol, biodiesel, trazabilidad, exportacion]
-sources: [iscc-system.org, infocampo.com.ar]
-confidence: high
-last_update: 2026-05-20
+fuentes: [iscc-system.org, infocampo.com.ar]
+confianza: alta
+ultima_actualizacion: 2026-05-20
 ---
 
 # Certificación de Carbono para Biocombustibles (ISCC & EUDR)

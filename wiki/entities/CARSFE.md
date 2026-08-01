@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [ganaderia, gremial, santa_fe, eudr, oposicion]
-sources: [Bichos de Campo - 2026-05-13]
-confidence: high
-last_update: 2026-05-13
+fuentes: [Bichos de Campo - 2026-05-13]
+confianza: alta
+ultima_actualizacion: 2026-05-13
 ---
 
 # CARSFE (Confederación de Asociaciones Rurales de Santa Fe)

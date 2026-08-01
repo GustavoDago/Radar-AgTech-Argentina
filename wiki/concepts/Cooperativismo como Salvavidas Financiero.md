@@ -1,5 +1,5 @@
 ---
-type: concepto
+tipo: concepto
 tags: [cooperativa, finanzas, canje_granos, fiscal, financiamiento, sisa]
 ---
 # Cooperativismo como Salvavidas Financiero

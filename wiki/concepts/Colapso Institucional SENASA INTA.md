@@ -1,12 +1,12 @@
 ---
-confidence: high
-last_update: '2026-06-07'
-sources:
+confianza: alta
+ultima_actualizacion: '2026-06-07'
+fuentes: 
 - bichosdecampo.com
 - todoagro.com.ar
 - daily_summary_2026-05-29
 - memory_june_2026
-tags:
+tags: 
 - senasa
 - inta
 - sigsa
@@ -15,7 +15,7 @@ tags:
 - desmantelamiento
 - institucional
 - servicios_privados
-type: concepto
+tipo: concepto
 ---
 
 # Colapso Institucional SENASA e INTA

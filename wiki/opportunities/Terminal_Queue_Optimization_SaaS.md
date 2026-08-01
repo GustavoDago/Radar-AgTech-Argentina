@@ -1,5 +1,5 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: Java/Spring Boot/Kafka
 target: Terminales Portuarias / Exportadores CIARA

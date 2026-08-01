@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [sustentabilidad, carbono, ganaderia_pastoril, exportacion, premium_price]
-sources: [daily_summary_2026-05-30, Valor Carne, memory]
-confidence: high
-last_update: 2026-05-30
+fuentes: [daily_summary_2026-05-30, Valor Carne, memory]
+confianza: alta
+ultima_actualizacion: 2026-05-30
 ---
 
 # Certificación de Secuestro de Carbono

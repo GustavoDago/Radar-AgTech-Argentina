@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [frigorifico, exportador, cordoba, cumplimiento, agtech/oportunidad]
-sources: [Agroverdad - 2026-04-30]
-confidence: high
-last_update: 2026-05-01
+fuentes: [Agroverdad - 2026-04-30]
+confianza: alta
+ultima_actualizacion: 2026-05-01
 ---
 
 # Frigorífico Bustos Beltrán

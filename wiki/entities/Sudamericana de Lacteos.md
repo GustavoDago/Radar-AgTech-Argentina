@@ -2,7 +2,7 @@
 tipo: entidad
 tags: [lecheria, reactivacion, santa_fe, industria_lactea]
 fuentes: [daily_summary_2026-07-14]
-confianza: high
+confianza: alta
 ultima_actualizacion: 2026-07-14
 ---
 

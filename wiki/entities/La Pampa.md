@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [provincia, ganaderia, sanidad, friccion]
-sources: [daily_summary_2026-07-02]
-confidence: high
-last_update: 2026-07-02
+fuentes: [daily_summary_2026-07-02]
+confianza: alta
+ultima_actualizacion: 2026-07-02
 ---
 
 # Provincia de La Pampa

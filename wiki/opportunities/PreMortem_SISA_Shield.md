@@ -1,8 +1,8 @@
 ---
-type: critica_oportunidad
+tipo: critica_oportunidad
 opportunity: [[SISA_Shield_SaaS]]
-last_update: 2026-05-20
-confidence: high
+ultima_actualizacion: 2026-05-20
+confianza: alta
 ---
 
 # Pre-Mortem Forense: SISA Shield SaaS

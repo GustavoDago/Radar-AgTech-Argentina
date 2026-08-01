@@ -7,7 +7,7 @@ confianza: alta
 ultima_actualizacion: 2026-07-26
 =======
 fuentes: [field_intelligence, industry_reports, daily_summary_2026-07-27]
-confianza: high
+confianza: alta
 ultima_actualizacion: 2026-07-27
 >>>>>>> origin/feature/agtech-intelligence-update-2026-07-27-8327015094088152979
 ---

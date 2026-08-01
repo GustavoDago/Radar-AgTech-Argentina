@@ -1,8 +1,8 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/bioeconomia, infraestructura, cordoba, innovacion_hardware]
-confidence: medium
-last_update: 2026-06-15
+confianza: media
+ultima_actualizacion: 2026-06-15
 ---
 
 # Transformadores Bio-Basados

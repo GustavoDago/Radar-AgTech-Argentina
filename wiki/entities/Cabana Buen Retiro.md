@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [ganaderia/genetica, trazabilidad/premium, argentina/buenos_aires, agtech/targets, rfid, remates, cabaña, marmoreo, elite_genetics, beef, marbling, performance_tracking]
-sources: [daily_summary_2026-06-18, valorcarne.com.ar - 2026-06-19, Valor Carne - 2026-06-20, https://www.valorcarne.com.ar/la-cabana-buen-retiro-lleva-el-marmoreo-al-centro-de-la-escena/, daily_summary_2026-06-21, daily_summary_2026-06-22, Valor Carne - 24/06/2026, daily_summary_2026-06-24]
-confidence: high
-last_update: 2026-06-24
+fuentes: [daily_summary_2026-06-18, valorcarne.com.ar - 2026-06-19, Valor Carne - 2026-06-20, https://www.valorcarne.com.ar/la-cabana-buen-retiro-lleva-el-marmoreo-al-centro-de-la-escena/, daily_summary_2026-06-21, daily_summary_2026-06-22, Valor Carne - 24/06/2026, daily_summary_2026-06-24]
+confianza: alta
+ultima_actualizacion: 2026-06-24
 ---
 
 # Cabaña Buen Retiro

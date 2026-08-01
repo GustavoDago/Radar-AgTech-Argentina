@@ -1,5 +1,5 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: [Java/Spring Boot, GraphQL, PostgreSQL]
 target: [Tambos Huérfanos de Sancor | Adecoagro | Saputo | Williner]

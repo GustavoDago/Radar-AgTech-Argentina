@@ -1,10 +1,10 @@
 ---
-type: oportunidad
+tipo: oportunidad
 tags: [ganaderia/eficiencia, mega-tambo, elite-breeding, agtech/performance]
 status: open
 priority: high
-sources: [daily_summary_2026-06-30, "Valor Carne - Eficiencia: entoran a los 13 meses con genética y nutrición"]
-last_update: 2026-06-30
+fuentes: [daily_summary_2026-06-30, "Valor Carne - Eficiencia: entoran a los 13 meses con genética y nutrición"]
+ultima_actualizacion: 2026-06-30
 ---
 
 # Oportunidad: Monitoreo para Entore Precoz (13 Meses)

@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [suelos, fertilizacion, precision_agtech, sostenibilidad, oeste_bonaerense]
-sources: [todoagro.com.ar, agroverdad.com.ar, intainforma.inta.gob.ar, daily_summary_2026-05-28]
-confidence: high
-last_update: 2026-05-28
+fuentes: [todoagro.com.ar, agroverdad.com.ar, intainforma.inta.gob.ar, daily_summary_2026-05-28]
+confianza: alta
+ultima_actualizacion: 2026-05-28
 ---
 
 # Agotamiento de Nutrientes en Suelos

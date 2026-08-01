@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/compliance, cordoba, eudr, trazabilidad, datos-geograficos]
-sources: [Agroverdad - 2026-05-18]
-confidence: high
-last_update: 2026-05-18
+fuentes: [Agroverdad - 2026-05-18]
+confianza: alta
+ultima_actualizacion: 2026-05-18
 ---
 
 # Geo Reportes Agrícolas (Córdoba)

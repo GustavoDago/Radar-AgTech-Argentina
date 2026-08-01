@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [frigorifico, exportacion, dubai, cordoba, agtech/target]
-sources: [daily_summary_2026-05-28, Bichos de Campo]
-confidence: high
-last_update: 2026-05-28
+fuentes: [daily_summary_2026-05-28, Bichos de Campo]
+confianza: alta
+ultima_actualizacion: 2026-05-28
 ---
 
 # Frigorífico Bustos y Beltrán

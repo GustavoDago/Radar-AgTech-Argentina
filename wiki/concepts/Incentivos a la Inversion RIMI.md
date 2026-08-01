@@ -2,7 +2,7 @@
 tipo: concepto
 tags: [agtech/investment, riego, mega-tambo, rimi, fiscal]
 fuentes: [TodoAgro, INTA Informa, Agroverdad, 2026-04-27]
-confianza: high
+confianza: alta
 ultima_actualizacion: 2026-04-27
 ---
 

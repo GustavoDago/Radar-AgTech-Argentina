@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/sostenibilidad, huella_de_carbono, ganaderia, exportacion]
-sources: [Valor Carne, daily_summary_2026-05-31]
-confidence: high
-last_update: 2026-05-31
+fuentes: [Valor Carne, daily_summary_2026-05-31]
+confianza: alta
+ultima_actualizacion: 2026-05-31
 ---
 
 # Huella de Carbono Ganadera (Net Emissions)

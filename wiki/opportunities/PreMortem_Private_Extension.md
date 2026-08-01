@@ -1,5 +1,5 @@
 ---
-type: pre_mortem
+tipo: pre_mortem
 opportunity: [[Private_Extension_Copilot_SaaS]]
 high_leverage: yes
 tech_stack: Java/Quarkus/AI-LLM (RAG)

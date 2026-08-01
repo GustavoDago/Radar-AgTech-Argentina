@@ -1,8 +1,8 @@
 ---
-type: entidad
+tipo: entidad
 tags: [zona, expansion, alfalfa, formosa]
 target: Cluster Ganadero Formosa
-last_update: 2026-07-03
+ultima_actualizacion: 2026-07-03
 ---
 
 # Cluster Ganadero Formosa

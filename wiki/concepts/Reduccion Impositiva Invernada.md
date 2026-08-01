@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [fintech, impuestos, ganaderia, invernada, trigger/liquidez, agtech/finanzas]
-sources: [Agroverdad - 2026-05-21, daily_summary_2026-05-27]
-confidence: high
-last_update: 2026-05-27
+fuentes: [Agroverdad - 2026-05-21, daily_summary_2026-05-27]
+confianza: alta
+ultima_actualizacion: 2026-05-27
 ---
 
 # Reducción Impositiva en Valuación de Hacienda de Invernada

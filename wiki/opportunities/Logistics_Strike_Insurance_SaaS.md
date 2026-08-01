@@ -1,9 +1,9 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: [Go, Redis, Kubernetes, Smart Contracts (Solidity/Polygon)]
 target: [Acopiadores | Exportadores de Granos | Pools de Siembra]
-last_update: 2026-06-15
+ultima_actualizacion: 2026-06-15
 last_critique: 2026-06-15
 ---
 

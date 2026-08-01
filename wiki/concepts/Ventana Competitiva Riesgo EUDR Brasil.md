@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [exportacion, brasil, ue, eudr, competencia, market_share]
-sources: [valorcarne.com.ar]
-confidence: high
-last_update: 2026-05-23
+fuentes: [valorcarne.com.ar]
+confianza: alta
+ultima_actualizacion: 2026-05-23
 ---
 
 # Ventana Competitiva: Riesgo EUDR Brasil

@@ -1,8 +1,8 @@
 ---
-type: concepto
+tipo: concepto
 tags: [mega-tambo, lechería, bienestar-animal, agtech/oportunidad, eficiencia]
-sources: [TodoAgro - 2026-05-14, Jornadas Lecheras Nacionales 2026]
-last_update: 2026-05-14
+fuentes: [TodoAgro - 2026-05-14, Jornadas Lecheras Nacionales 2026]
+ultima_actualizacion: 2026-05-14
 ---
 
 # Desafíos en Confinamiento de Mega-tambos

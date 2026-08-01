@@ -1,5 +1,5 @@
 ---
-type: entity
+tipo: entidad
 category: actor_mercado
 sector: agricultura_extensiva
 escala: [pequeño, mediano, grande]

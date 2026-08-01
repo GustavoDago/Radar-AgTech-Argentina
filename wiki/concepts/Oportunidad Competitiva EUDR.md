@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/strategy, eudr, exportacion, competencia]
-sources: [valorcarne.com.ar]
-confidence: high
-last_update: 2026-05-22
+fuentes: [valorcarne.com.ar]
+confianza: alta
+ultima_actualizacion: 2026-05-22
 ---
 
 # Oportunidad Competitiva EUDR (Argentina vs Brasil)

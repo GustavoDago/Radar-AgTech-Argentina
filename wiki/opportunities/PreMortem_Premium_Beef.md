@@ -1,7 +1,7 @@
 ---
-type: pre_mortem
+tipo: pre_mortem
 opportunity: [[Premium_Beef_Quality_SaaS]]
-last_update: 2026-05-25
+ultima_actualizacion: 2026-05-25
 ---
 
 # Pre-Mortem: Argentina Premium Beef Data-Gateway (Autopsia Forense Prospectiva)

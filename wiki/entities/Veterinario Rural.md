@@ -1,5 +1,5 @@
 ---
-type: entity
+tipo: entidad
 category: actor_mercado
 sector: servicios_veterinarios
 escala: [individual, pyme]

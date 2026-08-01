@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [sanidad, inversion, mercedes, tecnovax]
-sources: [Bichos de Campo - 2026-06-29]
-confidence: high
-last_update: 2026-06-29
+fuentes: [Bichos de Campo - 2026-06-29]
+confianza: alta
+ultima_actualizacion: 2026-06-29
 ---
 
 # Tecnovax

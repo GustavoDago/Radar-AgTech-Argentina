@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [evento, ganaderia, genetics, corrientes]
-sources: [daily_summary_2026-05-23, Bichos de Campo, Valor Carne]
-confidence: high
-last_update: 2026-05-23
+fuentes: [daily_summary_2026-05-23, Bichos de Campo, Valor Carne]
+confianza: alta
+ultima_actualizacion: 2026-05-23
 ---
 
 # Las Nacionales 2026 (Corrientes)

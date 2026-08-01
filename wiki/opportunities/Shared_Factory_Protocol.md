@@ -1,9 +1,9 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: [Java/Quarkus, Event-Driven, Blockchain-Light]
 target: [Sobrevivientes de Sancor | Pymes Lácteas | Mastellone | Cooperativas]
-last_update: 2026-04-29
+ultima_actualizacion: 2026-04-29
 last_critique: 2026-04-29
 ---
 

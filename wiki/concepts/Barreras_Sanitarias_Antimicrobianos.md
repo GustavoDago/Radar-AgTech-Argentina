@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [sanidad, exportacion, regulacion, union_europea, antimicrobianos]
-sources: [valorcarne.com.ar]
-confidence: high
-last_update: 2026-05-25
+fuentes: [valorcarne.com.ar]
+confianza: alta
+ultima_actualizacion: 2026-05-25
 ---
 
 # Barreras Sanitarias por Antimicrobianos (Brasil vs UE)

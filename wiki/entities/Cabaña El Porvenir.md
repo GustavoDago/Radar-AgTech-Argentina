@@ -1,7 +1,7 @@
 ---
-confidence: high
-last_update: '2026-06-07'
-sources:
+confianza: alta
+ultima_actualizacion: '2026-06-07'
+fuentes: 
 - Agroverdad - 2026-06-01
 - Agroverdad - 2026-06-02
 - daily_summary_2026-06-02
@@ -10,7 +10,7 @@ sources:
 - agroverdad.com.ar
 - daily_summary_2026-06-07
 - memory_june_2026
-tags:
+tags: 
 - cabaña
 - brangus
 - cordoba
@@ -18,7 +18,7 @@ tags:
 - agtech/target
 - ganaderia/elite
 - agtech/rfid
-type: entidad
+tipo: entidad
 ---
 
 # Cabaña El Porvenir

@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [sustentabilidad, huella_de_carbono, exportacion, ganaderia_pastoril]
-sources: [daily_summary_2026-06-03, Valor Carne - 2026-05-30]
-confidence: high
-last_update: 2026-06-03
+fuentes: [daily_summary_2026-06-03, Valor Carne - 2026-05-30]
+confianza: alta
+ultima_actualizacion: 2026-06-03
 ---
 
 # Huella de la carne (Emisiones Netas)

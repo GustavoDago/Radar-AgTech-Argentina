@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [exportacion, china, cumplimiento, trazabilidad, frigorificos]
-sources: [Agroverdad, Valor Carne, daily_summary_2026-05-19]
-confidence: high
-last_update: 2026-05-19
+fuentes: [Agroverdad, Valor Carne, daily_summary_2026-05-19]
+confianza: alta
+ultima_actualizacion: 2026-05-19
 ---
 
 # SIAL China 2026 y Misión Exportadora

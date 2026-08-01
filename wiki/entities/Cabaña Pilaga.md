@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [agtech/targets, cabaña, elite_genetics, braford]
-sources: [daily_summary_2026-05-27, TodoAgro]
-confidence: high
-last_update: 2026-05-27
+fuentes: [daily_summary_2026-05-27, TodoAgro]
+confianza: alta
+ultima_actualizacion: 2026-05-27
 ---
 
 # Cabaña Pilagá

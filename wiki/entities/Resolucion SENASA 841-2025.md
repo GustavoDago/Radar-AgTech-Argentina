@@ -1,89 +1,25 @@
 ---
 tipo: entidad
-tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
-fuentes: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, daily_summary_2026-05-26, daily_summary_2026-05-28, daily_summary_2026-06-28, daily_summary_2026-07-17, daily_summary_2026-07-22, daily_summary_2026-07-24, daily_summary_2026-07-25, daily_summary_2026-07-26, daily_summary_2026-07-27, daily_summary_2026-07-28, daily_summary_2026-07-29, Valor Carne - 2026-07-23, INTA Informa - 2026-07-17]
+tags: [senasa, trazabilidad, rfid, normativa, bovinos, eudr, welfair, cuota_hilton]
+fuentes: [Boletín Oficial, INTA Informa, Valor Carne, daily_summary_2026-04-15, daily_summary_2026-04-16, daily_summary_2026-04-18, daily_summary_2026-04-19, daily_summary_2026-04-28, daily_summary_2026-05-25, daily_summary_2026-05-26, daily_summary_2026-05-27, daily_summary_2026-05-29, daily_summary_2026-05-30, daily_summary_2026-07-16, daily_summary_2026-07-22, daily_summary_2026-07-25, daily_summary_2026-07-27, daily_summary_2026-07-29, daily_summary_2026-07-30, daily_summary_2026-07-31]
 confianza: alta
-ultima_actualizacion: 2026-07-29
+ultima_actualizacion: 2026-07-31
 ---
 
-# Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
+# Resolución SENASA 841/2025 - Norma Técnica de Trazabilidad Electrónica Bovina
 
-## Resumen Ejecutivo
-La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Ratificada definitivamente en el Boletín Oficial**, confirmando el plazo del **1 de enero de 2026** para todos los terneros/as del país. La publicación definitiva de los anexos técnicos el **26 de junio de 2026** y las ratificaciones posteriores consolidan un marco regulatorio ineludible ante las exigencias internacionales de auditoría (EUDR).
+La Resolución 841/2025 de SENASA establece el nuevo marco regulatorio obligatorio para la identificación individual electrónica de todo el rodeo bovino, bubalino y cervino en la República Argentina, sustituyendo gradualmente el sistema tradicional de marcas y señales por caravanas y dispositivos RFID de baja frecuencia (LF 134.2 kHz HDX/FDX-B).
 
-**Actualización 29/07/2026**: A medida que avanza el cronograma de SENASA, el foco de la trazabilidad RFID pasa del simple cumplimiento legal a la habilitación de **sellos de calidad comerciales (IA + Marmoreo)** y la gestión de contingencias sanitarias (trazabilidad veterinaria). La necesidad de conectar los datos biológicos individuales desde el campo hasta la gancho se consolida como el principal dolor de integración de los frigoríficos exportadores.
+## Estado Regulatorio y Cronograma de Vigencia
+- **01/01/2026:** Obligatoriedad de identificación electrónica para el 100% de los terneros/as nacidos a partir de esta fecha previo al primer movimiento fuera del establecimiento de origen.
+- **01/07/2026:** Obligatoriedad extendida para todos los animales de cualquier categoría que se trasladen entre establecimientos o con destino a faena.
+- **31/12/2027:** Deadline final para la identificación total del stock nacional.
 
-**Actualización 28/07/2026**: A medida que avanza el cronograma de SENASA, el foco de la trazabilidad RFID pasa del simple cumplimiento legal a la habilitación de sellos de calidad comerciales (IA + Marmoreo) y la gestión de contingencias sanitarias (trazabilidad veterinaria). La necesidad de conectar los datos biológicos individuales desde el campo hasta el gancho se consolida como el principal dolor de integración de los frigoríficos exportadores.
+## Triggers Regulatorios e Hitos Recientes (Actualizado 31/07/2026)
 
-**Actualización 27/07/2026**: Nuevos datos técnicos presentados por el Gobierno nacional, el INTA, la Secretaría de Agricultura y productores de Mercedes (Corrientes) confirman el alto impacto del Sistema Nacional de Trazabilidad Individual Electrónica. Al analizar la historia reproductiva y productiva de cada vientre, la tecnología RFID individual incrementa directamente la rentabilidad ganadera hasta un 20%. Asimismo, el informe de Greenpeace sobre 40.000 hectáreas deforestadas en el norte argentino acelera la necesidad de integrar la identificación oficial RFID con sistemas de geolocalización satelital para el cumplimiento inmediato de las auditorías de deforestación cero de la Unión Europea (EUDR).
+**Actualización 31/07/2026**: Reafirmada la Res. 841/2025 como la infraestructura técnica base para certificar Bienestar Animal (Welfair®) y libre deforestación (EUDR) ante los auditores de la UE para los 81 beneficiarios de la **Cuota Hilton 2026/27**, previniendo descalificaciones de lotes por mezcla o falta de historial sanitario individual.
 
-**Actualización 26/07/2026**: A meses de la entrada en vigencia del deadline obligatorio (1º de enero de 2026), la trazabilidad individual electrónica RFID se consolida como el habilitador tecnológico definitivo. Programas de punta como el de la [[Asociacion Hereford Argentina]] (marmoreo certificado con IA) y la llegada de la [[Certificacion Bienestar Animal Europea]] (Welfair®) transforman la caravana de la Res. 841/2025 de una traba burocrática en el "ID único" inmutable necesario para capturar primas de precio por calidad y procesos de exportación.
-
-**Actualización 25/07/2026 (INTA Informa):** Los nuevos informes técnicos confirman que **"la trazabilidad individual electrónica mejora la rentabilidad del sector"** y **"redefine la toma de decisiones"**. Disponer de datos individuales y continuos permite a los productores detectar diferencias de rendimiento dentro del rodeo, ajustar el manejo nutricional en cada etapa (en sistemas pastoriles y feedlots) y maximizar el margen bruto por animal basándose en información confiable y propia, no en promedios del lote.
-
-**Actualización 24/07/2026**: La presentación oficial de resultados en Mercedes (Corrientes) por parte de la Secretaría de Agricultura de la Nación, productores locales y el INTA, ratifica el impacto económico directo de la Trazabilidad Individual Electrónica. El análisis de la historia reproductiva de cada vientre y el pesaje al paso (balanzas inteligentes) demuestran incrementos de rentabilidad y del valor del ternero de hasta un 20%. Esto desplaza el foco desde el simple cumplimiento burocrático hacia la eficiencia productiva de precisión y retorno de inversión (ROI) en el campo.
-
-**Actualización 22/07/2026**: La publicación de la **Resolución SENASA 655/2026** (Plan Nacional de Control y Erradicación de la Garrapata) acelera drásticamente la convergencia entre trazabilidad electrónica individual (Res. 841/2025) y registros sanitarios. Ante la duplicación por parte de la Unión Europea de los períodos de carencia para el fipronil, los frigoríficos exportadores requieren un control absoluto de la trazabilidad individual para asegurar el ingreso de tropas limpias y libres de residuos. Paralelamente, en la Expo Rural de Palermo 2026, la firma **UBIAR** lanza un colector industrial LFRFID integrado nativamente con ERP para acelerar la faena electrónica y resolver las fricciones de recepción en planta, eliminando cargas manuales de archivos.
-
-**Actualización 16/07/2026**: Pruebas de performance pastoril llevadas a cabo por el INTA y la Asociación Hereford convalidan el retorno de inversión (ROI) de la trazabilidad individual. El seguimiento continuo y preciso del peso diario permite optimizar la toma de decisiones nutricionales a campo, transformando la caravana electrónica de una mera imposición regulatoria a una herramienta de rentabilidad ganadera directa.
-
-**Actualización 10/07/2026**: La oficialización de la **Certificación Europea en Bienestar Animal** en Latinoamérica añade un nuevo estándar de auditoría digital exigido por la UE para los exportadores de carne. La caravana RFID individual es la base técnica indispensable para asociar de manera transparente e inviolable los registros éticos de manejo con cada animal (ver [[Certificacion Bienestar Animal Europea]]).
-
-**Actualización 02/07/2026**: Escándalo en la Sociedad Rural Argentina por el fracaso de un sistema informático de trazabilidad y gestión que costó 4.5 millones de dólares. Este "colapso operativo privado" agrava la percepción de riesgo de los productores frente a la digitalización obligatoria (ver [[Colapso Operativo SENASA]]) y resalta la necesidad de soluciones AgTech ágiles y descentralizadas.
-
-**Actualización 29/06/2026**: Reportes de inicio de aplicación de la trazabilidad electrónica bovina directamente en los frigoríficos, fortaleciendo el cumplimiento de la norma en el punto final de la cadena de valor (Infocampo).
-
-**Actualización 28/06/2026**: Ratificación definitiva en el Boletín Oficial de la Norma Técnica de Trazabilidad Electrónica. Se elimina cualquier duda sobre prórrogas; el 1 de enero de 2026 es la fecha límite absoluta para la identificación de terneros.
-
-**Actualización 27/06/2026**: La re-ratificación de las normas técnicas en el Boletín Oficial confirma que el plazo del 1 de enero de 2026 para la identificación electrónica de terneros es irreversible. Las críticas a la estrategia de vacunación antiaftosa (Milicevic) subrayan la fragilidad del sistema sanitario y elevan la trazabilidad individual auditable a una prioridad de "seguro comercial" para exportadores.
-
-**Actualización 26/06/2026**: La publicación definitiva de los anexos técnicos en el Boletín Oficial confirma el **1 de enero de 2026** como fecha inamovible. Esta certidumbre jurídica dispara la necesidad de adopción masiva de tecnología RFID, eliminando la excusa de la "espera de especificaciones" para los productores.
-
-**Actualización 25/06/2026**: En el marco de la jornada "Del campo a la industria", CRA advirtió que las exigencias de sustentabilidad del acuerdo UE-Mercosur no deben convertirse en "mecanismos burocráticos de certificación". Esto posiciona a la trazabilidad automatizada (Res. 841/2025) como la defensa técnica para evitar que la burocracia se convierta en una barrera paraarancelaria.
-
-**Actualización 24/06/2026**: Ratificación técnica definitiva en el Boletín Oficial. La reaparición de la norma en las publicaciones oficiales subraya su carácter ineludible frente a las exigencias de auditoría internacional (EUDR) y la necesidad de sistemas de trazabilidad que garanticen la identidad del animal ante la incertidumbre sanitaria global.
-
-**Actualización 23/06/2026**: La ratificación definitiva de las normas técnicas y sus anexos en el Boletín Oficial elimina cualquier incertidumbre sobre la implementación de la trazabilidad electrónica. Se confirma el **1 de enero de 2026** como fecha inamovible para el inicio de la identificación obligatoria de terneros. Esta "clausura de la etapa especulativa" genera una ventana de compra crítica e inmediata de hardware y software de gestión en el segundo semestre de 2026.
-
-**Actualización 22/06/2026**: Ratificación técnica definitiva en el Boletín Oficial. Se confirman los plazos para la identificación obligatoria de terneros a partir del 1 de enero de 2026. La norma técnica refuerza la obligatoriedad de dispositivos RFID homologados, consolidando el marco legal para la transición tecnológica nacional.
-
-**Actualización 21/06/2026**: La diferenciación por calidad (marmoreo en [[Cabana Buen Retiro]]) y programas de carne certificada con blockchain ([[Asociacion Hereford Argentina]]) están acelerando la transición de la trazabilidad como "carga burocrática" a "activo comercial". La Res. 841/2025 se consolida como la infraestructura base sobre la cual se montan estos servicios de valor agregado para capturar primas de precio en exportación.
-
-**Actualización 20/06/2026**: La ratificación final en el Boletín Oficial elimina cualquier duda sobre prórrogas. El foco del mercado se desplaza ahora a la ejecución técnica, especialmente tras los fallos de sincronización RFID/SIGSA detectados en los hackatones de Agroactiva.
-
-**Actualización 19/06/2026**: Re-publicación de las normas técnicas y anexos en el Boletín Oficial, ratificando la fecha límite del **1 de enero de 2026** para la identificación obligatoria de todos los terneros/as. Al mismo tiempo, el hackatón de trazabilidad en Agroactiva expuso fallas críticas de sincronización entre dispositivos RFID y el sistema SIGSA de SENASA, revelando una brecha de adopción generacional y técnica que requiere soluciones de software intermedias ("middleware"). La consolidación de la norma coincide con la presión por el cumplimiento de la EUDR y el interés en la "Carne de Pastizal" (Bichos de Campo), donde la trazabilidad individual es el único camino para certificar atributos regenerativos.
-
-**Actualización 18/06/2026**: La ratificación de la norma técnica en el Boletín Oficial esta semana elimina cualquier duda sobre posibles prórrogas. La industria debe acelerar la adopción de lectores y software de integración con SIGSA para evitar el colapso operativo en el movimiento de hacienda a partir de enero.
-
-**Actualización 17/06/2026**: Récord de ocupación en feedlots profesionales aumenta críticamente la presión sobre la sincronización RFID/SIGSA. El alto volumen de movimientos de hacienda genera un riesgo inminente de cuellos de botella en la emisión de DT-e si los sistemas de lectura electrónica fallan o son lentos.
-
-**Actualización 16/06/2026**: La ocupación récord en feedlots profesionales (Bichos de Campo/Valor Carne) presiona la capacidad operativa de emisión de DT-e. La sincronización RFID-SIGSA es ahora el cuello de botella crítico para el movimiento de hacienda en un mercado con oferta restringida de terneros.
-
-**Actualización 15/06/2026**: Nueva ratificación y publicación en el Boletín Oficial (Resolución 841/2025 - SENASA - Norma Técnica Trazabilidad Electrónica) consolidando el estatus legal inamovible de la norma frente a las últimas presiones de sectores productores.
-
-**Actualización 14/06/2026**: La Mesa de Enlace de Córdoba redobla la presión para eliminar las "guías ganaderas" físicas. Este movimiento político acelera la transición hacia la digitalización total basada en la Res. 841/2025, eliminando trabas burocráticas provinciales a favor de un sistema electrónico unificado.
-
-**Actualización 12/06/2026**: La ratificación definitiva en el Boletín Oficial coincide con el escenario de **"Brasil-Out"** (veto de la UE a carnes brasileñas). La Res. 841/2025 se posiciona como el escudo técnico indispensable para que Argentina capture la cuota de mercado dejada por Brasil, garantizando una trazabilidad auditable superior que desactiva las barreras para-arancelarias de la UE.
-
-**Actualización 10/06/2026**: Ratificación definitiva de las normas técnicas y anexos en el Boletín Oficial. Se confirma el **1 de enero de 2026** como fecha límite inamovible para la identificación electrónica obligatoria de terneros/as. La publicación de los anexos técnicos de dispositivos homologados elimina cualquier incertidumbre regulatoria remanente.
-
-**Actualización 09/06/2026**: La suspensión de importaciones brasileñas por parte de la UE (a partir de septiembre) acelera la urgencia de la trazabilidad individual en Argentina para capturar ese mercado. Paralelamente, la Región Centro impulsa un esquema diferencial de vacunación de aftosa para tambos, lo que requiere un registro auditable de la identidad animal.
-
-**Actualización 08/06/2026**: Ratificación definitiva y publicación de las **Normas Técnicas** en el Boletín Oficial. Se oficializan los anexos con las especificaciones de hardware (dispositivos homologados) y protocolos de comunicación, lo que permite a los proveedores de SaaS y hardware cerrar sus integraciones técnicas finales de cara al deadline de enero 2026.
-
-**Actualización 06/06/2026**: La publicación de los anexos técnicos en el Boletín Oficial cementa la obligatoriedad. Ya no hay margen para postergaciones técnicas. Los dispositivos deben cumplir con los protocolos de radiofrecuencia especificados.
-
-**Actualización 05/06/2026**: La reconfirmación de la norma en el resumen diario de hoy, junto con la tensión en las fundaciones de aftosa, eleva la urgencia de adopción. La trazabilidad electrónica se perfila como el único activo de defensa sanitaria auditable ante un estado en retirada.
-
-**Actualización 04/06/2026**: La apertura de la categoría "Software y Apps" en el Premio Ternium Expoagro y el lanzamiento de créditos masivos ($116 mil millones) en Santa Fe para bienes de capital actúan como catalizadores para la digitalización del cumplimiento de la Res. 841/2025. La trazabilidad electrónica se consolida como el "software layer" necesario para justificar inversiones en maquinaria de precisión.
-
-**Actualización 03/06/2026**: La ratificación de las normas técnicas en el Boletín Oficial (30/05) despeja cualquier duda sobre la obligatoriedad. Además, el mecanismo de **"Inmovilización voluntaria"** para warrants ganaderos (27/05) transforma la Res. 841/2025 de una carga regulatoria a un requisito de seguridad financiera, permitiendo el uso de hacienda como colateral auditable para bancos e inversores.
-
-**Actualización 02/06/2026**: La aparición de la "Huella de la carne" (emisiones netas restando secuestro de pasto) y el lanzamiento de un nuevo sello de "Carne Sustentable Argentina" (Bichos de Campo) elevan la Res. 841/2025 a una herramienta de competitividad global. La trazabilidad individual es ahora el soporte técnico para certificar balances de carbono positivos, permitiendo a los exportadores argentinos diferenciarse de competidores con sistemas menos pastoriles.
-
-**Actualización 01/06/2026**: La presidente de SENASA, Pilu Giraudo, rechazó formalmente las quejas de los criadores por el costo de las caravanas electrónicas obligatorias. SENASA ratifica que el beneficio para los frigoríficos exportadores (cumplimiento de mercados premium) justifica la inversión del productor. Este "rechazo político" consolida un clima de fricción donde el SaaS debe actuar como facilitador de valor para el criador, no solo como carga burocrática.
-
-**Actualización 31/05/2026**: Se ratifica en el Boletín Oficial (del 30/05) la exigencia del "binomio" de identificación electrónica para el ciclo 2026. Se eliminan definitivamente las dudas o planteos de prórroga técnica por parte de asociaciones de criadores, confirmando la obligatoriedad del uso de hardware homologado.
+**Actualización 30/07/2026**: INASE dispone sistemas de monitoreo con IA para deslintadoras de algodón y control de semillas; este avance en fiscalización agrícola presiona al sector ganadero para acelerar la digitalización fluida del binomio RFID bajo Res. 841/2025 antes del despliegue masivo de 2026.
 
 **Actualización 30/05/2026**: Ratificación definitiva de las normas técnicas para la trazabilidad electrónica bovina en el Boletín Oficial (30/05/2026). Se consolida la obligatoriedad del "binomio" de identificación para el ciclo de implementación 2026, eliminando toda incertidumbre legal sobre prórrogas.
 
@@ -110,6 +46,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 2. **Dispositivo Electrónico (RFID):** Oreja derecha (caravana de baja frecuencia), bolo ruminal o transpondedor inyectable.
 
 ## Implicancias Estratégicas y de Negocio (Actualización Julio 2026)
+- **Fricción Regulatoria EUDR & Cuota Hilton (31/07/2026)**: Los 81 beneficiarios de la Cuota Hilton 2026/27 (con el Top 5 del Consorcio ABC agrupando el 67% del cupo) requieren imperativamente auditar el origen geográfico y de libre deforestación del rodeo acoplado a la caravana RFID obligatoria.
 - **Fricción Regulatoria EUDR (27/07/2026)**: El desmonte de 40,000 hectáreas en el norte del país denunciado por Greenpeace incrementa el riesgo de exclusión de exportadores ganaderos. La trazabilidad oficial de la Res. 841/2025 debe integrarse con polígonos de geolocalización satelital para mitigar la fricción con la UE.
 - **Fricción Regulatoria de Residuos (Res. 655/2026)**: El nuevo Plan Nacional de Garrapata obliga a realizar bioensayos a los establecimientos que registren parásitos. El enduring de los controles de la UE por residuos químicos (ej: carencia de fipronil) requiere que los frigoríficos cuenten con una base de datos robusta vinculada al ID electrónico de cada novillo.
 - **Fricción Operativa y Soluciones RFID (Palermo 2026)**: Se reducen las demoras en la recepción de plantas mediante sistemas integrados como el de UBIAR, que asocian directamente el lector LFRFID de caravanas al sistema ERP, mitigando el colapso de SIGSA.
@@ -120,7 +57,7 @@ La Resolución 841/2025 establece la norma técnica para la identificación indi
 - **Fricción por Vacío Institucional (Soporte Técnico)**: Tras el vaciamiento de soporte técnico del INTA/SENASA y la desregulación detectada en Agroactiva, los proveedores de RFID y software se posicionan como los nuevos referentes técnicos directos ante el productor.
 - **Diferenciación Genética & Calidad**: Cabañas de élite (ej: [[Asociacion Argentina de Brangus]], [[Asociacion Braford Argentina]], [[Asociacion Hereford Argentina]] y [[Cabana Buen Retiro]]) utilizan el ID electrónico para asociar indicadores de calidad de carne, facilitando remates y el uso del [[Indice de Calidad de Carne]] (IQ-Carne) para capturar el sobreprecio en mercados de exportación (pago por marmoreo e IA en carcasas).
 - **Oportunidades SaaS Directas**:
-  - SaaS de auditoría y reportes automatizados "EU-Ready" integrados con RFID para frigoríficos exportadores (ej: [[Consorcio de Frigorificos ABC]], [[Frigorifico Logros]]) para cumplir con EUDR.
+  - SaaS de auditoría y reportes automatizados "EU-Ready" integrados con RFID para frigoríficos exportadores (ej: [[Consorcio de Frigorificos ABC]], [[Frigorifico Logros]]) para cumplir con EUDR y Cuota Hilton.
   - Plataformas de gestión de colaterales y warrants basadas en inmovilización electrónica.
   - Módulos de gestión offline con sincronización asincrónica para feedlots y campos de cría.
   - **SaaS Multiespecie:** Adaptación de plataformas de trazabilidad para caprinos y ovinos destinados a exportación (ver [[Carne de Cabra Chaco Exportacion]]).

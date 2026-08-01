@@ -1,10 +1,10 @@
 ---
-type: entidad
+tipo: entidad
 category: laboratorio
 tags: [calidad, exportacion, carne, rosario, trazabilidad]
-sources: [Infocampo - 2026-04-24, daily_summary_2026-04-24]
-confidence: high
-last_update: 2026-04-24
+fuentes: [Infocampo - 2026-04-24, daily_summary_2026-04-24]
+confianza: alta
+ultima_actualizacion: 2026-04-24
 ---
 
 # BCR Labs (Bolsa de Comercio de Rosario)

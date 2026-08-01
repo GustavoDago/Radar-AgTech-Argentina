@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [cooperativa, cordoba, infraestructura, logistica]
-sources: [Agroverdad, daily_summary_2026-06-07]
-confidence: high
-last_update: 2026-06-07
+fuentes: [Agroverdad, daily_summary_2026-06-07]
+confianza: alta
+ultima_actualizacion: 2026-06-07
 ---
 
 # Cooperativa Agrícola Ganadera de Elena

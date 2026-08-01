@@ -1,5 +1,5 @@
 ---
-type: entity
+tipo: entidad
 category: actor_mercado
 sector: financiamiento_agropecuario
 escala: [grande, institucional]

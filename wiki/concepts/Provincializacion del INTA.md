@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [inta, institucional, crisis, argentina, corrientes]
-sources: [bichosdecampo.com]
-confidence: medium
-last_update: 2026-06-06
+fuentes: [bichosdecampo.com]
+confianza: media
+ultima_actualizacion: 2026-06-06
 ---
 
 # Provincialización del INTA

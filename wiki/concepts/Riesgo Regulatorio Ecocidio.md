@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/compliance, argentina/senado, riesgo/regulatorio, exportacion/auditoria]
-sources: [Bichos de Campo - 24/06/2026, Infocampo - 24/06/2026, daily_summary_2026-06-24]
-confidence: high
-last_update: 2026-06-24
+fuentes: [Bichos de Campo - 24/06/2026, Infocampo - 24/06/2026, daily_summary_2026-06-24]
+confianza: alta
+ultima_actualizacion: 2026-06-24
 ---
 
 # Riesgo Regulatorio: Proyecto de Ley de Ecocidio

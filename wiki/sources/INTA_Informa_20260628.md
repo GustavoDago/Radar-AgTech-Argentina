@@ -1,7 +1,7 @@
 ---
-type: resumen
+tipo: resumen
 source: INTA Informa
-date: 2026-06-28
+fecha: 2026-06-28
 tags: [inta, investigacion, herford, algodon, irrigacion]
 ---
 

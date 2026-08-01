@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [logistica, alfalfa, san_luis, exportacion]
-sources: [daily_summary_2026-05-30, Todo Agro - 2026-06-01]
-confidence: high
-last_update: 2026-06-01
+fuentes: [daily_summary_2026-05-30, Todo Agro - 2026-06-01]
+confianza: alta
+ultima_actualizacion: 2026-06-01
 ---
 
 # AgroZAL (Zona de Actividades Logísticas - San Luis)

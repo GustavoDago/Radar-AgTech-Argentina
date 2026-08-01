@@ -1,5 +1,5 @@
 ---
-type: concepto
+tipo: concepto
 tags: [cooperativa, agtech, adopcion_tecnologica, economia_escala, asesoramiento]
 ---
 # Cooperativismo como Agregador AgTech

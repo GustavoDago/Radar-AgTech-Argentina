@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [arca, afip, sisa, cpe, logistica, carta_de_porte, regulacion, compliance]
-sources: [aduananews.com, llbsolutions.com]
-confidence: high
-last_update: 2026-05-20
+fuentes: [aduananews.com, llbsolutions.com]
+confianza: alta
+ultima_actualizacion: 2026-05-20
 ---
 
 # Resolución General Conjunta ARCA 5821/2026 (Control Logístico Granario)

@@ -1,8 +1,8 @@
 ---
-type: concepto
+tipo: concepto
 tags: [geopolitica, mercado_exportacion, agtech/compliance, barreras_sanitarias]
-confidence: high
-last_update: 2026-06-15
+confianza: alta
+ultima_actualizacion: 2026-06-15
 ---
 
 # Veto Europeo a Carnes Brasileñas

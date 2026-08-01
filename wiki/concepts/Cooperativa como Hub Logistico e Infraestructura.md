@@ -1,5 +1,5 @@
 ---
-type: concepto
+tipo: concepto
 tags: [cooperativa, logistica, acopio, fletes, infraestructura, sisa]
 ---
 # Cooperativa como Hub Logístico e Infraestructura

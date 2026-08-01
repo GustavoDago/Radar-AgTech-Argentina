@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [industria/lactea, inversiones, mexico, argentina]
-sources: [Bichos de Campo, 2026-05-29]
-confidence: high
-last_update: 2026-05-29
+fuentes: [Bichos de Campo, 2026-05-29]
+confianza: alta
+ultima_actualizacion: 2026-05-29
 ---
 
 # Lácteos MIYM

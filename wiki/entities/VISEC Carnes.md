@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [compliance, eudr, exportacion, trazabilidad, sustentabilidad]
-sources: [Valor Carne - 2026-05-10, Agroverdad - 2026-05-10]
-confidence: high
-last_update: 2026-05-10
+fuentes: [Valor Carne - 2026-05-10, Agroverdad - 2026-05-10]
+confianza: alta
+ultima_actualizacion: 2026-05-10
 ---
 
 # VISEC Carnes

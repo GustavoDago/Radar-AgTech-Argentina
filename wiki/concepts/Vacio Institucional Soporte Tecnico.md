@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [senasa, inta, institucional, brecha_tecnica, agtech/trigger]
-sources: [Bichos de Campo - 2026-06-05]
-confidence: high
-last_update: 2026-06-05
+fuentes: [Bichos de Campo - 2026-06-05]
+confianza: alta
+ultima_actualizacion: 2026-06-05
 ---
 
 # Vacío Institucional en el Soporte Técnico Agropecuario

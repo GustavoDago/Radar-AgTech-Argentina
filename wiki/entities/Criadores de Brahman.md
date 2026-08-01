@@ -1,9 +1,9 @@
 ---
-type: entity
+tipo: entidad
 role: Asociación de Criadores
 breed: Brahman
 focus: Expansión exportadora, resistencia térmica
-last_update: 2026-07-04
+ultima_actualizacion: 2026-07-04
 ---
 
 # Criadores de Brahman (Eduardo Griffa)

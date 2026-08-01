@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [ganaderia/especies-alternativas, cordoba, trazabilidad, mapa-productivo]
-sources: [Agroverdad - 2026-05-09]
-confidence: high
-last_update: 2026-05-09
+fuentes: [Agroverdad - 2026-05-09]
+confianza: alta
+ultima_actualizacion: 2026-05-09
 ---
 
 # Mapa Bufalino de Córdoba

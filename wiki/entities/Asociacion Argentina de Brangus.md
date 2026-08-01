@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [agtech/targets, cabañas, genetica, rfid, brangus]
-sources: [valorcarne.com.ar, todoagro.com.ar]
-confidence: high
-last_update: 2026-05-26
+fuentes: [valorcarne.com.ar, todoagro.com.ar]
+confianza: alta
+ultima_actualizacion: 2026-05-26
 ---
 
 # Asociación Argentina de Brangus

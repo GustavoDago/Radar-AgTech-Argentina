@@ -2,7 +2,7 @@
 tipo: entidad
 tags: [tambo, lacteo, santa_fe, friccion_financiera, crisis]
 fuentes: [Bichos de Campo - 2026-04-17]
-confianza: high
+confianza: alta
 ultima_actualizacion: 2026-04-17
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: pre-mortem
+tipo: pre-mortem
 opportunity: [[Agro_Liquidity_Tokenization]]
 last_critique: 2026-05-25
 verdict: REQUIERE REDISEÑO FUNDAMENTAL

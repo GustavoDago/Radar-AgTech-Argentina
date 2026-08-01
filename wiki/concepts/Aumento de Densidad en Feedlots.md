@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [ganaderia, feedlot, expansion, eficiencia, agtech]
-sources: [Valor Carne - 2026-05-10]
-confidence: high
-last_update: 2026-05-10
+fuentes: [Valor Carne - 2026-05-10]
+confianza: alta
+ultima_actualizacion: 2026-05-10
 ---
 
 # Aumento de Densidad en Feedlots

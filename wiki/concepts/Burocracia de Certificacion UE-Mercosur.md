@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/compliance, argentina/exportacion, mercosur/ue, comercial/triggers]
-sources: [daily_summary_2026-06-25, Infocampo - 2026-06-25]
-confidence: high
-last_update: 2026-06-25
+fuentes: [daily_summary_2026-06-25, Infocampo - 2026-06-25]
+confianza: alta
+ultima_actualizacion: 2026-06-25
 ---
 
 # Burocracia de Certificación UE-Mercosur

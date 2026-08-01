@@ -1,8 +1,8 @@
 ---
-type: oportunidad_especifica
+tipo: oportunidad_especifica
 target: Frigorifico Gorina
 priority: ultra-high
-date: 2026-04-19
+fecha: 2026-04-19
 ---
 
 # Análisis de Oportunidad: Gorina vs. Aftosa China

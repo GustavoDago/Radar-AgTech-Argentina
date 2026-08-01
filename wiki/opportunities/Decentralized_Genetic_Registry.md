@@ -1,9 +1,9 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: [Java/Quarkus, Hyperledger Fabric or PostgreSQL with Audit Logs, GraphQL]
 target: [Asociaciones de Criadores | Angus | Braford | Brangus | Hereford]
-last_update: 2026-04-26
+ultima_actualizacion: 2026-04-26
 ---
 # Decentralized Genetic Registry (Gobernanza Genética Inmutable)
 

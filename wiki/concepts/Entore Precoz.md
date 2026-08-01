@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [ganaderia, eficiencia, reproduccion, genetica, nutricion]
-sources: [Valor Carne, daily_summary_2026-06-28]
-confidence: high
-last_update: 2026-06-28
+fuentes: [Valor Carne, daily_summary_2026-06-28]
+confianza: alta
+ultima_actualizacion: 2026-06-28
 ---
 
 # Entore Precoz (13 meses)

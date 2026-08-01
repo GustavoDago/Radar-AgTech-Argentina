@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [agtech/friction, logistica, cordoba]
-sources: [bichosdecampo.com]
-confidence: high
-last_update: 2026-05-22
+fuentes: [bichosdecampo.com]
+confianza: alta
+ultima_actualizacion: 2026-05-22
 ---
 
 # Ruta 10 Sur de Córdoba

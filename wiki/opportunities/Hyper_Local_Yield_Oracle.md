@@ -1,9 +1,9 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: [IoT, Java/Quarkus, Parametric Smart Contracts]
 target: [Seguradoras (Sancor Seguros, La Segunda) | Exportadores de Cereales | Pools de Siembra]
-last_update: 2026-04-29
+ultima_actualizacion: 2026-04-29
 last_critique: 2026-04-29
 ---
 

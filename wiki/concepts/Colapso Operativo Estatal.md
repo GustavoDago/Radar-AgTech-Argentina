@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [estado, crisis, agtech/oportunidad, soporte]
-sources: [Bichos de Campo - 2026-05-15, internal_intelligence]
-confidence: high
-last_update: 2026-05-15
+fuentes: [Bichos de Campo - 2026-05-15, internal_intelligence]
+confianza: alta
+ultima_actualizacion: 2026-05-15
 ---
 
 # Colapso de Soporte Técnico Estatal (INTA/SENASA)

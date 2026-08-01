@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [efluentes, purines, tambo, feedlot, ada, cordoba, santa_fe, buenos_aires, compliance_ambiental, biofertilizantes]
-sources: [crea.org.ar, gba.gob.ar, cba.gov.ar, santafe.gov.ar]
-confidence: high
-last_update: 2026-05-20
+fuentes: [crea.org.ar, gba.gob.ar, cba.gov.ar, santafe.gov.ar]
+confianza: alta
+ultima_actualizacion: 2026-05-20
 ---
 
 # Uso Agronómico de Efluentes Pecuarios (Regulación Provincial)

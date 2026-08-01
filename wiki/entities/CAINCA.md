@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [frigorifico, consumo, buenos_aires, crisis]
-sources: [Bichos de Campo - 2026-05-13]
-confidence: high
-last_update: 2026-05-13
+fuentes: [Bichos de Campo - 2026-05-13]
+confianza: alta
+ultima_actualizacion: 2026-05-13
 ---
 
 # CAINCA (Cámara de la Industria Cárnica de la Provincia de Buenos Aires)

@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [tambo, santa_fe, expansion, cooperacion]
-sources: [Bichos de Campo]
-confidence: high
-last_update: 2026-06-23
+fuentes: [Bichos de Campo]
+confianza: alta
+ultima_actualizacion: 2026-06-23
 ---
 
 # Pro Tambo (Santa Fe)

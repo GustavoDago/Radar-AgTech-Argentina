@@ -2,7 +2,7 @@
 tipo: concepto
 tags: [senasa, sigsa, falla_tecnica, riesgo_operativo]
 fuentes: [bichosdecampo.com]
-confianza: high
+confianza: alta
 ultima_actualizacion: 2026-04-18
 ---
 

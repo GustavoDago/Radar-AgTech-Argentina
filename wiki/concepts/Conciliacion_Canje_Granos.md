@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [fintech, barter, canje_de_granos, lpg, contratos, retenciones, arca, liquidacion, bcr_labs]
-sources: [bcr.com.ar, afip.gob.ar]
-confidence: high
-last_update: 2026-05-20
+fuentes: [bcr.com.ar, afip.gob.ar]
+confianza: alta
+ultima_actualizacion: 2026-05-20
 ---
 
 # Conciliación y Liquidación del Canje de Granos (Barter)

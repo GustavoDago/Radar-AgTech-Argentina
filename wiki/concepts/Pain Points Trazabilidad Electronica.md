@@ -2,7 +2,7 @@
 tipo: concepto
 tags: [agtech/rfid, operativo/pain_points, infraestructura/conectividad, argentina/senasa]
 fuentes: [field_intelligence, market_feedback]
-confianza: high
+confianza: alta
 ultima_actualizacion: 2026-04-05
 ---
 

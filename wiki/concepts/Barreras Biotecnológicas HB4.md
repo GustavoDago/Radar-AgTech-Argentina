@@ -1,8 +1,8 @@
 ---
-type: concepto
+tipo: concepto
 priority: high
 tags: [EUDR, cumplimiento, exportacion, biotecnologia]
-last_update: 2026-04-26
+ultima_actualizacion: 2026-04-26
 ---
 
 # Barreras Biotecnológicas de Exportación (HB4)

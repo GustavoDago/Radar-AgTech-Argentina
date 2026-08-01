@@ -2,7 +2,7 @@
 tipo: concepto
 tags: [logistica, exportacion, conflicto, riesgo]
 fuentes: [daily_summary_2026-04-19]
-confianza: high
+confianza: alta
 ultima_actualizacion: 2026-04-19
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: [Java/Quarkus]
 target: [Acopiadores | Distribuidores de Insumos | Mega-Productores Granarios]

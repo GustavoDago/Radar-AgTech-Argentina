@@ -1,7 +1,7 @@
 ---
-type: concept
+tipo: concepto
 tags: [agtech/efficiency, cattle/management, reproduction]
-last_update: 2026-07-04
+ultima_actualizacion: 2026-07-04
 ---
 
 # Entore Precoz (13 meses)

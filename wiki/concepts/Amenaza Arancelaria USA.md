@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [mercados/exportacion, argentina/usa, agtech/oportunidad, aranceles]
-sources: [Valor Carne - 2026-05-16, daily_summary_2026-05-16]
-confidence: high
-last_update: 2026-05-16
+fuentes: [Valor Carne - 2026-05-16, daily_summary_2026-05-16]
+confianza: alta
+ultima_actualizacion: 2026-05-16
 ---
 
 # Amenaza Arancelaria USA (Carne Argentina)

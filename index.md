@@ -1,6 +1,8 @@
 # Radar AgTech Argentina - Vault Index
 
 ## 📡 Inteligencia Diaria (Jules Intel)
+- [[2026-07-31]]
+- [[2026-07-30]]
 - [[2026-07-29]]
 - [[2026-07-28]]
 - [[2026-07-27]]
