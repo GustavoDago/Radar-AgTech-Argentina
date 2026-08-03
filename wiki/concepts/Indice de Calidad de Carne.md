@@ -1,8 +1,8 @@
 ---
-type: concepto
+tipo: concepto
 tags: [ganaderia, calidad_carne, rfid, saas, innovacion]
-sources: [Valor Carne, INTA]
-last_update: 2026-04-14
+fuentes: [Valor Carne, INTA]
+ultima_actualizacion: 2026-04-14
 ---
 
 # Índice de Calidad de Carne (IQ-Carne)

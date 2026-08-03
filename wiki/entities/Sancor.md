@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 category: lactea
 priority: high
 tags: [lecheria, quiebra, reestructuracion, santa_fe]
-last_update: 2026-04-27
+ultima_actualizacion: 2026-04-27
 ---
 
 # Sancor (Cooperativas Unidas Limitada)
