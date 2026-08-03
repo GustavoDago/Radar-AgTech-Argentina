@@ -1,9 +1,9 @@
 ---
-type: concepto
+tipo: concepto
 tags: [agtech/pain_points, sanidad, regulacion, argentina/senasa]
-sources: [bichosdecampo.com]
-confidence: medium
-last_update: 2026-04-15
+fuentes: [bichosdecampo.com]
+confianza: media
+ultima_actualizacion: 2026-04-15
 ---
 
 # Incertidumbre Regulatoria Sanitaria (Aftosa)

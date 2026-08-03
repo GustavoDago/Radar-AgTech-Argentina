@@ -1,9 +1,9 @@
 ---
-type: oportunidad
+tipo: oportunidad
 high_leverage: yes
 tech_stack: [Java/Quarkus, Postgres/PostGIS, Apache Kafka]
 target: [Consorcio de Frigorificos ABC | Frigorifico Logros | Exportadores Premium]
-last_update: 2026-04-10
+ultima_actualizacion: 2026-04-10
 last_critique: 2026-04-10
 ---
 
