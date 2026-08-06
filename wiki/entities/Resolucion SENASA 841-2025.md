@@ -1,9 +1,9 @@
 ---
-type: entidad
+tipo: entidad
 tags: [agtech/compliance, agtech/rfid, argentina/senasa, normativa/trazabilidad]
-sources: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19]
-confidence: high
-last_update: 2026-04-27
+fuentes: [https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-841-2025-419696, daily_summary_2026-04-08, Bichos de Campo - 2026-04-18, daily_summary_2026-04-19, INTA Informa - 2026-08-06, Valor Carne - 2026-08-06]
+confianza: alta
+ultima_actualizacion: 2026-08-06
 ---
 
 # Resolución SENASA 841/2025: Trazabilidad Electrónica Bovina
@@ -11,11 +11,11 @@ last_update: 2026-04-27
 ## Resumen Ejecutivo
 La Resolución 841/2025 establece la norma técnica para la identificación individual electrónica obligatoria en Argentina. **Confirmada su vigencia y plena aplicación técnica vía Boletín Oficial (Abril 2026)**, ratificando que a partir del **1 de enero de 2026**, todos los terneros/as deben ser identificados mediante un "binomio" antes del destete o primer movimiento. La reaparición de esta norma en el Boletín Oficial el **11 de abril de 2026**, específicamente vinculada a los anexos de dispositivos homologados, refuerza la inminencia de los plazos técnicos para la implementación de dispositivos RFID.
 
-<<<<<<< agtech-intelligence-update-20260428-3525105844405321169
+**Actualización 06/08/2026**: La trazabilidad electrónica individual pasa de ser percibida como una imposición regulatoria burocrática a un acelerador directo del retorno de inversión (ROI) ganadero. Investigaciones de INTA y datos comerciales confirman que la identificación por RFID vinculada a balanzas de pesaje al paso (walk-over weighing) reduce un 35% el consumo de alimento por kilo ganado. Asimismo, ensayos del 06/08/2026 confirman que novillos pesados (+600 kg) rinden mayor marmoleado y sobreprecios de gancho bajo manejo controlado por ID electrónica, haciendo del binomio RFID un activo de rentabilidad directa para productores vinculados a la [[Asociacion Hereford Argentina]].
+
 **Actualización 28/04/2026**: SENASA actualizó los criterios de etiquetado de fitosanitarios incorporando el Sistema Globalmente Armonizado (SGA). Esta convergencia regulatoria refuerza la necesidad de integrar datos de insumos en la ficha individual del animal (trazabilidad de residuos). Asimismo, la iniciativa de "Carne de Sistemas Pastoriles" busca usar la trazabilidad de la Res. 841/2025 para comunicar identidad y valor nutricional.
-=======
+
 **Actualización 27/04/2026**: El interés por la carne de sistemas pastoriles y la necesidad de comunicar "identidad productiva" (INTA/TodoAgro) escala la Res. 841/2025 de una traba burocrática a un activo de marketing. La trazabilidad granular es ahora el vehículo para capturar primas de precio por diferenciación de origen.
->>>>>>> agtech-obsidian-vault-automation-6663369223093287846
 
 **Actualización 19/04/2026**: Ratificación técnica en el Boletín Oficial vinculada a la implementación de la Res. 841/2025. La presión internacional aumenta por la cepa inédita de Aftosa en China, lo que refuerza la obligatoriedad de sistemas de trazabilidad auditables antes del deadline de 2026.
 
