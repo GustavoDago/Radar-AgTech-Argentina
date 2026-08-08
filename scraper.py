@@ -2,7 +2,11 @@ import requests
 import feedparser
 import os
 import json
+import urllib3
 from datetime import datetime
+
+# Desactivar advertencias de verificación SSL
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Configuración
 SOURCES = {
@@ -40,12 +44,16 @@ KEYWORDS = [
 EXCLUSIONS = [
     "crimen", "policial", "robo de cables", "detenido", "detuvieron",
     "fútbol", "deportes", "espectáculos", "farándula", "cine",
-    "pronóstico lluvia", "pronóstico del tiempo", "clima mañana", "lluvia", "precipitaciones",
+    "pronóstico lluvia", "pronóstico del tiempo", "clima mañana", "lluvia", "precipitaciones", "clima", "weather",
     "receta", "cocina", "chef", "ingredientes",
-    "cotización dólar", "dólar blue", "feria americana",
+    "cotización dólar", "dólar blue", "feria americana", "dólar", "dolares", "currency", "moneda",
     "ajo", "manzana", "porcin", "cerdo", "acuicultura", "trucha", "avícola", "pollo",
-    "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel", "vitivinícola",
-    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto"
+    "vino", "césped", "camino rural", "caminos rurales", "maquin", "biodiésel", "vitivinícola", "viticultura",
+    "retenciones", "derechos de exportación", "política partidaria", "elecciones", "voto",
+    "pitahaya", "pecán", "pecan", "olivo", "mandioca", "banana", "citrus", "cítrico", "arroz", "papa", "cebolla", "tomate",
+    "horticultura", "hidroponia", "vehículo de pasajeros", "auto", "camioneta", "caña de azúcar", "caña", "camarón", "camarones",
+    "pescado", "mostaza", "yogur", "maleza", "malezas", "semilla", "semillas", "soja", "soy", "tambo chico", "tambos chicos",
+    "pequeño productor", "pequeños productores"
 ]
 
 def clean_text(text):
@@ -59,20 +67,36 @@ def is_relevant(text):
 
 def scrape_feeds():
     results = []
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
     for name, url in SOURCES.items():
         print(f"Scraping {name}...")
-        feed = feedparser.parse(url)
-        for entry in feed.entries:
-            content = entry.get("summary", "") + " " + entry.get("description", "")
-            full_text = entry.title + " " + content
-            if is_relevant(full_text):
-                results.append({
-                    "source": name,
-                    "title": entry.title,
-                    "link": entry.link,
-                    "date": entry.get("published", datetime.now().isoformat()),
-                    "content": content
-                })
+        try:
+            # Fetch with custom headers, 15s timeout, and bypass SSL verification
+            response = requests.get(url, headers=headers, timeout=15, verify=False)
+            if response.status_code != 200:
+                print(f"Error scraping {name}: HTTP {response.status_code}")
+                continue
+
+            feed = feedparser.parse(response.content)
+            # Limit parsed entries to top 50 entries per feed
+            entries = feed.entries[:50]
+
+            for entry in entries:
+                content = entry.get("summary", "") + " " + entry.get("description", "")
+                full_text = entry.title + " " + content
+                if is_relevant(full_text):
+                    results.append({
+                        "source": name,
+                        "title": entry.title,
+                        "link": entry.link,
+                        "date": entry.get("published", datetime.now().isoformat()),
+                        "content": content
+                    })
+        except Exception as e:
+            print(f"Exception while scraping {name}: {e}")
+
     return results
 
 def scrape_boletin_oficial():
@@ -82,15 +106,11 @@ def scrape_boletin_oficial():
     vía parámetros de URL para filtrar por organismos clave.
     """
     print("Scraping Boletín Oficial (SENASA/SAGyP)...")
-    # URL de búsqueda para el organismo SENASA (ID 125 aprox) o búsqueda por texto
     search_url = "https://www.boletinoficial.gob.ar/seccion/primera"
 
     try:
         response = requests.get(search_url, timeout=10)
         if response.status_code == 200:
-            # En una implementación real con Selenium o Playwright se extraería más,
-            # aquí mantenemos la referencia a la Res. 841/2025 como hito crítico
-            # ya validado en la investigación inicial.
             return [
                 {
                     "source": "Boletín Oficial",
